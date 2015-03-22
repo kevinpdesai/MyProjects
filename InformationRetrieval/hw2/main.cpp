@@ -27,8 +27,16 @@
 
 using namespace std;
 
-// Variable used to calculate the total number of lemmas (Words).
-long nWords = 0;
+// Uncompressed version index files.
+ofstream version1_uncomp("Index_Version1.uncompress");
+ofstream version2_uncomp("Index_Version2.uncompress");
+
+// Compressed Version index files.
+//ofstream version1_comp("Index_Version1.compress");
+//ofstream version2_comp("Index_Version2.compress");
+
+// Variable used to calculate the total number of lemmas/stems (Words).
+long nFileWords = 0;
 
 // Variables used to calculate the distinct count of lemmas and stems.
 int distinctCountLemmas = 0, distinctCountStems = 0;
@@ -47,15 +55,27 @@ vector<string> files;
 // Vector to store the stop words.
 set<string> stopWords;
 
-// Map to store the TOKENS
-map<string, int> lemmas;
+// Store info for each file - max_tf and doc length.
+map<int, pair<int,int> > docInfoLemmas;
+int maxDocLemma=1;
+
+// Store info for each file - max_tf and doc length.
+map<int, pair<int,int> > docInfoStems;
+int maxDocStem=1;
+
+// Map to store the LEMMAS
+map<string, int> lemmasDict;
+map<string, vector<pair<int, int> > > lemmas;
 
 // Map to store the STEMS
-map<string, int> stems;
+map<string, int> stemsDict;
+map<string, vector<pair<int, int> > > stems;
 
 // Vector to keep the sorted dictionary of lemmas and stems.
-vector<pair<string,int> > sortedLemmas;
-vector<pair<string,int> > sortedStems;
+vector<pair<string,vector<pair<int, int> > > > sortedLemmasFreq;
+vector<pair<string,vector<pair<int, int> > > > sortedStemsFreq;
+vector<pair<string,vector<pair<int, int> > > > sortedLemmasAlpha;
+vector<pair<string,vector<pair<int, int> > > > sortedStemsAlpha;
 
 // Sets used to store lemmas and stems in each file and hence used to assist in calculating the distinct lemmas and stems in each file.
 set<string> fileLemmas;
@@ -65,7 +85,7 @@ set<string> fileStems;
 RdrLemmatizer *lemmatize = new RdrLemmatizer();
 
 // Function declaration.
-void tokenize(string &);
+void tokenize(string &, int);
 
 // Recursively remove the special characters at the right end from the word to be tokenized. E.g. "hello)/(" becomes "hello".
 void rightStrip(string &word) {
@@ -123,7 +143,7 @@ string acronymCheck(string word) {
 }
 
 // Split the word if it has hyphen "-". E.g. "middle-class" becomes two words "middle" & "class".
-bool removeHyphen(string &word) {
+bool removeHyphen(string &word, int doc_id) {
 	string splitWord;
 	bool hasHyphen = false;
 	int i=0;
@@ -131,19 +151,19 @@ bool removeHyphen(string &word) {
 		if(word[i]=='-') {
 			hasHyphen = true;
 			splitWord = word.substr(0,i);
-			tokenize(splitWord);
+			tokenize(splitWord, doc_id);
 			break;
 		}
 	}
 	if(hasHyphen) {
 		splitWord = word.substr(i+1);
-		tokenize(splitWord);
+		tokenize(splitWord, doc_id);
 	}
 	return hasHyphen;
 }
 
 // Add lemma of token in the lemma dictionary.
-void addLemma(string word) {
+void addLemma(string word, int doc_id) {
 	// Lemmatize the word.
 	char *c = lemmatize->Lemmatize(word.c_str());
 	string lemma(c);
@@ -151,15 +171,21 @@ void addLemma(string word) {
 	if(stopWords.count(lemma))
 		return;
 	// Add in dictionary.
-	if(lemmas[lemma] == 0)
-		lemmas[lemma] = 1;
-	else
-		lemmas[lemma]++;
-	fileLemmas.insert(lemma);
+	if(lemmas[lemma].size()==0)
+		lemmas[lemma].push_back(pair<int,int>(doc_id,1));
+	else {
+		if((lemmas[lemma][lemmas[lemma].size()-1]).first == doc_id) {
+			(lemmas[lemma][lemmas[lemma].size()-1]).second++;
+			if(maxDocLemma < (lemmas[lemma][lemmas[lemma].size()-1]).second)
+				maxDocLemma = (lemmas[lemma][lemmas[lemma].size()-1]).second;
+		}
+		else
+			lemmas[lemma].push_back(pair<int,int>(doc_id,1));
+	}
 }
 
 // Add stem in the stem dictionary.
-void addStem(string word) {
+void addStem(string word, int doc_id) {
 	// Convert word from string to char*
 	char* c = (char*)word.c_str();
 	// Stem the word.
@@ -171,31 +197,43 @@ void addStem(string word) {
 	if(stopWords.count(stem))
 		return;
 	// Add in dictionary.
-	if(stems[stem] == 0)
-		stems[stem] = 1;
-	else
-		stems[stem]++;
-	fileStems.insert(stem);
+	if(stems[stem].size()==0)
+		stems[stem].push_back(pair<int,int>(doc_id,1));
+	else {
+		if((stems[stem][stems[stem].size()-1]).first == doc_id) {
+			(stems[stem][stems[stem].size()-1]).second++;
+			if(maxDocStem < (stems[stem][stems[stem].size()-1]).second)
+				maxDocStem = (stems[stem][stems[stem].size()-1]).second;
+		}
+		else
+			stems[stem].push_back(pair<int,int>(doc_id,1));
+	}
+	
 }
 
 // Return the number of words that have occurred only once in the dictionary.
-int oneOccurence(map<string,int> m) {
+int oneOccurence(map<string,vector<pair<int,int> > > m) {
 	int oneOccurence = 0;
-	for (map<string, int>::iterator it = m.begin(); it != m.end(); it++) {
-		if(it->second == 1)
+	for (map<string, vector<pair<int,int> > >::iterator it = m.begin(); it != m.end(); it++)
+		if(it->second.size() == 1 && (it->second[0]).second == 1)
 			oneOccurence++;
-	}
 	return oneOccurence;
 }
 
 // Prints the first 'n' words from the dictionary.
-void getTop(vector<pair<string,int> > m,int n) {
-	for(int i=0; i<n; i++)
-		cout << " " << m[i].first << "\t: " << m[i].second << endl;
+void getTop(vector<pair<string,vector<pair<int, int> > > > m,int n) {
+	for(int i=0; i<n; i++) {
+		int t=0;
+		cout << " " << m[i].first << "\t: " << m[i].second.size() << "\t: ";
+		for(int j=0; j<m[i].second.size(); j++)
+			t+=m[i].second.at(j).second;
+			//cout << m[i].second.at(j).first << "-" << m[i].second.at(j).second << " , ";
+		cout << t << endl;
+	}
 }
 
 // Tokenize the word.
-void tokenize(string &word) {
+void tokenize(string &word, int doc_id) {
 	// Skip empty words
 	if (word.length() == 0)
 		return;
@@ -222,23 +260,29 @@ void tokenize(string &word) {
 	if (word.length() == 0)
 		return;
 	// Check if word contains hyphen. If it does than return since tokenize is called again internally.
-	if(removeHyphen(word))
+	if(removeHyphen(word, doc_id))
 		return;
+
+	// Return if the word contains non-alphabetic character.
+	if(word.find_first_not_of("abcdefghijklmnopqrstuvwxyz") != std::string::npos)
+		return;
+
+	// Increase the number of words in file.
+	nFileWords++;
 
 	// Check if token is part of stopwords.
 	if(stopWords.count(word))
 		return;
 
 	// Add lemma of token in the dictionary.
-	addLemma(word);
-	// Increase the total word count.
-	nWords++;
+	addLemma(word, doc_id);
+	
 	// Get and stem in dictionary from the token.
-	addStem(word);
+	addStem(word, doc_id);
 }
 
 // Parse the file.
-int parseFile(const char file[]) {
+int parseFile(const char file[], int doc_id) {
 	string word;
 	bool textField = false;
 	// Open file and check if it is opened correctly.
@@ -260,7 +304,7 @@ int parseFile(const char file[]) {
 			continue;
 		// If read word then tokenize it.
 		if(word.length()>0)
-			tokenize(word);
+			tokenize(word, doc_id);
 	}
 	// Close file read.
 	fin.close();
@@ -268,17 +312,31 @@ int parseFile(const char file[]) {
 }
 
 // Sort in decreasing order of value - second parameter in the pair.
-bool cmp(const pair<string, int>  &p1, const pair<string, int> &p2) {
-	return p1.second > p2.second;
+bool cmpFreq(const pair<string, vector<pair<int, int> > >  &p1, const pair<string, vector<pair<int, int> > > &p2) {
+	return p1.second.size() > p2.second.size();
+}
+
+// Sort in decreasing order of string - first parameter in the pair.
+bool cmpAlpha(const pair<string, vector<pair<int, int> > >  &p1, const pair<string, vector<pair<int, int> > > &p2) {
+	return p1.first < p2.first;
 }
 
 // Sort the vectors.
-void sortDictionaries() {
-	copy(lemmas.begin(), lemmas.end(), back_inserter(sortedLemmas));
-	sort(sortedLemmas.begin(), sortedLemmas.end(), cmp);
+void sortDictionaries(bool freq = false) {
+	if(freq) {
+		copy(lemmas.begin(), lemmas.end(), back_inserter(sortedLemmasFreq));
+		sort(sortedLemmasFreq.begin(), sortedLemmasFreq.end(), cmpFreq);
 
-	copy(stems.begin(), stems.end(), back_inserter(sortedStems));
-	sort(sortedStems.begin(), sortedStems.end(), cmp);
+		copy(stems.begin(), stems.end(), back_inserter(sortedStemsFreq));
+		sort(sortedStemsFreq.begin(), sortedStemsFreq.end(), cmpFreq);
+	}
+	else {
+		copy(lemmas.begin(), lemmas.end(), back_inserter(sortedLemmasAlpha));
+		sort(sortedLemmasAlpha.begin(), sortedLemmasAlpha.end(), cmpAlpha);
+
+		copy(stems.begin(), stems.end(), back_inserter(sortedStemsAlpha));
+		sort(sortedStemsAlpha.begin(), sortedStemsAlpha.end(), cmpAlpha);
+	}
 }
 
 #ifdef linux
@@ -344,27 +402,44 @@ void parseDirectory(char dirName[]) {
 	for(int i=0; i<files.size(); i++) {
 		file = fileName + files[i];
 		const char *fn = file.c_str();
-		fileLemmas.clear();
-		fileStems.clear();
-		parseFile(fn);
-		distinctCountLemmas+=fileLemmas.size();
-		distinctCountStems+=fileStems.size();
+		maxDocLemma = 1;
+		maxDocStem = 1;
+		nFileWords = 0;
+		parseFile(fn,i+1);
+		docInfoLemmas[i+1] = pair<int,int>(maxDocLemma,nFileWords);
+		docInfoStems[i+1] = pair<int,int>(maxDocStem,nFileWords);
 	}
+}
+
+void printWordInfo(string w, int version) {
+	if(version==1)
+		cout << "\n " << w << " : " << lemmas[lemmatize->Lemmatize(w.c_str())].size();
+	else
+		cout << "\n " << w << " : " << stems[porter_stem((char*)w.c_str())].size();
 }
 
 // Print the results required.
 void printResults() {
-	cout << " Number of lemmas = " << nWords;
 	cout << "\n Number of unique lemmas = " << lemmas.size();
-	cout << "\n Number of lemmas that occur only once = " << oneOccurence(lemmas);
-	cout << "\n Average number of distinct lemmas = " << distinctCountLemmas/(float)(files.size() - 2);
-	cout << "\n Top 30 lemmas : \n";
-	getTop(sortedLemmas,30);
+	printWordInfo("reynolds",1);
+	printWordInfo("nasa",1);
+	printWordInfo("prandtl",1);
+	printWordInfo("flow",1);
+	printWordInfo("pressure",1);
+	printWordInfo("boundary",1);
+	printWordInfo("shock",1);
+	//cout << "\n Top 30 lemmas : \n";
+	//getTop(sortedLemmas,30);
 	cout << "\n Number of distinct stems = " << stems.size();
-	cout << "\n Number of stems that occur only once = " << oneOccurence(stems);
-	cout << "\n Average number of distinct stems = " << distinctCountStems/(float)(files.size() - 2);
-	cout << "\n Top 30 stems : \n";
-	getTop(sortedStems,30);
+	//cout << "\n Top 30 stems : \n";
+	//getTop(sortedStems,30);	
+	printWordInfo("reynolds",2);
+	printWordInfo("nasa",2);
+	printWordInfo("prandtl",2);
+	printWordInfo("flow",2);
+	printWordInfo("pressure",2);
+	printWordInfo("boundary",2);
+	printWordInfo("shock",2);
 }
 
 // Read the stop-word list.
@@ -387,6 +462,26 @@ void readStopWords(char file[]) {
 	return;
 }
 
+// Write doc info.
+void writeDocInfo(ofstream& f, map<int, pair<int,int> > m) {
+	for(int i=1; i<=m.size(); i++)
+		f << i << " " << m[i].first << " " << m[i].second << endl;
+}
+
+// Write index.
+void writeIndex(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m, bool comp = false) {
+	if(comp) {
+		;
+	}
+	else {
+		for(int i=0; i<m.size(); i++) {
+			f << m[i].first << " " << m[i].second.size();
+			for(int j=0; j<m[i].second.size(); j++)
+				f << " " << m[i].second.at(j).first << " " << m[i].second.at(j).second;
+			f << endl;
+		}
+	}
+}
 
 // Main function.
 int main(int argc, char *argv[]) {
@@ -402,14 +497,6 @@ int main(int argc, char *argv[]) {
 #ifdef windows
 	DWORD dw1 = GetTickCount();
 #endif
-
-	// 	string ch="are";
-	// 	char* c=(char*)ch.c_str();
-	// 	char* s = porter_stem(c);
-	// 	if(!s)
-	// 		return 0;
-	// 	else
-	// 		string st(s);
 
 	// Load the binary file for English character set to get the lemmatizer to work.
 	lemmatize->LoadBinary("lem-m-en.bin");
@@ -428,6 +515,16 @@ int main(int argc, char *argv[]) {
 
 	// Print the results.
 	printResults();
+
+	writeDocInfo(version1_uncomp,docInfoLemmas);
+	writeDocInfo(version2_uncomp,docInfoStems);
+	writeIndex(version1_uncomp, sortedLemmasAlpha);
+	writeIndex(version2_uncomp,sortedStemsAlpha);
+
+
+	// Close files.
+	version1_uncomp.close();
+	version2_uncomp.close();
 
 	// End timer and calculate time.
 #ifdef linux
