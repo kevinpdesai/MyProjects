@@ -8,6 +8,7 @@
 #include <set>
 #include <algorithm>
 #include <vector>
+#include <cmath>
 #include "RdrLemmatizer.h"
 
 #define windows
@@ -639,56 +640,25 @@ string binary(long x)
 	return s;
 }
 
+// Get unary code of the int.
+string getUnaryCode(unsigned int x) {
+	string ret = "";
+	while(x>0) {
+		ret += "1";
+		x--;
+	}
+	ret += "0";
+	return ret;
+}
+
 // Get gamma code of the gap.
 string getGammaCode(unsigned int x) {
-	unsigned int t = x, c = 0, u = 0, b = 1, bit;
-	long ret = 0;
-	while (t) {
-		bit = (t & 1) ? 1 : 0;
-		b = b << 1;
-		b = b | bit;
-		t = t >> 1;
-		c++;
-	}
-	b = b >> 1;
-	c = 32 - c + 1;
-	u = ~u;
-	while (c--)
-		u = u >> 1;
-	u = u << 1;
-	ret = u;
-	while (b != 1) {
-		ret = ret << 1;
-		ret = (ret | ((b & 1) ? 1 : 0));
-		b = b >> 1;
-	}
-	return binary(ret);
+	return getUnaryCode(binary(x).length()-1) + binary(x).substr(1);
 }
 
 // Get delta code of the gap.
 string getDeltaCode(unsigned int x) {
-	unsigned int t = x, c = 0, u = 0, b = 1, bit;
-	long ret = 0;
-	while (t) {
-		bit = (t & 1) ? 1 : 0;
-		b = b << 1;
-		b = b | bit;
-		t = t >> 1;
-		c++;
-	}
-	b = b >> 1;
-	c = 32 - c + 1;
-	u = ~u;
-	while (c--)
-		u = u >> 1;
-	u = u << 1;
-	ret = u;
-	while (b != 1) {
-		ret = ret << 1;
-		ret = (ret | ((b & 1) ? 1 : 0));
-		b = b >> 1;
-	}
-	return binary(ret);
+	return getGammaCode(binary(x).length()) + binary(x).substr(1);
 }
 
 // Gamma code the dictionary.
@@ -698,7 +668,7 @@ void gammaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
 		// Write the file address pointer to every 8th word for k=8 block coding.
 		if(i%8==0)
 			f << blockCodingWordPointer[m[i].first] << " ";
-		// Wrtie the size of the posting list.
+		// Write the size of the posting list.
 		f << m[i].second.size() << " ";
 		// Write the frequency of the word in each document.
 		for(int j=0; j<m[i].second.size(); j++)
@@ -743,7 +713,7 @@ void deltaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
 	for(int i=0; i<m.size(); i++) {
 		// Write the file address pointer to every word for front coding.
 		f << frontCodingWordPointer[m[i].first] << " " << frontCodingWordCountPointer[m[i].first] << " ";
-		// Wrtie the size of the posting list.
+		// Write the size of the posting list.
 		f << m[i].second.size() << " ";
 		// Write the frequency of the word in each document.
 		for(int j=0; j<m[i].second.size(); j++)
@@ -817,7 +787,7 @@ void writeIndex(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m, i
 				f << lemmaUncompPointer[m[i].first];
 			else
 				f << stemUncompPointer[m[i].first];
-			// Wrtie the size of the posting list.
+			// Write the size of the posting list.
 			f << " " << m[i].second.size();
 			// Write the frequency of the word in each document.
 			for(int j=0; j<m[i].second.size(); j++)
