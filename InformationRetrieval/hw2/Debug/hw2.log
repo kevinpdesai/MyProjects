@@ -1,42 +1,36 @@
-﻿Build started 3/30/2015 9:42:02 PM.
+﻿Build started 3/30/2015 11:05:19 PM.
      1>Project "D:\Projects\MyProjects\InformationRetrieval\hw2\hw2.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
          main.cpp
      1>d:\projects\myprojects\informationretrieval\hw2\porter.h(396): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(182) : see declaration of 'strncat'
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(133): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(154): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(234): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(379): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(127): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(148): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(228): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(345): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(110) : see declaration of 'strcpy'
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(380): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(346): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(408): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(443): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(445): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(460): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(528): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(591): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(632): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(642): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(655): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(664): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(680): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(690): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(699): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(712): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(721): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(737): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(761): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(763): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(773): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(782): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(785): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(801): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(809): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(823): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(831): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(374): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(411): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(494): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(557): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(609): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(622): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(631): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(647): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(666): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(679): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(688): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(704): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(730): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(749): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(752): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(768): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(776): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(790): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\hw2\main.cpp(798): warning C4018: '<' : signed/unsigned mismatch
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\MyProjects\InformationRetrieval\Debug\hw2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\MyProjects\InformationRetrieval\Debug\hw2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\MyProjects\InformationRetrieval\Debug\hw2.lib" /MACHINE:X86 Debug\main.obj
          Debug\RdrLemmatizer.obj
@@ -45,4 +39,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.17
+Time Elapsed 00:00:02.47

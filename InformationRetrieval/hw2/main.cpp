@@ -79,12 +79,6 @@ map<string, unsigned char> frontCodingWordCountPointer;
 map<string, int> lemmaUncompPointer;
 map<string, int> stemUncompPointer;
 
-// Vector to keep the sorted dictionary of lemmas and stems.
-vector<pair<string,vector<pair<int, int> > > > sortedLemmasFreq;
-vector<pair<string,vector<pair<int, int> > > > sortedStemsFreq;
-vector<pair<string,vector<pair<int, int> > > > sortedLemmasAlpha;
-vector<pair<string,vector<pair<int, int> > > > sortedStemsAlpha;
-
 // Initialize the Lemmatizer object.
 RdrLemmatizer *lemmatize = new RdrLemmatizer();
 
@@ -317,34 +311,6 @@ int parseFile(const char file[], int doc_id) {
 	return 0;
 }
 
-// Sort in decreasing order of value - second parameter in the pair.
-bool cmpFreq(const pair<string, vector<pair<int, int> > >  &p1, const pair<string, vector<pair<int, int> > > &p2) {
-	return p1.second.size() > p2.second.size();
-}
-
-// Sort in decreasing order of string - first parameter in the pair.
-bool cmpAlpha(const pair<string, vector<pair<int, int> > >  &p1, const pair<string, vector<pair<int, int> > > &p2) {
-	return p1.first < p2.first;
-}
-
-// Sort the vectors.
-void sortDictionaries(bool freq = false) {
-	if(freq) {
-		copy(lemmas.begin(), lemmas.end(), back_inserter(sortedLemmasFreq));
-		sort(sortedLemmasFreq.begin(), sortedLemmasFreq.end(), cmpFreq);
-
-		copy(stems.begin(), stems.end(), back_inserter(sortedStemsFreq));
-		sort(sortedStemsFreq.begin(), sortedStemsFreq.end(), cmpFreq);
-	}
-	else {
-		copy(lemmas.begin(), lemmas.end(), back_inserter(sortedLemmasAlpha));
-		sort(sortedLemmasAlpha.begin(), sortedLemmasAlpha.end(), cmpAlpha);
-
-		copy(stems.begin(), stems.end(), back_inserter(sortedStemsAlpha));
-		sort(sortedStemsAlpha.begin(), sortedStemsAlpha.end(), cmpAlpha);
-	}
-}
-
 #ifdef linux
 // Read the directory.
 void readDir(char dirName[]) {
@@ -438,27 +404,27 @@ void readStopWords(char file[]) {
 }
 
 // Block code the dictionary.
-void blockCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
+void blockCode(ofstream& f, map<string, vector<pair<int, int> > > m) {
 	// Take each word.
-	for(int i=0; i<m.size(); i++) {
+	for(map<string, vector<pair<int, int> > >::iterator it = m.begin(); it != m.end(); it++) {
 		// Get the current file pointer location and store it so that the word can be pointed to later while storing posting.
 		int l = f.tellp();
-		blockCodingWordPointer[m[i].first] = l;
+		blockCodingWordPointer[it->first] = l;
 		// Write the length of the word as unsigned char and the word itself in the file. No delimiter between the words. The length of the word can uniquely identify the word end.
-		unsigned char c = m[i].first.length();
-		f << c << m[i].first;
+		unsigned char c = it->first.length();
+		f << c << it->first;
 	}
 	// At the end enter the \n character for convenience and readability.
 	f << endl;
 }
 
 // Front code the dictionary.
-void frontCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
+void frontCode(ofstream& f, map<string, vector<pair<int, int> > > m) {
 	string s(""), ss("");
 	int fp=0;
 	set <string> lcps;
-	for (int i=0; i<m.size(); i++) {
-		ss = m[i].first;
+	for (map<string, vector<pair<int, int> > >::iterator it = m.begin(); it != m.end(); it++) {
+		ss = it->first;
 		// Find out if the word currently as root and current word have at least the first 4 letters common. If so insert it into a set of strings to be front coded together.
 		if (s.size() > 4 && ss.size() > 4 && s[0] == ss[0] && s[1] == ss[1] && s[2] == ss[2] && s[3] == ss[3])
 				lcps.insert(ss);
@@ -627,20 +593,21 @@ string getDeltaCode(unsigned int x) {
 }
 
 // Gamma code the dictionary.
-void gammaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
+void gammaCode(ofstream& f, map<string, vector<pair<int, int> > > m) {
 	// Select each word in the dictionary.
-	for(int i=0; i<m.size(); i++) {
+	int i=0;
+	for(map<string, vector<pair<int, int> > >::iterator it = m.begin(); it != m.end(); it++,i++) {
 		// Write the file address pointer to every 8th word for k=8 block coding.
 		if(i%8==0)
-			f << blockCodingWordPointer[m[i].first] << " ";
+			f << blockCodingWordPointer[it->first] << " ";
 		// Write the size of the posting list.
-		f << m[i].second.size() << " ";
+		f << it->second.size() << " ";
 		// Write the frequency of the word in each document after gamma encoding it.
 		string gc = "";
 		string a;
 		int n=0;
-		for(int j=0; j<m[i].second.size(); j++) {
-			gc = gc + getGammaCode(m[i].second.at(j).second);
+		for(int j=0; j<it->second.size(); j++) {
+			gc = gc + getGammaCode(it->second.at(j).second);
 			// Write the code to the file byte by byte.
 			while(gc.length()>=8) {
 				a = gc.substr(0,8);
@@ -660,11 +627,11 @@ void gammaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
 		gc="";
 		n=0;
 		// Get the first posting and get the gamma code for it.
-		int cg, prev_cg = m[i].second.at(0).first;
-		for(int j=0; j<m[i].second.size(); j++) {
+		int cg, prev_cg = it->second.at(0).first;
+		for(int j=0; j<it->second.size(); j++) {
 			// Get the gap between the postings and get the gamma code for them.
-			cg = m[i].second.at(j).first - prev_cg;
-			prev_cg = m[i].second.at(j).first;
+			cg = it->second.at(j).first - prev_cg;
+			prev_cg = it->second.at(j).first;
 			gc = gc + getGammaCode(cg);
 			// Write the code to the file byte by byte.
 			while(gc.length()>=8) {
@@ -685,19 +652,19 @@ void gammaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
 }
 
 // Delta code the dictionary.
-void deltaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
+void deltaCode(ofstream& f, map<string, vector<pair<int, int> > > m) {
 	// Select each word in the dictionary.
-	for(int i=0; i<m.size(); i++) {
+	for(map<string, vector<pair<int, int> > >::iterator it = m.begin(); it != m.end(); it++) {
 		// Write the file address pointer to every word for front coding.
-		f << frontCodingWordPointer[m[i].first] << " " << frontCodingWordCountPointer[m[i].first] << " ";
+		f << frontCodingWordPointer[it->first] << " " << frontCodingWordCountPointer[it->first] << " ";
 		// Write the size of the posting list.
-		f << m[i].second.size() << " ";
+		f << it->second.size() << " ";
 		// Write the frequency of the word in each document after delta encoding it.
 		string dc = "";
 		string a;
 		int n=0;
-		for(int j=0; j<m[i].second.size(); j++) {
-			dc = dc + getDeltaCode(m[i].second.at(j).second);
+		for(int j=0; j<it->second.size(); j++) {
+			dc = dc + getDeltaCode(it->second.at(j).second);
 			// Write the code to the file byte by byte.
 			while(dc.length()>=8) {
 				a = dc.substr(0,8);
@@ -717,11 +684,11 @@ void deltaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
 		dc="";
 		n=0;
 		// Get the first posting and get the delta code for it.
-		int cg, prev_cg = m[i].second.at(0).first;
-		for(int j=0; j<m[i].second.size(); j++) {
+		int cg, prev_cg = it->second.at(0).first;
+		for(int j=0; j<it->second.size(); j++) {
 			// Get the gap between the postings and get the delta code for them.
-			cg = m[i].second.at(j).first - prev_cg;
-			prev_cg = m[i].second.at(j).first;
+			cg = it->second.at(j).first - prev_cg;
+			prev_cg = it->second.at(j).first;
 			dc = dc + getDeltaCode(cg);
 			// Write the code to the file byte by byte.
 			while(dc.length()>=8) {
@@ -742,7 +709,7 @@ void deltaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
 }
 
 // Write index.
-void writeIndex(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m, int version, bool comp = false) {
+void writeIndex(ofstream& f, map<string, vector<pair<int, int> > > m, int version, bool comp = false) {
 	// Write the compressed version.
 	if(comp) {
 		// Version-1 Block coding & Gamma coding.
@@ -758,32 +725,32 @@ void writeIndex(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m, i
 	}
 	// Write the uncompressed version.
 	else {
-		for(int i=0; i<m.size(); i++) {
+		for(map<string, vector<pair<int, int> > >::iterator it = m.begin(); it != m.end(); it++) {
 			// Get the current file pointer location and store it so that the word can be pointed to later while storing posting.
 			int l = f.tellp();
 			if(version==1)
-				lemmaUncompPointer[m[i].first] = l;
+				lemmaUncompPointer[it->first] = l;
 			else
-				stemUncompPointer[m[i].first] = l;
+				stemUncompPointer[it->first] = l;
 			// Write the length of the word as unsigned char and the word itself in the file. No delimiter between the words. The length of the word can uniquely identify the word end.
-			int c = m[i].first.length();
-			f << c << " " << m[i].first;
+			int c = it->first.length();
+			f << c << " " << it->first;
 			f << endl;
 		}
-		for(int i=0; i<m.size(); i++) {
+		for(map<string, vector<pair<int, int> > >::iterator it = m.begin(); it != m.end(); it++) {
 			// Write the file address pointer to every word.
 			if(version==1)
-				f << lemmaUncompPointer[m[i].first];
+				f << lemmaUncompPointer[it->first];
 			else
-				f << stemUncompPointer[m[i].first] << " 0";
+				f << stemUncompPointer[it->first] << " 0";
 			// Write the size of the posting list.
-			f << " " << m[i].second.size();
+			f << " " << it->second.size();
 			// Write the frequency of the word in each document.
-			for(int j=0; j<m[i].second.size(); j++)
-				f << " " << m[i].second.at(j).second;
+			for(int j=0; j<it->second.size(); j++)
+				f << " " << it->second.at(j).second;
 			// Write the posting document numbers.
-			for(int j=0; j<m[i].second.size(); j++)
-				f << " " << m[i].second.at(j).first;
+			for(int j=0; j<it->second.size(); j++)
+				f << " " << it->second.at(j).first;
 			f << endl;
 		}
 	}
@@ -843,8 +810,8 @@ void printResults(ofstream& f1, ofstream& f2, ofstream& f3, ofstream& f4) {
 	cout << "\nSize of index Version 2 uncompressed (stems) = " << f2.tellp() << " B";
 	cout << "\nSize of index Version 1 compressed (lemmas, block, gamma) = " << f3.tellp() << " B";
 	cout << "\nSize of index Version 2 compressed (stems, front, delta) = " << f4.tellp() << " B";
-	cout << "\n\nNumber of inverted lists in index Version 1 (lemmas) = " << sortedLemmasAlpha.size();
-	cout << "\nNumber of inverted lists in index Version 2 (stems) = " << sortedStemsAlpha.size();
+	cout << "\n\nNumber of inverted lists in index Version 1 (lemmas) = " << lemmas.size();
+	cout << "\nNumber of inverted lists in index Version 2 (stems) = " << stems.size();
 	cout << "\n\nInverted list contains both the term frequency and the document id. \nVersion 1 uncompressed \nWord\t\tdf\ttf\tinverted list length";
 	printWordInfo("reynolds",1);
 	printWordInfo("nasa",1);
@@ -898,23 +865,19 @@ int main(int argc, char *argv[]) {
 	// Load the binary file for English character set to get the lemmatizer to work.
 	lemmatize->LoadBinary("lem-m-en.bin");
 
+	// Get the directory name and read the directory. Also, get and read the stopwords list.
 	char *dirName = argv[1];
-
 	readStopWords(argv[2]);
-
 	readDir(dirName);
 
 	// Parse the directory to tokenize.
 	parseDirectory(dirName);
 
-	// Sort the dictionaries into vectors.
-	sortDictionaries();
-
 	// Write the index files - compressed and uncompressed.
-	writeIndex(version1_uncomp, sortedLemmasAlpha, 1);
-	writeIndex(version2_uncomp, sortedStemsAlpha, 2);
-	writeIndex(version1_comp, sortedLemmasAlpha, 1, true);
-	writeIndex(version2_comp, sortedStemsAlpha, 2, true);
+	writeIndex(version1_uncomp, lemmas, 1);
+	writeIndex(version2_uncomp, stems, 2);
+	writeIndex(version1_comp, lemmas, 1, true);
+	writeIndex(version2_comp, stems, 2, true);
 	
 	// End timer and calculate time.
 #ifdef linux
