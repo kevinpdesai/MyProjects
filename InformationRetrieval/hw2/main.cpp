@@ -85,11 +85,7 @@ vector<pair<string,vector<pair<int, int> > > > sortedStemsFreq;
 vector<pair<string,vector<pair<int, int> > > > sortedLemmasAlpha;
 vector<pair<string,vector<pair<int, int> > > > sortedStemsAlpha;
 
-// Sets used to store lemmas and stems in each file and hence used to assist in calculating the distinct lemmas and stems in each file.
-set<string> fileLemmas;
-set<string> fileStems;
-
-// Initialize the lemmatizer object.
+// Initialize the Lemmatizer object.
 RdrLemmatizer *lemmatize = new RdrLemmatizer();
 
 // Function declaration.
@@ -421,37 +417,6 @@ void parseDirectory(char dirName[]) {
 	}
 }
 
-void printWordInfo(string w, int version) {
-	if(version==1)
-		cout << "\n " << w << " : " << lemmas[lemmatize->Lemmatize(w.c_str())].size();
-	else
-		cout << "\n " << w << " : " << stems[porter_stem((char*)w.c_str())].size();
-}
-
-// Print the results required.
-void printResults() {
-	cout << "\n Number of unique lemmas = " << lemmas.size();
-	printWordInfo("reynolds",1);
-	printWordInfo("nasa",1);
-	printWordInfo("prandtl",1);
-	printWordInfo("flow",1);
-	printWordInfo("pressure",1);
-	printWordInfo("boundary",1);
-	printWordInfo("shock",1);
-	//cout << "\n Top 30 lemmas : \n";
-	//getTop(sortedLemmas,30);
-	cout << "\n Number of distinct stems = " << stems.size();
-	//cout << "\n Top 30 stems : \n";
-	//getTop(sortedStems,30);	
-	printWordInfo("reynolds",2);
-	printWordInfo("nasa",2);
-	printWordInfo("prandtl",2);
-	printWordInfo("flow",2);
-	printWordInfo("pressure",2);
-	printWordInfo("boundary",2);
-	printWordInfo("shock",2);
-}
-
 // Read the stop-word list.
 void readStopWords(char file[]) {
 	string word;
@@ -670,24 +635,36 @@ void gammaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
 			f << blockCodingWordPointer[m[i].first] << " ";
 		// Write the size of the posting list.
 		f << m[i].second.size() << " ";
-		// Write the frequency of the word in each document.
-		for(int j=0; j<m[i].second.size(); j++)
-			f << m[i].second.at(j).second << " ";
-		// Get the first posting and get the gamma code for it.
-		int cg = m[i].second.at(0).first;
-		string gc = getGammaCode(cg);
+		// Write the frequency of the word in each document after gamma encoding it.
+		string gc = "";
 		string a;
 		int n=0;
-		// Write the code to the file byte by byte.
-		while(gc.length()>=8) {
-			a = gc.substr(0,8);
-			n = 128*((a[0]=='1')?1:0) + 64*((a[1]=='1')?1:0) + 32*((a[2]=='1')?1:0) + 16*((a[3]=='1')?1:0) + 8*((a[4]=='1')?1:0) + 4*((a[5]=='1')?1:0) + 2*((a[6]=='1')?1:0) + ((a[7]=='1')?1:0);
-			f << (unsigned char)n;
-			gc = gc.substr(8);
+		for(int j=0; j<m[i].second.size(); j++) {
+			gc = gc + getGammaCode(m[i].second.at(j).second);
+			// Write the code to the file byte by byte.
+			while(gc.length()>=8) {
+				a = gc.substr(0,8);
+				n = 128*((a[0]=='1')?1:0) + 64*((a[1]=='1')?1:0) + 32*((a[2]=='1')?1:0) + 16*((a[3]=='1')?1:0) + 8*((a[4]=='1')?1:0) + 4*((a[5]=='1')?1:0) + 2*((a[6]=='1')?1:0) + ((a[7]=='1')?1:0);
+				f << (unsigned char)n;
+				gc = gc.substr(8);
+			}
 		}
-		for(int j=1; j<m[i].second.size(); j++) {
+		// Check if there is still code remaining. Append '0' at the end and write the bytes. The number of postings and the gamma code will determine the end of the file uniquely.
+		if(gc!="") {
+			n=0;
+			for(int k=0; k<gc.length(); k++)
+				n+=(128/((int)pow(2,k)))*((gc[k]=='1')?1:0);
+			f << (unsigned char)n;
+		}
+		f << " ";
+		gc="";
+		n=0;
+		// Get the first posting and get the gamma code for it.
+		int cg, prev_cg = m[i].second.at(0).first;
+		for(int j=0; j<m[i].second.size(); j++) {
 			// Get the gap between the postings and get the gamma code for them.
-			cg = m[i].second.at(j).first - m[i].second.at(j-1).first;
+			cg = m[i].second.at(j).first - prev_cg;
+			prev_cg = m[i].second.at(j).first;
 			gc = gc + getGammaCode(cg);
 			// Write the code to the file byte by byte.
 			while(gc.length()>=8) {
@@ -715,25 +692,37 @@ void deltaCode(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m) {
 		f << frontCodingWordPointer[m[i].first] << " " << frontCodingWordCountPointer[m[i].first] << " ";
 		// Write the size of the posting list.
 		f << m[i].second.size() << " ";
-		// Write the frequency of the word in each document.
-		for(int j=0; j<m[i].second.size(); j++)
-			f << m[i].second.at(j).second << " ";
-		// Get the first posting and get the delta code for it.
-		int cg = m[i].second.at(0).first;
-		string dc = getDeltaCode(cg);
+		// Write the frequency of the word in each document after delta encoding it.
+		string dc = "";
 		string a;
 		int n=0;
-		// Write the code to the file byte by byte.
-		while(dc.length()>=8) {
-			a = dc.substr(0,8);
-			n = 128*((a[0]=='1')?1:0) + 64*((a[1]=='1')?1:0) + 32*((a[2]=='1')?1:0) + 16*((a[3]=='1')?1:0) + 8*((a[4]=='1')?1:0) + 4*((a[5]=='1')?1:0) + 2*((a[6]=='1')?1:0) + ((a[7]=='1')?1:0);
-			f << (unsigned char)n;
-			dc = dc.substr(8);
+		for(int j=0; j<m[i].second.size(); j++) {
+			dc = dc + getDeltaCode(m[i].second.at(j).second);
+			// Write the code to the file byte by byte.
+			while(dc.length()>=8) {
+				a = dc.substr(0,8);
+				n = 128*((a[0]=='1')?1:0) + 64*((a[1]=='1')?1:0) + 32*((a[2]=='1')?1:0) + 16*((a[3]=='1')?1:0) + 8*((a[4]=='1')?1:0) + 4*((a[5]=='1')?1:0) + 2*((a[6]=='1')?1:0) + ((a[7]=='1')?1:0);
+				f << (unsigned char)n;
+				dc = dc.substr(8);
+			}
 		}
-		for(int j=1; j<m[i].second.size(); j++) {
+		// Check if there is still code remaining. Append '0' at the end and write the bytes. The number of postings and the gamma code will determine the end of the file uniquely.
+		if(dc!="") {
+			n=0;
+			for(int k=0; k<dc.length(); k++)
+				n+=(128/((int)pow(2,k)))*((dc[k]=='1')?1:0);
+			f << (unsigned char)n;
+		}
+		f << " ";
+		dc="";
+		n=0;
+		// Get the first posting and get the delta code for it.
+		int cg, prev_cg = m[i].second.at(0).first;
+		for(int j=0; j<m[i].second.size(); j++) {
 			// Get the gap between the postings and get the delta code for them.
-			cg = m[i].second.at(j).first - m[i].second.at(j-1).first;
-			dc = dc + getGammaCode(cg);
+			cg = m[i].second.at(j).first - prev_cg;
+			prev_cg = m[i].second.at(j).first;
+			dc = dc + getDeltaCode(cg);
 			// Write the code to the file byte by byte.
 			while(dc.length()>=8) {
 				a = dc.substr(0,8);
@@ -786,7 +775,7 @@ void writeIndex(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m, i
 			if(version==1)
 				f << lemmaUncompPointer[m[i].first];
 			else
-				f << stemUncompPointer[m[i].first];
+				f << stemUncompPointer[m[i].first] << " 0";
 			// Write the size of the posting list.
 			f << " " << m[i].second.size();
 			// Write the frequency of the word in each document.
@@ -798,6 +787,97 @@ void writeIndex(ofstream& f, vector<pair<string,vector<pair<int, int> > > > m, i
 			f << endl;
 		}
 	}
+}
+
+// Print the word info
+void printWordInfo(string w, int version, bool comp = false) {
+	if(version==1) {
+		string a = lemmatize->Lemmatize(w.c_str());
+		int tf=0;
+		cout << "\n" << a << "\t";
+		if(a.length()<8)
+			cout << "\t";
+		cout << lemmas[a].size();
+		for(int i=0; i<lemmas[a].size(); i++)
+			tf+=lemmas[a][i].second;
+		cout << "\t" << tf << "\t";
+		if(!comp)
+			cout << lemmas[a].size()*8 << " B";
+		else {
+			double bt = 0;
+			int prev_gap = 0;
+			for(int i=0; i<lemmas[a].size(); i++) {
+				bt += getGammaCode(lemmas[a][i].second).size() + getGammaCode(lemmas[a][i].first - prev_gap).size();
+				prev_gap = lemmas[a][i].first;
+			}
+			cout << ceil(bt/8) << " B";
+		}
+	}
+	else {
+		string a = porter_stem((char*)w.c_str());
+		int tf=0;
+		cout << "\n" << a << "\t";
+		if(a.length()<8)
+			cout << "\t";
+		cout << stems[a].size();
+		for(int i=0; i<stems[a].size(); i++)
+			tf+=stems[a][i].second;
+		cout << "\t" << tf << "\t";
+		if(!comp)
+			cout << stems[a].size()*8 << " B";
+		else {
+			double bt = 0;
+			int prev_gap = 0;
+			for(int i=0; i<stems[a].size(); i++) {
+				bt += getDeltaCode(stems[a][i].second).size() + getDeltaCode(stems[a][i].first - prev_gap).size();
+				prev_gap = stems[a][i].first;
+		}
+			cout << ceil(bt/8) << " B";
+		}
+	}
+}
+
+// Print the results required.
+void printResults(ofstream& f1, ofstream& f2, ofstream& f3, ofstream& f4) {
+	cout << "\nSize of index Version 1 uncompressed (lemmas) = " << f1.tellp() << " B";
+	cout << "\nSize of index Version 2 uncompressed (stems) = " << f2.tellp() << " B";
+	cout << "\nSize of index Version 1 compressed (lemmas, block, gamma) = " << f3.tellp() << " B";
+	cout << "\nSize of index Version 2 compressed (stems, front, delta) = " << f4.tellp() << " B";
+	cout << "\n\nNumber of inverted lists in index Version 1 (lemmas) = " << sortedLemmasAlpha.size();
+	cout << "\nNumber of inverted lists in index Version 2 (stems) = " << sortedStemsAlpha.size();
+	cout << "\n\nInverted list contains both the term frequency and the document id. \nVersion 1 uncompressed \nWord\t\tdf\ttf\tinverted list length";
+	printWordInfo("reynolds",1);
+	printWordInfo("nasa",1);
+	printWordInfo("prandtl",1);
+	printWordInfo("flow",1);
+	printWordInfo("pressure",1);
+	printWordInfo("boundary",1);
+	printWordInfo("shock",1);
+	cout << "\n\nVersion 2 uncompressed \nWord\t\tdf\ttf\tinverted list length";
+	printWordInfo("reynolds",2);
+	printWordInfo("nasa",2);
+	printWordInfo("prandtl",2);
+	printWordInfo("flow",2);
+	printWordInfo("pressure",2);
+	printWordInfo("boundary",2);
+	printWordInfo("shock",2);
+	cout << "\n\nVersion 1 compressed \nWord\t\tdf\ttf\tinverted list length";
+	printWordInfo("reynolds",1,true);
+	printWordInfo("nasa",1,true);
+	printWordInfo("prandtl",1,true);
+	printWordInfo("flow",1,true);
+	printWordInfo("pressure",1,true);
+	printWordInfo("boundary",1,true);
+	printWordInfo("shock",1,true);
+	cout << "\n\nVersion 2 compressed \nWord\t\tdf\ttf\tinverted list length";
+	printWordInfo("reynolds",2,true);
+	printWordInfo("nasa",2,true);
+	printWordInfo("prandtl",2,true);
+	printWordInfo("flow",2,true);
+	printWordInfo("pressure",2,true);
+	printWordInfo("boundary",2,true);
+	printWordInfo("shock",2,true);
+	cout << endl;
 }
 
 // Main function.
@@ -830,15 +910,30 @@ int main(int argc, char *argv[]) {
 	// Sort the dictionaries into vectors.
 	sortDictionaries();
 
-	// Print the results.
-	printResults();
-
 	// Write the index files - compressed and uncompressed.
 	writeIndex(version1_uncomp, sortedLemmasAlpha, 1);
 	writeIndex(version2_uncomp, sortedStemsAlpha, 2);
 	writeIndex(version1_comp, sortedLemmasAlpha, 1, true);
 	writeIndex(version2_comp, sortedStemsAlpha, 2, true);
+	
+	// End timer and calculate time.
+#ifdef linux
+	gettimeofday(&end, NULL);
+	seconds  = end.tv_sec  - start.tv_sec;
+	useconds = end.tv_usec - start.tv_usec;
+	mtime = ((seconds) * 1000 + useconds/1000.0) + 0.5;
+	cout<<"\nTotal time taken to build and write all the 4 versions of index: "<<mtime<<" ms"<<endl;
+	cout<<"\nTime taken to build and write 1 version of index: "<<mtime/4<<" ms"<<endl;
+#endif
+#ifdef windows
+	DWORD dw2 = GetTickCount();
+	cout<<"\nTotal time taken to build and write all 4 versions of index: "<<(dw2-dw1)<<" ms"<<endl;
+	cout<<"\nTime taken to build and write 1 version of index: "<<(dw2-dw1)/4<<" ms"<<endl;
+	_getch();
+#endif
 
+	// Print the results.
+	printResults(version1_uncomp,version2_uncomp,version1_comp,version2_comp);
 
 	// Close files.
 	version1_uncomp.close();
@@ -846,19 +941,8 @@ int main(int argc, char *argv[]) {
 	version1_comp.close();
 	version2_comp.close();
 
-	// End timer and calculate time.
-#ifdef linux
-	gettimeofday(&end, NULL);
-	seconds  = end.tv_sec  - start.tv_sec;
-	useconds = end.tv_usec - start.tv_usec;
-	mtime = ((seconds) * 1000 + useconds/1000.0) + 0.5;
-	cout<<"\n Total time taken : "<<mtime<<" milliSeconds"<<endl;
-#endif
 #ifdef windows
-	DWORD dw2 = GetTickCount();
-	cout<<"\n Total time taken : "<<(dw2-dw1)<<" milliSeconds"<<endl;
 	_getch();
 #endif
-
 	return 0;
 }
