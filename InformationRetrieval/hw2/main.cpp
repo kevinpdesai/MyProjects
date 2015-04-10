@@ -868,7 +868,7 @@ int main(int argc, char *argv[]) {
 	// Get the directory name and read the directory. Also, get and read the stopwords list.
 	char *dirName = argv[1];
 	readStopWords(argv[2]);
-	readDir(dirName);
+	readDir(argv[1]);
 
 	// Parse the directory to tokenize.
 	parseDirectory(dirName);
