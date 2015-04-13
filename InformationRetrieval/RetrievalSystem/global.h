@@ -8,6 +8,7 @@
 #include <algorithm>
 #include <vector>
 #include <cmath>
+#include <regex>
 
 #define windows
 

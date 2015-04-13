@@ -1,5 +1,6 @@
 #pragma once
 #include "global.h"
+
 class fileReader
 {
 
@@ -44,6 +45,13 @@ public:
 	bool checkWord(string checkString)
 	{
 		if(word==checkString)
+			return true;
+		return false;
+	}
+
+	bool checkWord(regex reg1)
+	{
+		if(regex_search(word, reg1))
 			return true;
 		return false;
 	}

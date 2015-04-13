@@ -30,19 +30,10 @@ int maxDocStem=1;
 long nFileWords = 0;
 
 // Map to store the LEMMAS
-map<string, int> lemmasDict;
 map<string, vector<pair<int, int> > > lemmas;
 
 // Map to store the STEMS
-map<string, int> stemsDict;
 map<string, vector<pair<int, int> > > stems;
-
-// Map to store pointers (addresses) for the index words.
-map<string, int> blockCodingWordPointer;
-map<string, int> frontCodingWordPointer;
-map<string, unsigned char> frontCodingWordCountPointer;
-map<string, int> lemmaUncompPointer;
-map<string, int> stemUncompPointer;
 
 lemmatizer *lemmatize = new lemmatizer();
 
