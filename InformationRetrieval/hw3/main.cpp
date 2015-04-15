@@ -15,7 +15,7 @@ string delimeter = "/";
 
 set<string> stopWords;
 vector<string> files;
-set<string> queries[30];
+set<string> queries[20];
 
 // Store info for each file - max_tf and doc length.
 map<int, pair<int,int> > docInfoLemmas;
@@ -23,12 +23,15 @@ int maxDocLemma=1;
 
 // Variable used to calculate the total number of lemmas/stems (Words).
 long nFileWords = 0;
+double avgDocLen = 0.0;
 
 // Map to store the LEMMAS
 map<string, vector<pair<int, int> > > lemmas;
 
-// Map to store the STEMS
-map<string, vector<pair<int, int> > > stems;
+double queryScore1[20][1400];
+double queryScore2[20][1400];
+vector<int> queryScoreIndex1[20];
+vector<int> queryScoreIndex2[20];
 
 lemmatizer *lemmatize = new lemmatizer();
 
@@ -195,17 +198,82 @@ void parseDir(char dirName[]) {
 		nFileWords = 0;
 		parseFile(file,i+1);
 		docInfoLemmas[i+1] = pair<int,int>(maxDocLemma,nFileWords);
+		avgDocLen+=nFileWords;
+	}
+	avgDocLen/=files.size();
+}
+
+void printTopResultsForQuery(double qs[], int topN = 5)
+{
+	priority_queue<pair<double, int> > q;
+	for (int i = 0; i < files.size(); i++) {
+		q.push(pair<double, int>(qs[i], i+1));
+	}
+	for (int i = 0; i < topN; i++) {
+		int ki = q.top().second;
+		cout << "\nRank " << i+1 << " = " << ki << "\t&\tScore = " << qs[ki-1];
+		q.pop();
 	}
 }
+
+void printTopResultsForQueries()
+{
+	cout << "Method 1";
+	for(int i=0; i<20; i++)
+	{
+		cout << "\n\nQuery " << i+1;
+		printTopResultsForQuery(queryScore1[i]);
+	}
+	cout << "\n\nMethod 2";
+	for(int i=0; i<20; i++)
+	{
+		cout << "\n\nQuery " << i+1;
+		printTopResultsForQuery(queryScore2[i]);
+	}
+}
+
+void processQueries()
+{
+	memset(queryScore1,0,sizeof(queryScore1[0][0])*20*1400);
+	memset(queryScore2,0,sizeof(queryScore2[0][0])*20*1400);
+	for(int i=0; i<20; i++)
+	{
+		for(set<string>::iterator it = queries[i].begin(); it!=queries[i].end(); it++ )
+		{
+			vector<pair<int, int> > v = lemmas[*it];
+			if(v.size()<=0)
+				continue;
+			double s_const = log10(files.size()/v.size()) / log10(files.size());
+			int k=0;
+			for(int j=0; j<files.size(); j++)
+			{
+				int tf = 0;
+				if(k<v.size())
+				{
+					if(v[k].first == j)
+					{
+						tf = v[k].second;
+						k++;
+					}
+				}
+				queryScore1[i][j]+=(0.4 + 0.6*log10(tf+0.5)/log10(docInfoLemmas[j].first + 1.0)) * s_const;
+				queryScore2[i][j]+=(0.4 + 0.6*(tf/(tf+0.5+1.5*(docInfoLemmas[j].second/avgDocLen)))*s_const);
+			}
+		}
+	}
+	printTopResultsForQueries();
+}
+
 
 int main(int argc, char *argv[])
 {
 	timer *t = new timer();
 	lemmatize->LoadBinary("lem-m-en.bin");
 	addStopWords(argv[2]);
-	parseQueryFile(argv[3]);
 	readDir(argv[1]);
 	parseDir(argv[1]);
+	parseQueryFile(argv[3]);
+	processQueries();
 	t->stopTimer();
 	cout << endl << t->getTimeTaken() << " ms\n";
 #ifdef windows
