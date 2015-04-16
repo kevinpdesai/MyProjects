@@ -8,7 +8,6 @@
 #include <algorithm>
 #include <vector>
 #include <cmath>
-#include <regex>
 #include <math.h>
 #include <queue>
 
@@ -18,11 +17,13 @@
 #include <windows.h>
 #include <tchar.h>
 #include <conio.h>
+#include <regex>
 #endif
 
 #ifdef linux
 #include <dirent.h>
 #include <sys/time.h>
+#include <regex.h>
 #endif
 
 using namespace std;

@@ -87,7 +87,16 @@ void parseQueryWord(string word, int queryNo) {
 // Parse the query file.
 void parseQueryFile(string file) {
 	fileReader *f = new fileReader((char *)file.c_str());
+#ifdef windows
 	regex r("[a-zA-Z][0-9]+:");
+#endif // windows
+
+#ifdef linux
+	regex_t r;
+	const char *reg = "[a-zA-Z][0-9]+:";
+	regcomp(&r,reg,REG_EXTENDED);
+#endif // linux
+
 	if(f->errorReadingFile)
 		return;
 	int queryNo = 0;;
