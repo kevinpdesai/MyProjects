@@ -4,8 +4,8 @@
 class dirReader
 {
 public:
-	string dirFullName;
-	bool errorReadingDir;
+	string _dirFullName;
+	bool _errorReadingDir;
 	string nextFileName;
 
 #ifdef windows
@@ -25,17 +25,17 @@ public:
 		char* newDirName = new char[strlen(dirName)+strlen(xx)+1];
 		strcpy(newDirName,dirName);
 		strcat(newDirName,xx);
-		dirFullName = newDirName;
+		_dirFullName = newDirName;
 		TCHAR  *directory = newDirName;
 		hFind = FindFirstFile(directory, &FindFileData);
 		if (hFind == INVALID_HANDLE_VALUE) 
 		{
 			cout<<"Error reading directory\n";
-			errorReadingDir = true;
+			_errorReadingDir = true;
 			return;
 		} 
-		errorReadingDir = false;
-		dirFullName = newDirName;
+		_errorReadingDir = false;
+		_dirFullName = newDirName;
 
 #endif // windows
 
@@ -45,11 +45,11 @@ public:
 		if(!pdir)
 		{
 			cout<<"Error reading directory";
-			errorReadingDir = true;
+			_errorReadingDir = true;
 			return;
 		}
-		errorReadingDir = false;
-		dirFullName = dirName;
+		_errorReadingDir = false;
+		_dirFullName = dirName;
 #endif // linux
 	}
 

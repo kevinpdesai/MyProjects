@@ -14,7 +14,7 @@ public:
 	map<string, unsigned char> wordCountPointer;
 	map<int, pair<int, int> > _docInfo;
 
-	fileWriter(char file[], map<int, pair<int, int> > doc_info)
+	fileWriter(char file[], map<int, pair<int, int> > doc_info):_fileName(file),_docInfo(doc_info)
 	{
 		// Open file and check if it is opened correctly.
 		f.open(file);
@@ -23,11 +23,9 @@ public:
 			cout<<file<<" not opened correctly\n";
 			return;
 		}
-		_fileName = file;
-		_docInfo = doc_info;
 	}
 
-	fileWriter(char file[], map<string, vector<pair<int, int> > > ind, int version = 1, bool compressed = false)
+	fileWriter(char file[], map<string, vector<pair<int, int> > > ind, int version = 1, bool compressed = false):_fileName(file),_version(version),_compressed(compressed),_index(ind)
 	{
 		// Open file and check if it is opened correctly.
 		f.open(file);
@@ -36,10 +34,6 @@ public:
 			cout<<file<<" not opened correctly\n";
 			return;
 		}
-		_fileName = file;
-		_version = version;
-		_compressed = compressed;
-		_index = ind;
 	}
 
 	virtual ~fileWriter(void)

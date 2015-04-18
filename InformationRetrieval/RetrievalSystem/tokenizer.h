@@ -4,14 +4,11 @@ class tokenizer
 {
 public:
 	string _word;
-	int len;
-	bool skipWord;
+	int _len;
+	bool _skipWord;
 
-	tokenizer(string word)
+	tokenizer(string word):_word(word),_skipWord(false),_len(word.length())
 	{
-		_word = word;
-		len = _word.length();
-		skipWord = false;
 	}
 
 	virtual ~tokenizer(void)
@@ -20,9 +17,9 @@ public:
 
 	bool isEmpty()
 	{
-		if(len==0)
+		if(_len==0)
 		{
-			skipWord = true;
+			_skipWord = true;
 			return true;
 		}
 		return false;
@@ -35,13 +32,13 @@ public:
 
 	// Recursively remove the special characters at the right end from the word to be tokenized. E.g. "hello)/(" becomes "hello".
 	void rightStrip() {
-		char rchar = _word[len-1];
+		char rchar = _word[_len-1];
 		while(!isalnum(rchar)) {
-			_word.erase(len-1);
-			len = _word.length();
+			_word.erase(_len-1);
+			_len = _word.length();
 			if(isEmpty())
 				return;
-			rchar = _word[len-1];
+			rchar = _word[_len-1];
 		}
 	}
 
@@ -50,7 +47,7 @@ public:
 		char lchar = _word[0];
 		while(!isalnum(lchar)) {
 			_word = _word.substr(1);
-			len = _word.length();
+			_len = _word.length();
 			if(isEmpty())
 				return;
 			lchar = _word[0];
@@ -59,28 +56,28 @@ public:
 
 	// Remove the possessives while tokenizing. E.g. "denny's" becomes "denny" & "dennys'" becomes "dennys"
 	void possessiveStrip() {
-		if(len<2)
+		if(_len<2)
 			return;
-		char l1 = _word[len-1];
-		char l2 = _word[len-2];
+		char l1 = _word[_len-1];
+		char l2 = _word[_len-2];
 		if(l1=='s' && l2 == '\'')
 		{
-			_word.erase(len-2,2);
-			len = _word.length();
+			_word.erase(_len-2,2);
+			_len = _word.length();
 		}
 		else if(l1 == '\'')
 		{
-			_word.erase(len-1);
-			len = _word.length();
+			_word.erase(_len-1);
+			_len = _word.length();
 		}
 	}
 
 	// Checks whether the word to be tokenized is an acronym and changes it. E.g. "u.s.a." becomes "usa".
 	void acronymCheck() {
 		string changedWord = "";
-		if(len<2)
+		if(_len<2)
 			return;
-		for(int i=0; i<len; i++) {
+		for(int i=0; i<_len; i++) {
 			char ch = _word[i];
 			if(i%2==0) {
 				if(ch<97 || ch>122)
@@ -94,13 +91,13 @@ public:
 			}
 		}
 		_word = changedWord;
-		len = _word.length();
+		_len = _word.length();
 	}
 
 	// Check if there is a hyphen "-". If present, remove it and merge them ti make a single word. E.g. "middle-class" becomes one word "middleclass".
 	void removeHyphen() {
 		string changedWord = "";
-		for(int i=0; i<len; i++) {
+		for(int i=0; i<_len; i++) {
 			if(_word[i]=='-') {
 				continue;
 			}
@@ -108,14 +105,14 @@ public:
 				changedWord += _word[i];
 		}
 		_word = changedWord;
-		len = _word.length();
+		_len = _word.length();
 	}
 
 	bool isNonAlpha()
 	{
 		if(_word.find_first_not_of("abcdefghijklmnopqrstuvwxyz") != std::string::npos)
 		{
-			skipWord = true;
+			_skipWord = true;
 			return true;
 		}
 		return false;

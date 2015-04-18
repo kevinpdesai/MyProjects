@@ -6,23 +6,20 @@ class fileReader
 
 public:
 	ifstream fin;
-	bool errorReadingFile;
+	bool _errorReadingFile;
 	string word;
-	string fileName;
-	bool textField;
+	string _fileName;
+	bool _textField;
 
-	fileReader(char file[])
+	fileReader(char file[]):_fileName(file),_textField(false),_errorReadingFile(false)
 	{
 		// Open file and check if it is opened correctly.
 		fin.open(file);
 		if (!fin) {
-			errorReadingFile = true;
+			_errorReadingFile = true;
 			cout<<file<<" not opened correctly\n";
 			return;
 		}
-		fileName = file;
-		textField = false;
-		errorReadingFile = false;
 	}
 
 	~fileReader(void)
@@ -36,7 +33,7 @@ public:
 		// Get the next word in the file.
 		if(fin >> word) {
 			if(checkWord("<TEXT>"))
-				textField = true;
+				_textField = true;
 			return true;
 		}
 		return false;

@@ -33,13 +33,15 @@ double queryScore2[20][1400];
 vector<int> queryScoreIndex1[20];
 vector<int> queryScoreIndex2[20];
 
+int collectionSize;
+
 lemmatizer *lemmatize = new lemmatizer();
 
 
 void addStopWords(char file[])
 {
 	fileReader *f = new fileReader(file);
-	if(f->errorReadingFile)
+	if(f->_errorReadingFile)
 		return;
 	while(f->getNextWord())
 		stopWords.insert(f->word);
@@ -74,7 +76,7 @@ void addQueryLemma(string word, int queryNo) {
 void parseQueryWord(string word, int queryNo) {
 	tokenizer *t = new tokenizer(word);
 	t->tokenize();
-	if(t->skipWord)
+	if(t->_skipWord)
 		return;
 	// Check if token is part of stop-words.
 	if(stopWords.count(t->_word))
@@ -97,7 +99,7 @@ void parseQueryFile(string file) {
 	regcomp(&r,reg,REG_EXTENDED);
 #endif // linux
 
-	if(f->errorReadingFile)
+	if(f->_errorReadingFile)
 		return;
 	int queryNo = 0;;
 	while(f->getNextWord())
@@ -144,7 +146,7 @@ void addLemma(string word, int doc_id) {
 void parseWord(string word, int doc_id) {
 	tokenizer *t = new tokenizer(word);
 	t->tokenize();
-	if(t->skipWord)
+	if(t->_skipWord)
 		return;
 	// Check if token is part of stop-words.
 	if(stopWords.count(t->_word))
@@ -158,7 +160,7 @@ void parseWord(string word, int doc_id) {
 void readDir(char dirName[])
 {
 	dirReader *d = new dirReader(dirName);
-	if(d->errorReadingDir)
+	if(d->_errorReadingDir)
 		return;
 	while(d->getNexFileName())
 	{
@@ -175,7 +177,7 @@ void readDir(char dirName[])
 // Parse the file.
 void parseFile(string file, int doc_id) {
 	fileReader *f = new fileReader((char *)file.c_str());
-	if(f->errorReadingFile)
+	if(f->_errorReadingFile)
 		return;
 	bool textField = false;
 	while(f->getNextWord())
@@ -215,7 +217,7 @@ void parseDir(char dirName[]) {
 void printTopResultsForQuery(double qs[], int topN = 5)
 {
 	priority_queue<pair<double, int> > q;
-	for (int i = 0; i < files.size(); i++) {
+	for (int i = 0; i < collectionSize; i++) {
 		q.push(pair<double, int>(qs[i], i+1));
 	}
 	for (int i = 0; i < topN; i++) {
@@ -252,9 +254,9 @@ void processQueries()
 			vector<pair<int, int> > v = lemmas[*it];
 			if(v.size()<=0)
 				continue;
-			double s_const = log10(files.size()/v.size()) / log10(files.size());
+			double s_const = log10(collectionSize/v.size()) / log10(collectionSize);
 			int k=0;
-			for(int j=0; j<files.size(); j++)
+			for(int j=0; j<collectionSize; j++)
 			{
 				int tf = 0;
 				if(k<v.size())
@@ -273,7 +275,6 @@ void processQueries()
 	printTopResultsForQueries();
 }
 
-
 int main(int argc, char *argv[])
 {
 	timer *t = new timer();
@@ -281,6 +282,7 @@ int main(int argc, char *argv[])
 	addStopWords(argv[2]);
 	readDir(argv[1]);
 	parseDir(argv[1]);
+	collectionSize = docInfoLemmas.size();
 	parseQueryFile(argv[3]);
 	processQueries();
 	t->stopTimer();

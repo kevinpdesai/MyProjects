@@ -1,4 +1,4 @@
-﻿Build started 4/15/2015 5:21:57 PM.
+﻿Build started 4/18/2015 3:18:44 PM.
      1>Project "D:\Projects\MyProjects\InformationRetrieval\RetrievalSystem\RetrievalSystem.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
@@ -21,21 +21,22 @@
                  c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(115) : see declaration of 'strcat'
      1>d:\projects\myprojects\informationretrieval\retrievalsystem\stemmer.h(396): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  c:\program files (x86)\microsoft visual studio 11.0\vc\include\string.h(182) : see declaration of 'strncat'
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(105): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(118): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(127): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(143): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(162): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(175): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(184): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(200): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(212): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(295): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(358): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(386): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(399): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(402): warning C4018: '<' : signed/unsigned mismatch
-     1>d:\projects\myprojects\informationretrieval\retrievalsystem\main.cpp(164): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(99): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(112): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(121): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(137): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(156): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(169): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(178): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(194): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(206): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(289): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(352): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(380): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(393): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\filewriter.h(396): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\indexfilereader.h(42): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>d:\projects\myprojects\informationretrieval\retrievalsystem\main.cpp(167): warning C4018: '<' : signed/unsigned mismatch
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Projects\MyProjects\InformationRetrieval\Debug\RetrievalSystem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Projects\MyProjects\InformationRetrieval\Debug\RetrievalSystem.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Projects\MyProjects\InformationRetrieval\Debug\RetrievalSystem.lib" /MACHINE:X86 Debug\main.obj
          RetrievalSystem.vcxproj -> D:\Projects\MyProjects\InformationRetrieval\Debug\RetrievalSystem.exe
@@ -43,4 +44,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.61
+Time Elapsed 00:00:02.57

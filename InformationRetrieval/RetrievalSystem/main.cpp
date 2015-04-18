@@ -6,6 +6,7 @@
 #include "tokenizer.h"
 #include "stemmer.h"
 #include "fileWriter.h"
+#include "indexFileReader.h"
 
 #ifdef windows
 string delimeter = "\\";
@@ -35,12 +36,14 @@ map<string, vector<pair<int, int> > > lemmas;
 // Map to store the STEMS
 map<string, vector<pair<int, int> > > stems;
 
+double avgDocLen = 0.0;
+int collectionSize;
 lemmatizer *lemmatize = new lemmatizer();
 
 void addStopWords(char file[])
 {
 	fileReader *f = new fileReader(file);
-	if(f->errorReadingFile)
+	if(f->_errorReadingFile)
 		return;
 	while(f->getNextWord())
 		stopWords.insert(f->word);
@@ -50,7 +53,7 @@ void addStopWords(char file[])
 void readDir(char dirName[])
 {
 	dirReader *d = new dirReader(dirName);
-	if(d->errorReadingDir)
+	if(d->_errorReadingDir)
 		return;
 	while(d->getNexFileName())
 	{
@@ -118,7 +121,7 @@ void addStem(string word, int doc_id) {
 void parseWord(string word, int doc_id) {
 	tokenizer *t = new tokenizer(word);
 	t->tokenize();
-	if(t->skipWord)
+	if(t->_skipWord)
 		return;
 	// Increase the number of words in file.
 	nFileWords++;
@@ -135,7 +138,7 @@ void parseWord(string word, int doc_id) {
 // Parse the file.
 void parseFile(string file, int doc_id) {
 	fileReader *f = new fileReader((char *)file.c_str());
-	if(f->errorReadingFile)
+	if(f->_errorReadingFile)
 		return;
 	bool textField = false;
 	while(f->getNextWord())
@@ -196,13 +199,27 @@ void writeIndex()
 	delete fw;
 }
 
+void readIndexFromFile()
+{
+	indexFileReader *ifr = new indexFileReader("Index_Version1.uncompress");
+	ifr->readIndex();
+	lemmas = ifr->_index;
+	ifr = new indexFileReader("doc_info_lemmas");
+	ifr->readDocInfo();
+	docInfoLemmas = ifr->_docInfo;
+	avgDocLen = ifr->_avgDocLen;
+	delete ifr;
+}
+
 int main(int argc, char *argv[]) {
 	timer *t = new timer();
 	lemmatize->LoadBinary("lem-m-en.bin");
 	addStopWords(argv[2]);
-	readDir(argv[1]);
-	parseDir(argv[1]);
-	writeIndex();
+// 	readDir(argv[1]);
+// 	parseDir(argv[1]);
+// 	writeIndex();
+	readIndexFromFile();
+	collectionSize = docInfoLemmas.size();
 	t->stopTimer();
 	cout << endl << t->getTimeTaken() << " ms" << endl;
 #ifdef windows
