@@ -1,4 +1,4 @@
-﻿Build started 4/20/2015 10:40:40 AM.
+﻿Build started 4/20/2015 7:34:55 PM.
      1>Project "D:\Projects\MyProjects\InformationRetrieval\hw3\hw3.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ID:\Projects\MyProjects\InformationRetrieval\RetrievalSystem /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
@@ -28,4 +28,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:02.25
+Time Elapsed 00:00:02.72

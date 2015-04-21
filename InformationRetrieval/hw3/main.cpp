@@ -285,7 +285,7 @@ void processQueries()
 			vector<pair<int, int> > v = lemmas[*it];
 			if(v.size()<=0)
 				continue;
-			double s_const = log10(collectionSize/v.size()) / log10(collectionSize);
+			double s_const = log10(collectionSize/(double)v.size()) / (double)log10(collectionSize);
 			int k=0;
 			for(int j=0; j<collectionSize; j++)
 			{
@@ -299,7 +299,7 @@ void processQueries()
 					}
 				}
 				queryScore1[i][j]+=(0.4 + 0.6*log10(tf+0.5)/log10(docInfoLemmas[j].first + 1.0)) * s_const;
-				queryScore2[i][j]+=(0.4 + 0.6*(tf/(tf+0.5+1.5*(docInfoLemmas[j].second/avgDocLen)))*s_const);
+				queryScore2[i][j]+=(0.4 + 0.6*(tf/(tf+0.5+1.5*(docInfoLemmas[j].second/(double)avgDocLen)))*s_const);
 			}
 		}
 	}
