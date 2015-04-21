@@ -245,12 +245,12 @@ void printTopResultsForQuery(double qs[], int topN = 5)
 {
 	priority_queue<pair<double, int> > q;
 	for (int i = 0; i < collectionSize; i++) {
-		q.push(pair<double, int>(qs[i], i+1));
+		q.push(pair<double, int>(qs[i], i));
 	}
 	for (int i = 0; i < topN; i++) {
 		int ki = q.top().second;
-		cout << "\n" << i+1 << "\t" << qs[ki-1] << "\t" << files[ki] << "\t";
-		printHeadline(directoryName+delimeter+files[ki]);
+		cout << "\n" << i+1 << "\t" << q.top().first << "\t" << files[ki-1] << "\t";
+		printHeadline(directoryName+delimeter+files[ki-1]);
 		q.pop();
 	}
 }
