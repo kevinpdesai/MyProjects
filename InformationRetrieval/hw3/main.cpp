@@ -16,6 +16,7 @@ string delimeter = "/";
 set<string> stopWords;
 vector<string> files;
 set<string> queries[20];
+string directoryName;
 
 // Store info for each file - max_tf and doc length.
 map<int, pair<int,int> > docInfoLemmas;
@@ -214,6 +215,32 @@ void parseDir(char dirName[]) {
 	avgDocLen/=files.size();
 }
 
+void printHeadline(string file)
+{
+	fileReader *f = new fileReader((char *)file.c_str());
+	if(f->_errorReadingFile)
+		return;
+	bool titleField = false;
+	while(f->getNextWord())
+	{
+		// Skip the file until we are in the <TEXT> & </TEXT> tag.
+		if(f->checkWord("<TITLE>")) {
+			titleField = true;
+			continue;
+		}
+		if(f->checkWord("</TITLE>")) {
+			titleField = false;
+			break;
+		}
+		if(!titleField)
+			continue;
+		// If read word in title then print it.
+		if(f->word.length()>0)
+			cout << f->word << " ";
+	}
+	delete f;
+}
+
 void printTopResultsForQuery(double qs[], int topN = 5)
 {
 	priority_queue<pair<double, int> > q;
@@ -222,24 +249,28 @@ void printTopResultsForQuery(double qs[], int topN = 5)
 	}
 	for (int i = 0; i < topN; i++) {
 		int ki = q.top().second;
-		cout << "\nRank " << i+1 << " = " << ki << "\t&\tScore = " << qs[ki-1];
+		cout << "\n" << i+1 << "\t" << qs[ki-1] << "\t" << files[ki] << "\t";
+		printHeadline(directoryName+delimeter+files[ki]);
 		q.pop();
 	}
 }
 
 void printTopResultsForQueries()
 {
-	cout << "Method 1";
 	for(int i=0; i<20; i++)
 	{
-		cout << "\n\nQuery " << i+1;
+		cout << "Query " << i+1 << " : ";
+		for(set<string>::iterator it = queries[i].begin(); it!=queries[i].end(); it++)
+		{
+			cout << *it << " ";
+		}
+		cout << "\nMethod 1";
+		cout << "\nRank\tScore\tDocName\t\tHeadline";
 		printTopResultsForQuery(queryScore1[i]);
-	}
-	cout << "\n\nMethod 2";
-	for(int i=0; i<20; i++)
-	{
-		cout << "\n\nQuery " << i+1;
+		cout << "\nMethod 2";
+		cout << "\nRank\tScore\tDocName\t\tHeadline";
 		printTopResultsForQuery(queryScore2[i]);
+		cout<<"\n\n";
 	}
 }
 
@@ -280,8 +311,9 @@ int main(int argc, char *argv[])
 	timer *t = new timer();
 	lemmatize->LoadBinary("lem-m-en.bin");
 	addStopWords(argv[2]);
-	readDir(argv[1]);
-	parseDir(argv[1]);
+	directoryName = argv[1];
+	readDir((char *)directoryName.c_str());
+	parseDir((char *)directoryName.c_str());
 	collectionSize = docInfoLemmas.size();
 	parseQueryFile(argv[3]);
 	processQueries();
