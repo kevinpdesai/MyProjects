@@ -1,6 +1,12 @@
 #pragma once
 #include "global.h"
 
+struct postingEntry {
+	uint tf;
+	uint docId;
+	postingEntry(uint a, uint c): tf(a), docId(c) {	}
+};
+
 class fileWriter
 {
 public:
@@ -10,11 +16,23 @@ public:
 	int _version;
 	bool _compressed;
 	map<string, vector<pair<int, int> > > _index;
-	map<string, int> wordPointer;
+	map<string, vector<postingEntry> > _projIndex;
+	map<string, uint> _wordInfo;
 	map<string, unsigned char> wordCountPointer;
 	map<int, pair<int, int> > _docInfo;
 
 	fileWriter(char file[], map<int, pair<int, int> > doc_info):_fileName(file),_docInfo(doc_info)
+	{
+		// Open file and check if it is opened correctly.
+		f.open(file);
+		if (!f) {
+			errorReadingFile = true;
+			cout<<file<<" not opened correctly\n";
+			return;
+		}
+	}
+
+	fileWriter(char file[], map<string, uint> wordNet):_fileName(file),_wordInfo(wordNet)
 	{
 		// Open file and check if it is opened correctly.
 		f.open(file);
@@ -36,9 +54,38 @@ public:
 		}
 	}
 
+	fileWriter(char file[], map<string, vector<postingEntry> > ind):_fileName(file),_projIndex(ind)
+	{
+		// Open file and check if it is opened correctly.
+		f.open(file);
+		if (!f) {
+			errorReadingFile = true;
+			cout<<file<<" not opened correctly\n";
+			return;
+		}
+	}
+
 	virtual ~fileWriter(void)
 	{
 		f.close();
+	}
+
+	void writeWordNetToFile()
+	{
+		for (map<string, uint>::iterator it = _wordInfo.begin(); it != _wordInfo.end(); it++) {
+			f << it->first << "\t" << it->second << endl;
+		}
+	}
+
+	void writeProjIndexToFile()
+	{
+		for (map<string, vector<postingEntry> >::iterator it = _projIndex.begin(); it != _projIndex.end(); it++)
+		{
+			f << it->first << " " << _projIndex[it->first].size();
+			for (uint i = 0; i < _projIndex[it->first].size(); i++)
+				f << " " << _projIndex[it->first][i].docId << " " << _projIndex[it->first][i].tf;
+			f << endl;
+		}
 	}
 
 	void writeDocInfoToFile()
@@ -89,7 +136,7 @@ public:
 		for(map<string, vector<pair<int, int> > >::iterator it = _index.begin(); it != _index.end(); it++,i++) {
 			// Write the file address pointer to every 8th word for k=8 block coding.
 			if(i%8==0)
-				f << wordPointer[it->first] << " ";
+				f << _wordInfo[it->first] << " ";
 			// Write the size of the posting list.
 			f << it->second.size() << " ";
 			// Write the frequency of the word in each document after gamma encoding it.
@@ -146,7 +193,7 @@ public:
 		// Select each word in the dictionary.
 		for(map<string, vector<pair<int, int> > >::iterator it = _index.begin(); it != _index.end(); it++) {
 			// Write the file address pointer to every word for front coding.
-			f << wordPointer[it->first] << " " << wordCountPointer[it->first] << " ";
+			f << _wordInfo[it->first] << " " << wordCountPointer[it->first] << " ";
 			// Write the size of the posting list.
 			f << it->second.size() << " ";
 			// Write the frequency of the word in each document after delta encoding it.
@@ -204,7 +251,7 @@ public:
 		for(map<string, vector<pair<int, int> > >::iterator it = _index.begin(); it != _index.end(); it++) {
 			// Get the current file pointer location and store it so that the word can be pointed to later while storing posting.
 			int l = f.tellp();
-			wordPointer[it->first] = l;
+			_wordInfo[it->first] = l;
 			// Write the length of the word as unsigned char and the word itself in the file. No delimiter between the words. The length of the word can uniquely identify the word end.
 			unsigned char c = it->first.length();
 			f << c << it->first;
@@ -258,7 +305,7 @@ public:
 
 				// Store the pointer address to the first word or the root word in the common words.
 				// Also, store the unsigned char '0' to identify that there is only one string and no common characters.
-				wordPointer[first] = fp;
+				_wordInfo[first] = fp;
 				wordCountPointer[first] = (unsigned char)0;
 				// Append words atop first word if there are any
 				if (lcps.size() != 1) {
@@ -277,7 +324,7 @@ public:
 						// Also, store the number 'x' in increasing order so as to identify that this word is will occur after 'x' occurrences of the '#' or '* symbols.
 						// This will help uniquely identify the words.
 						x++;
-						wordPointer[*iter] = fp;
+						_wordInfo[*iter] = fp;
 						wordCountPointer[*iter] = (unsigned char)x;
 						for (unsigned int i = cid; i < (*iter).size(); i++)
 							coded[ci++] = (*iter)[i];
@@ -321,7 +368,7 @@ public:
 
 			// Store the pointer address to the first word or the root word in the common words.
 			// Also, store the unsigned char '0' to identify that there is only one string and no common characters.
-			wordPointer[first] = fp;
+			_wordInfo[first] = fp;
 			wordCountPointer[first] = (unsigned char)0;
 			// Append words atop first word if there are any
 			if (lcps.size() != 1) {
@@ -340,7 +387,7 @@ public:
 					// Also, store the number 'x' in increasing order so as to identify that this word is will occur after 'x' occurrences of the '#' or '* symbols.
 					// This will help uniquely identify the words.
 					x++;
-					wordPointer[*iter] = fp;
+					_wordInfo[*iter] = fp;
 					wordCountPointer[*iter] = (unsigned char)x;
 					for (unsigned int i = cid; i < (*iter).size(); i++)
 						coded[ci++] = (*iter)[i];
@@ -378,7 +425,7 @@ public:
 		for(map<string, vector<pair<int, int> > >::iterator it = _index.begin(); it != _index.end(); it++) {
 			// Get the current file pointer location and store it so that the word can be pointed to later while storing posting.
 			int l = f.tellp();
-			wordPointer[it->first] = l;
+			_wordInfo[it->first] = l;
 			// Write the length of the word as unsigned char and the word itself in the file. No delimiter between the words. The length of the word can uniquely identify the word end.
 			int c = it->first.length();
 			f << c << " " << it->first;
@@ -386,7 +433,7 @@ public:
 		}
 		for(map<string, vector<pair<int, int> > >::iterator it = _index.begin(); it != _index.end(); it++) {
 			// Write the file address pointer to every word.
-			f << wordPointer[it->first];
+			f << _wordInfo[it->first];
 			// Write the size of the posting list.
 			f << " " << it->second.size();
 			// Write the frequency of the word in each document.

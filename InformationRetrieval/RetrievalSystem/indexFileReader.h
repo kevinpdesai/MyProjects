@@ -5,15 +5,17 @@ class indexFileReader
 {
 public:
 	map<string, vector<pair<int, int> > > _index;
+	map<string, vector< postingEntry > > _projIndex;
 	map<int, string> _wordAtLocation;
 	map<int, pair<int, int> > _docInfo;
 	bool _compressed;
 	string _fileName;
 	ifstream fin;
 	bool _errorReadingFile;
+	bool _isPostingEntry;
 	int _avgDocLen;
 
-	indexFileReader(string file, bool compressed = false): _fileName(file),_compressed(compressed)
+	indexFileReader(string file, bool posting = false, bool compressed = false): _fileName(file),_compressed(compressed),_isPostingEntry(posting)
 	{
 		// Open file and check if it is opened correctly.
 		fin.open((const char*)_fileName.c_str());
@@ -69,9 +71,27 @@ public:
 		} while (fin >> loc);
 	}
 
+	void readProjectIndex()
+	{
+		string word;
+		while (fin >> word)
+		{
+			uint n;
+			fin >> n;
+			for (uint i = 0; i < n; i++)
+			{
+				uint docId, tf;
+				fin >> docId >> tf;
+				_projIndex[word].push_back(postingEntry(tf, docId));
+			}
+		}
+	}
+
 	void readIndex()
 	{
-		if(_compressed)
+		if(_isPostingEntry)
+			readProjectIndex();
+		else if(_compressed)
 			readIndexCompressed();
 		else
 			readIndexUncompressed();

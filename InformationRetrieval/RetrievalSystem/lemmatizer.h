@@ -383,6 +383,8 @@ public:
 	}
 	void LoadBinary(const char *acFileName) {
 		ifstream ifs(acFileName, ios_base::in | ios_base::binary);
+		if(!ifs)
+			exit(1);
 		LoadBinary(ifs);
 		ifs.close();
 	}

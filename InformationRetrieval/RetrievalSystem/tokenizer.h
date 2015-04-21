@@ -32,7 +32,7 @@ public:
 
 	// Recursively remove the special characters at the right end from the word to be tokenized. E.g. "hello)/(" becomes "hello".
 	void rightStrip() {
-		char rchar = _word[_len-1];
+		unsigned char rchar = _word[_len-1];
 		while(!isalnum(rchar)) {
 			_word.erase(_len-1);
 			_len = _word.length();
@@ -44,7 +44,7 @@ public:
 
 	// Recursively remove the special characters at the left end from the word to be tokenized. E.g. ")/(hello" becomes "hello".
 	void leftStrip() {
-		char lchar = _word[0];
+		unsigned char lchar = _word[0];
 		while(!isalnum(lchar)) {
 			_word = _word.substr(1);
 			_len = _word.length();
@@ -58,8 +58,8 @@ public:
 	void possessiveStrip() {
 		if(_len<2)
 			return;
-		char l1 = _word[_len-1];
-		char l2 = _word[_len-2];
+		unsigned char l1 = _word[_len-1];
+		unsigned char l2 = _word[_len-2];
 		if(l1=='s' && l2 == '\'')
 		{
 			_word.erase(_len-2,2);
@@ -148,8 +148,8 @@ public:
 		if (isEmpty())
 			return;
 		// Return if the word contains non-alphabetic character.
-		if(isNonAlpha())
-			return;
+// 		if(isNonAlpha())
+// 			return;
 	}
 };
 

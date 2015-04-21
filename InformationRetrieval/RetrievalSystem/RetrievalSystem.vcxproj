@@ -65,6 +65,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CSVReader.h" />
     <ClInclude Include="dirReader.h" />
     <ClInclude Include="fileWriter.h" />
     <ClInclude Include="global.h" />

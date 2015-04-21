@@ -11,6 +11,7 @@
 #include <math.h>
 #include <queue>
 
+typedef unsigned int uint;
 #define windows
 
 #ifdef windows
@@ -27,4 +28,3 @@
 #endif
 
 using namespace std;
-

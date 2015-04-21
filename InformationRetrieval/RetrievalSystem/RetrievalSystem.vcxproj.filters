@@ -47,5 +47,8 @@
     <ClInclude Include="indexFileReader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="CSVReader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
