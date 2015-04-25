@@ -1,0 +1,4 @@
+Plasmodium falciparum	Responsible for severe disease and malaria-related deaths. Incubation 7-14 days (up to 1 year if semi-immune); most travellers present within 8 weeks. Classical tertian and subtertian periodicity (paroxysms at 48- and 36-hour intervals) are rare; daily (quotidian) or irregular are more common.
+Plasmodium vivax	Causes benign tertian malaria - fever every third day. Incubation period of 12-17 days. Relapse due to dormant parasites in the liver.
+Plasmodium ovale	Relapsing course as with P. vivax. Incubation period of 15-18 days.
+Plasmodium malariae	Causes benign quartan malaria - fever every 4th day, but this is frequently not observed, particularly in early infection. Long incubation period (18-40 days). Parasites can remain dormant in the blood. 5-10% present over a year after infection. With chronic infection, can cause nephrotic syndrome.	

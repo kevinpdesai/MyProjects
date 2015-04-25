@@ -1,0 +1,6 @@
+For how long is a patient of malaria infectious to others after onset of
+symptoms?
+In vivax malaria the patient is practically immediately infectious to mosquitos after
+the onset of symptoms. In falciparum malaria the patient is infectious only after
+several days when mature sexual forms of the parasites (gametocytes) appear in
+the peripheral bloodstream. 

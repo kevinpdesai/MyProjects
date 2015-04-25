@@ -18,7 +18,7 @@ string delimeter = "/";
 
 string dataDir, resourcesDir, filesDir;
 string lembin, stopwFile, annoFile, queryResults, indexFile, wordNetFile, urlsFile, urlmapFile, docrfsFile, query;
-
+bool hasUpdate = false;
 
 set<string> stopWords;
 vector<string> files;
@@ -145,50 +145,48 @@ vector<string> splitString(string original, char splitChar) {
 }
 
 // Parse the vector of the files in the directory.
+void parseDir(const char dirName[]) {
+	string file;
+	string fileName(dirName);
+	fileName += delimeter;
+	for(uint i=0; i<files.size(); i++) {
+		file = fileName + files[i];
+		uint id = atoi(splitString(files[i], '.')[1].c_str());
+		fileNames[id] = file;
+		if(pnourls.count(id) == 0) {
+			parseFile(file, id);
+			hasUpdate = true;
+		}
+	}
+}
+
+// Parse the vector of the files in the directory.
 // void parseDir(const char dirName[]) {
 // 	string file;
 // 	string fileName(dirName);
-// 	ofstream ofs("conflicts.txt");
-// 	fileName += delimeter;
+// 	fileName += "/";
 // 	for(uint i=0; i<files.size(); i++) {
 // 		file = fileName + files[i];
 // 		uint id = atoi(splitString(files[i], '.')[1].c_str());
-// 		if (fileNames.count(id)) {
-// 			ofs << id << endl;
-// 		}
+// 		fileNames[id] = file;
+// 	}
+// }
+// 
+// void parseDirAll(const char dirName[]) {
+// 	string file;
+// 	string fileName(dirName);
+// 	string conff = resourcesDir + "/conflicts.txt";
+// 	ofstream ofs(conff.c_str());
+// 	fileName += "/";
+// 	for(uint i=0; i<files.size(); i++) {
+// 		file = fileName + files[i];
+// 		uint id = atoi(splitString(files[i], '.')[1].c_str());
+// 		if (fileNames.count(id)) { ofs << id << endl; }
 // 		fileNames[id] = file;
 // 		parseFile(file, id);
 // 	}
 // 	ofs.close();
 // }
-
-// Parse the vector of the files in the directory.
-void parseDir(const char dirName[]) {
-	string file;
-	string fileName(dirName);
-	fileName += "/";
-	for(uint i=0; i<files.size(); i++) {
-		file = fileName + files[i];
-		uint id = atoi(splitString(files[i], '.')[1].c_str());
-		fileNames[id] = file;
-	}
-}
-
-void parseDirAll(const char dirName[]) {
-	string file;
-	string fileName(dirName);
-	string conff = resourcesDir + "/conflicts.txt";
-	ofstream ofs(conff.c_str());
-	fileName += "/";
-	for(uint i=0; i<files.size(); i++) {
-		file = fileName + files[i];
-		uint id = atoi(splitString(files[i], '.')[1].c_str());
-		if (fileNames.count(id)) { ofs << id << endl; }
-		fileNames[id] = file;
-		parseFile(file, id);
-	}
-	ofs.close();
-}
 
 
 // Write the indices.
@@ -350,11 +348,7 @@ void processQuery(const string &query) {
 	ofs.close();
 }
 
-void setupResources() {
-	cout << "Setting up resources (index, wordnet, RFMap)" << endl;
-	parseDirAll(filesDir.c_str());
-	writeIndex();
-
+void setMetaData() {
 	//read urls.csv file
 	CSVReader urls(urlsFile);
 	for (uint i=0; i<urls._data.size(); i++)
@@ -397,7 +391,14 @@ void setupResources() {
 	writeURLMapToFile(urlmapFile);
 	writeWordNetToFile(wordNetFile);
 	writeDocRFsToFile(docrfsFile);
+}
 
+
+void setupResources() {
+	cout << "Setting up resources (index, wordnet, RFMap)" << endl;
+	parseDir(filesDir.c_str());
+	writeIndex();
+	setMetaData();
 }
 
 int main(int argc, char *argv[]) {
@@ -431,16 +432,24 @@ int main(int argc, char *argv[]) {
 		setupResources();
 	}
 	else {
-		// read file list
-		parseDir(filesDir.c_str());
-		// read index
-		readIndexFromFile();
-		// read wordNet from file
-		readWordNetFromFile(wordNetFile);
-		// read RFMap from file
-		readDocRFsFile(docrfsFile);
 		// read URL map from file
 		readURLMapFromFile(urlmapFile);
+		// read file list
+		parseDir(filesDir.c_str());
+
+		if (! hasUpdate) {
+			// read index
+			readIndexFromFile();
+			// read wordNet from file
+			readWordNetFromFile(wordNetFile);
+			// read RFMap from file
+			readDocRFsFile(docrfsFile);
+		} else {
+			// index updated. write new index to file.
+			writeIndex();
+			// read urls.csv and annotations.csv and write wordNet, docrfs and urlmap.
+			setMetaData();
+		}
 
 		//		cout <<"Number of tokens in dict = " << lemmas.size() << endl;
 		//		cout << "Number of files = " << fileNames.size() << endl;
