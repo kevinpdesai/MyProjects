@@ -1,0 +1,11 @@
+There are several medications available to treat malaria, including
+chloroquine (Aralen Phosphate),
+atovaquone-proguanil (Malarone),
+artemether-lumefantrine (Coartem),
+mefloquine (Lariam),
+quinine (Qualaquin),
+quinidine (Quinaglute Dura-Tabs, Quinidex Extentabs, Quin-Release),
+doxycycline (Adoxa, Alodox, Avidoxy, Doryx, Monodox, Oracea, Oraxyl, Periostat, Vibramycin, Vibramycin Calcium, Vibramycin Monohydrate, Vibra-Tabs, used in combination with quinine),
+clindamycin (Cleocin HCl, Cleocin Pediatric, used in combination with quinine),
+artesunate (available only through the CDC).
+The choice of drug depends on the species of Plasmodium and the risk of drug resistance in the area where the malaria was acquired. In sub-Saharan Africa, for example, older drugs like chloroquine are largely ineffective.

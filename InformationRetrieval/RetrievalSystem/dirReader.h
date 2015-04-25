@@ -18,7 +18,7 @@ public:
 	struct dirent *pent;
 #endif // linux
 
-	dirReader(char dirName[])
+	dirReader(const char dirName[])
 	{
 #ifdef windows
 		char xx[] = "\\*.*";

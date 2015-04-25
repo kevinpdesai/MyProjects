@@ -1,0 +1,4 @@
+Diagnostic tests for the presence of typhus include:
+Western blot (test to identify presence of typhus bacteria)
+immunofluorescence test (using fluorescent dyes to detect typhus in sputum samples)
+blood test (results can indicate the presence of infection)

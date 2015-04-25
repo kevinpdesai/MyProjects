@@ -1,0 +1,6 @@
+Isolation and identification of V. cholerae serogroup O1 or O139 by culture of a stool
+specimen remains the gold standard for the laboratory diagnosis of cholera. The materials
+and methods used to accomplish this are summarized in Appendix 2: Laboratory Methods
+for Confirmation of Vibrio cholerae and are described in detail in the CDC publication
+Laboratory Methods for the Diagnosis of Epidemic Dysentery and Cholera, available
+online at http://www.cdc.gov/ncidod/dbmd/diseaseinfo/cholera_lab_manual.htm. 

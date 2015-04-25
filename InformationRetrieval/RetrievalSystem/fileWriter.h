@@ -20,8 +20,10 @@ public:
 	map<string, uint> _wordInfo;
 	map<string, unsigned char> wordCountPointer;
 	map<int, pair<int, int> > _docInfo;
+	map<uint, vector<pair<string, uint> > > _docrfs;
+	map<uint, string> _url;
 
-	fileWriter(char file[], map<int, pair<int, int> > doc_info):_fileName(file),_docInfo(doc_info)
+	fileWriter(string file, map<int, pair<int, int> > doc_info):_fileName(file),_docInfo(doc_info)
 	{
 		// Open file and check if it is opened correctly.
 		f.open(file);
@@ -32,7 +34,7 @@ public:
 		}
 	}
 
-	fileWriter(char file[], map<string, uint> wordNet):_fileName(file),_wordInfo(wordNet)
+	fileWriter(string file, map<string, uint> wordNet):_fileName(file),_wordInfo(wordNet)
 	{
 		// Open file and check if it is opened correctly.
 		f.open(file);
@@ -43,7 +45,7 @@ public:
 		}
 	}
 
-	fileWriter(char file[], map<string, vector<pair<int, int> > > ind, int version = 1, bool compressed = false):_fileName(file),_version(version),_compressed(compressed),_index(ind)
+	fileWriter(string file, map<uint, string> url):_fileName(file),_url(url)
 	{
 		// Open file and check if it is opened correctly.
 		f.open(file);
@@ -54,7 +56,29 @@ public:
 		}
 	}
 
-	fileWriter(char file[], map<string, vector<postingEntry> > ind):_fileName(file),_projIndex(ind)
+	fileWriter(string file, map<uint, vector<pair<string, uint> > > docrf):_fileName(file),_docrfs(docrf)
+	{
+		// Open file and check if it is opened correctly.
+		f.open(file);
+		if (!f) {
+			errorReadingFile = true;
+			cout<<file<<" not opened correctly\n";
+			return;
+		}
+	}
+
+	fileWriter(string file, map<string, vector<pair<int, int> > > ind, int version = 1, bool compressed = false):_fileName(file),_version(version),_compressed(compressed),_index(ind)
+	{
+		// Open file and check if it is opened correctly.
+		f.open(file);
+		if (!f) {
+			errorReadingFile = true;
+			cout<<file<<" not opened correctly\n";
+			return;
+		}
+	}
+
+	fileWriter(string file, map<string, vector<postingEntry> > ind):_fileName(file),_projIndex(ind)
 	{
 		// Open file and check if it is opened correctly.
 		f.open(file);
@@ -75,6 +99,24 @@ public:
 		for (map<string, uint>::iterator it = _wordInfo.begin(); it != _wordInfo.end(); it++) {
 			f << it->first << "\t" << it->second << endl;
 		}
+	}
+
+	void writeDocRFsToFile()
+	{
+		for (map<uint, vector<pair<string, uint> > >::iterator it = _docrfs.begin(); it != _docrfs.end(); it++) {
+			f << it->first << " " << _docrfs[it->first].size();
+			for (uint i=0; i<_docrfs[it->first].size(); i++) {
+				f << " " << _docrfs[it->first][i].first << " " << _docrfs[it->first][i].second;
+			}
+			f << endl;
+		}
+	}
+
+	void writeURLMapToFile() {
+		for (map<uint, string>::iterator it = _url.begin(); it != _url.end(); it++) {
+			f << it->first << " " << _url[it->first] << endl;
+		}
+		f.close();
 	}
 
 	void writeProjIndexToFile()

@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>D:\Projects\MyProjects\InformationRetrieval\Cranfield D:\Projects\MyProjects\InformationRetrieval\common_words</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"D:\Projects\MyProjects\InformationRetrieval\Data" "D:\Projects\MyProjects\InformationRetrieval\RetrievalSystem\resources" "kevin dies of ebola"</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

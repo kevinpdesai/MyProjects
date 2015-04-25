@@ -11,7 +11,7 @@ public:
 	string _fileName;
 	bool _textField;
 
-	fileReader(char file[]):_fileName(file),_textField(false),_errorReadingFile(false)
+	fileReader(const char file[]):_fileName(file),_textField(false),_errorReadingFile(false)
 	{
 		// Open file and check if it is opened correctly.
 		fin.open(file);

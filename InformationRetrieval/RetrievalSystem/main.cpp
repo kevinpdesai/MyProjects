@@ -16,10 +16,9 @@ string delimeter = "\\";
 string delimeter = "/";
 #endif
 
-const string lembin = "resources/lem-m-en.bin";
-const string queryResults = "resources/queryResults.txt";
-const string wordNetFile = "resources/wordNet.txt";
-const string indexFile = "resources/chaputta.txt";
+string dataDir, resourcesDir, filesDir;
+string lembin, stopwFile, annoFile, queryResults, indexFile, wordNetFile, urlsFile, urlmapFile, docrfsFile, query;
+
 
 set<string> stopWords;
 vector<string> files;
@@ -27,15 +26,24 @@ vector<string> files;
 // file ID (para no) and corresponding file name
 map <uint, string> fileNames;
 
+// map to map pno to urls
+map <uint, string> pnourls;
+
+//intermediate
+map <uint, string> unourls;
+map <uint, uint> pnouno;
+
 // Map to store RFN of words
 map <string, uint> wordNet;
+
+map <uint, vector< pair <string, uint> > > docrfs;
 
 // Map to store the lemmas, posting entry
 map<string, vector< postingEntry > > lemmas;
 
 lemmatizer *lemmatize = new lemmatizer();
 
-void addStopWords(char file[])
+void addStopWords(const char file[])
 {
 	fileReader *f = new fileReader(file);
 	if(f->_errorReadingFile)
@@ -45,7 +53,7 @@ void addStopWords(char file[])
 	delete f;
 }
 
-void readDir(char dirName[])
+void readDir(const char dirName[])
 {
 	dirReader *d = new dirReader(dirName);
 	if(d->_errorReadingDir)
@@ -137,27 +145,56 @@ vector<string> splitString(string original, char splitChar) {
 }
 
 // Parse the vector of the files in the directory.
-void parseDir(char dirName[]) {
+// void parseDir(const char dirName[]) {
+// 	string file;
+// 	string fileName(dirName);
+// 	ofstream ofs("conflicts.txt");
+// 	fileName += delimeter;
+// 	for(uint i=0; i<files.size(); i++) {
+// 		file = fileName + files[i];
+// 		uint id = atoi(splitString(files[i], '.')[1].c_str());
+// 		if (fileNames.count(id)) {
+// 			ofs << id << endl;
+// 		}
+// 		fileNames[id] = file;
+// 		parseFile(file, id);
+// 	}
+// 	ofs.close();
+// }
+
+// Parse the vector of the files in the directory.
+void parseDir(const char dirName[]) {
 	string file;
 	string fileName(dirName);
-	ofstream ofs("conflicts.txt");
-	fileName += delimeter;
+	fileName += "/";
 	for(uint i=0; i<files.size(); i++) {
 		file = fileName + files[i];
 		uint id = atoi(splitString(files[i], '.')[1].c_str());
-		if (fileNames.count(id)) {
-			ofs << id << endl;
-		}
+		fileNames[id] = file;
+	}
+}
+
+void parseDirAll(const char dirName[]) {
+	string file;
+	string fileName(dirName);
+	string conff = resourcesDir + "/conflicts.txt";
+	ofstream ofs(conff.c_str());
+	fileName += "/";
+	for(uint i=0; i<files.size(); i++) {
+		file = fileName + files[i];
+		uint id = atoi(splitString(files[i], '.')[1].c_str());
+		if (fileNames.count(id)) { ofs << id << endl; }
 		fileNames[id] = file;
 		parseFile(file, id);
 	}
 	ofs.close();
 }
 
+
 // Write the indices.
 void writeIndex()
 {
-	fileWriter *fw = new fileWriter("chaputta.txt",lemmas);
+	fileWriter *fw = new fileWriter(indexFile,lemmas);
 	fw->writeProjIndexToFile();
 	delete fw;
 }
@@ -165,38 +202,56 @@ void writeIndex()
 void readIndexFromFile()
 {
 	// Open file and check if it is opened correctly.
-	indexFileReader *idf = new indexFileReader("chaputta.txt",true);
+	indexFileReader *idf = new indexFileReader(indexFile,true);
 	idf->readIndex();
+	lemmas = idf->_projIndex;
 	delete idf;
 }
 
 void writeWordNetToFile(string filename) {
-	fileWriter *fw = new fileWriter("wordNet.txt", wordNet);
+	fileWriter *fw = new fileWriter(filename, wordNet);
 	fw->writeWordNetToFile();
 	delete fw;
 }
 
 void readWordNetFromFile(string filename) {
-	ifstream ifs(filename.c_str());
-	if (!ifs) {
-		cout << "Error reading file!" << endl;
-		return;
-	}
-	string word;
-	uint rfn;
-	while (!ifs.eof()) {
-		ifs >> word >> rfn;
-		wordNet[word] = rfn;
-	}
-	ifs.close();
+	indexFileReader *idf = new indexFileReader(filename);
+	idf->readWordNet();
+	wordNet = idf->_wordNet;
+	delete idf;
 }
 
+void writeDocRFsToFile(string filename) {
+	fileWriter *fw = new fileWriter(filename, docrfs);
+	fw->writeDocRFsToFile();
+	delete fw;
+}
+
+void readDocRFsFile(string filename) {
+	indexFileReader *idf = new indexFileReader(filename);
+	idf->readDocRFsFile();
+	docrfs = idf->_docRF;
+	delete idf;
+}
+
+void writeURLMapToFile(string filename) {
+	fileWriter *fw = new fileWriter(filename, pnourls);
+	fw->writeURLMapToFile();
+	delete fw;
+}
+
+void readURLMapFromFile (string filename) {
+	indexFileReader *idf = new indexFileReader(filename);
+	idf->readURL();
+	pnourls = idf->_urls;
+	delete idf;
+}
 
 float calcBasicScore(const vector<string> &words, uint docid) {
 	float score = 0.0;
 	for (uint i = 0; i < words.size(); i++) {
 		if (lemmas.count(words[i]) == 0)
-			break;
+			continue;
 		for (uint j = 0; j < lemmas[words[i]].size(); j++) {
 			if (lemmas[words[i]][j].docId == docid) {
 				score += (1 + log10(lemmas[words[i]][j].tf)) * log10 (float(fileNames.size()) / lemmas[words[i]].size());
@@ -208,7 +263,32 @@ float calcBasicScore(const vector<string> &words, uint docid) {
 
 float calcRocketsScore(const vector<string> &words, uint docid) {
 	float score = 0.0;
-
+	for (uint i=0; i<words.size(); i++) {
+		if (lemmas.count(words[i]) == 0)
+			continue;
+		for (uint j = 0; j < lemmas[words[i]].size(); j++) {
+			if (lemmas[words[i]][j].docId == docid) {
+				float weight = 1, relf = 1;
+				if (wordNet.count(words[i]) != 0) {
+					int wrfn = wordNet[words[i]];
+					if (wrfn == 1)			weight = 5;
+					else if (wrfn == 8)	weight = 1.3;
+					else if (wrfn == 6 || wrfn == 7) {
+						weight = 1.25;
+						for (uint k=0; k<docrfs[docid].size(); k++) {
+							if (docrfs[docid][k].second == 6 || docrfs[docid][k].second == 7)	relf+=0.1;
+						}
+					}
+					else {
+						for (uint k=0; k<docrfs[docid].size(); k++) {
+							if (docrfs[docid][k].second == wrfn)	relf += 0.25;
+						}
+					}
+				}
+				score += (0.75 * weight * relf) + (0.5 * (1 + log10(lemmas[words[i]][j].tf)) * log10 (float(fileNames.size()) / lemmas[words[i]].size()));
+			}
+		}
+	}
 	return score;
 }
 
@@ -219,61 +299,78 @@ void processQuery(const string &query) {
 		tokenizer *t = new tokenizer(_words[i]);
 		t->tokenize();
 		if (t->_skipWord)
-			return;
+			continue;
 		char *c = lemmatize->Lemmatize(t->_word.c_str());
 		string lemma(c);
 		if (lemma.length() < 1)
-			return;
-		if (stopWords.count(lemma))
-			return;
-
+			continue;
 		words.push_back(lemma);
 		delete t;
 		delete c;
 	}
-	// might be useful in future
-	vector<uint> wrfns;
-	for (uint i = 0; i < words.size(); i++) {
-		if (wordNet.count(words[i]) == 0)
-			wrfns.push_back(0);
-		else
-			wrfns.push_back(wordNet[words[i]]);
-	}
+
 	// heap for maintaining scores
 	priority_queue < pair <float, uint> > qscore;
+
 	// process all docids for query terms, get scores and heapify it
 	for (map<uint, string>::iterator it = fileNames.begin(); it != fileNames.end(); it++) {
-		float score = calcBasicScore(words, it->first);
+		float score;
+		//score = calcBasicScore(words, it->first);
+		score = calcRocketsScore(words, it->first);
 		qscore.push(pair<float, uint>(score, it->first));
 	}
+
 	ofstream ofs(queryResults.c_str(), ios::app);
 	ofs << "Query : " << query << endl;
 	ofs << "Scoring : TF-IDF " << endl;
 	// fetch top 10 results from heap
 	for (uint i = 0; i < 10; i++) {
 		ofs << "Doc ID = " << qscore.top().second << "\tScore = " << qscore.top().first << endl;
+		ifstream ifs(fileNames[qscore.top().second].c_str());
+		if (!ifs ) { cout << "File does not exist" << endl; continue; }
+		int ccount = 0; char c;
+		while (ccount < 300 && !ifs.eof()) {
+			ccount++;
+			ifs >> noskipws >> c;
+			if (c == '\n' || c == '\t')
+				c = ' ';
+			cout << c;
+		}
+		if (!ifs.eof())
+			cout << "...";
+		cout << endl;
+		ifs.close();
+		if (pnourls.count(qscore.top().second) != 0)
+			cout << pnourls[qscore.top().second] << endl;
+		else
+			cout << "URL unavailable" << endl;
 		qscore.pop();
 	}
+
 	ofs.close();
 }
 
-int main(int argc, char *argv[]) {
-	timer *t = new timer();
-	lemmatize->LoadBinary("lem-m-en.bin");
-	addStopWords(argv[2]);
-	readDir(argv[1]);
-	parseDir(argv[1]);
-	//writeIndex();
-	
-	readIndexFromFile();
+void setupResources() {
+	cout << "Setting up resources (index, wordnet, RFMap)" << endl;
+	parseDirAll(filesDir.c_str());
+	writeIndex();
 
-	cout <<"Number of tokens in dict = " << lemmas.size() << endl;
-	cout << "Number of files = " << fileNames.size() << endl;
-	
+	//read urls.csv file
+	CSVReader urls(urlsFile);
+	for (uint i=0; i<urls._data.size(); i++)
+		unourls[atoi(urls._data[i][0].c_str())] = urls._data[i][1];
+
 	// read annotations file
-	CSVReader anno(argv[3]);
+	CSVReader anno(annoFile);
 	// populate wordNet dictionary by only considering first word in annotations text
-	for (int i = 0; i < anno._data.size(); i++) {
+	for (uint i = 0; i < anno._data.size(); i++) {
+
+		uint uno = atoi (anno._data[i][0].c_str());
+		uint docid = atoi (anno._data[i][1].c_str());
+
+		if (unourls.count (uno) != 0)
+			pnourls[docid] = unourls[uno];
+
 		if (anno._data[i][3].size() == 0)
 			continue;
 		string word = splitString(anno._data[i][3], ' ')[0];
@@ -288,31 +385,76 @@ int main(int argc, char *argv[]) {
 		// Check if it is part of stop-words.
 		if (stopWords.count(lemma))
 			continue;
+
+		docrfs[docid].push_back(pair<string, uint> (lemma, atoi(anno._data[i][2].c_str())));
+
 		if (wordNet.count(lemma) != 0)
 			continue;
 		wordNet[lemma] = atoi(anno._data[i][2].c_str());
 	}
+
 	// write wordNet dictionary to file
-	writeWordNetToFile("wordNet.txt");
+	writeURLMapToFile(urlmapFile);
+	writeWordNetToFile(wordNetFile);
+	writeDocRFsToFile(docrfsFile);
 
-	// read wordNet from file
-	readWordNetFromFile("wordNet.txt");
+}
 
-	cout << "WordNet size = " << wordNet.size() << endl;
+int main(int argc, char *argv[]) {
+	if (argc != 4) {
+		cout << "Invalid arguments!" << endl;
+		cout << "Usage: <data directory> <resources directory> <query>";
+		exit(0);
+	}
+	else {
+		dataDir = argv[1];
+		resourcesDir = argv[2];
+		filesDir = dataDir + "/files";
+		annoFile = dataDir + "/annotations.csv";
+		urlsFile = dataDir + "/urls.csv";
+		urlmapFile = resourcesDir + "/urlmap.txt";
+		lembin = resourcesDir + "/lem-m-en.bin";
+		stopwFile = resourcesDir + "/common_words";
+		indexFile = resourcesDir + "/index.txt";
+		wordNetFile = resourcesDir + "/wordNet.txt";
+		docrfsFile = resourcesDir + "/docrfsFile.txt";
+		queryResults = resourcesDir + "/queryResults.txt";
+		query = argv[3];
+	}
 
-	string query = "Ebola disease incubation period range";
-	processQuery(query);
+	lemmatize->LoadBinary(lembin.c_str());
 
-	// read judgment file
-	//CSVReader judge(argv[4]);
+	addStopWords(stopwFile.c_str());
+	readDir(filesDir.c_str());
 
-	//readIndexFromFile();
+	if (query[0] == '0') {
+		setupResources();
+	}
+	else {
+		// read file list
+		parseDir(filesDir.c_str());
+		// read index
+		readIndexFromFile();
+		// read wordNet from file
+		readWordNetFromFile(wordNetFile);
+		// read RFMap from file
+		readDocRFsFile(docrfsFile);
+		// read URL map from file
+		readURLMapFromFile(urlmapFile);
+
+		//		cout <<"Number of tokens in dict = " << lemmas.size() << endl;
+		//		cout << "Number of files = " << fileNames.size() << endl;
+		//		cout << "WordNet size = " << wordNet.size() << endl;
+		//		cout << "Document RFNS = " << docrfs.size() << endl;
+	}
+
+	timer *t = new timer();
+	if (query[0] != '0'){
+		processQuery(query);
+	}
+
 	// time to execute entire program
 	t->stopTimer();
-	cout << endl << t->getTimeTaken() << " ms" << endl;
-#ifdef windows
-	_getch();
-#endif // windows
+	cout << t->getTimeTaken() << " ms" << endl;
 	return 0;
-
 }

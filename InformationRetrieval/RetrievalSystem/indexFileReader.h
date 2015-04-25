@@ -8,6 +8,9 @@ public:
 	map<string, vector< postingEntry > > _projIndex;
 	map<int, string> _wordAtLocation;
 	map<int, pair<int, int> > _docInfo;
+	map <string, uint> _wordNet;
+	map <uint, string> _urls;
+	map <uint, vector< pair <string, uint> > > _docRF;
 	bool _compressed;
 	string _fileName;
 	ifstream fin;
@@ -69,6 +72,39 @@ public:
 			}
 			n=-1;
 		} while (fin >> loc);
+	}
+
+	void readWordNet()
+	{
+		string word;
+		uint rfn;
+		while (!fin.eof()) {
+			fin >> word >> rfn;
+			_wordNet[word] = rfn;
+		}
+	}
+
+	void readDocRFsFile()
+	{
+		uint docid, rfn, vsize;
+		string word;
+		while (!fin.eof()) {
+			fin >> docid >> vsize;
+			for (uint i=0; i<vsize; i++) {
+				fin >> word >> rfn;
+				_docRF[docid].push_back(pair<string, uint> (word, rfn));
+			}
+		}
+	}
+
+	void readURL()
+	{
+		uint pno;
+		string url;
+		while (!fin.eof()) {
+			fin >> pno >> url;
+			_urls[pno] = url;
+		}
 	}
 
 	void readProjectIndex()

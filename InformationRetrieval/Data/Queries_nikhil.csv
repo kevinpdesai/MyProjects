@@ -1,0 +1,40 @@
+QID,IN,QUERY
+61,4,ebola testing kit
+62,4,tests available for ebola
+63,4,tests available for malaria detection
+64,4,tests available for cholerae
+65,4,typhus testing 
+66,4,treatment malaria before confirmation
+67,4,malaria treatment after results
+68,4,cholera treatment methods
+69,4,treating typhus
+70,4,how is ebola treated medically
+71,4,new methods to detect ebola
+72,4,how to cure malaria
+73,4,is there a treatment for ebola
+74,4,how cholera is treated 
+75,4,ebola pcr test
+76,4,cholera medication treatment
+77,4,malaria diagnosis in USA
+78,4,typhus diagnostic tests
+79,4,cholera diagnostic test
+80,4,ebola supportive care
+181,10,ebola patient treatment duration
+182,10,malaria treatment duration
+183,10,cholera treatment recovery duration
+184,10,typhus treatment course completion
+185,10,malaria symptoms duration
+186,10,ebola time to recovery
+187,10,how quick patients with cholera recover
+188,10,prognosis recovery time of typhus
+189,10,malaria treatment recovery time
+190,10,cholera full recovery period
+191,10,how long does it take to treat a patient with Ebola
+192,10,recovery period for Rickettsia typhus
+193,10,recovering from malaria
+194,10,ebola prognosis time to recovery
+195,10,cholera prognosis time to recovery
+196,10,treatment time for typhus recovery
+197,10,malaria cure in how many days
+198,10,typhus symptoms duration
+199,10,how long cholera stays

@@ -11,10 +11,11 @@ public:
 		_data.clear();
 		ifstream ifs(filename.c_str());
 		if (!ifs) {
-			cout << "Error reading file!" << endl;
+			cout << "Error reading file " << filename << endl;
 			return;
 		}
 		string line;
+		getline(ifs, line);
 		while (getline(ifs, line)) {
 			_data.push_back(splitString(line, ','));
 		}

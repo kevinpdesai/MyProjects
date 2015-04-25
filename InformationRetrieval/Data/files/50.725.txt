@@ -1,0 +1,6 @@
+Cholera results from infection by Vibrio cholerae, a Gram negative, facultatively
+anaerobic rod in the family Vibrionaceae. Two serogroups, 01 and 0139 (“Bengal”),
+can cause disease. Serogroup O1 contains two serologically indistinguishable
+biotypes, classical and El Tor. Mild or asymptomatic infections are seen more often
+with the El Tor biotype. Cholera caused by serogroup 0139 emerged in 1992, in
+epidemics in India and Bangladesh.
