@@ -3709,22 +3709,1785 @@ URLNO ,PNO,RFN,VAL
 7,1800,2,fever
 7,1800,2,infection
 7,1800,6,One week after
+13,1401,7,7�14 days 
+13,1401,8,V. cholerae 
+135,1402,1,malaria 
+135,1402,2,flu-like symptoms 
+135,1402,5,Consult with a travel clinic 
+135,1402,4,start taking the medication 
+135,1402,7,two weeks before 
+143,1403,1,malaria 
+143,1403,7,past year 
+143,1403,8,mosquito 
+143,1403,2,feverish 
+150,1404,1,malaria 
+150,1404,7,9 to 14 days  
+150,1404,8,Plasmodium falciparum 
+150,1404,7,12 to 18 days 
+150,1404,8,P. vivax and P. ovale 
+150,1404,7,18 to 40 days  
+150,1404,8,P. malariae 
+150,1404,7,11 to 12 days  
+150,1404,8,P. knowlesi 
+17,1405,1,Cholera 
+17,1405,7,5 days 
+195,1406,7,7 days 
+195,1406,7,3 months 
+195,1406,2,fever  
+195,1406,1,malaria 
+195,1406,8,parasites  
+232,1408,1,malaria 
+232,1408,7,1 to 3 weeks 
+275,1409,7,2010
+275,1409,1,malaria 
+275,1409,8,malarial parasite 
+335,1410,1,malaria 
+335,1410,8,2-21 day 
+335,1410,7,21 days 
+340,1411,1,Ebola 
+340,1411,7,21 days 
+340,1411,8,Ebola virus 
+340,1411,7,31-days 
+342,1412,7,Ebola Virus 
+342,1412,1,Ebola 
+344,1413,1,Ebola 
+344,1413,8,virus 
+344,1413,7,21 days 
+346,1414,1,Ebola 
+346,1414,8,Ebola virus 
+347,1415,1,ebola
+347,1415,7,21 days 
+347,1415,8,virus 
+348,1416,1,ebola
+348,1416,7,21 days 
+348,1416,8,virus 
+348,1416,5,vaccine 
+349,1417,1,ebola
+349,1417,7,21 days 
+349,1417,7,October 16th 
+349,1417,8,virus 
+350,1418,1,Ebola 
+350,1418,7,21 days 
+350,1418,8,virus 
+351,1419,1,malaria 
+351,1419,7,10 days 
+351,1419,7,four weeks 
+351,1419,4,antimalarial drugs 
+351,1419,7,weeks or months 
+357,1421,7,12 to 18 days 
+357,1421,7,10 days 
+357,1421,8,P. vivax and P. ovale 
+358,1422,1,malaria 
+359,1423,1,malaria 
+359,1423,8,mosquito 
+360,1424,1,malaria 
+360,1424,2,fever 
+360,1424,2,sweating 
+360,1424,2,fever 
+361,1425,7,Malaria  
+361,1425,2,sweating 
+361,1425,2,allergic reactions 
+361,1425,7,Malaria  
+363,1426,5,medical interventions to prevent 
+363,1426,5,providing public health care 
+363,1426,5,ensuring that quarantined persons do not infect 
+365,1427,1,cholera  
+365,1427,7,few days 
+365,1427,7,five days 
+365,1428,1,cholera 
+365,1428,7,1�5 days 
+365,1428,7,3 days 
+365,1429,1,Cholera 
+365,1429,7,week after 
+369,1430,1,cholera 
+370,1431,1,Cholera 
+370,1431,2,develop symptoms 
+370,1431,7,1.4 days 
+373,1432,1,typhoid and paratyphoid fever 
+373,1432,7,8-14 days 
+373,1432,7,three days to one month 
+374,1433,7,7 to 21 days 
+374,1433,8,bacteria 
+374,1433,2,mild symptoms 
+375,1434,8,bacteria 
+376,1435,7,30 days 
+376,1435,8,bacteria 
+376,1435,2,significant symptoms 
+377,1436,7,6�30 days 
+377,1436,2,typhoid and paratyphoid 
+377,1436,1,typhoid or paratyphoid fever 
+377,1436,1,typhus 
+377,1436,2,fever 
+377,1437,1,typhoid 
+377,1437,5,vaccine 
+378,1439,7,four or five days 
+378,1439,2,heart failure 
+378,1439,2,pneumonia 
+378,1439,2,osteomyelitis 
+378,1439,2,encephalitis 
+378,1439,2,meningitis 
+378,1440,7,20th century 
+378,1440,8,bacteria 
+379,1441,1,Typhus fever 
+379,1441,2,sustained fever 
+379,1441,2,anorexia 
+379,1441,2,lethargy 
+379,1441,2,malaise 
+380,1442,1,Ebola 
+380,1442,8,Ebola virus 
+380,1442,2,vomiting 
+380,1442,2,diarrhoea 
+380,1442,2,abdominal pain 
+381,1443,7,21 days 
+381,1443,6,October 14 2014 
+381,1443,1,Ebola 
+382,1444,1,Ebola 
+382,1444,2,diarrhea  
+382,1444,2,vomiting  
+382,1444,2,bleeding 
+383,1445,1,Ebola 
+383,1445,8,virus 
+383,1445,7,2 to 21 days 
+383,1446,1,Ebola 
+383,1446,8,virus 
+383,1446,7,2 to 21 days 
+384,1447,1,Ebola 
+384,1447,7,20th century 
+385,1448,6,May-14
+385,1448,1,Ebola 
+386,1449,1,Ebola 
+386,1449,8,virus 
+386,1449,7,2 to 21 days 
+387,1450,1,Ebola 
+387,1450,2,sneezing 
+387,1450,2,runny nose and cough 
+450,1451,1,malaria 
+450,1451,7,15-18 days 
+450,1451,7,12-17 days 
+452,1452,8,parasites 
+456,1453,7,few weeks 
+456,1453,1,malaria 
+459,1454,8,mosquito 
+459,1454,1,malaria 
+460,1455,8,mosquito 
+460,1455,1,malaria 
+462,1456,8,mosquito 
+462,1456,1,malaria 
+5,1457,2,fever 
+5,1457,2,intense weakness 
+5,1457,2,muscle pain 
+5,1457,2,headache and sore throat 
+5,1457,7,2 to 21 days 
+5,1457,2,vomiting 
+5,1457,2,diarrhoea 
+5,1457,2,rash 
+50,1458,1,Cholera 
+50,1458,2,watery diarrhea 
+50,1458,7,2 to 7 days 
+6,1459,1,Ebola 
+6,1459,2,Ebola virus 
+6,1459,7,1976
+96,1460,1,Cholera 
+96,1460,7,3 million a year 
+96,1460,7,1980s 
+685,1501,1,Ebola
+685,1501,7,Twenty-one days
+685,1501,8,Ebola Virus
+685,1502,1,Ebola
+685,1502,7,21 day
+685,1502,7,25 days
+685,1502,7,30 days
+685,1503,7,21 day
+685,1503,7,25 days
+685,1503,7,30 days
+685,1503,2,exhibiting symptoms
+686,1504,1,Ebola
+686,1504,7,Twenty-one days 
+686,1504,8,Ebola virus
+686,1503,7,21 days
+686,1506,1,Ebola
+689,1507,2,Fever
+689,1507,2,Headache Joint and muscle aches
+689,1507,2,Diarrhea
+689,1507,2,Vomiting
+689,1507,2,Stomach pain
+689,1508,1,Ebola
+689,1508,8,virus
+689,1508,4,antibodies
+689,1508,1,Ebola
+689,1509,1,Ebola
+689,1509,1,symptoms of Ebola
+689,1510,1,Ebola
+690,1511,1,Ebola
+691,1512,1,EVD
+691,1512,7,21 days
+692,1513,5,isolate the patient
+692,1513,8,Deadly virus
+692,1513,7,21 days Ebola
+692,1513,8,Deadly virus
+692,1514,7,21 days Ebola
+692,1514,8,Deadly virus
+692,1514,1,Ebola
+693,1515,7,21 days Ebola
+693,1515,1,Ebola
+694,1516,1,Ebola virus disease
+694,1516,1,EVD
+694,1516,6,1976
+694,1517,1,Ebola
+694,1518,1,Ebola
+694,1518,8,fruit bats
+694,1518,8,virus
+694,1519,1,Ebola
+694,1519,2,fever
+694,1519,2,muscle pain and a sore throat
+694,1520,1,Ebola
+694,1520,8,virus
+695,1521,1,Malaria
+695,1521,8,mosquito
+695,1522,1,Malaria
+695,1522,7,hours to months
+695,1522,7,germ
+697,1523,1,vivax malaria
+697,1523,8,parasites
+697,1523,8,mosquitoes
+696,1524,1,Malaria
+696,1524,8,parasite
+696,1524,8,fetus
+697,1525,8,mosquitoes
+696,1525,1,Malaria
+697,1525,7,few days
+697,1526,8,mosquitoes
+697,1526,1,Malaria
+697,1528,8,mosquitoes
+697,1528,1,Malaria
+697,1528,1,parasite
+697,1529,1,Malaria
+697,1528,1,Malaria
+696,1530,1,parasite
+696,1530,7,few days
+710,1531,1,Malaria
+710,1531,1,Typhus
+710,1532,1,typhus
+713,1533,1,Typhus
+713,1534,8,flea feces or animal droppings
+713,1534,8,bacteria
+714,1535,1,Typhus 
+717,1536,1,Typhus
+717,1536,2,fever
+717,1536,2,chills
+717,1536,2,headache
+717,1536,2,muscle aches and malaise
+718,1537,1,Typhus
+718,1538,7,many years
+718,1538,2,symptoms
+718,1539,1,Typhus
+718,1539,4,tetracycline antibiotics
+718,1539,5,doxycycline
+718,1539,3,laboratory tests
+718,1540,3,Laboratories 
+719,1541,1,Ebola
+719,1541,7,21 days
+719,1542,7,21 days
+719,1543,1,Ebola
+719,1543,7,21 days
+719,1543,1,three weeks
+719,1544,1,Ebola
+719,1544,7,21 days
+719,1544,8,Ebola virus
+719,1545,1,Ebola
+719,1545,7,21 days
+719,1545,6,1976
+720,1546,8,Ebola virus
+720,1546,1,Ebola
+720,1547,1,Ebola
+720,1548,8,virus
+720,1549,1,Ebola
+720,1549,8,virus
+720,1550,1,Ebola
+720,1549,8,virus
+738,1550,1,Ebola
+738,1551,1,Ebola
+738,1551,7,21-day
+738,1552,1,Ebola
+738,1552,1,21-day
+738,1553,1,Ebola
+738,1553,7,21-day
+738,1553,6,1976
+738,1554,1,Ebola
+738,1554,7,21-day
+738,1554,8,virus
+738,1555,1,Ebola
+738,1555,7,21-day
+738,1555,6,1976
+738,1556,1,Ebola
+738,1557,1,Ebola
+739,1558,1,Ebola
+739,1558,8,infected person�s bodily fluids
+739,1559,1,Ebola
+739,1560,1,Ebola
+740,1561,1,Ebola
+740,1561,7,21-day
+740,1562,1,Ebola
+740,1562,7,21-day
+740,1562,8,virus
+741,1563,1,Ebola
+741,1563,7,21-day
+741,1564,1,Ebola
+741,1564,7,21-day
+741,1564,8,virus
+741,1565,1,Ebola
+741,1565,7,Twenty-One-day
+741,1565,8,virus
+742,1566,1,Ebola
+742,1566,6,2014
+742,1567,1,Ebola
+742,1567,1,Viral Hemorrhagic Fever
+742,1568,1,Ebola
+743,1569,6,1976
+743,1569,1,Ebola
+743,1570,1,Ebola
+744,1571,7,21-day
+744,1571,8,virus
+744,1571,1,Ebola
+745,1572,8,virus
+745,1572,1,Ebola
+745,1572,7,Two to 21 days
+745,1573,7,21-day
+745,1573,8,virus
+745,1573,7,22nd day
+745,1574,1,Ebola
+745,1575,7,21-days
+746,1576,1,Ebola
+747,1577,1,Ebola
+747,1578,1,Ebola
+748,1579,8,virus
+748,1579,1,Ebola
+748,1580,8,virus
+748,1580,1,Ebola
+6,1581,6,2-21days
+6,1581,1,ebola
+6,1581,5,incubation
+6,1582,8,Ebola virus 
+6,1582,6,21 days
+6,1582,6,3.35 days
+6,1582,6,11.4 days
+6,1582,6,12.7 days
+6,1582,6,1976
+6,1583,6,21 day
+6,1583,5,quarantine
+6,1583,1,ebola
+6,1583,8,ebola virus
+749,1584,6,21-day
+749,1584,1,ebola
+749,1584,5,quarantine
+750,1585,6,21-day quarantines
+750,1585,1,ebola
+751,1586,5,quarantine
+751,1586,1,ebola
+751,1587,1,ebola
+751,1588,1,Ebola
+751,1588,6,two days
+752,1589,1,ebola
+752,1590,1,Ebola
+340,1591,1,ebola
+340,1591,6,21 day quarantine
+340,1592,6,21 days
+340,1592,1,ebola
+755,1593,5,incubation
+755,1593,6,21-day 
+755,1593,1,ebola
+756,1594,6,21-day incubation period
+756,1594,7,first
+756,1594,1,ebola
+741,1595,6,21-day quarantine period
+741,1595,1,ebola
+753,1596,1,ebola
+754,1597,1,ebola
+757,1598,8,virus
+757,1599,1,Ebola
+757,1600,1,ebola
+13,1461,1,cholera 
+13,1461,2,infection 
+13,1462,1,cholera 
+13,1463,2,infection 
+13,1463,6,14 days after 
+13,1464,2,dehydration 
+13,1464,2,death 
+13,1465,2,death 
+13,1465,8,hiv 
+18,1466,7,period 
+18,1466,6,10-14 days 
+18,1466,7,after  
+18,1466,2,symptoms  
+18,1466,7,around 
+18,1466,6,2 weeks 
+18,1467,2,rash 
+18,1467,2,petechiae 
+18,1467,2,delirium 
+18,1467,2,stupor 
+18,1467,2,hypotension 
+18,1467,2,shock 
+18,1467,2,death 
+18,1467,2,Purpura  
+21,1468,1,typhus  
+21,1468,8,Rickettsia prowazekii 
+21,1468,8,louse 
+21,1468,7,incubation period 
+21,1468,6,1 to 2 weeks 
+21,1469,1,Typhus  
+21,1469,6,1969
+261,1470,1,typhus  
+261,1470,6,12 days 
+261,1470,2,fever 
+261,1470,2,chills 
+261,1470,2,headache 
+336,1471,6,1 week to several weeks 
+336,1471,6,months 
+454,1472,7,incubation period 
+454,1472,6,6 to 16 days 
+454,1472,6,12 days 
+454,1472,2,fever 
+454,1472,2,chills 
+454,1472,2,headache 
+454,1472,2,rash 
+454,1473,6,Nov-14
+454,1473,1,typhus 
+455,1474,4,convalescent serum 
+455,1474,6,2 or more weeks 
+455,1474,7,after  
+455,1474,1,infection 
+465,1475,1,malaria 
+465,1475,2,drugs 
+465,1475,2,infection 
+466,1476,1,malaria 
+466,1476,2,isolation 
+467,1477,1,malaria 
+467,1477,6,3 years after 
+467,1477,6,12 months after 
+468,1478,3,test 
+469,1479,1,malaria 
+469,1479,3,PCR 
+469,1479,3,polymerase chain reaction 
+470,1480,1,malaria 
+470,1480,2,infection 
+470,1480,4,arrival presumptive treatment  
+470,1480,3,testing for Plasmodiumt  
+470,1481,1,malaria 
+470,1481,2,hemolytic anemia 
+470,1481,2,death 
+470,1481,2,infection 
+470,1481,2,anemia 
+470,1481,3,testing 
+470,1481,4,relapse therapy  
+470,1481,4,presumptive therapy  
+470,1482,1,malaria 
+470,1482,2,infection 
+470,1482,3,blood transfusion 
+470,1483,1,malaria 
+470,1483,2,infection 
+470,1484,6,1957
+471,1485,1,cholera 
+471,1485,1,plague 
+471,1485,2,excitement 
+471,1485,6,next day 
+471,1485,6,twenty days after 
+471,1485,7,in(quarantine for twenty days after) 
+472,1486,1,cholera 
+472,1486,1,yellow fever 
+472,1486,1,plague 
+472,1486,2,death 
+472,1486,2,fever 
+472,1486,2,impotence 
+472,1486,5,quarantine  
+472,1486,6,1835
+473,1487,1,cholera 
+473,1487,6,1893
+473,1487,7,in(1893) 
+474,1488,1,cholera 
+474,1488,2,infection 
+474,1488,6,1797
+474,1488,7,in(1797) 
+475,1489,1,cholera 
+475,1489,2,death 
+475,1489,5,Isolation  
+476,1490,6,21 days 
+476,1490,7,in the last 
+476,1491,7,after 
+477,1492,1,Ebola 
+477,1492,6,21-days 
+477,1493,1,yellow fever 
+477,1493,5,power of quarantine 
+477,1493,6,1799;1878;1944 
+477,1493,7,over then next 
+477,1494,5,potentially sick people isolation 
+477,1494,6,14th century; 40 days 
+478,1495,1,Ebola 
+478,1495,6,21 days 
+478,1495,5,voluntary isolation 
+478,1496,6,21 days; three hours; twice-daily 
+478,1496,7,during the 
+478,1497,1,H1N1 flu  
+478,1497,8,H1N1 flu virus 
+478,1497,6,2009
+479,1498,6,21 days 
+479,1499,1,Ebola 
+71,1500,2,rash  
+71,1500,1,typhus  
+71,1500,3,bleeding 
+161,201,7,21-Dec
+161,201,7,October 29 2014 
+161,201,7,1976
+161,201,1,Ebola  
+278,202,1,ebola 
+278,202,8,virus 
+278,202,8,RNA viruses 
+278,202,8,Filoviridae 
+278,202,6,1976
+278,202,1,ebola 
+278,202,8,virus 
+278,202,8,RNA viruses 
+278,202,8,Filoviridae 
+278,202,6,1976
+278,203,8,airborne particles 
+278,203,3,research lab 
+278,203,1,ebola 
+278,203,7,2-21 days 
+278,203,2,no symptoms 
+278,203,8,airborne particles 
+278,203,3,research lab 
+278,203,1,ebola 
+278,203,7,2-21 days 
+278,203,2,no symptoms 
+278,204,8,virus 
+278,204,8,animal 
+278,204,7,latter stages 
+278,204,5,The Centers for Disease Control and Prevention 
+278,204,5,CDC 
+278,204,8,Category “A�? agent 
+278,204,8,virus 
+278,204,8,animal 
+278,204,7,latter stages 
+278,204,5,The Centers for Disease Control and Prevention 
+278,204,5,CDC 
+278,204,8,Category “A�? agent 
+279,205,8,Ebola virus 
+279,205,7,40 years ago 
+279,205,6,1976
+279,205,8,Ebola virus 
+279,205,7,40 years ago 
+279,205,6,1976
+279,206,6,1976
+279,206,5,CDC 
+279,206,6,1995
+279,206,1,ebola 
+279,206,6,1976
+279,206,5,CDC 
+279,206,6,1995
+279,206,1,ebola 
+280,207,8,Virus 
+280,207,1,Ebola 
+280,207,1,EBO-S 
+280,207,6,June 27  1976 
+280,207,1,hemorrhagic febrile 
+280,207,1,Ebola hemorrhagic fever 
+280,207,1,EHF 
+280,207,6,July 6  1976 
+280,207,6,14-Jul
+280,207,8,Virus 
+280,207,1,Ebola 
+280,207,1,EBO-S 
+280,207,6,June 27  1976 
+280,207,1,hemorrhagic febrile 
+280,207,1,Ebola hemorrhagic fever 
+280,207,1,EHF 
+280,207,6,July 6  1976 
+280,207,6,14-Jul
+280,208,6,Jul-12
+280,208,8,Ebola virus 
+280,208,1,Ebola 
+280,208,6,2000
+280,208,4,national emergency task force 
+280,208,4,World Health Organisation 
+280,208,5,U.S. Centers for Disease Control and Prevention 
+280,208,6,Jul-12
+280,208,8,Ebola virus 
+280,208,1,Ebola 
+280,208,6,2000
+280,208,4,national emergency task force 
+280,208,4,World Health Organisation 
+280,208,5,U.S. Centers for Disease Control and Prevention 
+281,209,8,Filoviridae 
+281,209,8,Marburg virus 
+281,209,6,1967
+281,209,8,green monkeys 
+281,209,3,research and vaccine production 
+281,209,8,Filoviridae 
+281,209,8,Marburg virus 
+281,209,6,1967
+281,209,8,green monkeys 
+281,209,3,research and vaccine production 
+281,210,8,monkeys 
+281,210,8,virus 
+281,210,5,Quarantine procedures 
+281,210,8,Marburg virus 
+281,210,8,monkeys 
+281,210,8,virus 
+281,210,5,Quarantine procedures 
+281,210,8,Marburg virus 
+281,211,8,Marburg virus 
+281,211,1,Ebola 
+281,211,8,Virus 
+281,211,8,Marburg virus 
+281,211,1,Ebola 
+281,211,8,Virus 
+282,212,4,ZMapp 
+282,212,4,experimental treatment 
+282,212,1,ebola 
+282,212,4,treatment 
+282,212,4,three monoclonal antibodies 
+282,212,4,cure 
+282,212,8,monkeys 
+282,212,8,ebola virus 
+282,212,4,ZMapp 
+282,212,4,experimental treatment 
+282,212,1,ebola 
+282,212,4,treatment 
+282,212,4,three monoclonal antibodies 
+282,212,4,cure 
+282,212,8,monkeys 
+282,212,8,ebola virus 
+282,213,4,Brincidofovir 
+282,213,4,oral drug 
+282,213,3,Phase 3 clinical testing 
+282,213,4,side effects 
+282,213,4,National Institutes of Health 
+282,213,4,Brincidofovir 
+282,213,4,oral drug 
+282,213,3,Phase 3 clinical testing 
+282,213,4,side effects 
+282,213,4,National Institutes of Health 
+283,214,1,Ebola hemorrhagic fever 
+283,214,8,Ebola virus 
+283,214,2,internal and external hemorrhage 
+283,214,2,bleeding 
+283,214,1,Ebola 
+283,214,1,Ebola hemorrhagic fever 
+283,214,8,Ebola virus 
+283,214,2,internal and external hemorrhage 
+283,214,2,bleeding 
+283,214,1,Ebola 
+283,215,1,Ebola hemorrhagic fever 
+283,215,6,1976
+283,215,8,virus 
+283,215,1,Ebola 
+283,215,1,Ebola hemorrhagic fever 
+283,215,6,1976
+283,215,8,virus 
+283,215,1,Ebola 
+284,216,8,needles 
+284,216,5,CDC 
+284,216,8,needles 
+284,216,5,CDC 
+285,217,2,sudden fever 
+285,217,2,intense weakness 
+285,217,1,ebola 
+285,217,2,internal and external bleeding 
+285,217,2,sudden fever 
+285,217,2,intense weakness 
+285,217,1,ebola 
+285,217,2,internal and external bleeding 
+286,218,1,ebola 
+286,218,1,ebola 
+287,219,4,ZMapp 
+287,219,4,treatment 
+287,219,4,anti-Ebola antibody 
+287,219,4,mice 
+287,219,4,ZMapp 
+287,219,4,treatment 
+287,219,4,anti-Ebola antibody 
+287,219,4,mice 
+287,220,4,mouse antibody 
+287,220,4,human antibody 
+287,220,4,stopping Ebola replication 
+287,220,1,ebola 
+287,220,4,chimeric antibodies 
+287,220,8,rhesus macaque monkeys 
+287,220,4,mouse antibody 
+287,220,4,human antibody 
+287,220,4,stopping Ebola replication 
+287,220,1,ebola 
+287,220,4,chimeric antibodies 
+287,220,8,rhesus macaque monkeys 
+288,221,5,vaccines 
+288,221,5,vaccines 
+289,222,,Ebola hemorrhagic fever 
+289,222,,Ebola hemorrhagic fever 
+290,223,5,ChAd3-ZEBOV 
+290,223,5,rVSV-ZEBOV 
+290,223,4,Phase I clinical trials 
+290,223,4,GlaxoSmithKline 
+290,223,5,ChAd3-ZEBOV 
+290,223,5,rVSV-ZEBOV 
+290,223,4,Phase I clinical trials 
+290,223,4,GlaxoSmithKline 
+291,224,1,ebola 
+291,224,8,virus 
+291,224,1,ebola 
+291,224,8,virus 
+291,225,1,ebola 
+291,225,1,ebola 
+291,226,1,ebola 
+291,226,4,Test results were negative 
+291,226,4,alternative diagnosis 
+291,226,1,ebola 
+291,226,4,Test results were negative 
+291,226,4,alternative diagnosis 
+294,227,,latest Ebola occurrence 
+294,227,,three weeks ago 
+294,227,,last Friday 
+294,227,,hemorrhaging 
+294,227,,latest Ebola occurrence 
+294,227,,three weeks ago 
+294,227,,last Friday 
+294,227,,hemorrhaging 
+294,228,8,virus 
+294,228,1,Ebola 
+294,228,8,virus 
+294,228,1,Ebola 
+297,229,1,Ebola 
+297,229,6,1976
+297,229,6,1989
+297,229,6,1994
+297,229,7,few months 
+297,229,8,chimpanzee  
+298,230,8,Ebola virus 
+298,230,6,1996
+298,230,6,2001-2002 
+298,230,6,2003
+298,230,8,pathogenic virus 
+298,231,1,Ebola 
+298,231,7,1989
+298,231,3,testing facilities 
+298,232,1,Ebola 
+298,232,6,1976
+298,232,6,2003
+298,232,6,Ebola virus 
+298,233,1,Ebola 
+298,233,1,flu-like symptoms 
+298,233,2,diarrhea 
+298,233,2,headache 
+298,233,2,achy muscle 
+3,234,8,bushmeat 
+3,234,1,ebola 
+3,234,8,wild animal 
+3,234,8,fruit bat 
+3,234,8,EBOV 
+3,234,8,monkey species 
+3,234,8,chimpanzees 
+3,234,8,gorillas 
+3,234,8,baboons 
+3,234,8,duikers 
+3,234,8,bushmeat 
+3,234,1,ebola 
+3,234,8,wild animal 
+3,234,8,fruit bat 
+3,234,8,EBOV 
+3,234,8,monkey species 
+3,234,8,chimpanzees 
+3,234,8,gorillas 
+3,234,8,baboons 
+3,234,8,duikers 
+3,235,3,Laboratory testing 
+3,235,1,EVD 
+3,235,2,low platelet count 
+3,235,2,increased white blood cell count 
+3,235,2,abnormalities in blood clotting 
+3,235,2,prolonged prothrombin time 
+3,235,3,electron microscopy 
+3,235,1,ebola 
+3,235,3,Laboratory testing 
+3,235,1,EVD 
+3,235,2,low platelet count 
+3,235,2,increased white blood cell count 
+3,235,2,abnormalities in blood clotting 
+3,235,2,prolonged prothrombin time 
+3,235,3,electron microscopy 
+3,235,1,ebola 
+3,236,8,genus Ebolavirus 
+3,236,1,Ebola 
+3,236,8,Bundibugyo virus 
+3,236,8,BDBV 
+3,236,8,Sudan virus 
+3,236,8,SUDV 
+3,236,8,Taï Forest virus 
+3,236,8,TAFV 
+3,236,8,Ebola virus 
+3,236,8,EBOV 
+3,236,8,Zaire Ebola virus 
+3,236,8,Reston virus 
+3,236,8,RESTV 
+3,236,8,genus Ebolavirus 
+3,236,1,Ebola 
+3,236,8,Bundibugyo virus 
+3,236,8,BDBV 
+3,236,8,Sudan virus 
+3,236,8,SUDV 
+3,236,8,Taï Forest virus 
+3,236,8,TAFV 
+3,236,8,Ebola virus 
+3,236,8,EBOV 
+3,236,8,Zaire Ebola virus 
+3,236,8,Reston virus 
+3,236,8,RESTV 
+304,237,1,Ebola 
+304,237,6,1976
+304,237,8,virus 
+304,238,6,1976
+304,238,1,Ebola 
+304,238,8,Ebola Virus 
+304,239,2,fever 
+304,239,8,Ebola virus 
+304,239,1,Ebola 
+304,240,1,Ebola 
+304,240,8,Ebola virus 
+304,240,8,Ebola-Ivory Coast 
+304,240,8,Ebola-Sudan 
+304,240,8,Ebola-Zaire 
+305,241,1,Ebola 
+305,241,8,Ebola virus 
+306,242,6,22-Jun-95
+306,242,2,consciousness 
+306,242,1,Ebola 
+306,243,1,Ebola 
+306,243,2,consciousness 
+306,243,6,22-Jun-95
+307,244,1,Ebola 
+307,244,6,1999
+307,244,6,1996
+307,244,3,blood transfusion 
+307,245,1,Ebola 
+307,245,6,1976
+307,245,8,pig 
+308,246,1,Ebola 
+308,246,4,Ebola treatment tried 
+308,246,6,1976
+309,247,1,Ebola 
+309,247,8,Virus 
+309,247,4,developing treatments 
+309,248,1,Ebola 
+310,249,1,Ebola 
+310,249,8,Ebola virus 
+310,250,1,Ebola 
+310,250,2,joint and muscle pain 
+310,250,2,fever 
+310,250,2,headache 
+310,250,2,sore throat 
+310,251,8,infected person 
+310,251,1,Ebola 
+310,251,1,virus 
+318,252,1,ebola 
+318,252,6,1976
+318,252,1,ebola 
+318,252,6,1976
+318,253,1,ebola 
+318,253,6,1976
+318,253,1,ebola 
+318,253,6,1976
+319,254,1,ebola 
+319,254,6,1976
+319,254,4,WHO 
+319,254,8,virus 
+319,254,1,ebola 
+319,254,6,1976
+319,254,4,WHO 
+319,254,8,virus 
+319,255,1,ebola 
+319,255,2,weakness 
+319,255,2,muscle pain 
+319,255,2,headaches 
+320,256,1,ebola 
+320,256,6,1976
+321,257,1,ebola 
+321,257,6,2014
+321,257,4,WHO 
+321,258,1,ebola 
+321,258,6,1976
+321,258,8,virus 
+321,258,2,dying 
+322,259,1,ebola 
+322,259,8,virus 
+322,261,1,ebola 
+322,261,4,vaccines 
+325,262,1,ebola 
+325,262,8,virus 
+325,263,2,symptoms 
+325,263,1,ebola 
+325,263,8,virus 
+325,263,2,flu-like symptoms
+326,264,8,virus 
+326,264,2,flu-like symptoms  
+338,271,5,Vaccine Development  
+338,271,6,few months 
+338,271,5,dose-response phase 1 
+338,272,5,scientists will begin testing three possible treatments 
+338,272,1,Ebola 
+338,272,4,antibodies 
+338,272,8,virus 
+339,273,1,Ebola 
+339,273,3,Laboratory in Winnipeg 
+339,273,5,second vaccine 
+339,273,8,virus 
+339,274,1,Ebola 
+339,274,3,laboratory 
+339,274,5,vaccine 
+339,275,1,Ebola 
+339,275,8,disease-causing agent 
+339,275,3,laboratory 
+339,275,5,vaccine 
+341,276,4,drug 
+341,276,5,Ebola virus 
+341,276,1,Ebola 
+341,276,4,Replacing lost blood 
+341,276,4,antiviral medications 
+341,276,4,Maintaining blood pressure 
+341,276,8,virus 
+342,277,5,Providing fluids 
+345,278,1,Ebola 
+345,278,8,virus 
+345,279,1,Ebola 
+345,279,7,three weeks 
+345,280,8,Fruit bats 
+345,280,8,chimpanzee 
+345,280,8,gorilla 
+345,280,8,monkeys 
+345,280,1,Ebola 
+352,281,6,1-Sep
+352,281,6,24-Oct-76
+352,281,8,viral  
+352,281,2,fever 
+352,282,6,1-Sep-76
+352,282,7,five days after 
+352,282,1,Ebola 
+352,282,8,fever 
+352,282,8,malaria symptoms 
+352,283,1,Ebola 
+352,283,8,Marburg virus 
+352,283,8,Ebola virus 
+352,283,7,eighth day 
+353,286,1,Ebola 
+353,286,8,Zaire virus 
+353,286,6,1976
+353,287,6,1976
+353,287,6,2000
+353,287,6,1995
+353,287,8,Ebola virus 
+353,287,1,Ebola virus disease 
+353,288,8,Ebola virus 
+353,288,1,Ebola 
+353,288,8,infected animal 
+354,289,1,Ebola 
+354,289,6,1976
+354,290,6,1665
+354,290,6,2012
+355,291,1,Ebola 
+355,291,8,virus 
+355,292,1,Ebola 
+355,292,8,virus 
+362,293,1,Ebola 
+362,293,1,TKM-Ebola 
+362,293,5,vaccine  
+362,293,4,three drugs 
+362,293,4,fourth dru 
+362,294,4,Ebola treatments 
+362,294,5,vaccine 
+362,294,3,first safety tests 
+362,294,3,field testing in Liberia 
+362,295,1,Sudan Ebola 
+362,295,1,Zaire Ebola 
+362,295,8,chimp 
+362,295,8,cold virus 
+364,296,1,Ebola 
+364,296,8,virus 
+364,296,4,experimental treatments 
+364,297,1,Ebola 
+364,297,4,lack of existing treatments 
+364,297,4,experimental drugs 
+364,297,4,treatments like zMapp 
+366,298,1,Ebola 
+366,298,8,virus 
+366,299,1,Ebola 
+367,300,1,Ebola 
+367,300,8,virus 
+367,300,8,bats 
+367,300,8,insect 
+367,300,6,December 6  2013 
+367,300,2,diarrhea 
+367,300,2,fever 
+367,301,1,Ebola 
+367,301,2,diarrhea 
+367,302,1,Ebola 
+368,303,1,Ebola haemorrhagic fever 
+368,303,1,EVD 
+368,303,6,1976
+368,303,6,1979
+368,303,6,1994
+368,303,8,virus of the filovirusg 
+368,304,1,Ebola 
+368,304,7,During 2014 
+368,305,1,Ebola 
+368,305,2,fatal illness 
+368,306,7,2 to 21 days 
+368,306,2,headache 
+368,306,2,muscle and joint pain 
+368,306,2,headache 
+368,306,2,sore throat 
+371,307,1,Ebola 
+371,307,8,virus 
+371,307,6,1976
+371,308,5,disease Control and Prevention 
+371,308,1,Ebola 
+371,308,8,virus 
+371,308,6,1976
+371,309,1,Ebola 
+371,309,8,virus 
+371,310,1,Ebola 
+371,310,7,8-10 days 
+371,310,7,21 days 
+372,311,1,Ebola 
+372,311,6,1976
+372,311,8,virus 
+372,311,8,chimps 
+372,311,8,Gorillas 
+423,350,1,Ebola 
+423,350,5,No specific treatment 
+423,350,5,vaccine 
+423,350,5,treating them 
+423,351,1,Ebola 
+423,351,6,2012
+423,351,6,42 days 
+423,351,4,treatment centre 
+424,352,1,Ebola 
+424,352,6,Mar-14
+424,352,6,Dec-13
+424,353,4,basic care 
+424,353,3,testing capability 
+424,353,4,care center 
+424,353,1,Ebola 
+424,354,4,treatment center 
+424,354,3,test negative 
+424,354,4,seeking medical treatment 
+430,355,1,Ebola 
+430,355,8,deadly virus 
+430,356,1,Ebola 
+430,356,8,deadliest viruses 
+430,357,1,Ebola 
+430,357,7,10 days 
+430,358,1,Ebola 
+430,358,1,Cholera 
+430,359,1,Ebola 
+430,359,4,earlier treatment 
+432,360,1,Ebola 
+432,360,4,plenty of liquids and oxygen 
+432,360,4,keeping their blood pressure steady 
+432,360,4,addressing symptoms 
+432,361,1,Ebola 
+432,361,8,virus 
+432,361,8,animals 
+432,361,8,forest antelope 
+432,361,8,fruit bat 
+432,362,2,headache 
+432,362,2,muscle pain 
+432,362,2,difficulty breathing 
+432,362,2,chills 
+435,363,1,Ebola 
+435,363,4,experimental drug 
+435,363,8,TKM-Ebola 
+435,364,1,Ebola 
+435,364,8,TKM-Ebola  
+435,364,3,clinical trial 
+436,365,1,Ebola 
+436,365,4,Treating Ebola 
+436,365,5,no drugs or vaccines 
+436,366,4,experimental drugs 
+436,366,2,Ebola 
+436,366,4,drug 
+436,367,7,few months 
+436,367,6,Treatments in West Africa  
+436,367,1,Ebola 
+436,368,1,Ebola 
+436,369,1,Ebola 
+440,370,1,Ebola 
+440,370,8,virus 
+440,370,6,1976
+440,370,7,1970s 
+440,371,1,Ebola 
+440,371,8,Ebola virus 
+440,371,6,1976
+442,372,1,Ebola 
+442,372,6,July 27 1976 
+442,372,8,virus 
+442,373,1,Ebola 
+442,373,6,September 1 1976 
+442,373,8,virus 
+442,374,1,Ebola 
+442,374,8,virus 
+442,375,1,Ebola 
+442,375,7,21 days 
+442,375,2,headache 
+442,375,2,muscle pain 
+444,376,6,June 27 1976 
+444,376,1,Ebola 
+444,376,2,diarrhea 
+444,377,1,Ebola 
+444,377,6,October of 2014 
+444,377,6,2014
+447,378,1,Ebola 
+447,379,1,Ebola 
+448,380,1,Ebola 
+448,380,5,vaccines 
+448,380,4,drugs 
+448,380,4,small pharmaceutical or biotechnology 
+448,381,1,Ebola 
+448,381,5,Ebola vaccine 
+448,381,7,this month 
+448,381,6,2013
+448,381,5,antibody  
+448,382,1,Ebola 
+448,382,8,virus 
+448,382,4,medicines 
+449,383,1,Ebola 
+449,383,4,bio-defense research 
+449,383,4,Ebola treatment 
+449,383,4,research department 
+449,384,1,Ebola virus disease 
+449,384,4,Effective treatment 
+449,384,5,aggressive supportive care 
+453,385,1,Ebola 
+453,385,8,animal 
+453,386,1,Ebola 
+453,386,8,sick person 
+453,387,1,Ebola 
+453,387,5,worry about breathing it in 
+453,388,1,Ebola 
+453,388,8,virus 
+453,388,8,pathogen 
+453,389,1,Ebola 
+453,389,8,virus 
+453,389,8,monkeys 
+457,390,1,Ebola 
+457,390,8,Virus 
+459,391,1,Ebola 
+459,391,6,1976
+459,392,1,Ebola 
+459,392,6,2014
+461,393,1,Ebola 
+461,393,8,Ebola virus 
+461,393,6,1976
+463,395,6,1976
+463,395,1,Ebola 
+463,395,8,Ebola virus 
+463,396,1,Ebola 
+463,396,6,March 23 2014 
+464,397,1,Ebola 
+464,397,6,1976
+464,398,7,1979
+464,398,6,1994
+103,1001,1,Ebola 
+103,1001,8,virus 
+103,1002,1,Ebola 
+103,1002,3,Blood transfusions 
+103,1002,3,Blood pressure medication 
+103,1002,3,Fluids and electrolytes 
+108,1003,1,Ebola 
+108,1003,4,healthcare setting 
+108,1003,2,symptoms of Ebola 
+108,1004,5,avoid areas in which the disease has been reported 
+108,1004,4,being treated 
+108,1004,1,Ebola 
+108,1005,8,virus 
+108,1005,1,Ebola 
+108,1005,5,Avoid direct contact with bodies 
+108,1006,5,use disposable masks gloves 
+108,1006,1,Ebola 
+108,1006,8,virus 
+109,1007,4,no treatment proven to be effective 
+109,1007,1,Ebola 
+109,1008,8,bats 
+109,1008,1,Ebola 
+109,1009,5,wearing of protective clothing 
+109,1009,4,complete equipment sterilization 
+109,1009,1,Ebola 
+110,1010,8,Ebola virus 
+110,1011,1,Ebola 
+110,1011,6,March 11 2015 
+110,1012,8,Ebola virus 
+111,1013,5,Preventing malaria  
+111,1013,4,antimalarial medication 
+111,1013,1,malaria 
+111,1014,1,malaria 
+111,1014,8,mosquito bite 
+111,1015,4,antimalarial drugs 
+112,1016,5,Malaria is preventable 
+112,1016,4,right medication 
+112,1016,1,malaria 
+112,1017,5,preventative medication 
+112,1018,4,malaria pills 
+112,1018,5,no vaccine for malaria 
+112,1018,1,malaria 
+113,1019,1,malaria 
+113,1020,1,malaria 
+114,1021,6,1999
+114,1021,5,promising malaria vaccines 
+114,1021,1,malaria 
+114,1022,1,malaria 
+114,1022,8,parasite 
+114,1022,4,public health 
+115,1023,8,transmitted by insects 
+115,1023,1,typhus 
+115,1023,5,Avoid overcrowded living conditions. 
+115,1024,5,Practice good hygiene 
+115,1024,1,typhus 
+115,1024,4,prescribe doxycycline and chloramphenical 
+116,1025,8,fleas ticks mites 
+116,1025,1,typhus 
+116,1025,5,wash clothing and bedding in extremely hot water 
+117,1026,5,Cleanliness is important 
+117,1026,1,typhus 
+117,1026,4,treatment of clothing for those at high risk 
+117,1027,2,headache chills high fever prostration 
+117,1028,1,typhus fever 
+118,1029,2,fever headache chills 
+118,1030,8,parasite 
+118,1031,1,typhus fever 
+118,1031,8,flying squirrels 
+118,1031,5,use insecticides 
+118,1032,6,2006
+118,1032,1,typhus 
+123,1033,1,cholera 
+123,1033,5,wash hands after using the toilet 
+123,1033,5,wash hands before cooking 
+123,1033,4,emergency sanitation facilities 
+123,1034,2,Diarrhea 
+123,1034,2,vomiting 
+123,1034,2,dehydration 
+123,1034,1,cholera 
+123,1034,2,Water purification 
+123,1035,4,treatment for cholera is oral rehydration 
+123,1035,2,diarrhea 
+123,1035,2,vomiting 
+126,1036,5,clean drinking water 
+126,1036,5,have appropriate sanitation and hygiene facilities 
+126,1036,1,cholera 
+126,1037,1,cholera 
+126,1037,5,vaccinated 
+126,1038,5,vaccination 
+126,1038,1,cholera 
+131,1039,1,typhus 
+131,1039,5,avoidance of the insects  
+131,1039,5,good hygiene and the use of insect repellents 
+131,1039,8,insect 
+131,1039,8,bacteria 
+131,1040,1,typhus 
+131,1040,4,antibiotics tetracycline or chloramphenicol 
+132,1041,1,EVD 
+132,1041,5,infection control measures 
+132,1041,5,Avoid contact with any medical equipment 
+132,1041,1,Ebola 
+132,1042,1,Ebola  
+132,1042,8,chimpanzees 
+132,1042,8,Gorilla 
+132,1042,8,Bats 
+132,1042,8,forest antelope 
+132,1042,8,porcupines 
+132,1042,5,Avoid close contact with wild animals 
+132,1043,1,EVD 
+132,1043,5,see a healthcare provider 
+132,1043,2,fever 
+132,1043,5,Seek medical attention immediately 
+133,1044,5,experimental vaccine 
+133,1044,8,vesicular stomatitis virus 
+133,1044,8,Ebola virus 
+133,1044,1,Ebola 
+134,1045,1,Ebola 
+134,1045,8,virus 
+134,1045,2,muscle and joint pain 
+134,1045,2,fever 
+134,1045,2,sore throat 
+134,1046,1,Ebola 
+134,1047,1,EVD 
+134,1047,5,no proven vaccine 
+134,1047,2,high fever 
+134,1047,2,central nervous system damage 
+134,1048,1,Ebola 
+134,1048,8,virus 
+135,1049,1,malaria 
+135,1049,8,mosquitoes  
+135,1049,5,Avoid sleeping outside 
+135,1050,5,antimalarial  
+135,1050,1,malaria 
+135,1050,5,Consult with a travel clinic healthcare provider 
+135,1050,5,practise malaria prophylaxis 
+135,1051,2,flu-like symptoms 
+135,1051,7,6 months after 
+135,1051,5,always inform any doctor treating you 
+135,1051,1,malaria 
+136,1052,1,malaria 
+136,1052,5,Bite prevention 
+136,1052,5,Awareness of risk  
+136,1052,5,Diagnosis � seek immediate medical advice 
+136,1052,4,tablets  
+136,1052,8,mosquito  
+136,1053,1,malaria 
+136,1053,8,mosquito  
+136,1053,5,Stay somewhere that has effective air conditioning 
+136,1053,5,make sure that doors and windows close properly. 
+136,1054,1,malaria 
+136,1054,5,antimalarial 
+137,1055,1,malaria 
+137,1055,5,proper steps to reduce the risk of exposure  
+137,1056,1,malria 
+137,1056,7,25-Apr
+137,1057,1,malaria 
+137,1058,1,malaria 
+141,1059,5,vaccine 
+141,1059,8,insects  
+141,1059,1,typhus 
+141,1060,5,maintaining personal hygiene 
+141,1060,5,controlling the rodent population 
+141,1060,8,lice 
+141,1060,8,rodents 
+141,1061,1,typhus 
+141,1061,6,past few years 
+141,1061,8,pest  
+142,1062,1,typhus 
+142,1062,5,vaccine 
+142,1062,8,lice 
+142,1062,5,avoid contact with lice 
+142,1063,4,treatment with the antibiotic doxycycline 
+142,1063,1,typhus 
+142,1064,8,bacteria 
+142,1064,1,parasites 
+142,1064,1,typhus 
+144,1065,7,mid-20th century 
+144,1065,1,typhus 
+144,1065,5,body louse must be eliminated 
+144,1065,5,pesticide 
+144,1066,6,after two to three weeks 
+144,1066,1,typhus 
+144,1066,2,headache 
+144,1066,2,general pain 
+144,1066,2,chills and fever 
+146,1067,1,typhus 
+146,1067,8,insects 
+146,1067,5,good hygiene and the use of insect repellents 
+146,1068,1,typhus 
+146,1068,8,viral and bacterial 
+147,1069,1,cholera 
+147,1069,5,providing clean water and proper sanitation 
+147,1069,5,Health education and good food hygiene are equally important 
+147,1070,5,strengthening surveillance and early warning 
+147,1070,5,routine treatment of a community 
+147,1070,4,antibiotics 
+147,1070,1,cholera 
+148,1071,1,Cholera 
+148,1071,5,Boil it cook it peel it or forget it 
+148,1071,5,Foods should be thoroughly cooked 
+148,1072,8,infected person 
+148,1072,1,Cholera 
+148,1073,2,watery diarrhea 
+148,1073,2,vomiting 
+148,1073,3,Lab tests include stool gram stain 
+148,1073,1,Cholera 
+149,1074,6,previous 5 days 
+149,1074,2,vomiting and diarrhoea 
+149,1075,8,Cholera organism  
+149,1075,1,Cholera 
+149,1076,1,Cholera 
+149,1076,8,fish or shellfish 
+149,1076,8,flies 
+151,1077,1,Ebola 
+151,1077,8,Ebola-virus 
+151,1077,5,Infection control strategies may have to be modified 
+151,1078,5,workers are not exposed to harmful levels of chemicals 
+151,1078,1,Ebola 
+151,1078,8,virus 
+151,1079,1,Ebola 
+151,1079,8,Virus 
+151,1079,5,personal protective equipment (PPE) 
+152,1080,1,Ebola Virus Disease 
+152,1080,8,virus 
+152,1080,5,avoid outbreak areas like Sierra Leone 
+153,1081,1,Ebola 
+153,1081,5,no vaccine 
+153,1081,8,Virus 
+153,1081,5,intensive supportive treatment given by a hospital 
+153,1082,1,Ebola virus disease 
+153,1082,6,1976
+153,1083,1,Ebola 
+153,1083,6,1976
+153,1084,1,Ebola 
+153,1084,2,fever  
+153,1084,8,animal 
+154,1085,5,avoid being bitten by mosquitoes 
+154,1085,8,mosquito 
+154,1085,4,anti-malarial drugs 
+154,1085,1,malaria 
+154,1086,4,prophylaxis drugs 
+154,1086,5,See a travel medicine expert before you go 
+154,1086,1,malaria 
+154,1087,2,fever 
+154,1087,2,chills 
+154,1087,2,sweating 
+154,1088,3,Diagnosis is made by a blood test 
+154,1088,1,malaria 
+155,1089,8,parasite called Plasmodium 
+155,1089,8,mosquito 
+155,1089,1,malaria 
+155,1090,1,Malaria 
+155,1090,8,mosquito 
+155,1090,8,insecticide  
+155,1090,5,Cover doors and windows with fine mesh netting 
+155,1090,5,Use air conditioning or a fan in your room 
+155,1091,1,Malaria 
+156,1092,1,Malaria 
+156,1092,5,Talk to your doctor or nurse if you feel seriously ill 
+156,1092,2,fever 
+156,1093,1,Malaria 
+156,1093,5,There are prescription medicines you can take to prevent malaria 
+156,1093,5,preventing mosquito bites 
+156,1093,8,mosquito 
+156,1094,1,Malaria 
+156,1094,2,high fevers 
+156,1094,2,chills 
+156,1094,2,flu-like illness 
+18,1095,1,typhus 
+18,1095,5,No vaccine  
+18,1095,5,Avoidance of endemic areas and crowding 
+18,1095,5,Treatment of domestic animals to eradicate fleas 
+18,1095,8,animals 
+18,1095,8,vectors 
+18,1095,8,fleas and rats in particular 
+18,1096,5,efforts to treat domestic animals 
+18,1096,5,avoid any physical contact with infested clothing 
+18,1096,7,5 days 
+18,1096,1,typhus 
+18,1097,1,typhus 
+18,1097,7,1-2 weeks 
+18,1097,7,12 days 
+18,1097,7,two weeks 
+242,1098,1,typhus 
+242,1098,5,Spraying with insecticides 
+242,1098,5,rodent control measures 
+242,1098,5,cutting down vegetation 
+242,1098,8,insecticide 
+242,1098,8,rodent 
+242,1099,1,typhus 
+242,1099,5,protecting the body from insect bites 
+242,1099,5,applying insect repellent to the skin 
+242,1099,5,vaccine  
+242,1099,8,insect 
+243,1100,1,typhus 
+243,1100,4,Chloramphenicol  
+243,1100,4,250 to 500 mg orally or intravenously 
+243,1100,4,Azithromycin 
+243,1100,7,six months 
+243,1101,2,high fever 
+243,1101,2,intense generalized headache 
+243,1101,2,diffuse myalgias 
+243,1101,2,rash 
+243,1101,1,Scrub typhus  
+243,1102,1,Scrub typhus 
+244,1103,1,cholera 
+244,1103,5,personal and general preventive measures should be taken 
+244,1103,5,Do not buy food from unlicensed food premises or illegal hawkers 
+244,1103,5,Pay attention to hygienic condition of shops and the holding temperature of food 
+244,1103,4,general preventive measures 
+244,1104,1,Cholera 
+244,1104,5,Keep raw and cooked food separately 
+244,1104,5,Consume cooked food as soon as possible 
+244,1104,5,Left-over food must be stored in a refrigerator 
+244,1105,1,Cholera 
+244,1105,4,Personal hygiene 
+244,1105,5,Keep kitchen clean 
+244,1105,5,Store refuse in a well-covered dustbin 
+246,1106,1,Cholera 
+246,1106,5,Vaccination and improved sanitation 
+246,1106,5,Cholera vaccine 
+246,1106,6,1980s 
+246,1107,5,impressive protection with cholera vaccine 
+246,1107,5,pertussis vaccine 
+246,1107,6,1970s 
+247,1108,1,Cholera 
+247,1108,7,SEPTEMBER LAST YEAR 
+247,1109,2,diarrhea 
+247,1109,2,vomiting 
+247,1109,2,dehydration 
+247,1109,1,Cholera 
+247,1109,2,electrolyte imbalances 
+247,1110,8,bacteria 
+247,1110,1,Cholera 
+249,1111,1,Cholera 
+249,1111,6,1817
+249,1112,1,Cholera 
+249,1112,7,early years 
+251,1113,1,Ebola 
+251,1113,7,26-year 
+251,1114,1,Ebola 
+251,1115,1,Ebola 
+251,1115,8,virus 
+251,1115,5,spraying medical gloves 
+251,1115,5,removal of hazardous materials from treatment sites 
+252,1116,1,Ebola 
+252,1116,5,avoiding contact with blood and body fluids 
+252,1116,5,practicing careful hand hygiene 
+252,1116,5,educating themselves on recognizing the disease and preventing it 
+252,1117,1,Ebola 
+252,1117,5,refraining from engaging in burial rituals 
+252,1117,5,handling items a person with Ebola has handled 
+252,1118,1,Ebola 
+252,1118,5,Healthcare workers and lab technicians also must practice very careful precautions 
+252,1118,5,isolating people with Ebola 
+252,1118,5,wearing protective gowns 
+252,1119,1,Ebola 
+252,1119,5,Cleaning crews should use a bleach solution to clean floors 
+252,1119,8,virus 
+253,1120,1,Ebola 
+253,1120,2,Fever 
+253,1120,8,Ebola virus 
+253,1120,2,internal bleeding and organ failure 
+253,1121,1,Ebola 
+253,1121,8,Ebola virus 
+253,1122,3,support for laboratory testing 
+253,1122,1,Ebola 
+258,1123,1,Malaria 
+258,1123,5,Awareness of risk 
+258,1123,5,Bite avoidance 
+258,1123,5,taking preventive medicines 
+258,1123,4,early treatment of an infected case 
+258,1124,1,Malaria 
+258,1124,4,medicine 
+258,1124,5,Measures to avoid bites should always be taken 
+258,1125,8,Mosquitoes that carry malaria 
+258,1125,1,Malaria 
+258,1125,5,Air-conditioned rooms are good 
+258,1125,5,There should be no holes in the gauze 
+258,1125,4,doxycycline  
+258,1126,4,chloroquine and other drugs 
+258,1126,5,choosing the most appropriate antimalarial 
+258,1126,8,mosquito 
+258,1126,1,malaria 
+259,1127,8, Plasmodium falciparum 
+259,1127,8,P. vivax 
+259,1127,8,P. ovale  and P. malariae 
+259,1127,8,mosquito vector 
+259,1128,1,malaria 
+259,1128,1,malaria 
+259,1128,8,P. falciparum malaria 
+259,1128,7,2006
+259,1129,1,malaria 
+259,1129,4,mefloquine 
+262,1130,5,expanding coverage of insecticide-treated bed nets 
+262,1130,5,expanding use of intermittent preventive treatment for pregnant women 
+262,1130,5,use of indoor residual spraying with DDT 
+262,1130,1,malaria 
+262,1131,1,malaria 
+262,1131,4,inexpensive drugs 
+262,1131,1,Tuberculosis and Malaria  
+264,1133,5,Immunization and louse control 
+264,1133,5,dusting infested people with malathion or lindane 
+264,1133,5,Lice may be eliminated  
+264,1133,8,lice 
+264,1134,8,Louse  
+264,1135,4,doxycycline 200 mg po once followed by 100 mg 
+264,1135,7,7 days 
+264,1135,4,Chloramphenicol 500 mg 
+264,1136,1,typhus 
+264,1136,7,7 to 10 days 
+264,1136,2,rash 
+266,1137,7,3�5 days 
+266,1137,4,treatment with doxycycline 
+266,1137,5,murine typhus should be promptly reported 
+266,1137,5,typhus should be considered in the differential diagnosis 
+266,1138,1,typhus 
+266,1138,8,rodents 
+266,1138,8,animals  
+266,1139,6,2 decades 
+266,1139,6,8 mosquito 
+266,1139,6,8 virus 
+267,1140,5,Control flea infestation 
+267,1140,5,Eliminate food sources and other areas that may harbor wild animals 
+267,1140,5,Take personal precautions 
+268,1141,1,typhus 
+268,1141,5,environmental hygiene 
+268,1141,5,personal protection 
+268,1141,5,health education 
+268,1141,5,infestation control 
+268,1141,5,disease notification 
+268,1142,5,report suspected or confirmed cases 
+268,1142,5,public health control measures 
+268,1142,5,monitor the trend of the disease 
+268,1142,1,typhus 
+268,1142,7,1951
+269,1143,2,diarrhoea 
+269,1143,1,cholera 
+269,1143,5,provision and use of clean drinking water 
+269,1143,5,good home and environmental hygiene and sanitation 
+269,1143,5,avoidance of potentially contaminated foods 
+269,1144,5,vaccination 
+269,1144,5,giving antibiotics to large numbers of people 
+269,1144,4,antibiotics 
+269,1144,5,restricting food imports from affected areas 
+269,1145,2,diarrhoea.  
+269,1145,2,dehydration 
+269,1145,4,vaccination 
+269,1145,4,quarantine 
+269,1145,1,Cholera 
+271,1146,1,Cholera 
+271,1146,5,Proper disposal of sewage Sterilization of contaminated infected materials 
+271,1146,5,Use of disinfectants like chlorine beach Warning boards over contaminated water sources 
+271,1146,5,directions on the water treatment strategies 
+271,1146,5,Water purification measures 
+271,1147,5,Piped water sources Drinks sold in cups 
+271,1147,5,Food or beverages from street vendors 
+271,1147,5,Unpasteurized milk and milk products 
+273,1148,2,profound fluid and electrolyte losses in the stool 
+273,1148,2,Vomiting 
+273,1148,2,diarrhea 
+273,1149,8,V. cholerae 
+273,1149,1,Cholera 
+273,1149,3,microbiology laboratories 
+273,1149,3,selective media and biochemical tests 
+274,1150,1,Cholera 
+274,1151,1,Cholera 
+274,1151,6,19th century 
+274,1151,6,1855
+274,1152,6,1883
+274,1152,1,Cholera 
+4,1153,1,Ebola 
+4,1153,5,Raising awareness 
+4,1153,8,Ebola infection 
+4,1154,5,clean  non-sterile long-sleeved gown  and gloves  
+4,1154,8, Ebola virus 
+4,1154,1,Ebola 
+4,1155,1,Ebola 
+4,1155,8,Ebola virus 
+65,1156,1,cholera 
+65,1156,5,vaccine against cholera 
+65,1156,5,using only water that has been boiled 
+65,1156,6,few months 
+65,1157,2,watery diarrhea and vomiting 
+65,1157,4,highly treatable 
+65,1157,1,Cholera 
+68,1158,1,cholera 
+68,1159,8,fish and shellfish 
+68,1159,2,diarrhea 
+68,1159,1,cholera 
+68,1159,5,waste must be kept from entering any water supply 
+68,1160,1,cholera 
+68,1160,8,flies 
+68,1160,5,keep garbage far away from food 
+68,1160,5,toilets will be sealed 
+68,1161,4,Drinking water 
+68,1161,2,diarrhea 
+7,1162,1,Ebola viral disease 
+7,1162,7,7days 
+7,1162,7,21days 
+7,1163,1,Ebola viral disease 
+7,1163,8,Gorilla 
+7,1163,8,chimpanzees 
+7,1163,8,monkeys 
+73,1164,1,Ebola 
+73,1164,8,Ebola virus 
+73,1164,5,droplet precautions to care 
+76,1165,1,Ebola 
+76,1165,5,Use soap and water 
+76,1165,8,infectious diseases 
+76,1166,5,vaccine development 
+76,1166,8,Ebola or Marburg viruses 
+76,1166,1,Ebola 
+78,1167,7,current Ebola Crisis 
+78,1167,1,Ebola 
+78,1168,6,late 1800s 
+78,1168,8,Ebola virus 
+78,1169,1,Ebola 
+82,1171,8,Mosquito 
+82,1171,5,protective clothing 
+82,1171,2,mosquito bites 
+82,1172,1,malaria 
+82,1172,2,being sick 
+82,1172,5,take preventive malaria medicines 
+84,1173,1,malaria 
+85,1175,5,malaria prevention 
+85,1175,8,mosquito 
+85,1175,1,Malaria an infectious disease 
+85,1176,5,malaria prevention and control  
+85,1176,1,malaria 
+85,1176,4,treatment for malaria 
+86,1177,5,precautions include wearing light 
+86,1177,1,malaria 
+86,1177,8,mosquito that spreads malaria 
+86,1178,1,malaria 
+86,1178,5,malaria vaccine 
+87,1179,1,malaria 
+87,1180,5,malaria prevention 
+88,1181,5,reducing populations of rats  mice 
+88,1181,1,typhus 
+88,1181,8,fleas 
+88,1182,1,typhus 
+88,1182,5,vaccines 
+88,1182,4,taking any antibiotics 
+89,1183,5,Using insecticides 
+89,1183,4,1% permethrin 
+89,1183,8,lice 
+89,1184,8,Rickettsia typhi 
+89,1184,1,typhus 
+89,1185,2,Abdominal pain Backache Dull 
+89,1186,4,antibiotics such as:Doxycycline Tetracycline 
+90,1187,1,typhus 
+90,1187,8,fleas  lice and chiggers 
+90,1187,5,Bedding Clothes Linens 
+91,1188,8,lice 
+91,1188,5,Boiling clothes 
+91,1188,4,public health measures 
+91,1189,8,Rickettsia prowazekii 
+91,1190,1,typhus 
+93,1191,1,cholera 
+93,1191,5,Wash hands with soap 
+93,1191,4,alcohol-based hand sanitizer 
+93,1192,5,Eat food that's completely cooked 
+93,1192,4,Avoid sushi 
+93,1192,1,cholera 
+93,1193,1,cholera 
+93,1193,5,immunization against cholera 
+93,1193,4,local office of public health 
+96,1194,1,cholera 
+96,1194,5,Cholera vaccines 
+96,1194,3,diagnosed by the discovery of the bacteria 
+96,1195,2,diarrhea and vomiting 
+96,1196,1,cholera 
+96,1197,1,cholera 
+97,1198,1,cholera 
+97,1198,5,vaccine 
+97,1198,7,six weeks apart 
+97,1199,6,1971
+97,1199,7,19th century 
+97,1200,4,antibiotics 
 100,601,1,Plasmodium falciparum malaria 
-100,601,4,artemisinin-based combination therapies (ACTs), 
-100,601,8,P. vivax, P. malariae, P. ovale and P. knowlesi 
+100,601,4,artemisinin-based combination therapies (ACTs)
+100,601,8,P. vivax
 101,603,5,antibodies 
 101,603,6,24 hours of infection 
 101,603,8,Ebola virus 
 101,604,6,1976 in Zaire 
 101,604,8,Filoviridae; 
-101,605,6,May 2011 
-101,605,5,hydration, oxygen and treatment of complicating infections 
+101,605,6,May-11
+101,605,5,hydration
 101,605,1,Ebola 
 102,606,1,Ebola 
 102,607,4,ZMapp 
 102,607,1,Ebola. 
 102,607,5,genetically engineered antibodies 
-102,608,4,Brincidofovir, 
+102,608,4,Brincidofovir
 102,608,8,Ebola virus 
 102,608,6,first patient 
 102,609,4,Blood transfusions from an Ebola survivor 
@@ -3732,14 +5495,14 @@ URLNO ,PNO,RFN,VAL
 102,609,7,decades 
 103,610,2,bleeding inside and outside the body. 
 103,610,8,Ebola virus 
-103,611,2,colds, influenza, or measles 
+103,611,2,colds
 103,612,6,2 to 21 days 
-103,612,2,vomit or cough up blood, have bloody diarrhea, and get a rash 
+103,612,2,vomit or cough up blood
 104,613,4,rehydration with ORS 
 104,613,7,primary 
 104,613,1,cholera. 
 104,614,6,24 hours 
-104,614,4,ibramycin, Oracea, Adoxa, Atridox, and others 
+104,614,4,ibramycin
 104,614,3,perform a full reassessment 
 105,615,4,oral rehydration therapy 
 105,615,6,first two to four hours 
@@ -3759,8 +5522,8 @@ URLNO ,PNO,RFN,VAL
 119,623,6,August 2000 to January 2001. 
 119,623,3,PCR (RT-PCR) 
 119,623,8,ebolavirus 
-119,623,6,1976 
-119,623,6,1979 
+119,623,6,1976
+119,623,6,1979
 119,623,6,24 to 48 h 
 120,624,8,Ebola Virus 
 120,625,3,laboratory biosafety 
@@ -3770,15 +5533,15 @@ URLNO ,PNO,RFN,VAL
 120,627,3,PCR tests 
 120,627,6,December 
 120,627,3,Ebola diagnostic tests 
-121,628,3,blood tests for Ebola, 
+121,628,3,blood tests for Ebola
 121,628,2,fever 
 121,628,2,nausea 
 121,628,2,diarrhea 
 121,628,1,Ebola 
 121,629,6,21 days 
 121,629,1,Ebola 
-121,629,6,Oct. 17, 
-121,629,3,negative Ebola test, 
+121,629,6,Oct. 17
+121,629,3,negative Ebola test
 121,630,3,RT-PCR 
 121,630,2,fever 
 121,630,6,two days 
@@ -3811,11 +5574,11 @@ URLNO ,PNO,RFN,VAL
 269,639,8,Vibrio cholerae 
 269,639,4,Phenol 
 27,640,4,antimalarial drugs 
-27,640,2,control fever, antiseizure 
+27,640,2,control fever
 27,640,1,malaria 
 27,641,1,falciparum malaria 
-27,641,4,Quinine, proguanil and clindamycin 
-27,641,2,breathing failure, coma and kidney failure 
+27,641,4,Quinine
+27,641,2,breathing failure
 27,641,7,first days of treatment 
 270,642,1,cholera 
 270,642,4,fluids and electrolytes 
@@ -3838,8 +5601,8 @@ URLNO ,PNO,RFN,VAL
 272,646,2,dehydration 
 272,647,8,V. cholerae 
 272,647,2,diarrhoea 
-272,647,8,V. parahaemolyticus, 
-272,647,8,V. mimicus, 
+272,647,8,V. parahaemolyticus
+272,647,8,V. mimicus
 272,647,8,aeromonas 
 272,647,1,meningitis 
 275,648,8,female Anopheles mosquito 
@@ -3852,7 +5615,7 @@ URLNO ,PNO,RFN,VAL
 275,649,3,RDT 
 275,649,8,malarial parasite 
 276,650,1,malaria 
-276,651,6,2010 
+276,651,6,2010
 276,651,1,malaria 
 277,652,1,malaria 
 277,652,8,Giemsa-stained parasites 
@@ -3900,9 +5663,9 @@ URLNO ,PNO,RFN,VAL
 296,665,8,Orientia tsutsugamushi 
 296,665,8,Gram-negative 
 296,665,8,Rickettsiaceae 
-296,665,6,1930 
+296,665,6,1930
 296,666,1,Paratyphoid 
-296,666,1,Dengue Fever, 
+296,666,1,Dengue Fever
 296,666,3,Weil-Felix test 
 296,667,3,PCR 
 296,667,3,culture 
@@ -3918,7 +5681,7 @@ URLNO ,PNO,RFN,VAL
 298,669,1,cholerae 
 298,669,3,stool culture 
 299,670,3,RDTs 
-299,670,3,IP cholera dipstick, 
+299,670,3,IP cholera dipstick
 299,670,3,SMART 
 299,670,3,IP dipstick 
 299,670,3,Medicos 
@@ -3940,7 +5703,7 @@ URLNO ,PNO,RFN,VAL
 301,675,8,Vibrio cholerae. 
 301,675,2,diarrhea 
 301,676,1,diarrhea 
-301,676,4,intravenous, or IV 
+301,676,4,intravenous
 301,676,3,Antibiotics 
 301,676,3,restore fluids 
 301,676,4,IV fluid 
@@ -3977,7 +5740,7 @@ URLNO ,PNO,RFN,VAL
 303,683,5,vaccines 
 311,684,4,supportive care 
 311,684,8,ebola virus 
-311,684,2,dehydration, or low oxygen level 
+311,684,2,dehydration
 311,684,2,blood loss 
 311,684,2,low blood pressure 
 311,684,4,palliative care 
@@ -4041,7 +5804,7 @@ URLNO ,PNO,RFN,VAL
 40,704,3,ELISA 
 40,704,1,Ebola 
 41,705,8,Ebola Virus 
-41,705,1,malaria, typhoid, influenza 
+41,705,1,malaria
 41,705,3,Testing for Ebola virus 
 41,706,5,isolate the virus 
 41,707,1,Ebola 
@@ -4054,7 +5817,7 @@ URLNO ,PNO,RFN,VAL
 42,709,1,reliable microscopic diagnosis 
 42,710,8,Parasite nucleic acids 
 42,710,3,PCR 
-42,710,2,febrile illnesses, 
+42,710,2,febrile illnesses
 43,711,4,reserving antimalarials 
 43,711,3,malaria rapid diagnostic test 
 43,711,1,Diagnostic testing 
@@ -4105,7 +5868,7 @@ URLNO ,PNO,RFN,VAL
 52,732,2,symptoms are common 
 53,733,3,PCR testing of skin biopsy of skin rash 
 53,733,7,usually late or after the disease has been treated 
-53,733,8,endemic typhus, anthrax, and other viral diseases 
+53,733,8,endemic typhus
 53,733,4,antirickettsial antibodies 
 53,734,7,Early diagnosis 
 53,734,1,typhus 
@@ -4113,7 +5876,7 @@ URLNO ,PNO,RFN,VAL
 54,735,8,Rickettsia typhi 
 54,736,7,after a course of empiric therapy 
 54,736,3,convalescent serum samples 
-54,736,1,cultures of blood, skin biopsy 
+54,736,1,cultures of blood
 55,737,1,malaria 
 55,737,4,strong clinical suspicion 
 55,737,7,until the diagnosis 
@@ -4140,7 +5903,7 @@ URLNO ,PNO,RFN,VAL
 59,746,1,parasitological confirmation of diagnosis 
 60,747,1,malaria 
 60,747,8,malaria parasite 
-60,748,2,age, pregnancy, allergies, or health problems 
+60,748,2,age
 60,749,6,the tests should be repeated 3 or 4 times 
 60,749,2,flu-like symptoms 
 61,750,5,preventative antimalarial tablets 
@@ -4161,12 +5924,12 @@ URLNO ,PNO,RFN,VAL
 65,756,5,Antibiotics 
 65,756,4,Hydration 
 65,756,1,cholera 
-65,756,8,bacteria, 
+65,756,8,bacteria
 66,757,4,Antibiotics 
 66,757,6,since 1964 
 66,757,1,cholera 
 66,758,4,Tetracycline 
-66,758,7,Recently, 
+66,758,7,Recently
 66,758,1,cholera 
 66,759,3,antimicrobial susceptibility testing 
 66,759,4,IV hydration 
@@ -4199,12 +5962,12 @@ URLNO ,PNO,RFN,VAL
 72,772,1,Typhus 
 72,772,5,Antibiotics 
 74,773,1,Ebola 
-74,773,4,Intravenous fluids, antibiotics, and oxygen 
-74,773,2,control fever, help the blood clot, and maintain blood pressure 
+74,773,4,Intravenous fluids
+74,773,2,control fever
 74,774,8,Ebola virus 
 74,774,4,supportive care 
 74,774,7,currently no proven treatment 
-74,775,2,control fever, help the blood clot, 
+74,775,2,control fever
 74,775,5,prevent secondary infections 
 74,775,4,Intravenous (IV) fluids 
 74,776,5,recover from the illness 
@@ -4244,21 +6007,21 @@ URLNO ,PNO,RFN,VAL
 92,792,8,Ebola virus 
 94,793,6,hundreds of years 
 94,793,7,Current measures 
-94,794,6,1942 
+94,794,6,1942
 94,794,7,early diagnosis 
 95,795,1,falciparum malaria 
 95,795,6,3-day treatment course 
 95,795,4,MMV 
 95,796,8,Plasmodium vivax 
-95,796,4,primaquine, 
+95,796,4,primaquine
 95,796,6,14 days 
 95,796,2,haemolysis. 
 98,797,1,Malaria 
 98,797,2,high fever and chills 
 98,798,8,mosquito infected with parasites 
 98,799,3,malaria parasite in your blood. 
-98,799,2,high fever, chills, and muscle pain 
-99,800,1,Falciparum malaria, 
+98,799,2,high fever
+99,800,1,Falciparum malaria
 99,800,4,combination of quinidine or quinine plus doxycycline 
 99,800,8,chloroquine-resistant infections 
 123,1801,1,cholera 
@@ -4332,7 +6095,7 @@ URLNO ,PNO,RFN,VAL
 130,1814,4,doxycycline 
 130,1814,4,azithromycin 
 130,1814,4,IV fluids 
-130,1814,2,kidney damage, lung damage 
+130,1814,2,kidney damage
 130,1815,1,Brill-Zinnser 
 130,1815,1,typhus 
 130,1815,4,antibiotics 
@@ -4350,8 +6113,8 @@ URLNO ,PNO,RFN,VAL
 137,1817,6, 21 h 
 137,1817,6, 29 h 
 137,1817,6,1-month 
-137,1818,6,September 2002 
-137,1818,6,November 2003 
+137,1818,6,Sep-02
+137,1818,6,Nov-03
 137,1818,4,azithromycin 
 137,1818,4,doxycycline 
 137,1818,1,typhus 
@@ -4360,7 +6123,7 @@ URLNO ,PNO,RFN,VAL
 140,1820,1,typhus 
 140,1820,8,Rickettsia prowazekii 
 140,1821,2,Typhus fevers 
-140,1821,8,fleas, lice, and mites 
+140,1821,8,fleas
 140,1821,8,Rickettsia 
 140,1821,1,typhus 
 140,1821,6,Today 
@@ -4387,12 +6150,12 @@ URLNO ,PNO,RFN,VAL
 145,1827,4,chloroquine 
 145,1827,4,quinidine 
 145,1827,4,doxycycline 
-145,1827,4,tetracycline or clindamycin, 
+145,1827,4,tetracycline or clindamycin
 145,1827,4,pyrimethamine 
 145,1828,1,Malaria 
 145,1828,3,blood samples 
 145,1828,6,two weeks 
-145,1828,2,ever, chills, sweating 
+145,1828,2,ever
 145,1828,6,years 
 150,1829,6,9 to 14 days 
 150,1829,6,12 to 18 days 
@@ -4421,7 +6184,7 @@ URLNO ,PNO,RFN,VAL
 23,1836,5,Providing intravenous fluids 
 24,1838,1,EVD 
 24,1838,4,treatment for EVD 
-24,1838,2,hypovolemia, electrolyte abnormalities, hematologic abnormalities 
+24,1838,2,hypovolemia
 24,1838,5,approved vaccines 
 24,1839,4,maintenance of blood pressure 
 24,1839,5,large volumes of intravenous fluids 
@@ -4430,11 +6193,11 @@ URLNO ,PNO,RFN,VAL
 24,1840,6,21days 
 24,1840,1,Ebola 
 24,1841,1,EVD 
-24,1841,2,symptoms vomiting, diarrhea, abdominal pain 
+24,1841,2,symptoms vomiting
 24,1841,5,control measures 
 24,1841,6,21days 
 245,1842,8,Ebola virus 
-245,1842,6,1976 
+245,1842,6,1976
 245,1842,1,Ebola 
 245,1843,8,Ebola virus 
 245,1843,4,supportive care 
@@ -4450,7 +6213,7 @@ URLNO ,PNO,RFN,VAL
 245,1844,2,vomiting 
 245,1844,2,nausea 
 245,1845,6,two days 
-245,1845,6,21 
+245,1845,6,21
 245,1845,8,Ebola virus 
 245,1846,4,supportive intensive care 
 245,1847,6,few week 
@@ -4510,7 +6273,7 @@ URLNO ,PNO,RFN,VAL
 26,1868,1,ebola 
 26,1868,8,virus 
 26,1869,1,ebola 
-26,1869,6,March 13 
+26,1869,6,13-Mar
 260,1871,4,antibiotics 
 260,1871,5,Vaccination 
 260,1872,6,2 weeks 
@@ -4551,7 +6314,7 @@ URLNO ,PNO,RFN,VAL
 265,1880,2,malaise 
 27,1881,6,2weeks 
 27,1881,1,Malaria 
-27,1881,2,fever, chills, sweating 
+27,1881,2,fever
 27,1881,7,After repeated exposure 
 28,1883,1,malaria 
 28,1883,4,cured with prescription drugs 
@@ -4562,7 +6325,7 @@ URLNO ,PNO,RFN,VAL
 28,1884,7,after months or years 
 28,1884,4,not treated 
 29,1885,8,P. falciparum 
-29,1885,7,last weeks, if not months 
+29,1885,7,last weeks
 29,1885,1,malaria 
 29,1886,7,malaria before 
 29,1886,1,malaria 
@@ -4685,9 +6448,9 @@ URLNO ,PNO,RFN,VAL
 329,1914,1,ebola 
 329,1914,2,kidney failing 
 329,1914,4,dialysis 
-330,1915,6,1976 
+330,1915,6,1976
 330,1915,1,Ebola 
-330,1915,6,2014 
+330,1915,6,2014
 331,1917,4, Experimental vaccines 
 331,1917,6,10 years 
 331,1917,2,joint and vision problems. 
@@ -4715,10 +6478,10 @@ URLNO ,PNO,RFN,VAL
 334,1922,8,Rickettsia 
 334,1922,1,typhus 
 334,1922,8,R. mooseri 
-334,1923,2,headache, 
+334,1923,2,headache
 334,1923,2,arthralgia 
-334,1923,2,ill feeling, 
-334,1923,2,high grade fever, 
+334,1923,2,ill feeling
+334,1923,2,high grade fever
 334,1923,2,a cutaneous rash 
 334,1923,7,spontaneously 
 334,1924,8,R. typhi 
@@ -4746,8 +6509,8 @@ URLNO ,PNO,RFN,VAL
 389,1930,2,malnutrition 
 389,1930,1,TB 
 390,1931,1,malaria 
-390,1931,6,1940 
-390,1931,6,1970 
+390,1931,6,1940
+390,1931,6,1970
 390,1931,8,mosquitoes 
 390,1931,4,chloroquine 
 390,1932,1,malaria 
@@ -4756,10 +6519,10 @@ URLNO ,PNO,RFN,VAL
 391,1933,1,malaria 
 391,1933,6,weeks 
 391,1933,6,2 month 
-391,1933,2,fever, 
-391,1933,2,headache, 
-391,1933,2,body ache, 
-391,1933,2,vomiting, 
+391,1933,2,fever
+391,1933,2,headache
+391,1933,2,body ache
+391,1933,2,vomiting
 391,1933,2,weakness 
 391,1933,2,diarrhea 
 393,1935,1,ebola 
@@ -4770,7 +6533,7 @@ URLNO ,PNO,RFN,VAL
 393,1936,2,hemorrhagic complications 
 393,1937,2,hemorrhagic complications 
 393,1937,6,days 6 
-393,1937,6,16 
+393,1937,6,16
 393,1937,8,Ebola virus 
 393,1938,4,Supportive treatment 
 393,1938,8,Ebola virus. 
@@ -4798,8 +6561,8 @@ URLNO ,PNO,RFN,VAL
 395,1945,1,ebola 
 395,1945,4,relief from symptoms 
 395,1945,4,supportive care 
-395,1946,6,September 2001 
-395,1946,6,October 2001 
+395,1946,6,Sep-01
+395,1946,6,Oct-01
 395,1946,8,Ebola virus 
 396,1947,2,dehydration 
 396,1947,1,Cholera 
@@ -4823,12 +6586,12 @@ URLNO ,PNO,RFN,VAL
 399,1953,5,cholera vaccine 
 399,1954,5,Peru-15 
 399,1954,1,cholera 
-399,1954,6,2003 
-399,1954,6,2004 
+399,1954,6,2003
+399,1954,6,2004
 399,1955,1,Cholera 
 399,1955,2,dehydrated 
 400,1956,4,replacing fluids 
-400,1956,4,electrolyte losses, 
+400,1956,4,electrolyte losses
 417,1957,1,typhus 
 417,1957,8,mice and rats 
 417,1957,2,spotted rash on the trunk 
@@ -4848,9 +6611,9 @@ URLNO ,PNO,RFN,VAL
 417,1960,7,short 
 417,1960,7,modern 
 417,1960,8,rickettsial strain 
-420,1961,2,headache, 
-420,1961,2,chills, 
-420,1961,2,prostration, 
+420,1961,2,headache
+420,1961,2,chills
+420,1961,2,prostration
 420,1961,2,fever 
 420,1961,2,hemorrhagic 
 420,1961,6,2 weeks 
@@ -4913,1235 +6676,3 @@ URLNO ,PNO,RFN,VAL
 51,2000,2,Renal insufficiency 
 51,2000,1,Pneumonia 
 51,2000,2,Central nervous system damage 
-103,101,1,Ebola 
-103,101,8,virus 
-103,102,1,Ebola 
-103,102,3,Blood transfusions 
-103,102,3,Blood pressure medication 
-103,102,3,Fluids and electrolytes 
-108,103,1,Ebola 
-108,103,4,healthcare setting 
-108,103,2,symptoms of Ebola 
-108,104,5,avoid areas in which the disease has been reported 
-108,104,4,being treated 
-108,104,1,Ebola 
-108,105,8,virus 
-108,105,1,Ebola 
-108,105,5,Avoid direct contact with bodies 
-108,106,5,use disposable masks gloves 
-108,106,1,Ebola 
-108,106,8,virus 
-109,107,4,no treatment proven to be effective 
-109,107,1,Ebola 
-109,108,8,bats 
-109,108,1,Ebola 
-109,109,5,wearing of protective clothing 
-109,109,4,complete equipment sterilization 
-109,109,1,Ebola 
-110,110,8,Ebola virus 
-110,111,1,Ebola 
-110,111,6,March 11 2015 
-110,112,8,Ebola virus 
-111,113,5,Preventing malaria  
-111,113,4,antimalarial medication 
-111,113,1,malaria 
-111,114,1,malaria 
-111,114,8,mosquito bite 
-111,115,4,antimalarial drugs 
-112,116,5,Malaria is preventable 
-112,116,4,right medication 
-112,116,1,malaria 
-112,117,5,preventative medication 
-112,118,4,malaria pills 
-112,118,5,no vaccine for malaria 
-112,118,1,malaria 
-113,119,1,malaria 
-113,120,1,malaria 
-114,121,6,1999 
-114,121,5,promising malaria vaccines 
-114,121,1,malaria 
-114,122,1,malaria 
-114,122,8,parasite 
-114,122,4,public health 
-115,123,8,transmitted by insects 
-115,123,1,typhus 
-115,123,5,Avoid overcrowded living conditions. 
-115,124,5,Practice good hygiene 
-115,124,1,typhus 
-115,124,4,prescribe doxycycline and chloramphenical 
-116,125,8,fleas ticks mites 
-116,125,1,typhus 
-116,125,5,wash clothing and bedding in extremely hot water 
-117,126,5,Cleanliness is important 
-117,126,1,typhus 
-117,126,4,treatment of clothing for those at high risk 
-117,127,2,headache chills high fever prostration 
-117,128,1,typhus fever 
-118,129,2,fever headache chills 
-118,130,8,parasite 
-118,131,1,typhus fever 
-118,131,8,flying squirrels 
-118,131,5,use insecticides 
-118,132,6,2006 
-118,132,1,typhus 
-123,133,1,cholera 
-123,133,5,wash hands after using the toilet 
-123,133,5,wash hands before cooking 
-123,133,4,emergency sanitation facilities 
-123,134,2,Diarrhea 
-123,134,2,vomiting 
-123,134,2,dehydration 
-123,134,1,cholera 
-123,134,2,Water purification 
-123,135,4,treatment for cholera is oral rehydration 
-123,135,2,diarrhea 
-123,135,2,vomiting 
-126,136,5,clean drinking water 
-126,136,5,have appropriate sanitation and hygiene facilities 
-126,136,1,cholera 
-126,137,1,cholera 
-126,137,5,vaccinated 
-126,138,5,vaccination 
-126,138,1,cholera 
-131,139,1,typhus 
-131,139,5,avoidance of the insects  
-131,139,5,good hygiene and the use of insect repellents 
-131,139,8,insect 
-131,139,8,bacteria 
-131,140,1,typhus 
-131,140,4,antibiotics tetracycline or chloramphenicol 
-132,141,1,EVD 
-132,141,5,infection control measures 
-132,141,5,Avoid contact with any medical equipment 
-132,141,1,Ebola 
-132,142,1,Ebola  
-132,142,8,chimpanzees 
-132,142,8,Gorilla 
-132,142,8,Bats 
-132,142,8,forest antelope 
-132,142,8,porcupines 
-132,142,5,Avoid close contact with wild animals 
-132,143,1,EVD 
-132,143,5,see a healthcare provider 
-132,143,2,fever 
-132,143,5,Seek medical attention immediately 
-133,144,5,experimental vaccine 
-133,144,8,vesicular stomatitis virus 
-133,144,8,Ebola virus 
-133,144,1,Ebola 
-134,145,1,Ebola 
-134,145,8,virus 
-134,145,2,muscle and joint pain 
-134,145,2,fever 
-134,145,2,sore throat 
-134,146,1,Ebola 
-134,147,1,EVD 
-134,147,5,no proven vaccine 
-134,147,2,high fever 
-134,147,2,central nervous system damage 
-134,148,1,Ebola 
-134,148,8,virus 
-135,149,1,malaria 
-135,149,8,mosquitoes  
-135,149,5,Avoid sleeping outside 
-135,150,5,antimalarial  
-135,150,1,malaria 
-135,150,5,Consult with a travel clinic healthcare provider 
-135,150,5,practise malaria prophylaxis 
-135,151,2,flu-like symptoms 
-135,151,7,6 months after 
-135,151,5,always inform any doctor treating you 
-135,151,1,malaria 
-136,152,1,malaria 
-136,152,5,Bite prevention 
-136,152,5,Awareness of risk  
-136,152,5,Diagnosis – seek immediate medical advice 
-136,152,4,tablets  
-136,152,8,mosquito  
-136,153,1,malaria 
-136,153,8,mosquito  
-136,153,5,Stay somewhere that has effective air conditioning 
-136,153,5,make sure that doors and windows close properly. 
-136,154,1,malaria 
-136,154,5,antimalarial 
-137,155,1,malaria 
-137,155,5,proper steps to reduce the risk of exposure  
-137,156,1,malria 
-137,156,7,April 25  
-137,157,1,malaria 
-137,158,1,malaria 
-141,159,5,vaccine 
-141,159,8,insects  
-141,159,1,typhus 
-141,160,5,maintaining personal hygiene 
-141,160,5,controlling the rodent population 
-141,160,8,lice 
-141,160,8,rodents 
-141,161,1,typhus 
-141,161,6,past few years 
-141,161,8,pest  
-142,162,1,typhus 
-142,162,5,vaccine 
-142,162,8,lice 
-142,162,5,avoid contact with lice 
-142,163,4,treatment with the antibiotic doxycycline 
-142,163,1,typhus 
-142,164,8,bacteria 
-142,164,1,parasites 
-142,164,1,typhus 
-144,165,7,mid-20th century 
-144,165,1,typhus 
-144,165,5,body louse must be eliminated 
-144,165,5,pesticide 
-144,166,6,after two to three weeks 
-144,166,1,typhus 
-144,166,2,headache 
-144,166,2,general pain 
-144,166,2,chills and fever 
-146,167,1,typhus 
-146,167,8,insects 
-146,167,5,good hygiene and the use of insect repellents 
-146,168,1,typhus 
-146,168,8,viral and bacterial 
-147,169,1,cholera 
-147,169,5,providing clean water and proper sanitation 
-147,169,5,Health education and good food hygiene are equally important 
-147,170,5,strengthening surveillance and early warning 
-147,170,5,routine treatment of a community 
-147,170,4,antibiotics 
-147,170,1,cholera 
-148,171,1,Cholera 
-148,171,5,Boil it cook it peel it or forget it 
-148,171,5,Foods should be thoroughly cooked 
-148,172,8,infected person 
-148,172,1,Cholera 
-148,173,2,watery diarrhea 
-148,173,2,vomiting 
-148,173,3,Lab tests include stool gram stain 
-148,173,1,Cholera 
-149,174,6,previous 5 days 
-149,174,2,vomiting and diarrhoea 
-149,175,8,Cholera organism  
-149,175,1,Cholera 
-149,176,1,Cholera 
-149,176,8,fish or shellfish 
-149,176,8,flies 
-151,177,1,Ebola 
-151,177,8,Ebola-virus 
-151,177,5,Infection control strategies may have to be modified 
-151,178,5,workers are not exposed to harmful levels of chemicals 
-151,178,1,Ebola 
-151,178,8,virus 
-151,179,1,Ebola 
-151,179,8,Virus 
-151,179,5,personal protective equipment (PPE) 
-152,180,1,Ebola Virus Disease 
-152,180,8,virus 
-152,180,5,avoid outbreak areas like Sierra Leone 
-153,181,1,Ebola 
-153,181,5,no vaccine 
-153,181,8,Virus 
-153,181,5,intensive supportive treatment given by a hospital 
-153,182,1,Ebola virus disease 
-153,182,6,1976  
-153,183,1,Ebola 
-153,183,6,1976 
-153,184,1,Ebola 
-153,184,2,fever  
-153,184,8,animal 
-154,185,5,avoid being bitten by mosquitoes 
-154,185,8,mosquito 
-154,185,4,anti-malarial drugs 
-154,185,1,malaria 
-154,186,4,prophylaxis drugs 
-154,186,5,See a travel medicine expert before you go 
-154,186,1,malaria 
-154,187,2,fever 
-154,187,2,chills 
-154,187,2,sweating 
-154,188,3,Diagnosis is made by a blood test 
-154,188,1,malaria 
-155,189,8,parasite called Plasmodium 
-155,189,8,mosquito 
-155,189,1,malaria 
-155,190,1,Malaria 
-155,190,8,mosquito 
-155,190,8,insecticide  
-155,190,5,Cover doors and windows with fine mesh netting 
-155,190,5,Use air conditioning or a fan in your room 
-155,191,1,Malaria 
-156,192,1,Malaria 
-156,192,5,Talk to your doctor or nurse if you feel seriously ill 
-156,192,2,fever 
-156,193,1,Malaria 
-156,193,5,There are prescription medicines you can take to prevent malaria 
-156,193,5,preventing mosquito bites 
-156,193,8,mosquito 
-156,194,1,Malaria 
-156,194,2,high fevers 
-156,194,2,chills 
-156,194,2,flu-like illness 
-18,195,1,typhus 
-18,195,5,No vaccine  
-18,195,5,Avoidance of endemic areas and crowding 
-18,195,5,Treatment of domestic animals to eradicate fleas 
-18,195,8,animals 
-18,195,8,vectors 
-18,195,8,fleas and rats in particular 
-18,196,5,efforts to treat domestic animals 
-18,196,5,avoid any physical contact with infested clothing 
-18,196,7,5 days 
-18,196,1,typhus 
-18,197,1,typhus 
-18,197,7,1-2 weeks 
-18,197,7,12 days 
-18,197,7,two weeks 
-242,198,1,typhus 
-242,198,5,Spraying with insecticides 
-242,198,5,rodent control measures 
-242,198,5,cutting down vegetation 
-242,198,8,insecticide 
-242,198,8,rodent 
-242,199,1,typhus 
-242,199,5,protecting the body from insect bites 
-242,199,5,applying insect repellent to the skin 
-242,199,5,vaccine  
-242,199,8,insect 
-243,200,1,typhus 
-243,200,4,Chloramphenicol  
-243,200,4,250 to 500 mg orally or intravenously 
-243,200,4,Azithromycin 
-243,200,7,six months 
-243,201,2,high fever 
-243,201,2,intense generalized headache 
-243,201,2,diffuse myalgias 
-243,201,2,rash 
-243,201,1,Scrub typhus  
-243,202,1,Scrub typhus 
-244,203,1,cholera 
-244,203,5,personal and general preventive measures should be taken 
-244,203,5,Do not buy food from unlicensed food premises or illegal hawkers 
-244,203,5,Pay attention to hygienic condition of shops and the holding temperature of food 
-244,203,4,general preventive measures 
-244,204,1,Cholera 
-244,204,5,Keep raw and cooked food separately 
-244,204,5,Consume cooked food as soon as possible 
-244,204,5,Left-over food must be stored in a refrigerator 
-244,205,1,Cholera 
-244,205,4,Personal hygiene 
-244,205,5,Keep kitchen clean 
-244,205,5,Store refuse in a well-covered dustbin 
-246,206,1,Cholera 
-246,206,5,Vaccination and improved sanitation 
-246,206,5,Cholera vaccine 
-246,206,6,1980s 
-246,207,5,impressive protection with cholera vaccine 
-246,207,5,pertussis vaccine 
-246,207,6,1970s 
-247,208,1,Cholera 
-247,208,7,SEPTEMBER LAST YEAR 
-247,209,2,diarrhea 
-247,209,2,vomiting 
-247,209,2,dehydration 
-247,209,1,Cholera 
-247,209,2,electrolyte imbalances 
-247,210,8,bacteria 
-247,210,1,Cholera 
-249,211,1,Cholera 
-249,211,6,1817 
-249,212,1,Cholera 
-249,212,7,early years 
-251,213,1,Ebola 
-251,213,7,26-year 
-251,214,1,Ebola 
-251,215,1,Ebola 
-251,215,8,virus 
-251,215,5,spraying medical gloves 
-251,215,5,removal of hazardous materials from treatment sites 
-252,216,1,Ebola 
-252,216,5,avoiding contact with blood and body fluids 
-252,216,5,practicing careful hand hygiene 
-252,216,5,educating themselves on recognizing the disease and preventing it 
-252,217,1,Ebola 
-252,217,5,refraining from engaging in burial rituals 
-252,217,5,handling items a person with Ebola has handled 
-252,218,1,Ebola 
-252,218,5,Healthcare workers and lab technicians also must practice very careful precautions 
-252,218,5,isolating people with Ebola 
-252,218,5,wearing protective gowns 
-252,219,1,Ebola 
-252,219,5,Cleaning crews should use a bleach solution to clean floors 
-252,219,8,virus 
-253,220,1,Ebola 
-253,220,2,Fever 
-253,220,8,Ebola virus 
-253,220,2,internal bleeding and organ failure 
-253,221,1,Ebola 
-253,221,8,Ebola virus 
-253,222,3,support for laboratory testing 
-253,222,1,Ebola 
-258,223,1,Malaria 
-258,223,5,Awareness of risk 
-258,223,5,Bite avoidance 
-258,223,5,taking preventive medicines 
-258,223,4,early treatment of an infected case 
-258,224,1,Malaria 
-258,224,4,medicine 
-258,224,5,Measures to avoid bites should always be taken 
-258,225,8,Mosquitoes that carry malaria 
-258,225,1,Malaria 
-258,225,5,Air-conditioned rooms are good 
-258,225,5,There should be no holes in the gauze 
-258,225,4,doxycycline  
-258,226,4,chloroquine and other drugs 
-258,226,5,choosing the most appropriate antimalarial 
-258,226,8,mosquito 
-258,226,1,malaria 
-259,227,8, Plasmodium falciparum 
-259,227,8,P. vivax 
-259,227,8,P. ovale  and P. malariae 
-259,227,8,mosquito vector 
-259,228,1,malaria 
-259,228,1,malaria 
-259,228,8,P. falciparum malaria 
-259,228,7,2006 
-259,229,1,malaria 
-259,229,4,mefloquine 
-262,230,5,expanding coverage of insecticide-treated bed nets 
-262,230,5,expanding use of intermittent preventive treatment for pregnant women 
-262,230,5,use of indoor residual spraying with DDT 
-262,230,1,malaria 
-262,231,1,malaria 
-262,231,4,inexpensive drugs 
-262,231,1,Tuberculosis and Malaria  
-264,233,5,Immunization and louse control 
-264,233,5,dusting infested people with malathion or lindane 
-264,233,5,Lice may be eliminated  
-264,233,8,lice 
-264,234,8,Louse  
-264,235,4,doxycycline 200 mg po once followed by 100 mg 
-264,235,7,7 days 
-264,235,4,Chloramphenicol 500 mg 
-264,236,1,typhus 
-264,236,7,7 to 10 days 
-264,236,2,rash 
-266,237,7,3–5 days 
-266,237,4,treatment with doxycycline 
-266,237,5,murine typhus should be promptly reported 
-266,237,5,typhus should be considered in the differential diagnosis 
-266,238,1,typhus 
-266,238,8,rodents 
-266,238,8,animals  
-266,239,6,2 decades 
-266,239,6,8 mosquito 
-266,239,6,8 virus 
-267,240,5,Control flea infestation 
-267,240,5,Eliminate food sources and other areas that may harbor wild animals 
-267,240,5,Take personal precautions 
-268,241,1,typhus 
-268,241,5,environmental hygiene 
-268,241,5,personal protection 
-268,241,5,health education 
-268,241,5,infestation control 
-268,241,5,disease notification 
-268,242,5,report suspected or confirmed cases 
-268,242,5,public health control measures 
-268,242,5,monitor the trend of the disease 
-268,242,1,typhus 
-268,242,7,1951 
-269,243,2,diarrhoea 
-269,243,1,cholera 
-269,243,5,provision and use of clean drinking water 
-269,243,5,good home and environmental hygiene and sanitation 
-269,243,5,avoidance of potentially contaminated foods 
-269,244,5,vaccination 
-269,244,5,giving antibiotics to large numbers of people 
-269,244,4,antibiotics 
-269,244,5,restricting food imports from affected areas 
-269,245,2,diarrhoea.  
-269,245,2,dehydration 
-269,245,4,vaccination 
-269,245,4,quarantine 
-269,245,1,Cholera 
-271,246,1,Cholera 
-271,246,5,Proper disposal of sewage Sterilization of contaminated infected materials 
-271,246,5,Use of disinfectants like chlorine beach Warning boards over contaminated water sources 
-271,246,5,directions on the water treatment strategies 
-271,246,5,Water purification measures 
-271,247,5,Piped water sources Drinks sold in cups 
-271,247,5,Food or beverages from street vendors 
-271,247,5,Unpasteurized milk and milk products 
-273,248,2,profound fluid and electrolyte losses in the stool 
-273,248,2,Vomiting 
-273,248,2,diarrhea 
-273,249,8,V. cholerae 
-273,249,1,Cholera 
-273,249,3,microbiology laboratories 
-273,249,3,selective media and biochemical tests 
-274,250,1,Cholera 
-274,251,1,Cholera 
-274,251,6,19th century 
-274,251,6,1855 
-274,252,6,1883 
-274,252,1,Cholera 
-4,253,1,Ebola 
-4,253,5,Raising awareness 
-4,253,8,Ebola infection 
-4,254,5,clean  non-sterile long-sleeved gown  and gloves  
-4,254,8, Ebola virus 
-4,254,1,Ebola 
-4,255,1,Ebola 
-4,255,8,Ebola virus 
-65,256,1,cholera 
-65,256,5,vaccine against cholera 
-65,256,5,using only water that has been boiled 
-65,256,6,few months 
-65,257,2,watery diarrhea and vomiting 
-65,257,4,highly treatable 
-65,257,1,Cholera 
-68,258,1,cholera 
-68,259,8,fish and shellfish 
-68,259,2,diarrhea 
-68,259,1,cholera 
-68,259,5,waste must be kept from entering any water supply 
-68,260,1,cholera 
-68,260,8,flies 
-68,260,5,keep garbage far away from food 
-68,260,5,toilets will be sealed 
-68,261,4,Drinking water 
-68,261,2,diarrhea 
-7,262,1,Ebola viral disease 
-7,262,7,7days 
-7,262,7,21days 
-7,263,1,Ebola viral disease 
-7,263,8,Gorilla 
-7,263,8,chimpanzees 
-7,263,8,monkeys 
-73,264,1,Ebola 
-73,264,8,Ebola virus 
-73,264,5,droplet precautions to care 
-76,265,1,Ebola 
-76,265,5,Use soap and water 
-76,265,8,infectious diseases 
-76,266,5,vaccine development 
-76,266,8,Ebola or Marburg viruses 
-76,266,1,Ebola 
-78,267,7,current Ebola Crisis 
-78,267,1,Ebola 
-78,268,6,late 1800s 
-78,268,8,Ebola virus 
-78,269,1,Ebola 
-82,271,8,Mosquito 
-82,271,5,protective clothing 
-82,271,2,mosquito bites 
-82,272,1,malaria 
-82,272,2,being sick 
-82,272,5,take preventive malaria medicines 
-84,273,1,malaria 
-85,275,5,malaria prevention 
-85,275,8,mosquito 
-85,275,1,Malaria an infectious disease 
-85,276,5,malaria prevention and control  
-85,276,1,malaria 
-85,276,4,treatment for malaria 
-86,277,5,precautions include wearing light 
-86,277,1,malaria 
-86,277,8,mosquito that spreads malaria 
-86,278,1,malaria 
-86,278,5,malaria vaccine 
-87,279,1,malaria 
-87,280,5,malaria prevention 
-88,281,5,reducing populations of rats  mice 
-88,281,1,typhus 
-88,281,8,fleas 
-88,282,1,typhus 
-88,282,5,vaccines 
-88,282,4,taking any antibiotics 
-89,283,5,Using insecticides 
-89,283,4,1% permethrin 
-89,283,8,lice 
-89,284,8,Rickettsia typhi 
-89,284,1,typhus 
-89,285,2,Abdominal pain Backache Dull 
-89,286,4,antibiotics such as:Doxycycline Tetracycline 
-90,287,1,typhus 
-90,287,8,fleas  lice and chiggers 
-90,287,5,Bedding Clothes Linens 
-91,288,8,lice 
-91,288,5,Boiling clothes 
-91,288,4,public health measures 
-91,289,8,Rickettsia prowazekii 
-91,290,1,typhus 
-93,291,1,cholera 
-93,291,5,Wash hands with soap 
-93,291,4,alcohol-based hand sanitizer 
-93,292,5,Eat food that's completely cooked 
-93,292,4,Avoid sushi 
-93,292,1,cholera 
-93,293,1,cholera 
-93,293,5,immunization against cholera 
-93,293,4,local office of public health 
-96,294,1,cholera 
-96,294,5,Cholera vaccines 
-96,294,3,diagnosed by the discovery of the bacteria 
-96,295,2,diarrhea and vomiting 
-96,296,1,cholera 
-96,297,1,cholera 
-97,298,1,cholera 
-97,298,5,vaccine 
-97,298,7,six weeks apart 
-97,299,6,1971 
-97,299,7,19th century 
-97,300,4,antibiotics 
-278,101,1,ebola 
-278,101,8,virus 
-278,101,8,RNA viruses 
-278,101,8,Filoviridae 
-278,101,6,1976 
-278,101,1,ebola 
-278,101,8,virus 
-278,101,8,RNA viruses 
-278,101,8,Filoviridae 
-278,101,6,1976 
-278,102,8,airborne particles 
-278,102,3,research lab 
-278,102,1,ebola 
-278,102,7,2-21 days 
-278,102,2,no symptoms 
-278,102,8,airborne particles 
-278,102,3,research lab 
-278,102,1,ebola 
-278,102,7,2-21 days 
-278,102,2,no symptoms 
-278,103,8,virus 
-278,103,8,animal 
-278,103,7,latter stages 
-278,103,5,The Centers for Disease Control and Prevention 
-278,103,5,CDC 
-278,103,8,Category â€œAâ€? agent 
-278,103,8,virus 
-278,103,8,animal 
-278,103,7,latter stages 
-278,103,5,The Centers for Disease Control and Prevention 
-278,103,5,CDC 
-278,103,8,Category â€œAâ€? agent 
-279,104,8,Ebola virus 
-279,104,7,40 years ago 
-279,104,6,1976 
-279,104,8,Ebola virus 
-279,104,7,40 years ago 
-279,104,6,1976 
-279,105,6,1976 
-279,105,5,CDC 
-279,105,6,1995 
-279,105,1,ebola 
-279,105,6,1976 
-279,105,5,CDC 
-279,105,6,1995 
-279,105,1,ebola 
-280,106,8,Virus 
-280,106,1,Ebola 
-280,106,1,EBO-S 
-280,106,6,June 27  1976 
-280,106,1,hemorrhagic febrile 
-280,106,1,Ebola hemorrhagic fever 
-280,106,1,EHF 
-280,106,6,July 6  1976 
-280,106,6,July 14 
-280,106,8,Virus 
-280,106,1,Ebola 
-280,106,1,EBO-S 
-280,106,6,June 27  1976 
-280,106,1,hemorrhagic febrile 
-280,106,1,Ebola hemorrhagic fever 
-280,106,1,EHF 
-280,106,6,July 6  1976 
-280,106,6,July 14 
-280,107,6,July 2012 
-280,107,8,Ebola virus 
-280,107,1,Ebola 
-280,107,6,2000 
-280,107,4,national emergency task force 
-280,107,4,World Health Organisation 
-280,107,5,U.S. Centers for Disease Control and Prevention 
-280,107,6,July 2012 
-280,107,8,Ebola virus 
-280,107,1,Ebola 
-280,107,6,2000 
-280,107,4,national emergency task force 
-280,107,4,World Health Organisation 
-280,107,5,U.S. Centers for Disease Control and Prevention 
-281,108,8,Filoviridae 
-281,108,8,Marburg virus 
-281,108,6,1967 
-281,108,8,green monkeys 
-281,108,3,research and vaccine production 
-281,108,8,Filoviridae 
-281,108,8,Marburg virus 
-281,108,6,1967 
-281,108,8,green monkeys 
-281,108,3,research and vaccine production 
-281,109,8,monkeys 
-281,109,8,virus 
-281,109,5,Quarantine procedures 
-281,109,8,Marburg virus 
-281,109,8,monkeys 
-281,109,8,virus 
-281,109,5,Quarantine procedures 
-281,109,8,Marburg virus 
-281,110,8,Marburg virus 
-281,110,1,Ebola 
-281,110,8,Virus 
-281,110,8,Marburg virus 
-281,110,1,Ebola 
-281,110,8,Virus 
-282,111,4,ZMapp 
-282,111,4,experimental treatment 
-282,111,1,ebola 
-282,111,4,treatment 
-282,111,4,three monoclonal antibodies 
-282,111,4,cure 
-282,111,8,monkeys 
-282,111,8,ebola virus 
-282,111,4,ZMapp 
-282,111,4,experimental treatment 
-282,111,1,ebola 
-282,111,4,treatment 
-282,111,4,three monoclonal antibodies 
-282,111,4,cure 
-282,111,8,monkeys 
-282,111,8,ebola virus 
-282,112,4,Brincidofovir 
-282,112,4,oral drug 
-282,112,3,Phase 3 clinical testing 
-282,112,4,side effects 
-282,112,4,National Institutes of Health 
-282,112,4,Brincidofovir 
-282,112,4,oral drug 
-282,112,3,Phase 3 clinical testing 
-282,112,4,side effects 
-282,112,4,National Institutes of Health 
-283,113,1,Ebola hemorrhagic fever 
-283,113,8,Ebola virus 
-283,113,2,internal and external hemorrhage 
-283,113,2,bleeding 
-283,113,1,Ebola 
-283,113,1,Ebola hemorrhagic fever 
-283,113,8,Ebola virus 
-283,113,2,internal and external hemorrhage 
-283,113,2,bleeding 
-283,113,1,Ebola 
-283,114,1,Ebola hemorrhagic fever 
-283,114,6,1976 
-283,114,8,virus 
-283,114,1,Ebola 
-283,114,1,Ebola hemorrhagic fever 
-283,114,6,1976 
-283,114,8,virus 
-283,114,1,Ebola 
-284,115,8,needles 
-284,115,5,CDC 
-284,115,8,needles 
-284,115,5,CDC 
-285,116,2,sudden fever 
-285,116,2,intense weakness 
-285,116,1,ebola 
-285,116,2,internal and external bleeding 
-285,116,2,sudden fever 
-285,116,2,intense weakness 
-285,116,1,ebola 
-285,116,2,internal and external bleeding 
-286,117,1,ebola 
-286,117,1,ebola 
-287,118,4,ZMapp 
-287,118,4,treatment 
-287,118,4,anti-Ebola antibody 
-287,118,4,mice 
-287,118,4,ZMapp 
-287,118,4,treatment 
-287,118,4,anti-Ebola antibody 
-287,118,4,mice 
-287,119,4,mouse antibody 
-287,119,4,human antibody 
-287,119,4,stopping Ebola replication 
-287,119,1,ebola 
-287,119,4,chimeric antibodies 
-287,119,8,rhesus macaque monkeys 
-287,119,4,mouse antibody 
-287,119,4,human antibody 
-287,119,4,stopping Ebola replication 
-287,119,1,ebola 
-287,119,4,chimeric antibodies 
-287,119,8,rhesus macaque monkeys 
-288,120,5,vaccines 
-288,120,5,vaccines 
-289,121,1,Ebola hemorrhagic fever 
-289,121,1,Ebola hemorrhagic fever 
-290,122,5,ChAd3-ZEBOV 
-290,122,5,rVSV-ZEBOV 
-290,122,4,Phase I clinical trials 
-290,122,4,GlaxoSmithKline 
-290,122,5,ChAd3-ZEBOV 
-290,122,5,rVSV-ZEBOV 
-290,122,4,Phase I clinical trials 
-290,122,4,GlaxoSmithKline 
-291,123,1,ebola 
-291,123,8,virus 
-291,123,1,ebola 
-291,123,8,virus 
-291,124,1,ebola 
-291,124,1,ebola 
-291,125,1,ebola 
-291,125,4,Test results were negative 
-291,125,4,alternative diagnosis 
-291,125,1,ebola 
-291,125,4,Test results were negative 
-291,125,4,alternative diagnosis 
-294,126,7,latest Ebola occurrence 
-294,126,7,three weeks ago 
-294,126,7,last Friday 
-294,126,2,hemorrhaging 
-294,126,7,latest Ebola occurrence 
-294,126,7,three weeks ago 
-294,126,7,last Friday 
-294,126,2,hemorrhaging 
-294,127,8,virus 
-294,127,1,Ebola 
-294,127,8,virus 
-294,127,1,Ebola 
-297,128,1,Ebola 
-297,128,6,1976 
-297,128,6,1989  
-297,128,6,1994  
-297,128,7,few months 
-297,128,8,chimpanzee  
-298,129,8,Ebola virus 
-298,129,6,1996 
-298,129,6,2001-2002 
-298,129,6,2003 
-298,129,8,pathogenic virus 
-298,130,1,Ebola 
-298,130,7,1989  
-298,130,3,testing facilities 
-298,131,1,Ebola 
-298,131,6,1976 
-298,131,6,2003 
-298,131,6,Ebola virus 
-298,132,1,Ebola 
-298,132,1,flu-like symptoms 
-298,132,2,diarrhea 
-298,132,2,headache 
-298,132,2,achy muscle 
-3,133,8,bushmeat 
-3,133,1,ebola 
-3,133,8,wild animal 
-3,133,8,fruit bat 
-3,133,8,EBOV 
-3,133,8,monkey species 
-3,133,8,chimpanzees 
-3,133,8,gorillas 
-3,133,8,baboons 
-3,133,8,duikers 
-3,133,8,bushmeat 
-3,133,1,ebola 
-3,133,8,wild animal 
-3,133,8,fruit bat 
-3,133,8,EBOV 
-3,133,8,monkey species 
-3,133,8,chimpanzees 
-3,133,8,gorillas 
-3,133,8,baboons 
-3,133,8,duikers 
-3,134,3,Laboratory testing 
-3,134,1,EVD 
-3,134,2,low platelet count 
-3,134,2,increased white blood cell count 
-3,134,2,abnormalities in blood clotting 
-3,134,2,prolonged prothrombin time 
-3,134,3,electron microscopy 
-3,134,1,ebola 
-3,134,3,Laboratory testing 
-3,134,1,EVD 
-3,134,2,low platelet count 
-3,134,2,increased white blood cell count 
-3,134,2,abnormalities in blood clotting 
-3,134,2,prolonged prothrombin time 
-3,134,3,electron microscopy 
-3,134,1,ebola 
-3,135,8,genus Ebolavirus 
-3,135,1,Ebola 
-3,135,8,Bundibugyo virus 
-3,135,8,BDBV 
-3,135,8,Sudan virus 
-3,135,8,SUDV 
-3,135,8,TaÃ¯ Forest virus 
-3,135,8,TAFV 
-3,135,8,Ebola virus 
-3,135,8,EBOV 
-3,135,8,Zaire Ebola virus 
-3,135,8,Reston virus 
-3,135,8,RESTV 
-3,135,8,genus Ebolavirus 
-3,135,1,Ebola 
-3,135,8,Bundibugyo virus 
-3,135,8,BDBV 
-3,135,8,Sudan virus 
-3,135,8,SUDV 
-3,135,8,TaÃ¯ Forest virus 
-3,135,8,TAFV 
-3,135,8,Ebola virus 
-3,135,8,EBOV 
-3,135,8,Zaire Ebola virus 
-3,135,8,Reston virus 
-3,135,8,RESTV 
-304,136,1,Ebola 
-304,136,6,1976 
-304,136,8,virus 
-304,137,6,1976 
-304,137,1,Ebola 
-304,137,8,Ebola Virus 
-304,138,2,fever 
-304,138,8,Ebola virus 
-304,138,1,Ebola 
-304,139,1,Ebola 
-304,139,8,Ebola virus 
-304,139,8,Ebola-Ivory Coast 
-304,139,8,Ebola-Sudan 
-304,139,8,Ebola-Zaire 
-305,140,1,Ebola 
-305,140,8,Ebola virus 
-306,141,6,22 June 1995 
-306,141,2,consciousness 
-306,141,1,Ebola 
-306,142,1,Ebola 
-306,142,2,consciousness 
-306,142,6,22 June 1995 
-307,143,1,Ebola 
-307,143,6,1999 
-307,143,6,1996 
-307,143,3,blood transfusion 
-307,144,1,Ebola 
-307,144,6,1976 
-307,144,8,pig 
-308,145,1,Ebola 
-308,145,4,Ebola treatment tried 
-308,145,6,1976 
-309,146,1,Ebola 
-309,146,8,Virus 
-309,146,4,developing treatments 
-309,147,1,Ebola 
-310,148,1,Ebola 
-310,148,8,Ebola virus 
-310,149,1,Ebola 
-310,149,2,joint and muscle pain 
-310,149,2,fever 
-310,149,2,headache 
-310,149,2,sore throat 
-310,150,8,infected person 
-310,150,1,Ebola 
-310,150,1,virus 
-318,151,1,ebola 
-318,151,6,1976 
-318,151,1,ebola 
-318,151,6,1976 
-318,152,1,ebola 
-318,152,6,1976 
-318,152,1,ebola 
-318,152,6,1976 
-319,153,1,ebola 
-319,153,6,1976 
-319,153,4,WHO 
-319,153,8,virus 
-319,153,1,ebola 
-319,153,6,1976 
-319,153,4,WHO 
-319,153,8,virus 
-319,154,1,ebola 
-319,154,2,weakness 
-319,154,2,muscle pain 
-319,154,2,headaches 
-320,155,1,ebola 
-320,155,6,1976 
-321,156,1,ebola 
-321,156,6,2014 
-321,156,4,WHO 
-321,157,1,ebola 
-321,157,6,1976 
-321,157,8,virus 
-321,157,2,dying 
-322,158,1,ebola 
-322,158,8,virus 
-322,160,1,ebola 
-322,160,4,vaccines 
-325,161,1,ebola 
-325,161,8,virus 
-325,162,2,symptoms 
-325,162,1,ebola 
-325,162,8,virus 
-325,162,2,flu-like symptoms 
-338,170,5,Vaccine Development  
-338,170,6,few months 
-338,170,5,dose-response phase 1 
-338,171,5,scientists will begin testing three possible treatments 
-338,171,1,Ebola 
-338,171,4,antibodies 
-338,171,8,virus 
-339,172,1,Ebola 
-339,172,3,Laboratory in Winnipeg 
-339,172,5,second vaccine 
-339,172,8,virus 
-339,173,1,Ebola 
-339,173,3,laboratory 
-339,173,5,vaccine 
-339,174,1,Ebola 
-339,174,8,disease-causing agent 
-339,174,3,laboratory 
-339,174,5,vaccine 
-341,175,4,drug 
-341,175,5,Ebola virus 
-341,175,1,Ebola 
-341,175,4,Replacing lost blood 
-341,175,4,antiviral medications 
-341,175,4,Maintaining blood pressure 
-341,175,8,virus 
-342,176,5,Providing fluids 
-345,177,1,Ebola 
-345,177,8,virus 
-345,178,1,Ebola 
-345,178,7,three weeks 
-345,179,8,Fruit bats 
-345,179,8,chimpanzee 
-345,179,8,gorilla 
-345,179,8,monkeys 
-345,179,1,Ebola 
-352,180,6,1 September 
-352,180,6,24 October 1976 
-352,180,8,viral  
-352,180,2,fever 
-352,181,6,1 September 1976 
-352,181,7,five days after 
-352,181,1,Ebola 
-352,181,8,fever 
-352,181,8,malaria symptoms 
-352,182,1,Ebola 
-352,182,8,Marburg virus 
-352,182,8,Ebola virus 
-352,182,7,eighth day 
-353,185,1,Ebola 
-353,185,8,Zaire virus 
-353,185,6,1976 
-353,186,6,1976 
-353,186,6,2000 
-353,186,6,1995 
-353,186,8,Ebola virus 
-353,186,1,Ebola virus disease 
-353,187,8,Ebola virus 
-353,187,1,Ebola 
-353,187,8,infected animal 
-354,188,1,Ebola 
-354,188,6,1976 
-354,189,6,1665 
-354,189,6,2012 
-355,190,1,Ebola 
-355,190,8,virus 
-355,191,1,Ebola 
-355,191,8,virus 
-362,192,1,Ebola 
-362,192,1,TKM-Ebola 
-362,192,5,vaccine  
-362,192,4,three drugs 
-362,192,4,fourth dru 
-362,193,4,Ebola treatments 
-362,193,5,vaccine 
-362,193,3,first safety tests 
-362,193,3,field testing in Liberia 
-362,194,1,Sudan Ebola 
-362,194,1,Zaire Ebola 
-362,194,8,chimp 
-362,194,8,cold virus 
-364,195,1,Ebola 
-364,195,8,virus 
-364,195,4,experimental treatments 
-364,196,1,Ebola 
-364,196,4,lack of existing treatments 
-364,196,4,experimental drugs 
-364,196,4,treatments like zMapp 
-366,197,1,Ebola 
-366,197,8,virus 
-366,198,1,Ebola 
-367,199,1,Ebola 
-367,199,8,virus 
-367,199,8,bats 
-367,199,8,insect 
-367,199,6,December 6  2013 
-367,199,2,diarrhea 
-367,199,2,fever 
-367,200,1,Ebola 
-367,200,2,diarrhea 
-367,201,1,Ebola 
-368,202,1,Ebola haemorrhagic fever 
-368,202,1,EVD 
-368,202,6,1976 
-368,202,6,1979 
-368,202,6,1994 
-368,202,8,virus of the filovirusg 
-368,203,1,Ebola 
-368,203,7,During 2014 
-368,204,1,Ebola 
-368,204,2,fatal illness 
-368,205,7,2 to 21 days 
-368,205,2,headache 
-368,205,2,muscle and joint pain 
-368,205,2,headache 
-368,205,2,sore throat 
-371,206,1,Ebola 
-371,206,8,virus 
-371,206,6,1976 
-371,207,5,disease Control and Prevention 
-371,207,1,Ebola 
-371,207,8,virus 
-371,207,6,1976 
-371,208,1,Ebola 
-371,208,8,virus 
-371,209,1,Ebola 
-371,209,7,8-10 days 
-371,209,7,21 days 
-372,210,1,Ebola 
-372,210,6,1976 
-372,210,8,virus 
-372,210,8,chimps 
-372,210,8,Gorillas 
-423,249,1,Ebola 
-423,249,5,No specific treatment 
-423,249,5,vaccine 
-423,249,5,treating them 
-423,250,1,Ebola 
-423,250,6,2012 
-423,250,6,42 days 
-423,250,4,treatment centre 
-424,251,1,Ebola 
-424,251,6,March 2014 
-424,251,6,December 2013 
-424,252,4,basic care 
-424,252,3,testing capability 
-424,252,4,care center 
-424,252,1,Ebola 
-424,253,4,treatment center 
-424,253,3,test negative 
-424,253,4,seeking medical treatment 
-430,254,1,Ebola 
-430,254,8,deadly virus 
-430,255,1,Ebola 
-430,255,8,deadliest viruses 
-430,256,1,Ebola 
-430,256,7,10 days 
-430,257,1,Ebola 
-430,257,1,Cholera 
-430,258,1,Ebola 
-430,258,4,earlier treatment 
-432,259,1,Ebola 
-432,259,4,plenty of liquids and oxygen 
-432,259,4,keeping their blood pressure steady 
-432,259,4,addressing symptoms 
-432,260,1,Ebola 
-432,260,8,virus 
-432,260,8,animals 
-432,260,8,forest antelope 
-432,260,8,fruit bat 
-432,261,2,headache 
-432,261,2,muscle pain 
-432,261,2,difficulty breathing 
-432,261,2,chills 
-435,262,1,Ebola 
-435,262,4,experimental drug 
-435,262,8,TKM-Ebola 
-435,263,1,Ebola 
-435,263,8,TKM-Ebola  
-435,263,3,clinical trial 
-436,264,1,Ebola 
-436,264,4,Treating Ebola 
-436,264,5,no drugs or vaccines 
-436,265,4,experimental drugs 
-436,265,2,Ebola 
-436,265,4,drug 
-436,266,7,few months 
-436,266,6,Treatments in West Africa  
-436,266,1,Ebola 
-436,267,1,Ebola 
-436,268,1,Ebola 
-440,269,1,Ebola 
-440,269,8,virus 
-440,269,6,1976 
-440,269,7,1970s 
-440,270,1,Ebola 
-440,270,8,Ebola virus 
-440,270,6,1976 
-442,271,1,Ebola 
-442,271,6,July 27 1976 
-442,271,8,virus 
-442,272,1,Ebola 
-442,272,6,September 1 1976 
-442,272,8,virus 
-442,273,1,Ebola 
-442,273,8,virus 
-442,274,1,Ebola 
-442,274,7,21 days 
-442,274,2,headache 
-442,274,2,muscle pain 
-444,275,6,June 27 1976 
-444,275,1,Ebola 
-444,275,2,diarrhea 
-444,276,1,Ebola 
-444,276,6,October of 2014 
-444,276,6,2014 
-447,277,1,Ebola 
-447,278,1,Ebola 
-448,279,1,Ebola 
-448,279,5,vaccines 
-448,279,4,drugs 
-448,279,4,small pharmaceutical or biotechnology 
-448,280,1,Ebola 
-448,280,5,Ebola vaccine 
-448,280,7,this month 
-448,280,6,2013 
-448,280,5,antibody  
-448,281,1,Ebola 
-448,281,8,virus 
-448,281,4,medicines 
-449,282,1,Ebola 
-449,282,4,bio-defense research 
-449,282,4,Ebola treatment 
-449,282,4,research department 
-449,283,1,Ebola virus disease 
-449,283,4,Effective treatment 
-449,283,5,aggressive supportive care 
-453,284,1,Ebola 
-453,284,8,animal 
-453,285,1,Ebola 
-453,285,8,sick person 
-453,286,1,Ebola 
-453,286,5,worry about breathing it in 
-453,287,1,Ebola 
-453,287,8,virus 
-453,287,8,pathogen 
-453,288,1,Ebola 
-453,288,8,virus 
-453,288,8,monkeys 
-457,289,1,Ebola 
-457,289,8,Virus 
-459,290,1,Ebola 
-459,290,6,1976  
-459,291,1,Ebola 
-459,291,6,2014 
-461,292,1,Ebola 
-461,292,8,Ebola virus 
-461,292,6,1976 
-463,294,6,1976 
-463,294,1,Ebola 
-463,294,8,Ebola virus 
-463,295,1,Ebola 
-463,295,6,March 23 2014 
-464,296,1,Ebola 
-464,296,6,1976 
-464,297,7,1979 
-464,297,6,1994 
