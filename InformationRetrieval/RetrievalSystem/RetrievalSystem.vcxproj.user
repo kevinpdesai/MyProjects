@@ -5,7 +5,7 @@
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <LocalDebuggerCommandArguments>"D:\Projects\MyProjects\InformationRetrieval\Data" "D:\Projects\MyProjects\InformationRetrieval\RetrievalSystem\resources" "ebola quarantine time"</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"D:\Projects\MyProjects\InformationRetrieval\Data" "D:\Projects\MyProjects\InformationRetrieval\RetrievalSystem\resources" "malaria quarantine time"</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

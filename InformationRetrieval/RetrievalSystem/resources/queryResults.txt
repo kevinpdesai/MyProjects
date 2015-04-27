@@ -34,3 +34,111 @@ Doc ID = 1413	Score = 6.13644
 Doc ID = 1169	Score = 6.10593
 Doc ID = 1582	Score = 6.06069
 Doc ID = 2604	Score = 6.04751
+Query : disease incubation time
+Scoring : TF-IDF 
+Doc ID = 1581	Score = 6.29125
+Doc ID = 1486	Score = 6.08952
+Doc ID = 1445	Score = 6.02907
+Doc ID = 2602	Score = 6.01814
+Doc ID = 2553	Score = 5.9849
+Doc ID = 1435	Score = 5.9767
+Doc ID = 1447	Score = 5.9677
+Doc ID = 1414	Score = 5.9677
+Doc ID = 2631	Score = 5.90202
+Doc ID = 2541	Score = 5.90202
+Query : malaria infection treatment
+Scoring : TF-IDF 
+Doc ID = 1776	Score = 9.36781
+Doc ID = 1773	Score = 8.21471
+Doc ID = 2771	Score = 6.51277
+Doc ID = 1480	Score = 6.47156
+Doc ID = 2773	Score = 6.4513
+Doc ID = 753	Score = 6.3619
+Doc ID = 745	Score = 6.28783
+Doc ID = 2733	Score = 6.2638
+Doc ID = 2294	Score = 6.2638
+Doc ID = 1900	Score = 6.2638
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.32197
+Doc ID = 2611	Score = 5.27324
+Doc ID = 1452	Score = 5.19949
+Doc ID = 1524	Score = 5.17002
+Doc ID = 1404	Score = 5.16966
+Doc ID = 1479	Score = 5.14451
+Doc ID = 1969	Score = 5.12481
+Doc ID = 1018	Score = 5.12481
+Doc ID = 2453	Score = 5.12436
+Doc ID = 1883	Score = 5.11115
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.32197
+Doc ID = 2611	Score = 5.27324
+Doc ID = 1452	Score = 5.19949
+Doc ID = 1524	Score = 5.17002
+Doc ID = 1404	Score = 5.16966
+Doc ID = 1479	Score = 5.14451
+Doc ID = 1969	Score = 5.12481
+Doc ID = 1018	Score = 5.12481
+Doc ID = 2453	Score = 5.12436
+Doc ID = 1883	Score = 5.11115
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.32197
+Doc ID = 2611	Score = 5.27324
+Doc ID = 1452	Score = 5.19949
+Doc ID = 1524	Score = 5.17002
+Doc ID = 1404	Score = 5.16966
+Doc ID = 1479	Score = 5.14451
+Doc ID = 1969	Score = 5.12481
+Doc ID = 1018	Score = 5.12481
+Doc ID = 2453	Score = 5.12436
+Doc ID = 1883	Score = 5.11115
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.32197
+Doc ID = 2611	Score = 5.27324
+Doc ID = 1452	Score = 5.19949
+Doc ID = 1524	Score = 5.17002
+Doc ID = 1404	Score = 5.16966
+Doc ID = 1479	Score = 5.14451
+Doc ID = 1969	Score = 5.12481
+Doc ID = 1018	Score = 5.12481
+Doc ID = 2453	Score = 5.12436
+Doc ID = 1883	Score = 5.11115
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.32197
+Doc ID = 2611	Score = 5.27324
+Doc ID = 1452	Score = 5.19949
+Doc ID = 1524	Score = 5.17002
+Doc ID = 1404	Score = 5.16966
+Doc ID = 1479	Score = 5.14451
+Doc ID = 1969	Score = 5.12481
+Doc ID = 1018	Score = 5.12481
+Doc ID = 2453	Score = 5.12436
+Doc ID = 1883	Score = 5.11115
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.32197
+Doc ID = 2611	Score = 5.27324
+Doc ID = 1452	Score = 5.19949
+Doc ID = 1524	Score = 5.17002
+Doc ID = 1404	Score = 5.16966
+Doc ID = 1479	Score = 5.14451
+Doc ID = 1969	Score = 5.12481
+Doc ID = 1018	Score = 5.12481
+Doc ID = 2453	Score = 5.12436
+Doc ID = 1883	Score = 5.11115
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.45811
+Doc ID = 2611	Score = 5.43793
+Doc ID = 1452	Score = 5.33564
+Doc ID = 1524	Score = 5.3347
+Doc ID = 1479	Score = 5.30919
+Doc ID = 1404	Score = 5.3058
+Doc ID = 1530	Score = 5.27324
+Doc ID = 1969	Score = 5.26096
+Doc ID = 1018	Score = 5.26096
+Doc ID = 2453	Score = 5.2605

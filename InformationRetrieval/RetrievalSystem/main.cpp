@@ -340,7 +340,7 @@ void processQuery(const string &query) {
 			prevurl = pnourls[qscore.top().second];
 		}
 		else {
-			cout << "URL unavailable" << endl;
+			cout << fileNames[qscore.top().second] << endl;
 		}
 		qscore.pop();
 	}
@@ -414,17 +414,17 @@ int main(int argc, char *argv[]) {
 	else {
 		dataDir = argv[1];
 		resourcesDir = argv[2];
-		filesDir = dataDir + "/files";
-		annoFile = dataDir + "/annotations.csv";
-		urlsFile = dataDir + "/urls.csv";
-		urlmapFile = resourcesDir + "/urlmap.txt";
-		filemapFile = resourcesDir + "/filemap.txt";
-		lembin = resourcesDir + "/lem-m-en.bin";
-		stopwFile = resourcesDir + "/common_words";
-		indexFile = resourcesDir + "/index.txt";
-		wordNetFile = resourcesDir + "/wordNet.txt";
-		docrfsFile = resourcesDir + "/docrfsFile.txt";
-		queryResults = resourcesDir + "/queryResults.txt";
+		filesDir = dataDir + delimeter + "files";
+		annoFile = dataDir + delimeter + "annotations.csv";
+		urlsFile = dataDir + delimeter + "urls.csv";
+		urlmapFile = resourcesDir + delimeter + "urlmap.txt";
+		filemapFile = resourcesDir + delimeter + "filemap.txt";
+		lembin = resourcesDir + delimeter + "lem-m-en.bin";
+		stopwFile = resourcesDir + delimeter + "common_words";
+		indexFile = resourcesDir + delimeter + "index.txt";
+		wordNetFile = resourcesDir + delimeter + "wordNet.txt";
+		docrfsFile = resourcesDir + delimeter + "docrfsFile.txt";
+		queryResults = resourcesDir + delimeter + "queryResults.txt";
 		query = argv[3];
 	}
 
@@ -464,35 +464,6 @@ int main(int argc, char *argv[]) {
 		// read urls.csv and annotations.csv and write wordNet, docrfs and urlmap.
 		setMetaData();
 	}
-
-// 
-// 	if (query[0] == '0') {
-// 		setupResources();
-// 	}
-// 	else {
-// 		// read URL map from file
-// 		readURLMapFromFile(urlmapFile);
-// 		// read index
-// 		readIndexFromFile();
-// 		// read wordNet from file
-// 		readWordNetFromFile(wordNetFile);
-// 		// read RFMap from file
-// 		readDocRFsFile(docrfsFile);
-// 		// read file list
-// 		parseDir(filesDir.c_str());
-// 		if(hasUpdate) {
-// 			// index updated. write new index to file.
-// 			writeIndex();
-// 			// read urls.csv and annotations.csv and write wordNet, docrfs and urlmap.
-// 			setMetaData();
-// 		}
-
-//		cout << "Number of files = " << fileNames.size() << endl;
-//		cout << "URLMap size = " << pnourls.size() << endl;
-//		cout << "WordNet size = " << wordNet.size() << endl;
-//		cout << "Document RFNS = " << docrfs.size() << endl;
-//		cout <<"Number of index entries = " << lemmas.size() << endl;
-// 	}
 
 	timer *t = new timer();
 	processQuery(query);
