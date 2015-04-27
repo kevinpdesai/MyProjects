@@ -21,12 +21,13 @@ public:
 	indexFileReader(string file, bool posting = false, bool compressed = false): _fileName(file),_compressed(compressed),_isPostingEntry(posting)
 	{
 		// Open file and check if it is opened correctly.
-		fin.open((const char*)_fileName.c_str());
+		fin.open(_fileName.c_str());
 		if (!fin) {
 			_errorReadingFile = true;
-			cout<<_fileName<<" not opened correctly\n";
+// 			cout<<_fileName<<" not opened correctly\n";
 			return;
 		}
+		_errorReadingFile = false;
 	}
 
 	virtual ~indexFileReader(void)

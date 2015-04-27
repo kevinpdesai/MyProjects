@@ -1,12 +1,36 @@
-Query : kevin dies of ebola
+Query : ebola quarantine time
 Scoring : TF-IDF 
-Doc ID = 106	Score = 5.63713
-Doc ID = 111	Score = 5.51567
-Doc ID = 266	Score = 5.48164
-Doc ID = 1668	Score = 5.42346
-Doc ID = 927	Score = 5.42346
-Doc ID = 245	Score = 5.42346
-Doc ID = 144	Score = 5.37311
-Doc ID = 807	Score = 5.36529
-Doc ID = 275	Score = 5.36529
-Doc ID = 194	Score = 5.36018
+Doc ID = 1581	Score = 6.33823
+Doc ID = 1418	Score = 6.28579
+Doc ID = 1414	Score = 6.2825
+Doc ID = 1411	Score = 6.25529
+Doc ID = 1168	Score = 6.182
+Doc ID = 1412	Score = 6.18061
+Doc ID = 1413	Score = 6.13644
+Doc ID = 1169	Score = 6.10593
+Doc ID = 1582	Score = 6.06069
+Doc ID = 2604	Score = 6.04751
+Query : ebola quarantine time
+Scoring : TF-IDF 
+Doc ID = 1581	Score = 6.33823
+Doc ID = 1418	Score = 6.28579
+Doc ID = 1414	Score = 6.2825
+Doc ID = 1411	Score = 6.25529
+Doc ID = 1168	Score = 6.182
+Doc ID = 1412	Score = 6.18061
+Doc ID = 1413	Score = 6.13644
+Doc ID = 1169	Score = 6.10593
+Doc ID = 1582	Score = 6.06069
+Doc ID = 2604	Score = 6.04751
+Query : ebola quarantine time
+Scoring : TF-IDF 
+Doc ID = 1581	Score = 6.33823
+Doc ID = 1418	Score = 6.28579
+Doc ID = 1414	Score = 6.2825
+Doc ID = 1411	Score = 6.25529
+Doc ID = 1168	Score = 6.182
+Doc ID = 1412	Score = 6.18061
+Doc ID = 1413	Score = 6.13644
+Doc ID = 1169	Score = 6.10593
+Doc ID = 1582	Score = 6.06069
+Doc ID = 2604	Score = 6.04751

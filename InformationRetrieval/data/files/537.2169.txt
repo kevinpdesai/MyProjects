@@ -1,0 +1,6 @@
+ Ebola virus and Marburg virus glycoprotein DNA vaccines induce immune response when given alone or together (level 3 [lacking direct] evidence)
+based on randomized trial without clinical outcomes
+108 healthy volunteers received intramuscular injections at weeks 0, 4, and 8
+during part 1, 72 patients were randomized to Ebola virus vaccine only (encoding Zaire and Sudan glycoproteins) vs. Marburg virus vaccine only (encoding Marburg virus glycoprotein) vs. placebo
+during part 2, 36 patients were randomized to Ebola virus vaccine plus Marburg virus vaccine vs. placebo
+antibody and T-cell response measured 4 weeks after third vaccination

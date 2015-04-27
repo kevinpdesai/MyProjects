@@ -1,0 +1,1 @@
+This epidemic curve is from a cholera outbreak in London in 1854 that was investigated by Dr. John Snow. Here the source was a community water well. The incubation period for cholera is 1-3 days

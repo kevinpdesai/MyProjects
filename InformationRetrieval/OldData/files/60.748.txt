@@ -1,0 +1,5 @@
+If you have malaria, medicine choice is based on:
+The specific parasite causing the infection.
+How bad the infection is.
+Your condition (such as age, pregnancy, allergies, or health problems).
+Medicine resistance of the parasite found in the geographic area where you were infected.

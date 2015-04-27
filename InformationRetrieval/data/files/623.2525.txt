@@ -1,0 +1,9 @@
+The malaria incubation period is defined as the time
+elapsed between exposure to the infectious agent
+(through the bite of the Anopheles mosquito) and the
+manifestation of the first clinical sign or symptom.
+Usually, these periods vary depending on the species of
+Plasmodium causing malaria. The average incubation
+period is 9-14 days for Plasmodium falciparum, 12-17
+days for infections by Plasmodium vivax and 18-40 days
+for infections caused by Plasmodium malariae

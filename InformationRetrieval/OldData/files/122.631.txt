@@ -1,0 +1,2 @@
+The PCR is completely unreliable for a disease diagnosis. Why? Two reasons. First, technicians start with a tiny, tiny sample of genetic material from the patient. This sample may or may not be part of a virus. Mistakes can be made. Obviously, the techs want the sample to be viral in nature; otherwise, the diagnostic test will be complete bust.
+But more importantly, the whole rationale for PCR is wrongheaded. Doctors and researchers only find a miniscule bit of hopefully relevant material in the patient to begin with. The PCR amplifies that bit so it can be observed.

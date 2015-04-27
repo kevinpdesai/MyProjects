@@ -1,0 +1,1 @@
+When viewed under blue light (~460nm), parasites stained with acridine orange will fluoresce brightly against a dark background. This greatly increases visibility, contributing to improved sensitivity.

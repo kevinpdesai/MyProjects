@@ -1,0 +1,6678 @@
+URLNO ,PNO,RFN,VAL
+4,1,1,ebola
+4,1,6,1976
+4,1,7,in(1976)
+4,1,8,ebola virus
+4,2,1,ebola
+4,2,6,14-Mar
+4,2,6,1976
+4,2,7,in(march 2014)
+4,2,7,in(1976)
+4,2,8,ebola virus
+4,3,6,2002
+4,3,6,1976
+4,3,6,1975
+4,3,6,1980
+4,3,6,1979
+4,3,7,in(1975 and 1980)
+4,3,7,in(a 2002)
+4,3,8,marburg virus
+4,4,1,ebola
+4,4,6,1976
+4,4,6,2013
+4,4,6,2014
+4,4,8,ebola virus
+4,5,1,ebola
+4,5,6,14-Dec
+4,5,6,8 days later
+4,5,6,14-Sep
+4,5,6,14-Aug
+4,5,7,on(8 august 2014)
+4,5,7,by(late august 2014)
+4,5,7,on(30 september 2014)
+4,5,7,on(29 december 2014)
+4,6,5,050 kg of personal protective equipment 
+4,6,6,2122
+4,7,1,ebola
+4,8,1,ebola
+4,8,6,2014
+4,9,1,ebola
+4,9,2,infection
+4,9,8,ebola virus
+4,10,1,ebola
+4,10,6,5 days later
+4,10,8,ebola virus
+3,11,5,or vaccine 
+3,11,4,This includes either oral rehydration therapy 
+3,11,4,or giving intravenous fluids 
+3,11,6,1976
+3,11,6,15-Apr
+3,11,6,2013
+3,11,7,in(1976)
+22,12,1,ebola hemorrhagic fever
+22,12,2,fever
+22,12,6,2-Mar
+22,12,6,2001
+22,13,6,1976
+22,14,1,ebola
+22,14,2,sick
+22,14,6,8-Nov
+22,15,6,8-Jan
+22,15,6,7-Dec
+157,17,6,14-Apr
+157,17,7,in(april 2014)
+157,18,6,2014
+157,19,6,next day
+5,21,1,ebola
+5,21,6,1976
+5,21,7,in(1976)
+4,22,1,ebola
+4,22,6,1976
+4,22,7,in(1976)
+4,22,8,ebola virus
+4,23,1,ebola
+4,23,6,14-Mar
+4,23,6,1976
+4,23,7,in(march 2014)
+4,23,7,in(1976)
+4,23,8,ebola virus
+3,24,6,2002
+3,24,6,1976
+3,24,6,1975
+3,24,6,1980
+3,24,6,1979
+3,24,7,in(1975 and 1980)
+3,24,7,in(a 2002)
+3,24,8,marburg virus
+3,25,1,ebola
+3,25,6,1976
+3,25,6,2013
+3,25,6,2014
+3,25,8,ebola virus
+5,26,1,ebola
+5,26,2,infection
+5,26,5,This happens because they may not have been wearing personal protection equipment or were not properly applying infection prevention 
+5,27,1,ebola
+5,27,2,infection
+5,27,5,gloves and personal protective equipment 
+5,27,5,instructions on proper removal and disposal of PPE
+5,27,8,ebola virus
+5,28,1,ebola
+5,28,5,Persons who have died of Ebola must be handled using strong protective clothing and gloves 
+5,29,5,condoms
+5,29,5,it is important for men to avoid sexual intercourse
+5,29,6,7 weeks after
+5,29,7,at(least 7 weeks after)
+5,29,7,during(7 weeks after)
+5,30,1,ebola
+4,31,1,ebola
+4,31,6,14-Mar
+4,31,6,1976
+4,31,7,in(march 2014)
+4,31,7,in(1976)
+4,31,8,ebola virus
+4,32,6,2014
+4,32,8,marburgvirus
+4,32,8,ebolavirus
+4,32,8,cuevavirus
+4,32,8,virus family Filoviridae
+4,33,1,ebola
+4,33,6,2014
+4,33,7,in(guinea during the 2014)
+3,34,1,ebola
+3,34,6,14-Mar
+3,34,6,13-Dec
+3,34,6,15-Apr
+3,34,7,in(march 2014)
+3,35,1,ebola
+3,35,6,14-Dec
+3,35,6,8 days later
+3,35,6,14-Sep
+3,35,6,14-Aug
+3,35,7,on(8 august 2014)
+3,35,7,by(late august 2014)
+3,35,7,on(30 september 2014)
+3,35,7,on(29 december 2014)
+159,36,1,ebola
+159,36,6,2014
+159,36,8,ebola virus
+159,37,1,ebola
+159,37,6,2014
+159,37,8,ebola virus
+159,38,1,ebola
+159,38,6,1976
+159,38,7,in(1976)
+159,38,8,ebola virus
+159,39,1,ebola
+159,39,6,1976
+159,39,7,since(1976)
+159,39,8,ebola virus
+159,40,6,2003
+159,40,6,2007
+4,41,1,ebola
+4,41,6,1976
+4,41,7,in(1976)
+4,41,8,ebola virus
+4,42,1,ebola
+4,42,6,14-Mar
+4,42,6,1976
+4,42,7,in(march 2014)
+4,42,7,in(1976)
+4,42,8,ebola virus
+159,43,1,ebola
+159,43,6,1976
+159,43,7,in(1976)
+160,44,1,ebola
+160,44,6,14-Mar
+160,44,6,1976
+160,44,7,in(march 2014)
+160,44,7,since(its discovery in 1976)
+160,45,1,ebola
+160,46,6,14-Mar
+160,46,7,on(23 march 2014)
+160,47,1,ebola
+160,49,1,ebola
+160,50,1,ebola
+160,50,1,aids
+162,51,1,ebola
+162,51,2,death
+162,51,6,2014
+162,51,8,ebola virus
+4,52,1,ebola
+4,52,6,14-Mar
+4,52,6,1976
+4,52,7,in(march 2014)
+4,52,7,in(1976)
+4,52,8,ebola virus
+160,53,6,14-Mar
+160,53,7,on(23 march 2014)
+160,54,1,ebola
+163,57,1,ebola
+163,57,6,1976
+163,57,7,in(1976)
+163,58,1,ebola
+163,58,1,rabies
+163,59,1,ebola
+163,60,1,ebola
+163,60,6,2006
+163,60,6,2005
+163,60,7,in(2005 or 2006)
+4,61,1,ebola
+4,61,6,1976
+4,61,7,in(1976)
+4,61,8,ebola virus
+4,62,1,ebola
+4,62,6,14-Mar
+4,62,6,1976
+4,62,7,in(march 2014)
+4,62,7,in(1976)
+4,62,8,ebola virus
+165,63,1,ebola
+165,63,6,1976
+165,63,7,in(1976)
+3,64,1,ebola
+3,64,5,or vaccine 
+3,64,4,This includes either oral rehydration therapy 
+3,64,4,or giving intravenous fluids 
+3,64,6,1976
+3,64,6,15-Apr
+3,64,6,2013
+3,64,7,in(1976)
+3,65,6,2002
+3,65,6,1976
+3,65,6,1975
+3,65,6,1980
+3,65,6,1979
+3,65,7,in(1975 and 1980)
+3,65,7,in(a 2002)
+3,65,8,marburg virus
+4,66,5,use of personal protective equipment 
+4,67,1,ebola
+4,67,2,infection
+4,67,5,and gloves 
+4,67,5,sterile gloves 
+4,67,8,ebola virus
+4,68,1,ebola
+4,68,2,infection
+4,69,1,ebola
+4,69,8,ebola virus
+4,69,8,marburg virus
+4,70,2,infection
+164,71,1,ebola
+164,71,6,2014
+160,72,1,ebola
+160,72,6,14-Mar
+160,72,6,1976
+160,72,7,in(march 2014)
+160,72,7,since(its discovery in 1976)
+160,73,1,ebola
+160,74,6,14-Mar
+160,74,7,on(23 march 2014)
+160,75,1,ebola
+160,75,6,14-Aug
+160,75,7,in(august 2014)
+160,76,1,ebola
+160,77,1,ebola
+160,79,6,13-Dec
+160,79,7,in(december 2013)
+160,81,1,ebola
+160,81,6,14-Mar
+160,81,6,1976
+160,81,7,in(march 2014)
+160,81,7,since(its discovery in 1976)
+160,82,6,14-Mar
+160,82,7,on(23 march 2014)
+160,83,1,ebola
+160,84,1,ebola
+170,85,1,ebola
+170,85,6,2014
+170,85,7,on(6 october 2014)
+170,85,8,ebola virus
+160,86,1,ebola
+164,89,1,ebola
+164,89,6,2014
+164,90,1,ebola
+164,90,2,death
+160,91,6,14-Mar
+160,91,7,on(23 march 2014)
+160,92,1,ebola
+160,93,1,ebola
+160,94,1,ebola
+160,94,6,14-Aug
+160,94,7,in(august 2014)
+168,95,6,2014
+168,95,7,in(2014)
+164,96,1,ebola
+164,96,6,2014
+164,97,1,ebola
+164,97,2,death
+170,101,1,ebola
+170,101,6,2014
+170,101,7,on(6 october 2014)
+170,101,8,ebola virus
+171,102,1,ebola
+171,102,3,PCR
+171,102,6,2014
+171,102,8,ebola virus
+169,103,1,ebola
+172,104,1,ebola
+173,105,1,ebola
+173,105,6,2014
+160,106,1,ebola
+160,109,1,ebola
+160,109,1,aids
+162,111,1,ebola
+162,111,2,death
+162,111,6,2014
+162,111,8,ebola virus
+160,112,6,14-Mar
+160,112,7,on(23 march 2014)
+4,113,1,ebola
+4,113,6,14-Mar
+4,113,6,1976
+4,113,7,in(march 2014)
+4,113,7,in(1976)
+4,113,8,ebola virus
+4,114,6,2002
+4,114,6,1976
+4,114,6,1975
+4,114,6,1980
+4,114,6,1979
+4,114,7,in(1975 and 1980)
+4,114,7,in(a 2002)
+4,114,8,marburg virus
+4,115,1,ebola
+4,115,6,1976
+4,115,6,2013
+4,115,6,2014
+4,115,8,ebola virus
+3,117,2,death
+3,117,2,infection
+3,118,1,ebola
+3,118,2,shock
+3,118,2,liver damage
+3,118,6,3 days after
+3,118,7,in(3 days after)
+3,118,8,ebola virus
+3,119,2,fever
+3,119,2,infection
+3,119,3,TNF
+3,120,2,infection
+160,121,6,14-Mar
+160,121,7,on(23 march 2014)
+162,122,1,ebola
+162,122,2,death
+162,122,6,2014
+162,122,8,ebola virus
+4,123,1,ebola
+4,123,6,14-Mar
+4,123,6,1976
+4,123,7,in(march 2014)
+4,123,7,in(1976)
+4,123,8,ebola virus
+4,124,6,2002
+4,124,6,1976
+4,124,6,1975
+4,124,6,1980
+4,124,6,1979
+4,124,7,in(1975 and 1980)
+4,124,7,in(a 2002)
+4,124,8,marburg virus
+4,125,1,ebola
+4,125,6,1976
+4,125,6,2013
+4,125,6,2014
+4,125,8,ebola virus
+3,126,1,ebola
+3,126,2,death
+3,126,2,pain
+3,126,2,weakness
+3,126,2,low blood pressure
+3,126,2,joint pain
+3,126,2,pressure
+3,126,2,coma
+3,126,2,liver inflammation
+3,126,2,blood loss
+3,126,6,14 days after
+3,126,7,in(between 7 and 14 days after)
+3,127,1,ebola
+3,127,8,ebola virus
+3,127,8,ebolavirus
+3,128,8,ebolavirus
+3,129,1,ebola
+3,129,8,ebola virus
+3,129,8,ebolavirus
+3,130,1,ebola
+3,130,2,open wounds
+3,130,2,sick
+3,130,2,infection
+4,131,1,ebola
+4,131,6,1976
+4,131,7,in(1976)
+4,131,8,ebola virus
+4,132,1,ebola
+4,132,6,14-Mar
+4,132,6,1976
+4,132,7,in(march 2014)
+4,132,7,in(1976)
+4,132,8,ebola virus
+5,133,1,ebola
+5,133,6,1976
+5,133,7,in(1976)
+174,134,1,ebola
+174,134,6,1976
+174,134,6,1972
+174,134,7,in(1976)
+174,134,7,in(1972)
+174,135,1,ebola
+174,135,6,1976
+174,135,7,in(1976)
+3,136,5,050 kg of personal protective equipment 
+3,136,6,2122
+3,137,1,ebola
+3,138,1,ebola
+3,138,4,there have been 17 cases of Ebola treated 
+3,138,6,2014
+3,139,1,ebola
+3,139,2,infection
+3,139,8,ebola virus
+3,140,1,ebola
+3,140,6,5 days later
+3,140,8,ebola virus
+165,141,1,ebola
+165,141,6,1976
+165,141,7,in(1976)
+3,142,6,2002
+3,142,6,1976
+3,142,6,1975
+3,142,6,1980
+3,142,6,1979
+3,142,7,in(1975 and 1980)
+3,142,7,in(a 2002)
+3,142,8,marburg virus
+3,143,1,ebola
+3,143,6,1976
+3,143,6,2013
+3,143,6,2014
+3,143,8,ebola virus
+3,144,1,ebola
+3,144,6,5 days later
+3,144,8,ebola virus
+3,145,6,Nov-76
+3,146,1,ebola
+3,146,8,ebola virus
+3,147,6,2012
+3,147,7,in(2012)
+165,148,1,ebola
+165,148,1,ebola hemorrhagic fever
+165,148,2,fever
+165,148,2,infection
+165,148,8,ebola virus
+165,149,1,ebola
+165,149,2,infection
+165,149,8,ebola virus
+165,149,8,ebolavirus
+165,149,8,virus family Filoviridae
+165,150,1,ebola
+165,150,8,ebola virus
+4,151,1,ebola
+4,151,6,14-Mar
+4,151,6,1976
+4,151,7,in(march 2014)
+4,151,7,in(1976)
+4,151,8,ebola virus
+3,152,1,ebola
+3,152,6,5 days later
+3,152,8,ebola virus
+160,153,1,ebola
+160,154,1,ebola
+160,157,2,death
+160,157,2,fever
+160,157,2,vomiting
+166,158,1,ebola
+166,158,2,death
+166,158,2,infection
+3,159,6,2012
+3,159,7,in(2012)
+3,160,6,2005
+176,161,1,ebola
+176,161,6,1976
+176,161,7,on(in 1976)
+4,162,1,ebola
+4,162,6,1976
+4,162,7,in(1976)
+4,162,8,ebola virus
+4,163,1,ebola
+4,163,6,14-Mar
+4,163,6,1976
+4,163,7,in(march 2014)
+4,163,7,in(1976)
+4,163,8,ebola virus
+177,164,1,ebola
+177,164,6,2001
+177,164,6,2-Jul
+177,164,8,ebola virus
+177,165,6,8-Jan
+177,165,6,7-Dec
+178,167,1,ebola
+178,167,6,2015
+178,167,7,in(2015)
+178,168,1,ebola
+178,169,2,infection
+178,169,6,this year
+178,171,1,ebola
+178,171,6,this week
+178,172,1,ebola
+178,172,6,A year ago
+4,173,1,ebola
+4,173,6,14-Mar
+4,173,6,1976
+4,173,7,in(march 2014)
+4,173,7,in(1976)
+4,173,8,ebola virus
+3,174,1,ebola
+3,174,6,1976
+3,174,6,2013
+3,174,6,2014
+3,174,8,ebola virus
+3,175,1,ebola
+3,175,6,14-Mar
+3,175,6,13-Dec
+3,175,6,15-Apr
+3,175,7,in(march 2014)
+178,177,1,ebola
+178,178,1,ebola
+179,179,1,ebola
+179,180,1,ebola
+179,180,2,drugs
+179,180,8,ebola virus
+160,181,6,14-Mar
+160,181,7,on(23 march 2014)
+160,182,1,ebola
+160,182,6,14-Aug
+160,182,7,in(august 2014)
+168,183,6,2014
+168,183,7,in(2014)
+172,184,1,ebola
+3,185,6,2002
+3,185,6,1976
+3,185,6,1975
+3,185,6,1980
+3,185,6,1979
+3,185,7,in(1975 and 1980)
+3,185,7,in(a 2002)
+3,185,8,marburg virus
+175,186,1,ebola
+175,186,6,2014
+175,187,1,ebola
+175,187,2,death
+175,188,1,ebola
+163,190,1,ebola
+163,190,6,1976
+163,190,7,in(1976)
+164,191,1,ebola
+164,191,6,2014
+160,192,1,ebola
+160,192,6,14-Mar
+160,192,6,1976
+160,192,7,in(march 2014)
+160,192,7,since(its discovery in 1976)
+4,193,1,ebola
+4,193,6,14-Mar
+4,193,6,1976
+4,193,7,in(march 2014)
+4,193,7,in(1976)
+4,193,8,ebola virus
+160,194,6,14-Mar
+160,194,7,on(23 march 2014)
+162,195,1,ebola
+162,195,2,death
+162,195,6,2014
+162,195,8,ebola virus
+175,196,6,1999
+175,196,6,2013
+175,196,7,in(2013)
+175,197,1,ebola
+175,197,2,fear
+175,197,8,ebola virus
+175,198,1,ebola
+175,198,5,eyed in goggles
+175,199,2,sick
+175,200,1,ebola
+175,200,1,cholera
+175,200,1,malaria
+175,200,2,panic
+180,401,1,ebola
+180,401,2,malaise
+180,401,2,fever
+180,401,2,diarrhea
+180,401,2,vomiting
+181,402,2,fever
+182,403,1,ebola
+182,403,1,cholera
+182,403,1,malaria
+182,403,2,confusion
+182,403,2,fever
+182,403,2,common symptoms
+182,403,2,vomiting
+183,404,1,ebola
+183,404,1,ebola hemorrhagic fever
+183,404,2,fever
+183,404,2,pain
+183,404,2,diarrhea
+183,404,2,rash
+183,404,2,vomiting
+183,404,2,muscle pain
+183,404,2,sore throat
+183,404,6,three weeks after
+183,404,8,ebola virus
+183,404,8,ebolavirus
+184,405,1,ebola
+184,405,1,cholera
+184,405,1,typhoid fever
+184,405,1,meningitis
+184,405,1,malaria
+184,405,2,fever
+184,405,2,typhoid fever
+184,405,2,meningitis
+184,405,2,rash
+184,405,2,vomiting
+184,405,2,blood clots
+184,405,2,red rash
+180,406,1,ebola
+180,406,6,2014
+180,407,1,ebola
+181,408,1,ebola
+181,408,4,Bill Gray MD claims he has technological remedy 
+181,408,8,ebola virus
+181,409,1,ebola
+181,409,2,death
+181,409,4,He said that sicker can however turn to the use of his online technology therapy 
+181,410,1,ebola
+181,410,2,sick
+4,411,2,fever
+4,411,2,pain
+4,411,2,infection
+4,411,2,vomiting
+4,411,2,fatigue
+4,411,2,rash
+4,411,2,muscle pain
+4,411,2,sore throat
+4,411,2,headache
+110,412,1,ebola
+110,412,2,aches
+110,412,2,fever
+110,412,2,pain
+110,412,2,diarrhea
+110,412,2,vomiting
+110,412,2,sick
+110,412,2,stomach pain
+110,412,2,cough
+110,412,2,headache
+110,412,6,nine days after
+110,413,1,ebola
+110,413,2,cough
+110,413,2,infection
+110,413,2,fever
+110,413,2,vomiting
+103,414,1,ebola
+103,414,1,flu
+103,414,2,fever
+103,414,2,sore throat
+103,414,2,infection
+103,414,2,headache
+103,415,1,ebola
+103,415,1,flu
+103,415,2,high fever
+103,415,2,aches
+103,415,2,fever
+103,415,2,pain
+103,415,2,muscle aches
+103,415,2,weakness
+103,415,2,infection
+103,415,2,stomach pain
+103,415,2,sore throat
+103,415,2,headache
+103,415,6,21 days after
+103,416,2,drugs
+103,420,2,bruising
+103,420,2,diarrhea
+103,420,2,rash
+103,420,2,vomiting
+150,421,1,flu
+150,421,1,malaria
+150,421,2,no symptoms
+150,421,2,infection
+150,421,2,flu-like symptoms
+185,422,1,flu
+185,422,1,malaria
+185,422,2,chills
+185,422,2,vomiting
+185,422,2,fever
+185,422,2,headache
+186,423,1,flu
+186,423,1,malaria
+186,423,2,high fever
+186,423,2,chills
+186,423,2,flu-like symptoms
+186,423,2,fever
+186,423,6,1940s
+186,423,7,in(the late 1940s)
+187,424,1,malaria
+187,424,2,irritability
+187,424,2,sweating
+187,424,2,fever
+187,424,2,drowsiness
+187,424,2,rapid breathing
+187,424,2,poor appetite
+187,424,2,chills
+187,425,1,malaria
+187,425,2,fever
+189,426,1,malaria
+189,426,2,fever
+189,427,1,malaria
+189,427,2,drugs
+189,428,1,malaria
+189,430,1,influenza
+189,430,1,malaria
+188,431,1,endemic typhus
+188,431,2,high fever
+188,431,2,malaise
+188,431,2,death
+188,431,2,pain
+188,431,2,nausea
+188,431,2,diarrhea
+188,431,2,infection
+188,431,2,vomiting
+188,431,2,fever
+188,431,2,rash
+188,431,2,cough
+188,431,2,headache
+188,431,6,two weeks after
+188,431,7,in(about one to two weeks after)
+18,432,2,seizures
+18,432,2,photophobia
+18,432,2,fever
+18,432,2,pain
+18,432,2,hearing loss
+18,432,2,abdominal pain
+18,432,2,nausea
+18,432,2,drowsiness
+18,432,2,myalgia
+18,432,2,joint pain
+18,432,2,vomiting
+18,432,2,gangrene
+18,432,2,severe headache
+18,432,2,malaise
+18,432,2,rash
+18,432,2,confusion
+18,432,2,coma
+18,432,2,delirium
+18,432,2,cough
+18,432,2,necrosis
+18,432,2,headache
+18,433,1,endemic typhus
+18,433,2,backache
+18,433,2,high fever
+18,433,2,fever
+18,433,2,pain
+18,433,2,abdominal pain
+18,433,2,nausea
+18,433,2,respiratory failure
+18,433,2,joint pain
+18,433,2,vomiting
+18,433,2,dry cough
+18,433,2,rash
+18,433,2,renal failure
+18,433,2,ataxia
+18,433,2,very high fever
+18,433,2,cough
+18,433,2,seizures
+18,433,2,red rash
+18,433,2,headache
+18,433,6,12 days after
+18,434,2,fever
+18,434,2,pain
+18,434,2,eschar
+18,434,2,lymphadenopathy
+18,434,2,myalgia
+18,434,2,rash
+18,434,2,vomiting
+18,434,2,cough
+18,434,2,maculopapular rash
+18,434,2,headache
+192,435,2,fever
+192,435,6,two weeks after
+131,436,1,typhus
+131,438,1,plague
+131,438,1,body lice
+131,438,1,typhus
+131,438,1,epidemic typhus
+131,438,2,fever
+131,439,1,epidemic typhus
+131,439,2,infection
+131,440,1,endemic typhus
+131,440,2,infection
+190,441,1,cholera
+190,441,2,dehydration
+191,442,1,cholera
+191,442,2,no symptoms
+191,442,2,dehydration
+191,442,2,diarrhea
+191,442,2,infection
+191,442,2,vomiting
+191,442,6,five days after
+96,443,1,cholera
+96,443,2,cramps
+96,443,2,muscle cramps
+96,443,2,diarrhea
+96,443,2,sunken eyes
+96,443,2,infection
+96,443,2,vomiting
+96,443,2,cold skin
+96,443,2,dehydration
+96,443,2,electrolyte imbalance
+96,443,2,imbalance
+96,443,6,five days after
+96,443,6,This may
+96,444,1,cholera
+96,444,2,diarrhea
+96,444,4,antibiotics 
+96,445,1,cholera
+96,445,2,death
+96,445,6,1849
+96,445,6,1854
+96,445,6,2010
+96,445,7,by(john snow between 1849)
+96,446,1,cholera
+96,446,2,dehydration
+96,446,2,death
+96,446,2,diarrhea
+96,446,2,vomiting
+96,446,2,severe diarrhea
+96,446,6,five days after
+193,447,1,cholera
+193,447,2,cramps
+193,447,2,death
+193,447,2,shock
+193,447,2,diarrhea
+193,447,2,infection
+193,447,2,vomiting
+193,447,2,leg cramps
+193,447,2,dehydration
+193,448,2,infection
+193,449,1,cholera
+193,449,5,related spread has been eliminated by modern water and sewage treatment 
+193,449,6,1800s
+193,449,7,in(the 1800s)
+193,450,1,cholera
+180,451,1,ebola
+180,451,2,malaise
+180,451,2,fever
+180,451,2,diarrhea
+180,451,2,vomiting
+181,452,2,fever
+182,453,1,ebola
+182,453,1,cholera
+182,453,1,malaria
+182,453,2,confusion
+182,453,2,fever
+182,453,2,common symptoms
+182,453,2,vomiting
+183,454,1,ebola
+183,454,1,ebola hemorrhagic fever
+183,454,2,fever
+183,454,2,pain
+183,454,2,diarrhea
+183,454,2,rash
+183,454,2,vomiting
+183,454,2,muscle pain
+183,454,2,sore throat
+183,454,6,three weeks after
+183,454,8,ebola virus
+183,454,8,ebolavirus
+184,455,1,ebola
+184,455,1,cholera
+184,455,1,typhoid fever
+184,455,1,meningitis
+184,455,1,malaria
+184,455,2,fever
+184,455,2,typhoid fever
+184,455,2,meningitis
+184,455,2,rash
+184,455,2,vomiting
+184,455,2,blood clots
+184,455,2,red rash
+180,456,1,ebola
+180,456,6,2014
+180,457,1,ebola
+180,458,6,2019
+180,458,7,on(in the country by 2019)
+180,459,2,sick
+180,460,6,last May
+211,461,1,ebola
+211,461,2,pain
+211,461,2,ebola virus infection
+211,461,2,diarrhea
+211,461,2,infection
+211,461,2,vomiting
+211,461,2,stomach pain
+211,461,2,muscle pain
+211,461,8,ebola virus
+110,462,1,ebola
+110,462,2,aches
+110,462,2,fever
+110,462,2,pain
+110,462,2,diarrhea
+110,462,2,vomiting
+110,462,2,sick
+110,462,2,stomach pain
+110,462,2,cough
+110,462,2,headache
+110,462,6,nine days after
+110,463,1,ebola
+110,463,2,death
+110,463,2,collapse
+110,463,2,diarrhea
+110,463,2,pressure
+110,463,2,vomit blood
+110,463,2,bloody diarrhea
+194,464,1,ebola
+194,464,1,typhoid fever
+194,464,1,flu
+194,464,1,malaria
+194,464,2,fever
+194,464,2,typhoid fever
+3,465,1,ebola
+3,465,1,ebola hemorrhagic fever
+3,465,2,death
+3,465,2,pain
+3,465,2,diarrhea
+3,465,2,low blood pressure
+3,465,2,rash
+3,465,2,vomiting
+3,465,2,pressure
+3,465,2,fever
+3,465,2,sore throat
+3,465,6,sixteen days after
+3,465,6,three weeks after
+3,465,8,ebola virus
+194,466,1,ebola
+194,466,2,high fever
+194,466,2,very high fever
+194,466,2,fever
+194,466,8,ebola virus
+194,466,8,virus family Filoviridae
+194,467,1,ebola
+194,467,8,ebola virus
+194,468,1,ebola
+194,469,1,ebola
+194,469,8,ebola virus
+194,470,1,ebola
+150,471,1,flu
+150,471,1,malaria
+150,471,2,infection
+150,471,2,flu-like symptoms
+185,472,1,flu
+185,472,1,malaria
+185,472,2,chills
+185,472,2,vomiting
+185,472,2,fever
+185,472,2,headache
+186,473,1,flu
+186,473,1,malaria
+186,473,2,high fever
+186,473,2,chills
+186,473,2,flu-like symptoms
+186,473,2,fever
+186,473,6,1940s
+186,473,7,in(the late 1940s)
+187,474,1,malaria
+187,474,2,irritability
+187,474,2,sweating
+187,474,2,fever
+187,474,2,drowsiness
+187,474,2,rapid breathing
+187,474,2,poor appetite
+187,474,2,chills
+187,475,1,malaria
+187,475,2,fever
+195,476,1,malaria
+195,477,1,malaria
+195,477,2,infection
+195,477,6,1500
+195,477,6,3000
+195,477,7,at(altitudes above 1500)
+195,478,1,malaria
+195,479,1,malaria
+195,480,1,malaria
+195,480,2,infection
+188,481,1,endemic typhus
+188,481,2,high fever
+188,481,2,malaise
+188,481,2,death
+188,481,2,pain
+188,481,2,nausea
+188,481,2,diarrhea
+188,481,2,infection
+188,481,2,vomiting
+188,481,2,fever
+188,481,2,rash
+188,481,2,cough
+188,481,2,headache
+188,481,6,two weeks after
+188,481,7,in(about one to two weeks after)
+18,482,2,seizures
+18,482,2,photophobia
+18,482,2,fever
+18,482,2,pain
+18,482,2,hearing loss
+18,482,2,abdominal pain
+18,482,2,nausea
+18,482,2,drowsiness
+18,482,2,myalgia
+18,482,2,joint pain
+18,482,2,vomiting
+18,482,2,gangrene
+18,482,2,severe headache
+18,482,2,malaise
+18,482,2,rash
+18,482,2,confusion
+18,482,2,coma
+18,482,2,delirium
+18,482,2,cough
+18,482,2,necrosis
+18,482,2,headache
+18,483,1,endemic typhus
+18,483,2,backache
+18,483,2,high fever
+18,483,2,fever
+18,483,2,pain
+18,483,2,abdominal pain
+18,483,2,nausea
+18,483,2,respiratory failure
+18,483,2,joint pain
+18,483,2,vomiting
+18,483,2,dry cough
+18,483,2,rash
+18,483,2,renal failure
+18,483,2,ataxia
+18,483,2,very high fever
+18,483,2,cough
+18,483,2,seizures
+18,483,2,red rash
+18,483,2,headache
+18,483,6,12 days after
+18,484,2,fever
+18,484,2,pain
+18,484,2,eschar
+18,484,2,lymphadenopathy
+18,484,2,myalgia
+18,484,2,rash
+18,484,2,vomiting
+18,484,2,cough
+18,484,2,maculopapular rash
+18,484,2,headache
+192,485,2,fever
+192,485,6,two weeks after
+142,486,1,typhus
+142,486,6,1648
+142,486,6,1618
+142,487,1,typhus
+142,487,6,1812
+142,487,7,at(from moscow in 1812)
+142,488,1,typhus
+142,488,2,fever
+142,488,6,1849
+142,488,6,1816
+142,488,6,1830s
+142,488,6,1819
+142,488,6,1846
+142,488,7,in(in the late 1830s)
+142,488,7,in(ireland between 1816)
+142,489,1,typhus
+142,489,1,typhoid fever
+142,489,2,fever
+142,489,2,typhoid fever
+142,489,6,1843
+142,489,6,1865
+142,489,6,1837
+142,489,6,1873
+142,489,7,in(1843)
+142,489,7,on(dc between 1865)
+142,489,7,in(philadelphia in 1837)
+142,490,1,typhus
+142,490,2,fever
+142,490,6,1848
+142,490,6,1847
+191,491,1,cholera
+191,491,2,no symptoms
+191,491,2,dehydration
+191,491,2,diarrhea
+191,491,2,infection
+191,491,2,vomiting
+191,491,6,five days after
+190,492,1,cholera
+190,492,2,dehydration
+96,493,1,cholera
+96,493,2,cramps
+96,493,2,muscle cramps
+96,493,2,diarrhea
+96,493,2,sunken eyes
+96,493,2,infection
+96,493,2,vomiting
+96,493,2,cold skin
+96,493,2,dehydration
+96,493,2,electrolyte imbalance
+96,493,2,imbalance
+96,493,6,five days after
+96,493,6,This may
+96,494,1,cholera
+96,494,2,diarrhea
+96,494,4,antibiotics 
+96,495,1,cholera
+96,495,2,death
+96,495,6,1849
+96,495,6,1854
+96,495,6,2010
+96,495,7,by(john snow between 1849)
+96,496,1,cholera
+96,496,2,dehydration
+96,496,2,death
+96,496,2,diarrhea
+96,496,2,vomiting
+96,496,2,severe diarrhea
+96,496,6,five days after
+193,497,1,cholera
+193,497,2,cramps
+193,497,2,death
+193,497,2,shock
+193,497,2,diarrhea
+193,497,2,infection
+193,497,2,vomiting
+193,497,2,leg cramps
+193,497,2,dehydration
+193,498,2,infection
+193,499,1,cholera
+193,499,5,related spread has been eliminated by modern water and sewage treatment 
+193,499,6,1800s
+193,499,7,in(the 1800s)
+193,500,1,cholera
+180,501,1,ebola
+180,501,2,malaise
+180,501,2,fever
+180,501,2,diarrhea
+180,501,2,vomiting
+181,502,2,fever
+182,503,1,ebola
+182,503,1,cholera
+182,503,1,malaria
+182,503,2,confusion
+182,503,2,fever
+182,503,2,common symptoms
+182,503,2,vomiting
+183,504,1,ebola
+183,504,1,ebola hemorrhagic fever
+183,504,2,fever
+183,504,2,pain
+183,504,2,diarrhea
+183,504,2,rash
+183,504,2,vomiting
+183,504,2,muscle pain
+183,504,2,sore throat
+183,504,6,three weeks after
+183,504,8,ebola virus
+183,504,8,ebolavirus
+184,505,1,ebola
+184,505,1,cholera
+184,505,1,typhoid fever
+184,505,1,meningitis
+184,505,1,malaria
+184,505,2,fever
+184,505,2,typhoid fever
+184,505,2,meningitis
+184,505,2,rash
+184,505,2,vomiting
+184,505,2,blood clots
+184,505,2,red rash
+180,509,6,this year
+4,511,2,fever
+4,511,2,pain
+4,511,2,infection
+4,511,2,vomiting
+4,511,2,fatigue
+4,511,2,rash
+4,511,2,muscle pain
+4,511,2,sore throat
+4,511,2,headache
+110,512,1,ebola
+110,512,2,aches
+110,512,2,fever
+110,512,2,pain
+110,512,2,diarrhea
+110,512,2,vomiting
+110,512,2,sick
+110,512,2,stomach pain
+110,512,2,cough
+110,512,2,headache
+110,512,6,nine days after
+110,513,1,ebola
+110,513,2,cough
+110,513,2,infection
+110,513,2,fever
+110,513,2,vomiting
+103,514,1,ebola
+103,514,1,flu
+103,514,2,fever
+103,514,2,sore throat
+103,514,2,infection
+103,514,2,headache
+103,515,1,ebola
+103,515,1,flu
+103,515,2,high fever
+103,515,2,aches
+103,515,2,fever
+103,515,2,pain
+103,515,2,muscle aches
+103,515,2,weakness
+103,515,2,infection
+103,515,2,stomach pain
+103,515,2,sore throat
+103,515,2,headache
+103,515,6,21 days after
+4,516,1,ebola
+4,516,8,ebola virus
+4,517,1,ebola
+4,518,2,infection
+110,519,1,ebola
+110,519,8,ebola virus
+110,520,1,ebola
+110,520,6,2015
+150,521,1,flu
+150,521,1,malaria
+150,521,2,infection
+150,521,2,flu-like symptoms
+185,522,1,flu
+185,522,1,malaria
+185,522,2,chills
+185,522,2,vomiting
+185,522,2,fever
+185,522,2,headache
+186,523,1,flu
+186,523,1,malaria
+186,523,2,high fever
+186,523,2,chills
+186,523,2,flu-like symptoms
+186,523,2,fever
+186,523,6,1940s
+186,523,7,in(the late 1940s)
+187,524,1,malaria
+187,524,2,irritability
+187,524,2,sweating
+187,524,2,fever
+187,524,2,drowsiness
+187,524,2,rapid breathing
+187,524,2,poor appetite
+187,524,2,chills
+187,525,1,malaria
+187,525,2,fever
+189,526,1,malaria
+189,526,2,thrombocytopenia
+189,526,2,anemia
+189,527,1,malaria
+186,528,1,malaria
+186,529,1,malaria
+186,529,2,infection
+196,530,1,malaria
+188,531,2,high fever
+188,531,2,malaise
+188,531,2,death
+188,531,2,pain
+188,531,2,nausea
+188,531,2,diarrhea
+188,531,2,infection
+188,531,2,vomiting
+188,531,2,fever
+188,531,2,rash
+188,531,2,cough
+188,531,2,headache
+188,531,6,two weeks after
+188,531,7,in(about one to two weeks after)
+18,532,2,seizures
+18,532,2,photophobia
+18,532,2,fever
+18,532,2,pain
+18,532,2,hearing loss
+18,532,2,abdominal pain
+18,532,2,nausea
+18,532,2,drowsiness
+18,532,2,myalgia
+18,532,2,joint pain
+18,532,2,vomiting
+18,532,2,gangrene
+18,532,2,severe headache
+18,532,2,malaise
+18,532,2,rash
+18,532,2,confusion
+18,532,2,coma
+18,532,2,delirium
+18,532,2,cough
+18,532,2,necrosis
+18,532,2,headache
+18,533,1,endemic typhus
+18,533,2,backache
+18,533,2,high fever
+18,533,2,fever
+18,533,2,pain
+18,533,2,abdominal pain
+18,533,2,nausea
+18,533,2,respiratory failure
+18,533,2,joint pain
+18,533,2,vomiting
+18,533,2,dry cough
+18,533,2,rash
+18,533,2,renal failure
+18,533,2,ataxia
+18,533,2,very high fever
+18,533,2,cough
+18,533,2,seizures
+18,533,2,red rash
+18,533,2,headache
+18,533,6,12 days after
+18,534,2,fever
+18,534,2,pain
+18,534,2,eschar
+18,534,2,lymphadenopathy
+18,534,2,myalgia
+18,534,2,rash
+18,534,2,vomiting
+18,534,2,cough
+18,534,2,maculopapular rash
+18,534,2,headache
+192,535,2,fever
+192,535,6,two weeks after
+142,536,1,typhus
+142,536,5,The most effective way to prevent typhus is inoculation with the typhus vaccine 
+142,537,1,epidemic typhus
+142,537,1,murine typhus
+142,537,2,death
+142,537,4,antibiotic 
+142,538,1,typhus
+142,539,1,typhus
+142,539,2,delirium
+142,539,2,fever
+142,539,2,spots
+142,539,2,sores
+142,539,2,red spots
+142,539,6,1489
+142,539,7,in(1489)
+142,540,1,typhus
+142,540,1,epidemic typhus
+142,540,2,death
+142,540,2,fever
+142,540,6,May 1750
+142,540,6,1577
+142,540,6,1759
+142,540,7,in(may 1750)
+142,540,7,at(oxford in 1577)
+142,540,7,in(1759)
+191,541,1,cholera
+191,541,2,no symptoms
+191,541,2,dehydration
+191,541,2,diarrhea
+191,541,2,infection
+191,541,2,vomiting
+191,541,6,five days after
+190,542,1,cholera
+190,542,2,dehydration
+96,543,1,cholera
+96,543,2,cramps
+96,543,2,muscle cramps
+96,543,2,diarrhea
+96,543,2,sunken eyes
+96,543,2,infection
+96,543,2,vomiting
+96,543,2,cold skin
+96,543,2,dehydration
+96,543,2,electrolyte imbalance
+96,543,2,imbalance
+96,543,6,five days after
+96,543,6,This may
+193,544,1,cholera
+193,544,2,cramps
+193,544,2,death
+193,544,2,shock
+193,544,2,diarrhea
+193,544,2,infection
+193,544,2,vomiting
+193,544,2,leg cramps
+193,544,2,dehydration
+193,545,2,infection
+190,547,1,cholera
+190,547,2,diarrhea
+190,548,1,cholera
+190,548,2,infection
+190,549,1,cholera
+190,549,2,dehydration
+190,550,1,cholera
+190,550,2,irritability
+190,550,2,lethargy
+190,550,2,dry mouth
+190,550,2,sunken eyes
+190,550,2,arrhythmia
+190,550,2,thirst
+190,550,2,low blood pressure
+190,550,2,pressure
+190,550,2,dehydration
+190,550,2,irregular heartbeat
+180,551,1,ebola
+180,551,2,malaise
+180,551,2,fever
+180,551,2,diarrhea
+180,551,2,vomiting
+181,552,2,fever
+182,553,1,ebola
+182,553,1,cholera
+182,553,1,malaria
+182,553,2,confusion
+182,553,2,fever
+182,553,2,common symptoms
+182,553,2,vomiting
+183,554,1,ebola
+183,554,1,ebola hemorrhagic fever
+183,554,2,fever
+183,554,2,pain
+183,554,2,diarrhea
+183,554,2,rash
+183,554,2,vomiting
+183,554,2,muscle pain
+183,554,2,sore throat
+183,554,6,three weeks after
+183,554,8,ebola virus
+183,554,8,ebolavirus
+184,555,1,ebola
+184,555,1,cholera
+184,555,1,typhoid fever
+184,555,1,meningitis
+184,555,1,malaria
+184,555,2,fever
+184,555,2,typhoid fever
+184,555,2,meningitis
+184,555,2,rash
+184,555,2,vomiting
+184,555,2,blood clots
+184,555,2,red rash
+181,557,6,200 years ago
+181,559,1,malaria
+181,560,2,ulcers
+4,561,2,fever
+4,561,2,pain
+4,561,2,infection
+4,561,2,vomiting
+4,561,2,fatigue
+4,561,2,rash
+4,561,2,muscle pain
+4,561,2,sore throat
+4,561,2,headache
+110,562,1,ebola
+110,562,2,aches
+110,562,2,fever
+110,562,2,pain
+110,562,2,diarrhea
+110,562,2,vomiting
+110,562,2,sick
+110,562,2,stomach pain
+110,562,2,cough
+110,562,2,headache
+110,562,6,nine days after
+110,563,1,ebola
+110,563,2,death
+110,563,2,collapse
+110,563,2,diarrhea
+110,563,2,pressure
+110,563,2,vomit blood
+110,563,2,bloody diarrhea
+194,564,1,ebola
+194,564,1,typhoid fever
+194,564,1,flu
+194,564,1,malaria
+194,564,2,fever
+194,564,2,typhoid fever
+3,565,1,ebola
+3,565,1,ebola hemorrhagic fever
+3,565,2,death
+3,565,2,pain
+3,565,2,diarrhea
+3,565,2,low blood pressure
+3,565,2,rash
+3,565,2,vomiting
+3,565,2,pressure
+3,565,2,fever
+3,565,2,sore throat
+3,565,6,sixteen days after
+3,565,6,three weeks after
+3,565,8,ebola virus
+181,566,1,ebola
+181,567,1,ebola
+181,567,2,malaise
+181,567,2,fever
+181,567,2,diarrhea
+181,567,2,vomiting
+181,568,1,ebola
+181,568,6,2014
+181,569,1,ebola
+181,570,6,2002
+181,570,6,2009
+181,570,6,2005
+181,570,7,in(comparison to 2002)
+181,570,7,in(2005)
+181,570,7,in(2009)
+150,571,1,flu
+150,571,1,malaria
+150,571,2,infection
+150,571,2,flu-like symptoms
+185,572,1,flu
+185,572,1,malaria
+185,572,2,chills
+185,572,2,vomiting
+185,572,2,fever
+185,572,2,headache
+186,573,1,flu
+186,573,1,malaria
+186,573,2,high fever
+186,573,2,chills
+186,573,2,flu-like symptoms
+186,573,2,fever
+186,573,6,1940s
+186,573,7,in(the late 1940s)
+187,574,1,malaria
+187,574,2,irritability
+187,574,2,sweating
+187,574,2,fever
+187,574,2,drowsiness
+187,574,2,rapid breathing
+187,574,2,poor appetite
+187,574,2,chills
+187,575,1,malaria
+187,575,2,fever
+27,576,6,four weeks after
+27,576,6,two days before
+27,577,1,malaria
+27,577,2,abdominal pain
+27,577,2,nausea
+27,577,2,pain
+27,577,2,vomiting
+27,577,2,headache
+27,577,4,This drug 
+27,577,5,This drug commonly is prescribed for the prevention 
+27,577,6,seven days after
+27,577,6,two days before
+27,578,1,malaria
+27,579,1,malaria
+27,579,2,anemia
+27,579,6,two weeks after
+27,580,1,malaria
+27,580,4,There are potential drug 
+27,580,4,interactions between some of the medications used to treat 
+27,580,8,human immunodeficiency virus
+188,581,1,endemic typhus
+188,581,2,high fever
+188,581,2,malaise
+188,581,2,death
+188,581,2,pain
+188,581,2,nausea
+188,581,2,diarrhea
+188,581,2,infection
+188,581,2,vomiting
+188,581,2,fever
+188,581,2,rash
+188,581,2,cough
+188,581,2,headache
+188,581,6,two weeks after
+188,581,7,in(about one to two weeks after)
+18,582,2,seizures
+18,582,2,photophobia
+18,582,2,fever
+18,582,2,pain
+18,582,2,hearing loss
+18,582,2,abdominal pain
+18,582,2,nausea
+18,582,2,drowsiness
+18,582,2,myalgia
+18,582,2,joint pain
+18,582,2,vomiting
+18,582,2,gangrene
+18,582,2,severe headache
+18,582,2,malaise
+18,582,2,rash
+18,582,2,confusion
+18,582,2,coma
+18,582,2,delirium
+18,582,2,cough
+18,582,2,necrosis
+18,582,2,headache
+18,583,1,endemic typhus
+18,583,2,backache
+18,583,2,high fever
+18,583,2,fever
+18,583,2,pain
+18,583,2,abdominal pain
+18,583,2,nausea
+18,583,2,respiratory failure
+18,583,2,joint pain
+18,583,2,vomiting
+18,583,2,dry cough
+18,583,2,rash
+18,583,2,renal failure
+18,583,2,ataxia
+18,583,2,very high fever
+18,583,2,cough
+18,583,2,seizures
+18,583,2,red rash
+18,583,2,headache
+18,583,6,12 days after
+18,584,2,fever
+18,584,2,pain
+18,584,2,eschar
+18,584,2,lymphadenopathy
+18,584,2,myalgia
+18,584,2,rash
+18,584,2,vomiting
+18,584,2,cough
+18,584,2,maculopapular rash
+18,584,2,headache
+192,585,2,fever
+192,585,6,two weeks after
+142,586,1,typhus
+142,586,2,fever
+142,586,6,1848
+142,586,6,1847
+142,587,2,death
+142,587,2,sick
+142,588,1,typhus
+142,588,6,1921
+142,588,6,1922
+142,588,7,by(1921)
+142,588,7,in(1922)
+142,589,1,typhus
+142,590,1,typhus
+142,590,4,The first typhus vaccine 
+142,590,5,The first typhus vaccine 
+131,591,1,cholera
+131,591,2,dehydration
+131,592,1,cholera
+131,592,2,irritability
+131,592,2,lethargy
+131,592,2,dry mouth
+131,592,2,sunken eyes
+131,592,2,arrhythmia
+131,592,2,thirst
+131,592,2,low blood pressure
+131,592,2,pressure
+131,592,2,dehydration
+131,592,2,irregular heartbeat
+96,593,1,cholera
+96,593,2,cramps
+96,593,2,muscle cramps
+96,593,2,diarrhea
+96,593,2,sunken eyes
+96,593,2,infection
+96,593,2,vomiting
+96,593,2,cold skin
+96,593,2,dehydration
+96,593,2,electrolyte imbalance
+96,593,2,imbalance
+96,593,6,five days after
+96,593,6,This may
+193,594,1,cholera
+193,594,2,cramps
+193,594,2,death
+193,594,2,shock
+193,594,2,diarrhea
+193,594,2,infection
+193,594,2,vomiting
+193,594,2,leg cramps
+193,594,2,dehydration
+193,595,2,infection
+191,599,1,cholera
+191,599,2,dehydration
+191,599,2,death
+191,599,2,diarrhea
+191,600,1,cholera
+191,600,6,1800s
+191,600,7,in(the 1800s)
+199,801,1,ebola
+199,801,3,blood transfusion
+200,802,1,ebola
+202,803,1,ebola
+203,804,1,ebola
+203,804,2,infection
+204,805,4,have been treated 
+197,806,1,ebola
+197,807,1,ebola
+197,807,6,last month
+197,807,6,eight days later
+197,807,6,two days before
+205,808,3,dialysis
+205,809,1,ebola
+205,809,2,kidney failure
+205,810,2,kidney damage
+205,810,3,dialysis
+201,811,1,ebola
+201,811,6,2014
+200,812,1,ebola
+203,813,1,ebola
+203,813,2,infection
+202,815,1,ebola
+198,816,1,ebola
+198,816,8,ebola virus
+198,817,1,ebola
+198,817,5,isolation
+198,818,1,sars
+198,818,6,2005
+198,818,7,in(2005)
+198,820,2,infection
+199,821,1,ebola
+199,821,6,last week
+206,822,1,ebola
+203,823,1,ebola
+203,824,1,ebola
+203,824,2,infection
+207,825,1,ebola
+205,826,1,ebola
+205,826,2,sick
+205,826,4,dialysis
+205,827,1,ebola
+205,827,2,death
+205,827,4,dialysis
+205,828,5,isolation
+205,828,4,dialysis
+205,830,1,ebola
+199,831,1,ebola
+199,831,4,blood transfusion
+200,832,1,ebola
+201,833,1,ebola
+201,833,6,2014
+202,834,1,ebola
+203,835,1,ebola
+203,835,2,infection
+205,838,1,ebola
+205,838,4,dialysis
+205,839,1,ebola
+205,839,5,isolation
+205,840,1,ebola
+205,840,4,dialysis
+202,841,1,ebola
+203,842,1,ebola
+203,842,2,infection
+206,844,1,ebola
+207,845,1,ebola
+101,846,1,ebola
+101,846,2,infection
+101,846,4,Scientists in Canada announced the successful treatment 
+101,847,1,ebola
+101,847,2,infection
+101,847,8,ebola virus
+101,848,1,ebola
+101,848,1,ebola hemorrhagic fever
+101,848,2,fever
+101,848,2,infection
+101,848,8,ebola virus
+101,849,1,ebola
+101,849,6,1976
+101,849,7,in(1976)
+101,849,8,ebola virus
+101,849,8,virus family Filoviridae
+101,850,1,ebola
+101,850,2,aches
+101,850,2,fever
+101,850,2,pain
+101,850,2,muscle aches
+101,850,2,hiccups
+101,850,2,weakness
+101,850,2,diarrhea
+101,850,2,infection
+101,850,2,vomiting
+101,850,2,rash
+101,850,2,stomach pain
+101,850,2,sore throat
+101,850,2,headache
+199,851,1,ebola
+199,851,3,blood transfusion
+200,852,1,ebola
+201,853,1,ebola
+201,853,6,2014
+206,854,1,ebola
+207,855,1,ebola
+101,856,1,ebola
+101,857,1,ebola
+101,857,6,11-May
+101,857,7,in(may 2011)
+101,858,4,antibodies 
+101,859,1,ebola
+101,859,6,1976
+101,859,8,ebola virus
+199,861,1,ebola
+199,861,3,blood transfusion
+200,862,1,ebola
+202,863,1,ebola
+203,864,1,ebola
+203,864,2,infection
+206,865,1,ebola
+203,866,1,ebola
+203,866,4,drugs
+203,867,1,ebola
+203,868,6,TODAY
+199,869,1,ebola
+199,869,5,isolation
+199,870,1,ebola
+199,870,2,sick
+199,871,1,ebola
+199,871,4,blood transfusion
+200,872,1,ebola
+202,873,1,ebola
+207,875,1,ebola
+203,876,1,ebola
+203,877,1,ebola
+203,877,2,infection
+203,878,1,ebola
+203,878,4,They were the first human beings to receive an experimental drug 
+203,880,1,ebola
+203,880,2,sick
+199,881,1,ebola
+199,881,4,blood transfusion
+201,882,1,ebola
+201,882,6,2014
+203,883,1,ebola
+203,883,2,infection
+208,885,1,ebola
+208,885,5,isolation
+208,885,4,dialysis
+203,886,1,ebola
+203,886,2,fever
+203,887,1,cholera
+203,887,2,diarrhea
+203,887,2,severe diarrhea
+203,887,4,potassium
+203,887,4,sodium
+203,887,4,electrolytes
+203,888,1,ebola
+203,888,2,ebola virus infection
+203,888,2,infection
+203,888,8,ebola virus
+203,890,1,ebola
+199,891,1,ebola
+199,891,4,blood transfusion
+200,892,1,ebola
+207,894,1,ebola
+208,895,1,ebola
+208,895,5,isolation
+208,895,4,dialysis
+203,896,6,three weeks ago
+203,899,1,ebola
+203,899,4,The drug 
+203,900,4,researchers announced promising results with a drug 
+203,900,6,this week
+201,901,1,ebola
+201,901,6,2014
+202,902,1,ebola
+206,903,1,ebola
+207,904,1,ebola
+208,905,1,ebola
+208,905,5,isolation
+208,905,4,dialysis
+203,906,4,drugs
+203,908,4,drugs
+203,910,1,ebola
+203,910,2,infection
+203,910,4,infusion
+200,911,1,ebola
+203,912,1,ebola
+203,912,2,infection
+206,913,1,ebola
+207,914,1,ebola
+208,915,1,ebola
+208,915,5,isolation
+208,915,4,dialysis
+203,917,4,drugs
+203,917,6,this week
+203,917,7,in(this week)
+203,918,4,drugs
+203,919,4,drugs
+203,920,1,ebola
+203,921,1,ebola
+203,921,2,infection
+206,923,1,ebola
+207,924,1,ebola
+208,925,1,ebola
+208,925,5,isolation
+208,925,4,dialysis
+199,927,1,ebola
+199,927,8,ebola virus
+199,929,1,ebola
+199,929,2,fever
+199,929,2,low-grade fever
+199,930,1,ebola
+199,930,2,fever
+199,930,2,diarrhea
+199,930,2,vomiting
+199,930,2,sore throat
+199,930,2,headache
+199,931,1,ebola
+199,931,4,blood transfusion
+202,932,1,ebola
+207,934,1,ebola
+208,935,1,ebola
+208,935,5,isolation
+208,935,4,dialysis
+199,936,1,ebola
+199,936,2,pressure
+199,936,2,diarrhea
+199,936,2,vomiting
+199,936,4,including providing intravenous fluids 
+199,936,4,of intravenous fluids 
+199,937,1,ebola
+199,937,2,dehydration
+199,937,4,Farber says effective treatment 
+199,939,2,infection
+199,940,1,ebola
+199,941,1,ebola
+199,941,4,blood transfusion
+201,942,1,ebola
+201,942,6,2014
+202,943,1,ebola
+208,945,1,ebola
+208,945,5,isolation
+208,945,4,dialysis
+199,946,1,ebola
+199,946,4,blood transfusion
+199,947,1,ebola
+199,947,4,an experimental drug 
+199,948,4,American journalist Ashoka Mukpo received the same drug 
+199,949,1,ebola
+199,951,1,ebola
+199,951,4,blood transfusion
+200,952,1,ebola
+201,953,1,ebola
+201,953,6,2014
+206,954,1,ebola
+208,955,1,ebola
+208,955,5,isolation
+208,955,4,dialysis
+208,956,1,ebola
+208,956,4,dialysis
+208,956,4,supporting treatment 
+208,956,8,ebola virus
+208,958,1,ebola
+208,958,4,dialysis
+208,958,4,said of the dialysis treatment 
+208,958,6,1990s
+208,958,7,in(the 1990s)
+208,960,6,Four days after
+199,961,1,ebola
+199,961,4,blood transfusion
+200,962,1,ebola
+201,963,1,ebola
+201,963,6,2014
+206,965,1,ebola
+208,966,1,ebola
+208,966,2,dehydration
+208,966,2,renal failure
+208,966,2,diarrhea
+208,966,2,vomiting
+208,966,3,artificial kidney
+208,966,3,hemodialysis
+208,966,4,acted as an artificial kidney to prevent 
+208,967,1,ebola
+208,967,4,dialysis
+208,968,1,ebola
+208,968,4,dialysis
+200,971,1,ebola
+201,972,1,ebola
+201,972,6,2014
+203,973,1,ebola
+203,973,2,infection
+206,974,1,ebola
+207,975,1,ebola
+208,976,5,you have to put on all of the personal protective equipment 
+208,977,1,ebola
+208,977,6,Thirty-five days after
+208,978,1,ebola
+208,978,4,dialysis
+208,979,1,ebola
+208,979,4,dialysis
+208,979,3,kidney function
+208,980,4,dialysis
+199,981,1,ebola
+199,981,4,blood transfusion
+200,982,1,ebola
+201,983,1,ebola
+201,983,6,2014
+202,984,1,ebola
+203,985,1,ebola
+203,985,2,infection
+208,988,4,hemodialysis
+208,989,4,dialysis
+208,989,4,intravenous fluids 
+208,990,4,dialysis
+202,991,1,ebola
+203,992,1,ebola
+203,992,2,infection
+206,994,1,ebola
+207,995,1,ebola
+208,997,4,Dialysis
+208,997,4,such as aggressive IV 
+4,1201,2,fever
+4,1201,2,pain
+4,1201,2,infection
+4,1201,2,vomiting
+4,1201,2,fatigue
+4,1201,2,rash
+4,1201,2,muscle pain
+4,1201,2,sore throat
+4,1201,2,headache
+9,1202,1,hepatitis b
+9,1202,2,infection
+9,1202,2,hepatitis
+9,1202,8,hepatitis b virus
+13,1203,1,cholera
+13,1203,2,infection
+18,1204,2,seizures
+18,1204,2,photophobia
+18,1204,2,fever
+18,1204,2,pain
+18,1204,2,hearing loss
+18,1204,2,abdominal pain
+18,1204,2,nausea
+18,1204,2,drowsiness
+18,1204,2,myalgia
+18,1204,2,joint pain
+18,1204,2,vomiting
+18,1204,2,gangrene
+18,1204,2,severe headache
+18,1204,2,malaise
+18,1204,2,rash
+18,1204,2,confusion
+18,1204,2,coma
+18,1204,2,delirium
+18,1204,2,cough
+18,1204,2,necrosis
+18,1204,2,headache
+3,1206,1,ebola
+3,1206,8,ebola virus
+3,1207,5,isolation
+3,1208,1,ebola
+3,1208,6,2014
+3,1208,7,in(guinea during the 2014)
+3,1209,1,ebola
+3,1209,2,infection
+3,1209,5,The risk increases when they do not have appropriate protective clothing such as masks
+3,1209,5,gloves 
+3,1209,5,gowns
+4,1211,2,fever
+4,1211,2,pain
+4,1211,2,infection
+4,1211,2,vomiting
+4,1211,2,fatigue
+4,1211,2,rash
+4,1211,2,muscle pain
+4,1211,2,sore throat
+4,1211,2,headache
+5,1212,2,infection
+6,1213,1,ebola
+6,1213,2,infection
+6,1213,6,21 days after
+6,1213,8,ebola virus
+6,1214,1,ebola
+6,1214,6,1976
+6,1214,6,2000
+6,1214,6,1995
+6,1214,7,on(times for the 1995)
+6,1214,7,in(a study of the 1976)
+6,1214,8,ebola virus
+7,1215,1,ebola
+5,1216,1,ebola
+5,1216,2,death
+5,1216,2,fever
+5,1216,8,ebola virus
+5,1217,1,ebola
+5,1217,6,1976
+5,1217,7,in(1976)
+5,1218,1,ebola
+5,1218,8,ebola virus
+5,1220,1,ebola
+5,1220,2,infection
+9,1221,1,hepatitis b
+9,1221,2,infection
+9,1221,2,hepatitis
+9,1221,8,hepatitis b virus
+9,1222,1,hepatitis b
+9,1222,2,infection
+9,1222,2,hepatitis
+9,1222,8,hepatitis b virus
+10,1223,1,hepatitis b
+10,1223,2,infection
+10,1223,2,hepatitis
+10,1223,6,60 days after
+10,1223,7,in(30 to 60 days after)
+10,1223,8,hepatitis b virus
+11,1224,2,no symptoms
+11,1224,2,infection
+11,1224,6,6 months after
+12,1225,6,180 days after
+12,1225,6,90 days after
+10,1226,1,hepatitis b
+10,1226,2,liver infection
+10,1226,2,death
+10,1226,2,liver cancer
+10,1226,2,infection
+10,1226,2,hepatitis
+10,1226,8,hepatitis b virus
+10,1227,1,hepatitis b
+10,1227,2,liver cancer
+10,1227,2,infection
+10,1227,2,hepatitis
+10,1227,4,A vaccine 
+10,1227,4,The vaccine 
+10,1227,5,A vaccine 
+10,1227,5,The vaccine 
+10,1227,6,1982
+10,1227,7,since(1982)
+10,1228,1,hepatitis b
+10,1228,2,hepatitis
+10,1229,1,hepatitis b
+10,1229,2,infection
+10,1229,2,hepatitis
+10,1230,1,hepatitis
+10,1230,1,hepatitis b
+10,1230,2,drugs
+10,1230,2,infection
+10,1230,2,hepatitis
+10,1230,3,dental
+13,1231,1,cholera
+13,1231,2,infection
+14,1232,1,cholera
+14,1232,2,dehydration
+14,1232,2,death
+14,1232,2,infection
+14,1232,2,vomiting
+14,1232,2,watery diarrhoea that can quickly lead to severe dehydration and death if treatment 
+16,1233,1,cholera
+16,1233,2,dehydration
+16,1233,2,diarrhea
+16,1233,2,vomiting
+212,1234,1,cholera
+212,1234,2,dehydration
+212,1234,2,diarrhea
+212,1234,2,vomiting
+212,1234,4,Antibiotics 
+212,1234,5,Antibiotics are prescribed for severe cases to prevent 
+212,1235,1,cholera
+212,1235,6,two days before
+13,1236,1,cholera
+13,1236,6,1991
+13,1236,6,1961
+13,1236,6,1971
+13,1236,7,in(1991)
+13,1236,7,in(south asia in 1961)
+13,1236,7,in(1971)
+13,1237,6,1992
+13,1237,7,in(bangladesh in 1992)
+13,1238,1,cholera
+13,1240,1,cholera
+18,1241,2,seizures
+18,1241,2,photophobia
+18,1241,2,fever
+18,1241,2,pain
+18,1241,2,hearing loss
+18,1241,2,abdominal pain
+18,1241,2,nausea
+18,1241,2,drowsiness
+18,1241,2,myalgia
+18,1241,2,joint pain
+18,1241,2,vomiting
+18,1241,2,gangrene
+18,1241,2,severe headache
+18,1241,2,malaise
+18,1241,2,rash
+18,1241,2,confusion
+18,1241,2,coma
+18,1241,2,delirium
+18,1241,2,cough
+18,1241,2,necrosis
+18,1241,2,headache
+18,1242,1,endemic typhus
+18,1242,1,typhus
+18,1242,2,backache
+18,1242,2,high fever
+18,1242,2,fever
+18,1242,2,pain
+18,1242,2,abdominal pain
+18,1242,2,nausea
+18,1242,2,respiratory failure
+18,1242,2,joint pain
+18,1242,2,vomiting
+18,1242,2,dry cough
+18,1242,2,rash
+18,1242,2,renal failure
+18,1242,2,ataxia
+18,1242,2,very high fever
+18,1242,2,cough
+18,1242,2,seizures
+18,1242,2,red rash
+18,1242,2,headache
+18,1242,6,12 days after
+18,1243,2,fever
+18,1243,2,pain
+18,1243,2,eschar
+18,1243,2,lymphadenopathy
+18,1243,2,myalgia
+18,1243,2,rash
+18,1243,2,vomiting
+18,1243,2,cough
+18,1243,2,maculopapular rash
+18,1243,2,headache
+21,1244,1,typhus
+21,1244,1,epidemic typhus
+21,1244,2,fever
+18,1245,2,malaise
+142,1246,1,typhus
+142,1246,2,high fever
+142,1246,2,fever
+142,1246,2,pain
+142,1246,2,cough
+142,1246,2,stupor
+142,1246,2,rash
+142,1246,2,pressure
+142,1246,2,severe headache
+142,1246,2,death
+142,1246,2,delirium
+142,1246,2,falling
+142,1246,2,chills
+142,1246,2,muscle pain
+142,1246,2,headache
+142,1246,6,five days after
+142,1246,7,on(the chest about five days after)
+142,1247,1,chickenpox
+142,1247,1,typhus
+142,1247,1,epidemic typhus
+142,1247,1,shingles
+142,1247,2,malnutrition
+142,1247,6,1913
+142,1247,7,by(nathan brill in 1913)
+142,1248,1,typhus
+142,1248,1,epidemic typhus
+142,1249,1,typhus
+142,1249,2,infection
+142,1249,4,Rudolf Weigl in 1930 was able to fashion a practical and effective vaccine 
+142,1249,5,Rudolf Weigl in 1930 was able to fashion a practical and effective vaccine 
+142,1249,6,1930
+142,1249,6,1916
+142,1249,7,in(1916)
+142,1249,7,in(1930)
+142,1250,4,This vaccine 
+142,1250,5,This vaccine 
+142,1250,6,1943
+142,1250,6,1938
+142,1250,7,in(1938)
+142,1250,7,by(1943)
+195,1252,1,malaria
+195,1252,6,1 week after
+185,1253,1,malaria
+185,1253,6,seven days after
+219,1255,1,malaria
+219,1255,4,drugs
+219,1255,2,sick
+219,1255,6,next day
+150,1256,4,drugs
+150,1260,1,flu
+150,1260,1,malaria
+150,1260,2,infection
+150,1260,2,flu-like symptoms
+4,1261,2,fever
+4,1261,2,pain
+4,1261,2,infection
+4,1261,2,vomiting
+4,1261,2,fatigue
+4,1261,2,rash
+4,1261,2,muscle pain
+4,1261,2,sore throat
+4,1261,2,headache
+9,1262,1,hepatitis b
+9,1262,2,infection
+9,1262,2,hepatitis
+9,1262,8,hepatitis b virus
+13,1263,1,cholera
+13,1263,2,infection
+18,1264,2,seizures
+18,1264,2,photophobia
+18,1264,2,fever
+18,1264,2,pain
+18,1264,2,hearing loss
+18,1264,2,abdominal pain
+18,1264,2,nausea
+18,1264,2,drowsiness
+18,1264,2,myalgia
+18,1264,2,joint pain
+18,1264,2,vomiting
+18,1264,2,gangrene
+18,1264,2,severe headache
+18,1264,2,malaise
+18,1264,2,rash
+18,1264,2,confusion
+18,1264,2,coma
+18,1264,2,delirium
+18,1264,2,cough
+18,1264,2,necrosis
+18,1264,2,headache
+210,1266,1,aids
+210,1266,1,typhoid fever
+210,1266,2,fever
+210,1266,2,typhoid fever
+210,1266,2,infection
+210,1266,4,despite antibiotic 
+210,1266,4,where antibiotics 
+210,1266,6,2004
+210,1266,7,in(2004)
+210,1266,8,hiv
+210,1267,2,infection
+210,1267,6,2006
+210,1267,6,2010
+210,1267,6,2007
+210,1268,1,histoplasmosis
+210,1268,1,malaria
+210,1268,1,schistosomiasis
+210,1268,1,meningitis
+210,1268,2,bartonellosis
+210,1268,2,meningitis
+210,1268,2,infection
+210,1268,4,and recent antibiotics 
+210,1269,1,typhoid fever
+210,1269,2,fever
+210,1269,2,typhoid fever
+210,1269,6,2007-2010
+4,1271,2,fever
+4,1271,2,pain
+4,1271,2,infection
+4,1271,2,vomiting
+4,1271,2,fatigue
+4,1271,2,rash
+4,1271,2,muscle pain
+4,1271,2,sore throat
+4,1271,2,headache
+5,1272,2,infection
+7,1273,1,ebola
+7,1274,1,ebola
+7,1274,2,death
+7,1274,2,pain
+7,1274,2,shock
+7,1274,2,diarrhea
+7,1274,2,infection
+7,1274,2,fever
+7,1274,2,nausea
+3,1277,3,platelet count
+3,1278,1,ebola
+3,1278,5,isolation
+3,1278,3,PCR
+3,1278,3,polymerase chain reaction
+3,1278,6,2015
+3,1278,6,2014
+3,1278,6,two days after
+3,1278,6,18 days after
+3,1278,7,in(2014)
+3,1278,7,in(2015)
+3,1279,1,dengue fever
+3,1279,1,malaria
+3,1279,2,fever
+3,1279,8,marburg virus
+3,1280,1,leishmaniasis
+3,1280,1,typhoid fever
+3,1280,1,q fever
+3,1280,1,cholera
+3,1280,1,typhus
+3,1280,1,candidiasis
+3,1280,1,hepatitis
+3,1280,1,shigellosis
+3,1280,1,leptospirosis
+3,1280,1,plague
+3,1280,1,sepsis
+3,1280,1,histoplasmosis
+3,1280,1,measles
+3,1280,2,leptospirosis
+3,1280,2,fever
+3,1280,2,typhoid fever
+3,1280,2,hepatitis
+3,1280,2,sepsis
+9,1281,1,hepatitis b
+9,1281,2,infection
+9,1281,2,hepatitis
+9,1281,8,hepatitis b virus
+9,1282,1,hepatitis b
+9,1282,2,infection
+9,1282,2,hepatitis
+9,1282,8,hepatitis b virus
+10,1283,1,hepatitis b
+10,1283,2,infection
+10,1283,2,hepatitis
+10,1283,6,60 days after
+10,1283,7,in(30 to 60 days after)
+10,1283,8,hepatitis b virus
+11,1284,2,no symptoms
+11,1284,2,infection
+11,1284,6,6 months after
+12,1285,6,180 days after
+12,1285,6,90 days after
+10,1286,1,hepatitis b
+10,1286,2,drugs
+10,1286,2,liver cancer
+10,1286,2,infection
+10,1286,2,hepatitis
+10,1286,2,vomiting
+10,1286,4,Chronic hepatitis B infection can be treated 
+10,1287,1,hepatitis b
+10,1287,4,drugs
+10,1287,2,hepatitis
+10,1287,4,They rarely lead to drug 
+10,1287,8,hepatitis b virus
+10,1288,1,hepatitis b
+10,1288,2,infection
+10,1288,2,hepatitis
+10,1290,1,hepatitis b
+10,1290,2,liver cancer
+10,1290,2,hepatitis
+10,1290,4,chemotherapy
+13,1291,1,cholera
+13,1291,2,infection
+14,1292,1,cholera
+14,1292,2,dehydration
+14,1292,2,death
+14,1292,2,infection
+14,1292,2,vomiting
+14,1292,2,watery diarrhoea that can quickly lead to severe dehydration and death if treatment 
+16,1293,1,cholera
+16,1293,2,dehydration
+16,1293,2,diarrhea
+16,1293,2,vomiting
+212,1294,1,cholera
+212,1294,2,dehydration
+212,1294,2,diarrhea
+212,1294,2,vomiting
+212,1294,4,Antibiotics 
+212,1294,5,Antibiotics are prescribed for severe cases to prevent 
+212,1295,1,cholera
+212,1295,6,two days before
+15,1296,2,infection
+15,1297,2,infection
+15,1299,1,cholera
+15,1299,4,in which case a single dose of cholera vaccine 
+15,1299,4,Cholera vaccine 
+15,1299,5,in which case a single dose of cholera vaccine 
+15,1299,5,Cholera vaccine 
+15,1300,1,cholera
+15,1300,6,1908
+18,1301,2,seizures
+18,1301,2,photophobia
+18,1301,2,fever
+18,1301,2,pain
+18,1301,2,hearing loss
+18,1301,2,abdominal pain
+18,1301,2,nausea
+18,1301,2,drowsiness
+18,1301,2,myalgia
+18,1301,2,joint pain
+18,1301,2,vomiting
+18,1301,2,gangrene
+18,1301,2,severe headache
+18,1301,2,malaise
+18,1301,2,rash
+18,1301,2,confusion
+18,1301,2,coma
+18,1301,2,delirium
+18,1301,2,cough
+18,1301,2,necrosis
+18,1301,2,headache
+18,1302,1,endemic typhus
+18,1302,1,typhus
+18,1302,2,backache
+18,1302,2,high fever
+18,1302,2,fever
+18,1302,2,pain
+18,1302,2,abdominal pain
+18,1302,2,nausea
+18,1302,2,respiratory failure
+18,1302,2,joint pain
+18,1302,2,vomiting
+18,1302,2,dry cough
+18,1302,2,rash
+18,1302,2,renal failure
+18,1302,2,ataxia
+18,1302,2,very high fever
+18,1302,2,cough
+18,1302,2,seizures
+18,1302,2,red rash
+18,1302,2,headache
+18,1302,6,12 days after
+18,1303,2,fever
+18,1303,2,pain
+18,1303,2,eschar
+18,1303,2,lymphadenopathy
+18,1303,2,myalgia
+18,1303,2,rash
+18,1303,2,vomiting
+18,1303,2,cough
+18,1303,2,maculopapular rash
+18,1303,2,headache
+21,1304,1,typhus
+21,1304,1,epidemic typhus
+21,1304,2,fever
+18,1305,1,epidemic typhus
+18,1305,2,malaise
+18,1306,1,epidemic typhus
+18,1306,2,vasculitis
+18,1306,2,fever
+18,1306,2,infection
+18,1306,2,typhus fever
+18,1307,1,typhus
+18,1307,1,epidemic typhus
+18,1307,6,1990s
+18,1307,6,1930s
+18,1307,7,during(the 1990s)
+18,1307,7,during(the 1930s)
+18,1308,1,murine typhus
+18,1309,1,epidemic typhus
+18,1310,1,endemic typhus
+18,1310,1,typhus
+18,1310,1,murine typhus
+18,1310,6,1993-1997
+195,1312,1,malaria
+195,1312,6,1 week after
+185,1313,1,malaria
+185,1313,6,seven days after
+219,1315,1,malaria
+219,1315,2,drugs
+219,1315,2,sick
+219,1315,6,next day
+150,1316,1,malaria
+150,1317,2,fever
+150,1318,1,malaria
+150,1319,1,malaria
+150,1319,2,seizures
+150,1320,2,infection
+4,1321,2,fever
+4,1321,2,pain
+4,1321,2,infection
+4,1321,2,vomiting
+4,1321,2,fatigue
+4,1321,2,rash
+4,1321,2,muscle pain
+4,1321,2,sore throat
+4,1321,2,headache
+9,1322,1,hepatitis b
+9,1322,2,infection
+9,1322,2,hepatitis
+9,1322,8,hepatitis b virus
+13,1323,1,cholera
+13,1323,2,infection
+18,1324,2,seizures
+18,1324,2,photophobia
+18,1324,2,fever
+18,1324,2,pain
+18,1324,2,hearing loss
+18,1324,2,abdominal pain
+18,1324,2,nausea
+18,1324,2,drowsiness
+18,1324,2,myalgia
+18,1324,2,joint pain
+18,1324,2,vomiting
+18,1324,2,gangrene
+18,1324,2,severe headache
+18,1324,2,malaise
+18,1324,2,rash
+18,1324,2,confusion
+18,1324,2,coma
+18,1324,2,delirium
+18,1324,2,cough
+18,1324,2,necrosis
+18,1324,2,headache
+225,1326,1,malaria
+225,1327,1,malaria
+225,1327,2,drugs
+4,1331,2,fever
+4,1331,2,pain
+4,1331,2,infection
+4,1331,2,vomiting
+4,1331,2,fatigue
+4,1331,2,rash
+4,1331,2,muscle pain
+4,1331,2,sore throat
+4,1331,2,headache
+5,1332,2,infection
+6,1333,1,ebola
+6,1333,2,infection
+6,1333,6,21 days after
+6,1333,8,ebola virus
+6,1334,1,ebola
+6,1334,6,1976
+6,1334,6,2000
+6,1334,6,1995
+6,1334,7,on(times for the 1995)
+6,1334,7,in(a study of the 1976)
+6,1334,8,ebola virus
+4,1336,1,ebola
+4,1336,1,typhoid fever
+4,1336,1,meningitis
+4,1336,1,malaria
+4,1336,2,ebola virus infection
+4,1336,2,fever
+4,1336,2,typhoid fever
+4,1336,2,meningitis
+4,1336,2,infection
+4,1336,8,ebola virus
+4,1337,3,testing
+4,1338,3,testing
+4,1338,4,immune therapies and drug 
+4,1339,5,use of personal protective equipment 
+4,1340,1,ebola
+4,1340,2,infection
+4,1340,5,and gloves 
+4,1340,5,sterile gloves 
+4,1340,8,ebola virus
+9,1341,1,hepatitis b
+9,1341,2,infection
+9,1341,2,hepatitis
+9,1341,8,hepatitis b virus
+9,1342,1,hepatitis b
+9,1342,2,infection
+9,1342,2,hepatitis
+9,1342,8,hepatitis b virus
+10,1343,1,hepatitis b
+10,1343,2,infection
+10,1343,2,hepatitis
+10,1343,6,60 days after
+10,1343,7,in(30 to 60 days after)
+10,1343,8,hepatitis b virus
+11,1344,2,no symptoms
+11,1344,2,infection
+11,1344,6,6 months after
+12,1345,6,180 days after
+12,1345,6,90 days after
+10,1346,4,series induces protective antibody 
+10,1346,4,The complete vaccine 
+10,1346,5,series induces protective antibody 
+10,1346,5,The complete vaccine 
+10,1347,2,infection
+10,1347,4,All children and adolescents younger than 18 years old and not previously vaccinated should receive the vaccine 
+10,1347,5,All children and adolescents younger than 18 years old and not previously vaccinated should receive the vaccine 
+10,1348,1,hepatitis b
+10,1348,2,infection
+10,1348,2,hepatitis
+10,1348,4,The vaccine 
+10,1348,4,over 1 billion doses of hepatitis B vaccine 
+10,1348,5,The vaccine 
+10,1348,5,over 1 billion doses of hepatitis B vaccine 
+10,1348,6,1982
+10,1348,7,since(1982)
+10,1348,8,hepatitis b virus
+10,1349,1,hepatitis b
+10,1349,2,hepatitis
+10,1349,6,1992
+10,1349,6,2013
+10,1349,7,in(1992)
+10,1350,1,hepatitis b
+10,1350,2,hepatitis
+10,1350,5,condoms
+10,1350,5,assured screening of all donated blood and blood components used for transfusion can prevent 
+10,1350,8,hepatitis b virus
+18,1351,2,seizures
+18,1351,2,photophobia
+18,1351,2,fever
+18,1351,2,pain
+18,1351,2,hearing loss
+18,1351,2,abdominal pain
+18,1351,2,nausea
+18,1351,2,drowsiness
+18,1351,2,myalgia
+18,1351,2,joint pain
+18,1351,2,vomiting
+18,1351,2,gangrene
+18,1351,2,severe headache
+18,1351,2,malaise
+18,1351,2,rash
+18,1351,2,confusion
+18,1351,2,coma
+18,1351,2,delirium
+18,1351,2,cough
+18,1351,2,necrosis
+18,1351,2,headache
+18,1352,1,endemic typhus
+18,1352,1,typhus
+18,1352,2,backache
+18,1352,2,high fever
+18,1352,2,fever
+18,1352,2,pain
+18,1352,2,abdominal pain
+18,1352,2,nausea
+18,1352,2,respiratory failure
+18,1352,2,joint pain
+18,1352,2,vomiting
+18,1352,2,dry cough
+18,1352,2,rash
+18,1352,2,renal failure
+18,1352,2,ataxia
+18,1352,2,very high fever
+18,1352,2,cough
+18,1352,2,seizures
+18,1352,2,red rash
+18,1352,2,headache
+18,1352,6,12 days after
+18,1353,2,fever
+18,1353,2,pain
+18,1353,2,eschar
+18,1353,2,lymphadenopathy
+18,1353,2,myalgia
+18,1353,2,rash
+18,1353,2,vomiting
+18,1353,2,cough
+18,1353,2,maculopapular rash
+18,1353,2,headache
+21,1354,1,typhus
+21,1354,1,epidemic typhus
+21,1354,2,fever
+18,1355,2,seizures
+18,1355,2,photophobia
+18,1355,2,fever
+18,1355,2,pain
+18,1355,2,hearing loss
+18,1355,2,abdominal pain
+18,1355,2,nausea
+18,1355,2,drowsiness
+18,1355,2,myalgia
+18,1355,2,joint pain
+18,1355,2,vomiting
+18,1355,2,gangrene
+18,1355,2,severe headache
+18,1355,2,malaise
+18,1355,2,rash
+18,1355,2,confusion
+18,1355,2,coma
+18,1355,2,delirium
+18,1355,2,cough
+18,1355,2,necrosis
+18,1355,2,headache
+21,1356,4,This vaccine 
+21,1356,5,This vaccine 
+21,1356,6,1943
+21,1356,6,1938
+21,1356,7,in(1938)
+21,1356,7,by(1943)
+21,1357,2,infection
+21,1357,4,antibiotics 
+21,1357,4,Intravenous fluids 
+21,1358,1,typhus
+21,1358,6,1546
+21,1358,6,1083
+21,1358,7,in(1546)
+21,1358,7,in(1083)
+21,1359,1,typhus
+21,1359,4,vaccine 
+21,1359,5,vaccine 
+21,1360,1,epidemic typhus
+21,1360,1,plague
+195,1362,1,malaria
+195,1362,6,1 week after
+185,1363,1,malaria
+185,1363,6,seven days after
+219,1365,1,malaria
+219,1365,2,drugs
+219,1365,2,sick
+219,1365,6,next day
+189,1367,1,influenza
+189,1367,1,malaria
+189,1368,1,malaria
+189,1368,2,thrombocytopenia
+189,1368,2,anemia
+189,1369,1,malaria
+236,1371,1,ebola
+236,1371,6,21 days after
+4,1372,2,fever
+4,1372,2,pain
+4,1372,2,infection
+4,1372,2,vomiting
+4,1372,2,fatigue
+4,1372,2,rash
+4,1372,2,muscle pain
+4,1372,2,sore throat
+4,1372,2,headache
+110,1373,1,ebola
+110,1373,2,aches
+110,1373,2,fever
+110,1373,2,pain
+110,1373,2,diarrhea
+110,1373,2,vomiting
+110,1373,2,sick
+110,1373,2,stomach pain
+110,1373,2,cough
+110,1373,2,headache
+110,1373,6,nine days after
+237,1374,6,21 days after
+3,1375,1,ebola
+3,1375,1,ebola hemorrhagic fever
+3,1375,2,fever
+3,1375,2,pain
+3,1375,2,diarrhea
+3,1375,2,rash
+3,1375,2,vomiting
+3,1375,2,muscle pain
+3,1375,2,sore throat
+3,1375,6,three weeks after
+3,1375,8,ebola virus
+3,1375,8,ebolavirus
+110,1376,1,ebola
+110,1376,2,infection
+110,1376,5,Vaccines in development have been effective at preventing 
+110,1377,1,ebola
+110,1377,2,cough
+110,1377,2,infection
+110,1377,2,fever
+110,1377,2,vomiting
+110,1378,5,isolation
+110,1378,2,sick
+110,1378,2,infection
+238,1381,1,hepatitis b
+238,1381,2,infection
+238,1381,2,hepatitis
+238,1381,6,6 months after
+239,1382,6,6 months after
+240,1384,1,hepatitis b
+240,1384,2,hepatitis
+240,1384,6,6 months later
+11,1385,2,no symptoms
+11,1385,2,infection
+11,1385,6,6 months after
+11,1386,1,hepatitis b
+11,1386,2,liver infection
+11,1386,2,infection
+11,1386,2,hepatitis
+11,1386,8,hepatitis b virus
+11,1387,4,drugs
+11,1387,2,liver cancer
+11,1387,2,liver damage
+11,1388,1,hepatitis b
+11,1388,2,infection
+11,1388,2,hepatitis
+11,1388,8,hepatitis b virus
+11,1389,2,infection
+11,1390,1,hepatitis b
+11,1390,2,infection
+11,1390,2,hepatitis
+11,1390,3,acupuncture
+11,1390,8,hepatitis b virus
+241,1392,1,malaria
+185,1393,1,malaria
+185,1393,6,seven days after
+143,1395,1,malaria
+143,1395,2,jaundice
+143,1395,5,Related articles q Malaria Prevention 
+143,1395,6,four weeks after
+143,1396,1,malaria
+143,1396,2,infection
+143,1397,1,malaria
+143,1398,1,malaria
+143,1399,1,malaria
+143,1400,1,malaria
+234,1601,1,malaria
+234,1601,2,death
+234,1601,2,the inability to deliver sufficient oxygen 
+235,1602,1,malaria
+235,1602,2,severe headache
+235,1602,2,confusion
+235,1602,2,drowsiness
+235,1602,2,coma
+235,1602,2,convulsions
+235,1602,2,headache
+216,1603,1,ebola
+216,1603,1,flu
+216,1603,2,flu-like symptoms
+216,1603,2,shock
+216,1603,2,diarrhea
+216,1603,2,low blood pressure
+216,1603,2,infection
+216,1603,2,vomiting
+216,1603,2,pressure
+216,1603,8,ebola virus
+224,1604,1,typhoid fever
+224,1604,2,fever
+224,1604,2,lethargy
+224,1604,2,abdominal pain
+224,1604,2,typhoid fever
+224,1604,2,spots
+224,1604,2,rose spots
+224,1604,2,pain
+224,1604,2,headache
+224,1604,4,antibiotic 
+216,1605,1,ebola
+216,1605,1,flu
+216,1605,2,flu-like symptoms
+216,1605,2,shock
+216,1605,2,diarrhea
+216,1605,2,low blood pressure
+216,1605,2,infection
+216,1605,2,vomiting
+216,1605,2,pressure
+216,1605,8,ebola virus
+209,1606,1,ebola
+209,1606,5,prevention
+209,1606,6,2014
+209,1606,7,on(the 2014)
+209,1606,8,ebola virus
+209,1606,8,ebolavirus
+209,1608,1,ebola
+209,1608,2,fear
+209,1608,2,anxiety
+209,1609,1,flu
+209,1610,1,ebola
+209,1610,3,testing
+214,1611,2,death
+214,1611,2,blood clots
+215,1612,1,ebola
+215,1612,2,death
+215,1612,2,blisters
+215,1612,8,ebola virus
+222,1613,1,typhoid fever
+222,1613,2,fever
+222,1613,2,typhoid fever
+228,1614,1,cholera
+228,1614,2,diarrhea
+233,1615,1,flu
+233,1615,1,malaria
+233,1615,2,kidney failure
+233,1615,2,aches
+233,1615,2,headache
+233,1615,2,death
+233,1615,2,muscle aches
+233,1615,2,confusion
+233,1615,2,nausea
+233,1615,2,diarrhea
+233,1615,2,infection
+233,1615,2,vomiting
+233,1615,2,fever
+233,1615,2,jaundice
+233,1615,2,tiredness
+233,1615,2,coma
+233,1615,2,chills
+233,1615,2,seizures
+233,1615,2,anemia
+233,1615,6,15 days after
+209,1620,1,ebola
+232,1621,1,malaria
+232,1621,2,infection
+227,1622,1,cholera
+221,1623,1,pneumonia
+221,1623,1,typhus
+221,1623,2,stupor
+221,1623,2,constipation
+221,1623,2,rash
+221,1623,2,pneumonia
+221,1623,2,splenomegaly
+221,1623,2,kidney damage
+221,1623,2,delirium
+221,1623,2,renal failure
+221,1623,2,bradycardia
+217,1624,1,ebola
+217,1624,2,pressure
+217,1624,2,dehydration
+217,1624,2,fever
+217,1624,2,diarrhea
+218,1625,1,ebola
+218,1625,2,blood clots
+218,1625,2,petechiae
+218,1625,2,spots
+218,1625,2,red spots
+209,1626,1,ebola
+209,1626,6,1976
+209,1626,6,14-Aug
+209,1626,7,since(1976)
+209,1626,8,ebola virus
+209,1627,6,2014
+209,1627,7,in(2014)
+209,1630,2,infection
+209,1630,6,last month
+209,1630,7,in(the last month)
+211,1631,1,ebola
+211,1631,2,ebola virus infection
+211,1631,2,infection
+211,1631,8,ebola virus
+213,1632,1,ebola
+213,1632,2,infection
+213,1632,8,ebola virus
+214,1633,2,death
+214,1633,2,blood clots
+215,1634,1,ebola
+215,1634,2,death
+215,1634,2,blisters
+215,1634,8,ebola virus
+216,1635,1,ebola
+216,1635,1,flu
+216,1635,2,flu-like symptoms
+216,1635,2,shock
+216,1635,2,diarrhea
+216,1635,2,low blood pressure
+216,1635,2,infection
+216,1635,2,vomiting
+216,1635,2,pressure
+216,1635,8,ebola virus
+209,1636,1,ebola
+209,1636,1,ebola hemorrhagic fever
+209,1636,2,fever
+209,1636,8,ebola virus
+209,1637,2,infection
+209,1638,2,double
+209,1638,2,infection
+209,1639,1,ebola
+231,1641,1,malaria
+231,1641,2,coma
+231,1641,2,convulsions
+231,1641,2,brain damage
+231,1641,2,fever
+232,1642,1,malaria
+232,1642,2,infection
+233,1643,1,flu
+233,1643,1,malaria
+233,1643,2,kidney failure
+233,1643,2,aches
+233,1643,2,headache
+233,1643,2,death
+233,1643,2,muscle aches
+233,1643,2,confusion
+233,1643,2,nausea
+233,1643,2,diarrhea
+233,1643,2,infection
+233,1643,2,vomiting
+233,1643,2,fever
+233,1643,2,jaundice
+233,1643,2,tiredness
+233,1643,2,coma
+233,1643,2,chills
+233,1643,2,seizures
+233,1643,2,anemia
+233,1643,6,15 days after
+234,1644,1,malaria
+234,1644,2,death
+234,1644,2,the inability to deliver sufficient oxygen 
+235,1645,1,malaria
+235,1645,2,severe headache
+235,1645,2,confusion
+235,1645,2,drowsiness
+235,1645,2,coma
+235,1645,2,convulsions
+235,1645,2,headache
+209,1646,1,ebola
+209,1647,1,ebola
+209,1648,6,May-75
+209,1648,7,in(may 1975)
+234,1649,1,malaria
+234,1649,6,next week
+220,1651,1,typhus
+220,1651,2,coma
+220,1651,2,death
+220,1651,2,fever
+220,1651,4,with antibiotics 
+221,1652,1,pneumonia
+221,1652,1,typhus
+221,1652,2,stupor
+221,1652,2,constipation
+221,1652,2,rash
+221,1652,2,pneumonia
+221,1652,2,splenomegaly
+221,1652,2,kidney damage
+221,1652,2,delirium
+221,1652,2,renal failure
+221,1652,2,bradycardia
+222,1653,1,typhoid fever
+222,1653,2,fever
+222,1653,2,typhoid fever
+223,1654,1,typhus
+224,1655,1,typhoid fever
+224,1655,2,fever
+224,1655,2,lethargy
+224,1655,2,abdominal pain
+224,1655,2,typhoid fever
+224,1655,2,spots
+224,1655,2,rose spots
+224,1655,2,pain
+224,1655,2,headache
+224,1655,4,antibiotic 
+209,1657,1,ebola
+209,1657,8,ebola virus
+209,1658,1,ebola
+209,1658,1,ebola hemorrhagic fever
+209,1658,2,fever
+209,1658,8,ebola virus
+209,1658,8,ebolavirus
+209,1658,8,virus family Filoviridae
+209,1659,8,ebolavirus
+209,1660,1,ebola
+209,1660,6,2007
+209,1660,7,in(uganda in 2007)
+209,1660,8,ebolavirus
+227,1661,1,cholera
+227,1661,2,excoriations
+227,1662,1,cholera
+228,1663,1,cholera
+228,1663,2,diarrhea
+229,1664,1,cholera
+230,1665,1,cholera
+230,1665,2,infection
+209,1666,1,ebola
+209,1666,8,ebolavirus
+209,1667,1,ebola
+209,1667,6,1976
+209,1667,7,in(1976)
+209,1667,8,ebolavirus
+209,1668,1,ebola
+209,1668,6,13-Dec
+209,1668,7,on(28 december 2013)
+209,1669,1,ebola
+209,1669,6,2014
+209,1669,7,since(the 2014)
+209,1670,1,ebola
+209,1670,6,the beginning of August
+209,1670,7,at(the beginning of august)
+214,1671,2,death
+214,1671,2,blood clots
+215,1672,1,ebola
+215,1672,2,death
+215,1672,2,blisters
+215,1672,8,ebola virus
+216,1673,1,ebola
+216,1673,1,flu
+216,1673,2,flu-like symptoms
+216,1673,2,shock
+216,1673,2,diarrhea
+216,1673,2,low blood pressure
+216,1673,2,infection
+216,1673,2,vomiting
+216,1673,2,pressure
+216,1673,8,ebola virus
+217,1674,1,ebola
+217,1674,2,pressure
+217,1674,2,dehydration
+217,1674,2,fever
+217,1674,2,diarrhea
+218,1675,1,ebola
+218,1675,2,blood clots
+218,1675,2,petechiae
+218,1675,2,spots
+218,1675,2,red spots
+209,1676,1,ebola
+209,1676,3,blood transfusion
+209,1676,4,it was reported that Sacra had received an experimental therapy 
+209,1676,8,ebola virus
+209,1677,1,ebola
+209,1677,6,2014
+209,1678,1,ebola
+209,1678,8,ebola virus
+209,1679,1,ebola
+209,1679,6,2002
+209,1679,6,1976
+209,1679,6,1979
+209,1679,6,2005
+209,1679,7,in(a 2002)
+209,1679,7,in(the 1976 and 1979)
+209,1680,2,infection
+209,1680,6,1976
+209,1680,6,2001
+209,1680,6,2003
+209,1680,6,1998
+209,1680,7,during(outbreaks in 2001)
+209,1680,8,ebolavirus
+231,1681,1,malaria
+231,1681,2,coma
+231,1681,2,convulsions
+231,1681,2,brain damage
+231,1681,2,fever
+232,1682,1,malaria
+232,1682,2,infection
+233,1683,1,flu
+233,1683,1,malaria
+233,1683,2,kidney failure
+233,1683,2,aches
+233,1683,2,headache
+233,1683,2,death
+233,1683,2,muscle aches
+233,1683,2,confusion
+233,1683,2,nausea
+233,1683,2,diarrhea
+233,1683,2,infection
+233,1683,2,vomiting
+233,1683,2,fever
+233,1683,2,jaundice
+233,1683,2,tiredness
+233,1683,2,coma
+233,1683,2,chills
+233,1683,2,seizures
+233,1683,2,anemia
+233,1683,6,15 days after
+234,1684,1,malaria
+234,1684,2,death
+234,1684,2,the inability to deliver sufficient oxygen 
+235,1685,1,malaria
+235,1685,2,severe headache
+235,1685,2,confusion
+235,1685,2,drowsiness
+235,1685,2,coma
+235,1685,2,convulsions
+235,1685,2,headache
+209,1689,2,infection
+209,1690,2,sick
+220,1691,1,typhus
+220,1691,2,coma
+220,1691,2,death
+220,1691,2,fever
+220,1691,4,with antibiotics 
+221,1692,1,pneumonia
+221,1692,1,typhus
+221,1692,2,stupor
+221,1692,2,constipation
+221,1692,2,rash
+221,1692,2,pneumonia
+221,1692,2,splenomegaly
+221,1692,2,kidney damage
+221,1692,2,delirium
+221,1692,2,renal failure
+221,1692,2,bradycardia
+222,1693,1,typhoid fever
+222,1693,2,fever
+222,1693,2,typhoid fever
+223,1694,1,typhus
+224,1695,1,typhoid fever
+224,1695,2,fever
+224,1695,2,lethargy
+224,1695,2,abdominal pain
+224,1695,2,typhoid fever
+224,1695,2,spots
+224,1695,2,rose spots
+224,1695,2,pain
+224,1695,2,headache
+224,1695,4,antibiotic 
+209,1697,1,ebola
+209,1697,2,infection
+209,1697,8,ebola virus
+209,1698,1,ebola
+209,1699,1,ebola
+209,1699,8,ebola virus
+209,1700,1,flu
+227,1701,1,cholera
+227,1701,2,excoriations
+227,1702,1,cholera
+228,1703,1,cholera
+228,1703,2,diarrhea
+229,1704,1,cholera
+230,1705,1,cholera
+230,1705,2,infection
+209,1706,2,rash
+209,1706,2,maculopapular rash
+209,1708,6,7 days after
+209,1709,2,bleeding symptoms
+209,1709,2,death
+209,1709,2,blood loss
+209,1710,2,death
+209,1710,2,sick
+211,1711,1,ebola
+211,1711,2,ebola virus infection
+211,1711,2,infection
+211,1711,8,ebola virus
+213,1712,1,ebola
+213,1712,2,infection
+213,1712,8,ebola virus
+217,1713,1,ebola
+217,1713,2,pressure
+217,1713,2,dehydration
+217,1713,2,fever
+217,1713,2,diarrhea
+218,1714,1,ebola
+218,1714,2,blood clots
+218,1714,2,petechiae
+218,1714,2,spots
+218,1714,2,red spots
+214,1715,2,death
+214,1715,2,blood clots
+209,1716,1,ebola
+209,1716,2,infection
+209,1716,8,ebola virus
+209,1717,2,loss of vascular integrity
+209,1717,2,fever
+209,1717,2,infection
+209,1717,3,TNF
+209,1719,3,PCR
+209,1719,3,polymerase chain reaction
+209,1720,5,isolation
+209,1720,3,PCR
+231,1721,1,malaria
+231,1721,2,coma
+231,1721,2,convulsions
+231,1721,2,brain damage
+231,1721,2,fever
+232,1722,1,malaria
+232,1722,2,infection
+233,1723,1,flu
+233,1723,1,malaria
+233,1723,2,kidney failure
+233,1723,2,aches
+233,1723,2,headache
+233,1723,2,death
+233,1723,2,muscle aches
+233,1723,2,confusion
+233,1723,2,nausea
+233,1723,2,diarrhea
+233,1723,2,infection
+233,1723,2,vomiting
+233,1723,2,fever
+233,1723,2,jaundice
+233,1723,2,tiredness
+233,1723,2,coma
+233,1723,2,chills
+233,1723,2,seizures
+233,1723,2,anemia
+233,1723,6,15 days after
+234,1724,1,malaria
+234,1724,2,death
+234,1724,2,the inability to deliver sufficient oxygen 
+235,1725,1,malaria
+235,1725,2,severe headache
+235,1725,2,confusion
+235,1725,2,drowsiness
+235,1725,2,coma
+235,1725,2,convulsions
+235,1725,2,headache
+209,1726,1,typhoid fever
+209,1726,1,malaria
+209,1726,1,cholera
+209,1726,1,typhus
+209,1726,1,shigellosis
+209,1726,1,dengue fever
+209,1726,2,viral hemorrhagic fever
+209,1726,2,fever
+209,1726,2,typhoid fever
+209,1726,8,marburg virus
+209,1727,1,leishmaniasis
+209,1727,1,q fever
+209,1727,1,measles
+209,1727,1,typhus
+209,1727,1,candidiasis
+209,1727,1,hepatitis
+209,1727,1,leptospirosis
+209,1727,1,plague
+209,1727,1,histoplasmosis
+209,1727,1,smallpox
+209,1727,2,leptospirosis
+209,1727,2,fever
+209,1727,2,hepatitis
+209,1727,8,smallpox
+209,1728,1,kawasaki disease
+209,1728,2,telangiectasia
+209,1729,1,ebola
+209,1730,1,ebola
+220,1731,1,typhus
+220,1731,2,coma
+220,1731,2,death
+220,1731,2,fever
+220,1731,4,with antibiotics 
+221,1732,1,pneumonia
+221,1732,1,typhus
+221,1732,2,stupor
+221,1732,2,constipation
+221,1732,2,rash
+221,1732,2,pneumonia
+221,1732,2,splenomegaly
+221,1732,2,kidney damage
+221,1732,2,delirium
+221,1732,2,renal failure
+221,1732,2,bradycardia
+222,1733,1,typhoid fever
+222,1733,2,fever
+222,1733,2,typhoid fever
+223,1734,1,typhus
+224,1735,1,typhoid fever
+224,1735,2,fever
+224,1735,2,lethargy
+224,1735,2,abdominal pain
+224,1735,2,typhoid fever
+224,1735,2,spots
+224,1735,2,rose spots
+224,1735,2,pain
+224,1735,2,headache
+224,1735,4,antibiotic 
+209,1736,1,ebola
+209,1736,5,isolation
+209,1737,2,stomatitis
+209,1737,8,ebolavirus
+209,1737,8,adenovirus
+209,1739,8,ebolavirus
+209,1740,1,ebola
+209,1740,2,fever
+209,1740,2,infection
+209,1740,2,headache
+227,1741,1,cholera
+227,1741,2,excoriations
+227,1742,1,cholera
+228,1743,1,cholera
+228,1743,2,diarrhea
+229,1744,1,cholera
+230,1745,1,cholera
+230,1745,2,infection
+209,1746,4,drugs
+209,1746,4,especially in light of past experimentation conducted in developing countries by Western drug 
+209,1746,6,2014
+209,1747,1,ebola
+209,1747,4,2014 that transfusion of whole blood or purified serum from Ebola survivors is the therapy 
+209,1747,6,2014
+209,1748,1,ebola
+209,1749,2,infection
+209,1749,4,A vaccine 
+209,1749,5,A vaccine 
+209,1750,2,dehydration
+209,1750,2,death
+209,1750,5,supportive care to prevent 
+209,1750,6,14-Apr
+231,1751,1,malaria
+231,1751,2,coma
+231,1751,2,convulsions
+231,1751,2,brain damage
+231,1751,2,fever
+227,1752,1,cholera
+227,1752,2,excoriations
+220,1753,1,typhus
+220,1753,2,coma
+220,1753,2,death
+220,1753,2,fever
+220,1753,4,with antibiotics 
+211,1754,1,ebola
+211,1754,2,ebola virus infection
+211,1754,2,infection
+211,1754,8,ebola virus
+213,1755,1,ebola
+213,1755,2,infection
+213,1755,8,ebola virus
+7,1758,2,fever
+7,1759,1,typhus
+7,1759,2,death
+7,1759,2,fever
+7,1760,2,fever
+7,1760,2,infection
+218,1761,1,ebola
+218,1761,2,blood clots
+218,1761,2,petechiae
+218,1761,2,spots
+218,1761,2,red spots
+214,1762,2,death
+214,1762,2,blood clots
+215,1763,1,ebola
+215,1763,2,death
+215,1763,2,blisters
+215,1763,8,ebola virus
+211,1764,1,ebola
+211,1764,2,ebola virus infection
+211,1764,2,infection
+211,1764,8,ebola virus
+213,1765,1,ebola
+213,1765,2,infection
+213,1765,8,ebola virus
+7,1766,1,aids
+7,1766,1,typhoid fever
+7,1766,2,fever
+7,1766,2,typhoid fever
+7,1766,2,infection
+7,1766,4,despite antibiotic 
+7,1766,4,where antibiotics 
+7,1766,6,2004
+7,1766,7,in(2004)
+7,1766,8,hiv
+7,1767,2,infection
+7,1767,6,2006
+7,1767,6,2010
+7,1767,6,2007
+7,1768,1,histoplasmosis
+7,1768,1,malaria
+7,1768,1,schistosomiasis
+7,1768,1,meningitis
+7,1768,2,bartonellosis
+7,1768,2,meningitis
+7,1768,2,infection
+7,1768,4,and recent antibiotics 
+7,1769,1,typhoid fever
+7,1769,2,fever
+7,1769,2,typhoid fever
+7,1769,6,2007-2010
+231,1771,1,malaria
+231,1771,2,coma
+231,1771,2,convulsions
+231,1771,2,brain damage
+231,1771,2,fever
+232,1772,1,malaria
+232,1772,2,infection
+233,1773,1,flu
+233,1773,1,malaria
+233,1773,2,kidney failure
+233,1773,2,aches
+233,1773,2,headache
+233,1773,2,death
+233,1773,2,muscle aches
+233,1773,2,confusion
+233,1773,2,nausea
+233,1773,2,diarrhea
+233,1773,2,infection
+233,1773,2,vomiting
+233,1773,2,fever
+233,1773,2,jaundice
+233,1773,2,tiredness
+233,1773,2,coma
+233,1773,2,chills
+233,1773,2,seizures
+233,1773,2,anemia
+233,1773,6,15 days after
+234,1774,1,malaria
+234,1774,2,death
+234,1774,2,the inability to deliver sufficient oxygen 
+235,1775,1,malaria
+235,1775,2,severe headache
+235,1775,2,confusion
+235,1775,2,drowsiness
+235,1775,2,coma
+235,1775,2,convulsions
+235,1775,2,headache
+7,1776,1,typhoid fever
+7,1776,2,optic neuritis
+7,1776,2,typhoid fever
+7,1776,2,constipation
+7,1776,2,abdominal pain
+7,1776,2,ulcers
+7,1776,2,weight loss
+7,1776,2,dehydration
+7,1776,2,spots
+7,1776,2,crackles
+7,1776,2,death
+7,1776,2,rhonchi
+7,1776,2,macules
+7,1776,2,intestinal haemorrhage
+7,1776,2,epistaxis
+7,1776,2,rash
+7,1776,2,weakness
+7,1776,2,dry cough
+7,1776,2,abdominal distension
+7,1776,2,endocarditis
+7,1776,2,rose spots
+7,1776,2,headache
+7,1776,2,high fever
+7,1776,2,fever
+7,1776,2,pain
+7,1776,2,thrombocytopenia
+7,1776,2,confusion
+7,1776,2,infection
+7,1776,2,pressure
+7,1776,2,retinal detachment
+7,1776,2,detachment
+7,1776,2,picking at clothes
+7,1776,2,cough
+7,1776,2,leukopenia
+7,1776,2,myocarditis
+7,1776,2,gallstones
+7,1776,2,apathy
+7,1776,2,cholecystitis
+7,1776,2,weak pulse
+7,1776,2,tenderness
+7,1776,2,malaise
+7,1776,2,lymphocytosis
+7,1776,2,borborygmi
+7,1776,2,encephalitis
+7,1776,2,uveitis
+7,1776,2,bradycardia
+7,1776,3,test
+7,1776,3,bone marrow
+7,1776,3,marrow
+7,1776,4,antibiotics 
+7,1777,1,typhoid fever
+7,1777,2,anorexia
+7,1777,2,headache
+7,1777,2,cough
+7,1777,2,pain
+7,1777,2,constipation
+7,1777,2,abdominal pain
+7,1777,2,typhoid fever
+7,1777,2,infection
+7,1777,2,sweating
+7,1777,2,fever
+7,1777,2,dry cough
+7,1777,2,spots
+7,1777,2,weakness
+7,1777,2,rose spots
+7,1777,2,dizziness
+7,1777,2,chills
+7,1777,2,sore throat
+7,1777,2,bradycardia
+7,1778,1,typhoid fever
+7,1778,2,fever
+7,1778,2,typhoid fever
+7,1778,2,tenderness
+7,1778,2,epistaxis
+7,1778,2,pressure
+7,1778,2,splenomegaly
+7,1778,2,malaise
+7,1778,2,abdominal distension
+7,1778,2,increased bowel sounds
+7,1778,2,headache
+7,1779,1,schistosomiasis
+7,1779,1,malaria
+7,1779,2,fever
+7,1779,2,rash
+7,1780,1,african trypanosomiasis
+7,1780,1,yellow fever
+7,1780,1,influenza
+7,1780,1,malaria
+7,1780,1,cholera
+7,1780,1,typhus
+7,1780,1,dengue fever
+7,1780,1,tuberculosis
+7,1780,1,ebola
+7,1780,2,abscess
+7,1780,2,fever
+7,1780,2,pain
+7,1780,2,abdominal pain
+7,1780,2,infection
+7,1780,2,neurological symptoms
+7,1780,5,isolation
+7,1780,4,whereas H antibody 
+7,1780,4,High or rising O antibody 
+7,1780,5,whereas H antibody 
+7,1780,5,High or rising O antibody 
+7,1780,6,2010
+7,1780,7,in(2010)
+220,1781,1,typhus
+220,1781,2,coma
+220,1781,2,death
+220,1781,2,fever
+220,1781,4,with antibiotics 
+221,1782,1,pneumonia
+221,1782,1,typhus
+221,1782,2,stupor
+221,1782,2,constipation
+221,1782,2,rash
+221,1782,2,pneumonia
+221,1782,2,splenomegaly
+221,1782,2,kidney damage
+221,1782,2,delirium
+221,1782,2,renal failure
+221,1782,2,bradycardia
+222,1783,1,typhoid fever
+222,1783,2,fever
+222,1783,2,typhoid fever
+223,1784,1,typhus
+224,1785,1,typhoid fever
+224,1785,2,fever
+224,1785,2,lethargy
+224,1785,2,abdominal pain
+224,1785,2,typhoid fever
+224,1785,2,spots
+224,1785,2,rose spots
+224,1785,2,pain
+224,1785,2,headache
+224,1785,4,antibiotic 
+7,1786,2,fever
+7,1786,2,infection
+7,1786,4,antibiotic 
+7,1786,4,Clinically unstable patients are admitted to hospital for IV 
+7,1786,4,Empiric antibiotic 
+7,1787,1,typhoid fever
+7,1787,2,drugs
+7,1787,2,fever
+7,1787,2,typhoid fever
+7,1787,2,abdominal distension
+7,1787,2,infection
+7,1787,4,antibiotic 
+7,1787,4,Antipyretic therapy 
+7,1787,4,The antibiotic 
+7,1787,4,with antibiotics 
+7,1787,4,Antibiotic treatment 
+7,1787,4,Ideal antibiotic 
+7,1787,4,Ciprofloxacin was the drug 
+7,1787,4,Treatment 
+7,1788,2,infection
+7,1788,4,Empirical treatment 
+7,1789,1,typhoid fever
+7,1789,1,hepatitis
+7,1789,2,death
+7,1789,2,typhoid fever
+7,1789,2,myocarditis
+7,1789,2,pancreatitis
+7,1789,2,infection
+7,1789,2,cholecystitis
+7,1789,2,fever
+7,1789,2,hepatitis
+7,1789,2,jaundice
+7,1789,3,ECG
+7,1789,4,IV 
+7,1790,1,schistosomiasis
+7,1790,2,infection
+7,1790,3,cholecystectomy
+227,1791,1,cholera
+227,1791,2,excoriations
+227,1792,1,cholera
+228,1793,1,cholera
+228,1793,2,diarrhea
+229,1794,1,cholera
+230,1795,1,cholera
+230,1795,2,infection
+7,1797,2,infection
+7,1797,4,who wanted to remove her gallbladder as a possible cure 
+7,1797,6,1907
+7,1798,5,isolation
+7,1800,2,fever
+7,1800,2,infection
+7,1800,6,One week after
+13,1401,7,7–14 days 
+13,1401,8,V. cholerae 
+135,1402,1,malaria 
+135,1402,2,flu-like symptoms 
+135,1402,5,Consult with a travel clinic 
+135,1402,4,start taking the medication 
+135,1402,7,two weeks before 
+143,1403,1,malaria 
+143,1403,7,past year 
+143,1403,8,mosquito 
+143,1403,2,feverish 
+150,1404,1,malaria 
+150,1404,7,9 to 14 days  
+150,1404,8,Plasmodium falciparum 
+150,1404,7,12 to 18 days 
+150,1404,8,P. vivax and P. ovale 
+150,1404,7,18 to 40 days  
+150,1404,8,P. malariae 
+150,1404,7,11 to 12 days  
+150,1404,8,P. knowlesi 
+17,1405,1,Cholera 
+17,1405,7,5 days 
+195,1406,7,7 days 
+195,1406,7,3 months 
+195,1406,2,fever  
+195,1406,1,malaria 
+195,1406,8,parasites  
+232,1408,1,malaria 
+232,1408,7,1 to 3 weeks 
+275,1409,7,2010
+275,1409,1,malaria 
+275,1409,8,malarial parasite 
+335,1410,1,malaria 
+335,1410,8,2-21 day 
+335,1410,7,21 days 
+340,1411,1,Ebola 
+340,1411,7,21 days 
+340,1411,8,Ebola virus 
+340,1411,7,31-days 
+342,1412,7,Ebola Virus 
+342,1412,1,Ebola 
+344,1413,1,Ebola 
+344,1413,8,virus 
+344,1413,7,21 days 
+346,1414,1,Ebola 
+346,1414,8,Ebola virus 
+347,1415,1,ebola
+347,1415,7,21 days 
+347,1415,8,virus 
+348,1416,1,ebola
+348,1416,7,21 days 
+348,1416,8,virus 
+348,1416,5,vaccine 
+349,1417,1,ebola
+349,1417,7,21 days 
+349,1417,7,October 16th 
+349,1417,8,virus 
+350,1418,1,Ebola 
+350,1418,7,21 days 
+350,1418,8,virus 
+351,1419,1,malaria 
+351,1419,7,10 days 
+351,1419,7,four weeks 
+351,1419,4,antimalarial drugs 
+351,1419,7,weeks or months 
+357,1421,7,12 to 18 days 
+357,1421,7,10 days 
+357,1421,8,P. vivax and P. ovale 
+358,1422,1,malaria 
+359,1423,1,malaria 
+359,1423,8,mosquito 
+360,1424,1,malaria 
+360,1424,2,fever 
+360,1424,2,sweating 
+360,1424,2,fever 
+361,1425,7,Malaria  
+361,1425,2,sweating 
+361,1425,2,allergic reactions 
+361,1425,7,Malaria  
+363,1426,5,medical interventions to prevent 
+363,1426,5,providing public health care 
+363,1426,5,ensuring that quarantined persons do not infect 
+365,1427,1,cholera  
+365,1427,7,few days 
+365,1427,7,five days 
+365,1428,1,cholera 
+365,1428,7,1–5 days 
+365,1428,7,3 days 
+365,1429,1,Cholera 
+365,1429,7,week after 
+369,1430,1,cholera 
+370,1431,1,Cholera 
+370,1431,2,develop symptoms 
+370,1431,7,1.4 days 
+373,1432,1,typhoid and paratyphoid fever 
+373,1432,7,8-14 days 
+373,1432,7,three days to one month 
+374,1433,7,7 to 21 days 
+374,1433,8,bacteria 
+374,1433,2,mild symptoms 
+375,1434,8,bacteria 
+376,1435,7,30 days 
+376,1435,8,bacteria 
+376,1435,2,significant symptoms 
+377,1436,7,6–30 days 
+377,1436,2,typhoid and paratyphoid 
+377,1436,1,typhoid or paratyphoid fever 
+377,1436,1,typhus 
+377,1436,2,fever 
+377,1437,1,typhoid 
+377,1437,5,vaccine 
+378,1439,7,four or five days 
+378,1439,2,heart failure 
+378,1439,2,pneumonia 
+378,1439,2,osteomyelitis 
+378,1439,2,encephalitis 
+378,1439,2,meningitis 
+378,1440,7,20th century 
+378,1440,8,bacteria 
+379,1441,1,Typhus fever 
+379,1441,2,sustained fever 
+379,1441,2,anorexia 
+379,1441,2,lethargy 
+379,1441,2,malaise 
+380,1442,1,Ebola 
+380,1442,8,Ebola virus 
+380,1442,2,vomiting 
+380,1442,2,diarrhoea 
+380,1442,2,abdominal pain 
+381,1443,7,21 days 
+381,1443,6,October 14 2014 
+381,1443,1,Ebola 
+382,1444,1,Ebola 
+382,1444,2,diarrhea  
+382,1444,2,vomiting  
+382,1444,2,bleeding 
+383,1445,1,Ebola 
+383,1445,8,virus 
+383,1445,7,2 to 21 days 
+383,1446,1,Ebola 
+383,1446,8,virus 
+383,1446,7,2 to 21 days 
+384,1447,1,Ebola 
+384,1447,7,20th century 
+385,1448,6,May-14
+385,1448,1,Ebola 
+386,1449,1,Ebola 
+386,1449,8,virus 
+386,1449,7,2 to 21 days 
+387,1450,1,Ebola 
+387,1450,2,sneezing 
+387,1450,2,runny nose and cough 
+450,1451,1,malaria 
+450,1451,7,15-18 days 
+450,1451,7,12-17 days 
+452,1452,8,parasites 
+456,1453,7,few weeks 
+456,1453,1,malaria 
+459,1454,8,mosquito 
+459,1454,1,malaria 
+460,1455,8,mosquito 
+460,1455,1,malaria 
+462,1456,8,mosquito 
+462,1456,1,malaria 
+5,1457,2,fever 
+5,1457,2,intense weakness 
+5,1457,2,muscle pain 
+5,1457,2,headache and sore throat 
+5,1457,7,2 to 21 days 
+5,1457,2,vomiting 
+5,1457,2,diarrhoea 
+5,1457,2,rash 
+50,1458,1,Cholera 
+50,1458,2,watery diarrhea 
+50,1458,7,2 to 7 days 
+6,1459,1,Ebola 
+6,1459,2,Ebola virus 
+6,1459,7,1976
+96,1460,1,Cholera 
+96,1460,7,3 million a year 
+96,1460,7,1980s 
+685,1501,1,Ebola
+685,1501,7,Twenty-one days
+685,1501,8,Ebola Virus
+685,1502,1,Ebola
+685,1502,7,21 day
+685,1502,7,25 days
+685,1502,7,30 days
+685,1503,7,21 day
+685,1503,7,25 days
+685,1503,7,30 days
+685,1503,2,exhibiting symptoms
+686,1504,1,Ebola
+686,1504,7,Twenty-one days 
+686,1504,8,Ebola virus
+686,1503,7,21 days
+686,1506,1,Ebola
+689,1507,2,Fever
+689,1507,2,Headache Joint and muscle aches
+689,1507,2,Diarrhea
+689,1507,2,Vomiting
+689,1507,2,Stomach pain
+689,1508,1,Ebola
+689,1508,8,virus
+689,1508,4,antibodies
+689,1508,1,Ebola
+689,1509,1,Ebola
+689,1509,1,symptoms of Ebola
+689,1510,1,Ebola
+690,1511,1,Ebola
+691,1512,1,EVD
+691,1512,7,21 days
+692,1513,5,isolate the patient
+692,1513,8,Deadly virus
+692,1513,7,21 days Ebola
+692,1513,8,Deadly virus
+692,1514,7,21 days Ebola
+692,1514,8,Deadly virus
+692,1514,1,Ebola
+693,1515,7,21 days Ebola
+693,1515,1,Ebola
+694,1516,1,Ebola virus disease
+694,1516,1,EVD
+694,1516,6,1976
+694,1517,1,Ebola
+694,1518,1,Ebola
+694,1518,8,fruit bats
+694,1518,8,virus
+694,1519,1,Ebola
+694,1519,2,fever
+694,1519,2,muscle pain and a sore throat
+694,1520,1,Ebola
+694,1520,8,virus
+695,1521,1,Malaria
+695,1521,8,mosquito
+695,1522,1,Malaria
+695,1522,7,hours to months
+695,1522,7,germ
+697,1523,1,vivax malaria
+697,1523,8,parasites
+697,1523,8,mosquitoes
+696,1524,1,Malaria
+696,1524,8,parasite
+696,1524,8,fetus
+697,1525,8,mosquitoes
+696,1525,1,Malaria
+697,1525,7,few days
+697,1526,8,mosquitoes
+697,1526,1,Malaria
+697,1528,8,mosquitoes
+697,1528,1,Malaria
+697,1528,1,parasite
+697,1529,1,Malaria
+697,1528,1,Malaria
+696,1530,1,parasite
+696,1530,7,few days
+710,1531,1,Malaria
+710,1531,1,Typhus
+710,1532,1,typhus
+713,1533,1,Typhus
+713,1534,8,flea feces or animal droppings
+713,1534,8,bacteria
+714,1535,1,Typhus 
+717,1536,1,Typhus
+717,1536,2,fever
+717,1536,2,chills
+717,1536,2,headache
+717,1536,2,muscle aches and malaise
+718,1537,1,Typhus
+718,1538,7,many years
+718,1538,2,symptoms
+718,1539,1,Typhus
+718,1539,4,tetracycline antibiotics
+718,1539,5,doxycycline
+718,1539,3,laboratory tests
+718,1540,3,Laboratories 
+719,1541,1,Ebola
+719,1541,7,21 days
+719,1542,7,21 days
+719,1543,1,Ebola
+719,1543,7,21 days
+719,1543,1,three weeks
+719,1544,1,Ebola
+719,1544,7,21 days
+719,1544,8,Ebola virus
+719,1545,1,Ebola
+719,1545,7,21 days
+719,1545,6,1976
+720,1546,8,Ebola virus
+720,1546,1,Ebola
+720,1547,1,Ebola
+720,1548,8,virus
+720,1549,1,Ebola
+720,1549,8,virus
+720,1550,1,Ebola
+720,1549,8,virus
+738,1550,1,Ebola
+738,1551,1,Ebola
+738,1551,7,21-day
+738,1552,1,Ebola
+738,1552,1,21-day
+738,1553,1,Ebola
+738,1553,7,21-day
+738,1553,6,1976
+738,1554,1,Ebola
+738,1554,7,21-day
+738,1554,8,virus
+738,1555,1,Ebola
+738,1555,7,21-day
+738,1555,6,1976
+738,1556,1,Ebola
+738,1557,1,Ebola
+739,1558,1,Ebola
+739,1558,8,infected person’s bodily fluids
+739,1559,1,Ebola
+739,1560,1,Ebola
+740,1561,1,Ebola
+740,1561,7,21-day
+740,1562,1,Ebola
+740,1562,7,21-day
+740,1562,8,virus
+741,1563,1,Ebola
+741,1563,7,21-day
+741,1564,1,Ebola
+741,1564,7,21-day
+741,1564,8,virus
+741,1565,1,Ebola
+741,1565,7,Twenty-One-day
+741,1565,8,virus
+742,1566,1,Ebola
+742,1566,6,2014
+742,1567,1,Ebola
+742,1567,1,Viral Hemorrhagic Fever
+742,1568,1,Ebola
+743,1569,6,1976
+743,1569,1,Ebola
+743,1570,1,Ebola
+744,1571,7,21-day
+744,1571,8,virus
+744,1571,1,Ebola
+745,1572,8,virus
+745,1572,1,Ebola
+745,1572,7,Two to 21 days
+745,1573,7,21-day
+745,1573,8,virus
+745,1573,7,22nd day
+745,1574,1,Ebola
+745,1575,7,21-days
+746,1576,1,Ebola
+747,1577,1,Ebola
+747,1578,1,Ebola
+748,1579,8,virus
+748,1579,1,Ebola
+748,1580,8,virus
+748,1580,1,Ebola
+6,1581,6,2-21days
+6,1581,1,ebola
+6,1581,5,incubation
+6,1582,8,Ebola virus 
+6,1582,6,21 days
+6,1582,6,3.35 days
+6,1582,6,11.4 days
+6,1582,6,12.7 days
+6,1582,6,1976
+6,1583,6,21 day
+6,1583,5,quarantine
+6,1583,1,ebola
+6,1583,8,ebola virus
+749,1584,6,21-day
+749,1584,1,ebola
+749,1584,5,quarantine
+750,1585,6,21-day quarantines
+750,1585,1,ebola
+751,1586,5,quarantine
+751,1586,1,ebola
+751,1587,1,ebola
+751,1588,1,Ebola
+751,1588,6,two days
+752,1589,1,ebola
+752,1590,1,Ebola
+340,1591,1,ebola
+340,1591,6,21 day quarantine
+340,1592,6,21 days
+340,1592,1,ebola
+755,1593,5,incubation
+755,1593,6,21-day 
+755,1593,1,ebola
+756,1594,6,21-day incubation period
+756,1594,7,first
+756,1594,1,ebola
+741,1595,6,21-day quarantine period
+741,1595,1,ebola
+753,1596,1,ebola
+754,1597,1,ebola
+757,1598,8,virus
+757,1599,1,Ebola
+757,1600,1,ebola
+13,1461,1,cholera 
+13,1461,2,infection 
+13,1462,1,cholera 
+13,1463,2,infection 
+13,1463,6,14 days after 
+13,1464,2,dehydration 
+13,1464,2,death 
+13,1465,2,death 
+13,1465,8,hiv 
+18,1466,7,period 
+18,1466,6,10-14 days 
+18,1466,7,after  
+18,1466,2,symptoms  
+18,1466,7,around 
+18,1466,6,2 weeks 
+18,1467,2,rash 
+18,1467,2,petechiae 
+18,1467,2,delirium 
+18,1467,2,stupor 
+18,1467,2,hypotension 
+18,1467,2,shock 
+18,1467,2,death 
+18,1467,2,Purpura  
+21,1468,1,typhus  
+21,1468,8,Rickettsia prowazekii 
+21,1468,8,louse 
+21,1468,7,incubation period 
+21,1468,6,1 to 2 weeks 
+21,1469,1,Typhus  
+21,1469,6,1969
+261,1470,1,typhus  
+261,1470,6,12 days 
+261,1470,2,fever 
+261,1470,2,chills 
+261,1470,2,headache 
+336,1471,6,1 week to several weeks 
+336,1471,6,months 
+454,1472,7,incubation period 
+454,1472,6,6 to 16 days 
+454,1472,6,12 days 
+454,1472,2,fever 
+454,1472,2,chills 
+454,1472,2,headache 
+454,1472,2,rash 
+454,1473,6,Nov-14
+454,1473,1,typhus 
+455,1474,4,convalescent serum 
+455,1474,6,2 or more weeks 
+455,1474,7,after  
+455,1474,1,infection 
+465,1475,1,malaria 
+465,1475,2,drugs 
+465,1475,2,infection 
+466,1476,1,malaria 
+466,1476,2,isolation 
+467,1477,1,malaria 
+467,1477,6,3 years after 
+467,1477,6,12 months after 
+468,1478,3,test 
+469,1479,1,malaria 
+469,1479,3,PCR 
+469,1479,3,polymerase chain reaction 
+470,1480,1,malaria 
+470,1480,2,infection 
+470,1480,4,arrival presumptive treatment  
+470,1480,3,testing for Plasmodiumt  
+470,1481,1,malaria 
+470,1481,2,hemolytic anemia 
+470,1481,2,death 
+470,1481,2,infection 
+470,1481,2,anemia 
+470,1481,3,testing 
+470,1481,4,relapse therapy  
+470,1481,4,presumptive therapy  
+470,1482,1,malaria 
+470,1482,2,infection 
+470,1482,3,blood transfusion 
+470,1483,1,malaria 
+470,1483,2,infection 
+470,1484,6,1957
+471,1485,1,cholera 
+471,1485,1,plague 
+471,1485,2,excitement 
+471,1485,6,next day 
+471,1485,6,twenty days after 
+471,1485,7,in(quarantine for twenty days after) 
+472,1486,1,cholera 
+472,1486,1,yellow fever 
+472,1486,1,plague 
+472,1486,2,death 
+472,1486,2,fever 
+472,1486,2,impotence 
+472,1486,5,quarantine  
+472,1486,6,1835
+473,1487,1,cholera 
+473,1487,6,1893
+473,1487,7,in(1893) 
+474,1488,1,cholera 
+474,1488,2,infection 
+474,1488,6,1797
+474,1488,7,in(1797) 
+475,1489,1,cholera 
+475,1489,2,death 
+475,1489,5,Isolation  
+476,1490,6,21 days 
+476,1490,7,in the last 
+476,1491,7,after 
+477,1492,1,Ebola 
+477,1492,6,21-days 
+477,1493,1,yellow fever 
+477,1493,5,power of quarantine 
+477,1493,6,1799;1878;1944 
+477,1493,7,over then next 
+477,1494,5,potentially sick people isolation 
+477,1494,6,14th century; 40 days 
+478,1495,1,Ebola 
+478,1495,6,21 days 
+478,1495,5,voluntary isolation 
+478,1496,6,21 days; three hours; twice-daily 
+478,1496,7,during the 
+478,1497,1,H1N1 flu  
+478,1497,8,H1N1 flu virus 
+478,1497,6,2009
+479,1498,6,21 days 
+479,1499,1,Ebola 
+71,1500,2,rash  
+71,1500,1,typhus  
+71,1500,3,bleeding 
+161,201,7,21-Dec
+161,201,7,October 29 2014 
+161,201,7,1976
+161,201,1,Ebola  
+278,202,1,ebola 
+278,202,8,virus 
+278,202,8,RNA viruses 
+278,202,8,Filoviridae 
+278,202,6,1976
+278,202,1,ebola 
+278,202,8,virus 
+278,202,8,RNA viruses 
+278,202,8,Filoviridae 
+278,202,6,1976
+278,203,8,airborne particles 
+278,203,3,research lab 
+278,203,1,ebola 
+278,203,7,2-21 days 
+278,203,2,no symptoms 
+278,203,8,airborne particles 
+278,203,3,research lab 
+278,203,1,ebola 
+278,203,7,2-21 days 
+278,203,2,no symptoms 
+278,204,8,virus 
+278,204,8,animal 
+278,204,7,latter stages 
+278,204,5,The Centers for Disease Control and Prevention 
+278,204,5,CDC 
+278,204,8,Category â€œAâ€? agent 
+278,204,8,virus 
+278,204,8,animal 
+278,204,7,latter stages 
+278,204,5,The Centers for Disease Control and Prevention 
+278,204,5,CDC 
+278,204,8,Category â€œAâ€? agent 
+279,205,8,Ebola virus 
+279,205,7,40 years ago 
+279,205,6,1976
+279,205,8,Ebola virus 
+279,205,7,40 years ago 
+279,205,6,1976
+279,206,6,1976
+279,206,5,CDC 
+279,206,6,1995
+279,206,1,ebola 
+279,206,6,1976
+279,206,5,CDC 
+279,206,6,1995
+279,206,1,ebola 
+280,207,8,Virus 
+280,207,1,Ebola 
+280,207,1,EBO-S 
+280,207,6,June 27  1976 
+280,207,1,hemorrhagic febrile 
+280,207,1,Ebola hemorrhagic fever 
+280,207,1,EHF 
+280,207,6,July 6  1976 
+280,207,6,14-Jul
+280,207,8,Virus 
+280,207,1,Ebola 
+280,207,1,EBO-S 
+280,207,6,June 27  1976 
+280,207,1,hemorrhagic febrile 
+280,207,1,Ebola hemorrhagic fever 
+280,207,1,EHF 
+280,207,6,July 6  1976 
+280,207,6,14-Jul
+280,208,6,Jul-12
+280,208,8,Ebola virus 
+280,208,1,Ebola 
+280,208,6,2000
+280,208,4,national emergency task force 
+280,208,4,World Health Organisation 
+280,208,5,U.S. Centers for Disease Control and Prevention 
+280,208,6,Jul-12
+280,208,8,Ebola virus 
+280,208,1,Ebola 
+280,208,6,2000
+280,208,4,national emergency task force 
+280,208,4,World Health Organisation 
+280,208,5,U.S. Centers for Disease Control and Prevention 
+281,209,8,Filoviridae 
+281,209,8,Marburg virus 
+281,209,6,1967
+281,209,8,green monkeys 
+281,209,3,research and vaccine production 
+281,209,8,Filoviridae 
+281,209,8,Marburg virus 
+281,209,6,1967
+281,209,8,green monkeys 
+281,209,3,research and vaccine production 
+281,210,8,monkeys 
+281,210,8,virus 
+281,210,5,Quarantine procedures 
+281,210,8,Marburg virus 
+281,210,8,monkeys 
+281,210,8,virus 
+281,210,5,Quarantine procedures 
+281,210,8,Marburg virus 
+281,211,8,Marburg virus 
+281,211,1,Ebola 
+281,211,8,Virus 
+281,211,8,Marburg virus 
+281,211,1,Ebola 
+281,211,8,Virus 
+282,212,4,ZMapp 
+282,212,4,experimental treatment 
+282,212,1,ebola 
+282,212,4,treatment 
+282,212,4,three monoclonal antibodies 
+282,212,4,cure 
+282,212,8,monkeys 
+282,212,8,ebola virus 
+282,212,4,ZMapp 
+282,212,4,experimental treatment 
+282,212,1,ebola 
+282,212,4,treatment 
+282,212,4,three monoclonal antibodies 
+282,212,4,cure 
+282,212,8,monkeys 
+282,212,8,ebola virus 
+282,213,4,Brincidofovir 
+282,213,4,oral drug 
+282,213,3,Phase 3 clinical testing 
+282,213,4,side effects 
+282,213,4,National Institutes of Health 
+282,213,4,Brincidofovir 
+282,213,4,oral drug 
+282,213,3,Phase 3 clinical testing 
+282,213,4,side effects 
+282,213,4,National Institutes of Health 
+283,214,1,Ebola hemorrhagic fever 
+283,214,8,Ebola virus 
+283,214,2,internal and external hemorrhage 
+283,214,2,bleeding 
+283,214,1,Ebola 
+283,214,1,Ebola hemorrhagic fever 
+283,214,8,Ebola virus 
+283,214,2,internal and external hemorrhage 
+283,214,2,bleeding 
+283,214,1,Ebola 
+283,215,1,Ebola hemorrhagic fever 
+283,215,6,1976
+283,215,8,virus 
+283,215,1,Ebola 
+283,215,1,Ebola hemorrhagic fever 
+283,215,6,1976
+283,215,8,virus 
+283,215,1,Ebola 
+284,216,8,needles 
+284,216,5,CDC 
+284,216,8,needles 
+284,216,5,CDC 
+285,217,2,sudden fever 
+285,217,2,intense weakness 
+285,217,1,ebola 
+285,217,2,internal and external bleeding 
+285,217,2,sudden fever 
+285,217,2,intense weakness 
+285,217,1,ebola 
+285,217,2,internal and external bleeding 
+286,218,1,ebola 
+286,218,1,ebola 
+287,219,4,ZMapp 
+287,219,4,treatment 
+287,219,4,anti-Ebola antibody 
+287,219,4,mice 
+287,219,4,ZMapp 
+287,219,4,treatment 
+287,219,4,anti-Ebola antibody 
+287,219,4,mice 
+287,220,4,mouse antibody 
+287,220,4,human antibody 
+287,220,4,stopping Ebola replication 
+287,220,1,ebola 
+287,220,4,chimeric antibodies 
+287,220,8,rhesus macaque monkeys 
+287,220,4,mouse antibody 
+287,220,4,human antibody 
+287,220,4,stopping Ebola replication 
+287,220,1,ebola 
+287,220,4,chimeric antibodies 
+287,220,8,rhesus macaque monkeys 
+288,221,5,vaccines 
+288,221,5,vaccines 
+289,222,1,Ebola hemorrhagic fever 
+289,222,1,Ebola hemorrhagic fever 
+290,223,5,ChAd3-ZEBOV 
+290,223,5,rVSV-ZEBOV 
+290,223,4,Phase I clinical trials 
+290,223,4,GlaxoSmithKline 
+290,223,5,ChAd3-ZEBOV 
+290,223,5,rVSV-ZEBOV 
+290,223,4,Phase I clinical trials 
+290,223,4,GlaxoSmithKline 
+291,224,1,ebola 
+291,224,8,virus 
+291,224,1,ebola 
+291,224,8,virus 
+291,225,1,ebola 
+291,225,1,ebola 
+291,226,1,ebola 
+291,226,4,Test results were negative 
+291,226,4,alternative diagnosis 
+291,226,1,ebola 
+291,226,4,Test results were negative 
+291,226,4,alternative diagnosis 
+294,227,7,latest Ebola occurrence 
+294,227,7,three weeks ago 
+294,227,6,last Friday 
+294,227,5,hemorrhaging 
+294,227,7,latest Ebola occurrence 
+294,227,7,three weeks ago 
+294,227,6,last Friday 
+294,227,5,hemorrhaging 
+294,228,8,virus 
+294,228,1,Ebola 
+294,228,8,virus 
+294,228,1,Ebola 
+297,229,1,Ebola 
+297,229,6,1976
+297,229,6,1989
+297,229,6,1994
+297,229,7,few months 
+297,229,8,chimpanzee  
+298,230,8,Ebola virus 
+298,230,6,1996
+298,230,6,2001-2002 
+298,230,6,2003
+298,230,8,pathogenic virus 
+298,231,1,Ebola 
+298,231,7,1989
+298,231,3,testing facilities 
+298,232,1,Ebola 
+298,232,6,1976
+298,232,6,2003
+298,232,6,Ebola virus 
+298,233,1,Ebola 
+298,233,1,flu-like symptoms 
+298,233,2,diarrhea 
+298,233,2,headache 
+298,233,2,achy muscle 
+3,234,8,bushmeat 
+3,234,1,ebola 
+3,234,8,wild animal 
+3,234,8,fruit bat 
+3,234,8,EBOV 
+3,234,8,monkey species 
+3,234,8,chimpanzees 
+3,234,8,gorillas 
+3,234,8,baboons 
+3,234,8,duikers 
+3,234,8,bushmeat 
+3,234,1,ebola 
+3,234,8,wild animal 
+3,234,8,fruit bat 
+3,234,8,EBOV 
+3,234,8,monkey species 
+3,234,8,chimpanzees 
+3,234,8,gorillas 
+3,234,8,baboons 
+3,234,8,duikers 
+3,235,3,Laboratory testing 
+3,235,1,EVD 
+3,235,2,low platelet count 
+3,235,2,increased white blood cell count 
+3,235,2,abnormalities in blood clotting 
+3,235,2,prolonged prothrombin time 
+3,235,3,electron microscopy 
+3,235,1,ebola 
+3,235,3,Laboratory testing 
+3,235,1,EVD 
+3,235,2,low platelet count 
+3,235,2,increased white blood cell count 
+3,235,2,abnormalities in blood clotting 
+3,235,2,prolonged prothrombin time 
+3,235,3,electron microscopy 
+3,235,1,ebola 
+3,236,8,genus Ebolavirus 
+3,236,1,Ebola 
+3,236,8,Bundibugyo virus 
+3,236,8,BDBV 
+3,236,8,Sudan virus 
+3,236,8,SUDV 
+3,236,8,TaÃ¯ Forest virus 
+3,236,8,TAFV 
+3,236,8,Ebola virus 
+3,236,8,EBOV 
+3,236,8,Zaire Ebola virus 
+3,236,8,Reston virus 
+3,236,8,RESTV 
+3,236,8,genus Ebolavirus 
+3,236,1,Ebola 
+3,236,8,Bundibugyo virus 
+3,236,8,BDBV 
+3,236,8,Sudan virus 
+3,236,8,SUDV 
+3,236,8,TaÃ¯ Forest virus 
+3,236,8,TAFV 
+3,236,8,Ebola virus 
+3,236,8,EBOV 
+3,236,8,Zaire Ebola virus 
+3,236,8,Reston virus 
+3,236,8,RESTV 
+304,237,1,Ebola 
+304,237,6,1976
+304,237,8,virus 
+304,238,6,1976
+304,238,1,Ebola 
+304,238,8,Ebola Virus 
+304,239,2,fever 
+304,239,8,Ebola virus 
+304,239,1,Ebola 
+304,240,1,Ebola 
+304,240,8,Ebola virus 
+304,240,8,Ebola-Ivory Coast 
+304,240,8,Ebola-Sudan 
+304,240,8,Ebola-Zaire 
+305,241,1,Ebola 
+305,241,8,Ebola virus 
+306,242,6,22-Jun-95
+306,242,2,consciousness 
+306,242,1,Ebola 
+306,243,1,Ebola 
+306,243,2,consciousness 
+306,243,6,22-Jun-95
+307,244,1,Ebola 
+307,244,6,1999
+307,244,6,1996
+307,244,3,blood transfusion 
+307,245,1,Ebola 
+307,245,6,1976
+307,245,8,pig 
+308,246,1,Ebola 
+308,246,4,Ebola treatment tried 
+308,246,6,1976
+309,247,1,Ebola 
+309,247,8,Virus 
+309,247,4,developing treatments 
+309,248,1,Ebola 
+310,249,1,Ebola 
+310,249,8,Ebola virus 
+310,250,1,Ebola 
+310,250,2,joint and muscle pain 
+310,250,2,fever 
+310,250,2,headache 
+310,250,2,sore throat 
+310,251,8,infected person 
+310,251,1,Ebola 
+310,251,1,virus 
+318,252,1,ebola 
+318,252,6,1976
+318,252,1,ebola 
+318,252,6,1976
+318,253,1,ebola 
+318,253,6,1976
+318,253,1,ebola 
+318,253,6,1976
+319,254,1,ebola 
+319,254,6,1976
+319,254,4,WHO 
+319,254,8,virus 
+319,254,1,ebola 
+319,254,6,1976
+319,254,4,WHO 
+319,254,8,virus 
+319,255,1,ebola 
+319,255,2,weakness 
+319,255,2,muscle pain 
+319,255,2,headaches 
+320,256,1,ebola 
+320,256,6,1976
+321,257,1,ebola 
+321,257,6,2014
+321,257,4,WHO 
+321,258,1,ebola 
+321,258,6,1976
+321,258,8,virus 
+321,258,2,dying 
+322,259,1,ebola 
+322,259,8,virus 
+322,261,1,ebola 
+322,261,4,vaccines 
+325,262,1,ebola 
+325,262,8,virus 
+325,263,2,symptoms 
+325,263,1,ebola 
+325,263,8,virus 
+325,263,2,flu-like symptoms
+326,264,8,virus 
+326,264,2,flu-like symptoms  
+338,271,5,Vaccine Development  
+338,271,6,few months 
+338,271,5,dose-response phase 1 
+338,272,5,scientists will begin testing three possible treatments 
+338,272,1,Ebola 
+338,272,4,antibodies 
+338,272,8,virus 
+339,273,1,Ebola 
+339,273,3,Laboratory in Winnipeg 
+339,273,5,second vaccine 
+339,273,8,virus 
+339,274,1,Ebola 
+339,274,3,laboratory 
+339,274,5,vaccine 
+339,275,1,Ebola 
+339,275,8,disease-causing agent 
+339,275,3,laboratory 
+339,275,5,vaccine 
+341,276,4,drug 
+341,276,5,Ebola virus 
+341,276,1,Ebola 
+341,276,4,Replacing lost blood 
+341,276,4,antiviral medications 
+341,276,4,Maintaining blood pressure 
+341,276,8,virus 
+342,277,5,Providing fluids 
+345,278,1,Ebola 
+345,278,8,virus 
+345,279,1,Ebola 
+345,279,7,three weeks 
+345,280,8,Fruit bats 
+345,280,8,chimpanzee 
+345,280,8,gorilla 
+345,280,8,monkeys 
+345,280,1,Ebola 
+352,281,6,1-Sep
+352,281,6,24-Oct-76
+352,281,8,viral  
+352,281,2,fever 
+352,282,6,1-Sep-76
+352,282,7,five days after 
+352,282,1,Ebola 
+352,282,8,fever 
+352,282,8,malaria symptoms 
+352,283,1,Ebola 
+352,283,8,Marburg virus 
+352,283,8,Ebola virus 
+352,283,7,eighth day 
+353,286,1,Ebola 
+353,286,8,Zaire virus 
+353,286,6,1976
+353,287,6,1976
+353,287,6,2000
+353,287,6,1995
+353,287,8,Ebola virus 
+353,287,1,Ebola virus disease 
+353,288,8,Ebola virus 
+353,288,1,Ebola 
+353,288,8,infected animal 
+354,289,1,Ebola 
+354,289,6,1976
+354,290,6,1665
+354,290,6,2012
+355,291,1,Ebola 
+355,291,8,virus 
+355,292,1,Ebola 
+355,292,8,virus 
+362,293,1,Ebola 
+362,293,1,TKM-Ebola 
+362,293,5,vaccine  
+362,293,4,three drugs 
+362,293,4,fourth dru 
+362,294,4,Ebola treatments 
+362,294,5,vaccine 
+362,294,3,first safety tests 
+362,294,3,field testing in Liberia 
+362,295,1,Sudan Ebola 
+362,295,1,Zaire Ebola 
+362,295,8,chimp 
+362,295,8,cold virus 
+364,296,1,Ebola 
+364,296,8,virus 
+364,296,4,experimental treatments 
+364,297,1,Ebola 
+364,297,4,lack of existing treatments 
+364,297,4,experimental drugs 
+364,297,4,treatments like zMapp 
+366,298,1,Ebola 
+366,298,8,virus 
+366,299,1,Ebola 
+367,300,1,Ebola 
+367,300,8,virus 
+367,300,8,bats 
+367,300,8,insect 
+367,300,6,December 6  2013 
+367,300,2,diarrhea 
+367,300,2,fever 
+367,301,1,Ebola 
+367,301,2,diarrhea 
+367,302,1,Ebola 
+368,303,1,Ebola haemorrhagic fever 
+368,303,1,EVD 
+368,303,6,1976
+368,303,6,1979
+368,303,6,1994
+368,303,8,virus of the filovirusg 
+368,304,1,Ebola 
+368,304,7,During 2014 
+368,305,1,Ebola 
+368,305,2,fatal illness 
+368,306,7,2 to 21 days 
+368,306,2,headache 
+368,306,2,muscle and joint pain 
+368,306,2,headache 
+368,306,2,sore throat 
+371,307,1,Ebola 
+371,307,8,virus 
+371,307,6,1976
+371,308,5,disease Control and Prevention 
+371,308,1,Ebola 
+371,308,8,virus 
+371,308,6,1976
+371,309,1,Ebola 
+371,309,8,virus 
+371,310,1,Ebola 
+371,310,7,8-10 days 
+371,310,7,21 days 
+372,311,1,Ebola 
+372,311,6,1976
+372,311,8,virus 
+372,311,8,chimps 
+372,311,8,Gorillas 
+423,350,1,Ebola 
+423,350,5,No specific treatment 
+423,350,5,vaccine 
+423,350,5,treating them 
+423,351,1,Ebola 
+423,351,6,2012
+423,351,6,42 days 
+423,351,4,treatment centre 
+424,352,1,Ebola 
+424,352,6,Mar-14
+424,352,6,Dec-13
+424,353,4,basic care 
+424,353,3,testing capability 
+424,353,4,care center 
+424,353,1,Ebola 
+424,354,4,treatment center 
+424,354,3,test negative 
+424,354,4,seeking medical treatment 
+430,355,1,Ebola 
+430,355,8,deadly virus 
+430,356,1,Ebola 
+430,356,8,deadliest viruses 
+430,357,1,Ebola 
+430,357,7,10 days 
+430,358,1,Ebola 
+430,358,1,Cholera 
+430,359,1,Ebola 
+430,359,4,earlier treatment 
+432,360,1,Ebola 
+432,360,4,plenty of liquids and oxygen 
+432,360,4,keeping their blood pressure steady 
+432,360,4,addressing symptoms 
+432,361,1,Ebola 
+432,361,8,virus 
+432,361,8,animals 
+432,361,8,forest antelope 
+432,361,8,fruit bat 
+432,362,2,headache 
+432,362,2,muscle pain 
+432,362,2,difficulty breathing 
+432,362,2,chills 
+435,363,1,Ebola 
+435,363,4,experimental drug 
+435,363,8,TKM-Ebola 
+435,364,1,Ebola 
+435,364,8,TKM-Ebola  
+435,364,3,clinical trial 
+436,365,1,Ebola 
+436,365,4,Treating Ebola 
+436,365,5,no drugs or vaccines 
+436,366,4,experimental drugs 
+436,366,2,Ebola 
+436,366,4,drug 
+436,367,7,few months 
+436,367,6,Treatments in West Africa  
+436,367,1,Ebola 
+436,368,1,Ebola 
+436,369,1,Ebola 
+440,370,1,Ebola 
+440,370,8,virus 
+440,370,6,1976
+440,370,7,1970s 
+440,371,1,Ebola 
+440,371,8,Ebola virus 
+440,371,6,1976
+442,372,1,Ebola 
+442,372,6,July 27 1976 
+442,372,8,virus 
+442,373,1,Ebola 
+442,373,6,September 1 1976 
+442,373,8,virus 
+442,374,1,Ebola 
+442,374,8,virus 
+442,375,1,Ebola 
+442,375,7,21 days 
+442,375,2,headache 
+442,375,2,muscle pain 
+444,376,6,June 27 1976 
+444,376,1,Ebola 
+444,376,2,diarrhea 
+444,377,1,Ebola 
+444,377,6,October of 2014 
+444,377,6,2014
+447,378,1,Ebola 
+447,379,1,Ebola 
+448,380,1,Ebola 
+448,380,5,vaccines 
+448,380,4,drugs 
+448,380,4,small pharmaceutical or biotechnology 
+448,381,1,Ebola 
+448,381,5,Ebola vaccine 
+448,381,7,this month 
+448,381,6,2013
+448,381,5,antibody  
+448,382,1,Ebola 
+448,382,8,virus 
+448,382,4,medicines 
+449,383,1,Ebola 
+449,383,4,bio-defense research 
+449,383,4,Ebola treatment 
+449,383,4,research department 
+449,384,1,Ebola virus disease 
+449,384,4,Effective treatment 
+449,384,5,aggressive supportive care 
+453,385,1,Ebola 
+453,385,8,animal 
+453,386,1,Ebola 
+453,386,8,sick person 
+453,387,1,Ebola 
+453,387,5,worry about breathing it in 
+453,388,1,Ebola 
+453,388,8,virus 
+453,388,8,pathogen 
+453,389,1,Ebola 
+453,389,8,virus 
+453,389,8,monkeys 
+457,390,1,Ebola 
+457,390,8,Virus 
+459,391,1,Ebola 
+459,391,6,1976
+459,392,1,Ebola 
+459,392,6,2014
+461,393,1,Ebola 
+461,393,8,Ebola virus 
+461,393,6,1976
+463,395,6,1976
+463,395,1,Ebola 
+463,395,8,Ebola virus 
+463,396,1,Ebola 
+463,396,6,March 23 2014 
+464,397,1,Ebola 
+464,397,6,1976
+464,398,7,1979
+464,398,6,1994
+103,1001,1,Ebola 
+103,1001,8,virus 
+103,1002,1,Ebola 
+103,1002,3,Blood transfusions 
+103,1002,3,Blood pressure medication 
+103,1002,3,Fluids and electrolytes 
+108,1003,1,Ebola 
+108,1003,4,healthcare setting 
+108,1003,2,symptoms of Ebola 
+108,1004,5,avoid areas in which the disease has been reported 
+108,1004,4,being treated 
+108,1004,1,Ebola 
+108,1005,8,virus 
+108,1005,1,Ebola 
+108,1005,5,Avoid direct contact with bodies 
+108,1006,5,use disposable masks gloves 
+108,1006,1,Ebola 
+108,1006,8,virus 
+109,1007,4,no treatment proven to be effective 
+109,1007,1,Ebola 
+109,1008,8,bats 
+109,1008,1,Ebola 
+109,1009,5,wearing of protective clothing 
+109,1009,4,complete equipment sterilization 
+109,1009,1,Ebola 
+110,1010,8,Ebola virus 
+110,1011,1,Ebola 
+110,1011,6,March 11 2015 
+110,1012,8,Ebola virus 
+111,1013,5,Preventing malaria  
+111,1013,4,antimalarial medication 
+111,1013,1,malaria 
+111,1014,1,malaria 
+111,1014,8,mosquito bite 
+111,1015,4,antimalarial drugs 
+112,1016,5,Malaria is preventable 
+112,1016,4,right medication 
+112,1016,1,malaria 
+112,1017,5,preventative medication 
+112,1018,4,malaria pills 
+112,1018,5,no vaccine for malaria 
+112,1018,1,malaria 
+113,1019,1,malaria 
+113,1020,1,malaria 
+114,1021,6,1999
+114,1021,5,promising malaria vaccines 
+114,1021,1,malaria 
+114,1022,1,malaria 
+114,1022,8,parasite 
+114,1022,4,public health 
+115,1023,8,transmitted by insects 
+115,1023,1,typhus 
+115,1023,5,Avoid overcrowded living conditions. 
+115,1024,5,Practice good hygiene 
+115,1024,1,typhus 
+115,1024,4,prescribe doxycycline and chloramphenical 
+116,1025,8,fleas ticks mites 
+116,1025,1,typhus 
+116,1025,5,wash clothing and bedding in extremely hot water 
+117,1026,5,Cleanliness is important 
+117,1026,1,typhus 
+117,1026,4,treatment of clothing for those at high risk 
+117,1027,2,headache chills high fever prostration 
+117,1028,1,typhus fever 
+118,1029,2,fever headache chills 
+118,1030,8,parasite 
+118,1031,1,typhus fever 
+118,1031,8,flying squirrels 
+118,1031,5,use insecticides 
+118,1032,6,2006
+118,1032,1,typhus 
+123,1033,1,cholera 
+123,1033,5,wash hands after using the toilet 
+123,1033,5,wash hands before cooking 
+123,1033,4,emergency sanitation facilities 
+123,1034,2,Diarrhea 
+123,1034,2,vomiting 
+123,1034,2,dehydration 
+123,1034,1,cholera 
+123,1034,2,Water purification 
+123,1035,4,treatment for cholera is oral rehydration 
+123,1035,2,diarrhea 
+123,1035,2,vomiting 
+126,1036,5,clean drinking water 
+126,1036,5,have appropriate sanitation and hygiene facilities 
+126,1036,1,cholera 
+126,1037,1,cholera 
+126,1037,5,vaccinated 
+126,1038,5,vaccination 
+126,1038,1,cholera 
+131,1039,1,typhus 
+131,1039,5,avoidance of the insects  
+131,1039,5,good hygiene and the use of insect repellents 
+131,1039,8,insect 
+131,1039,8,bacteria 
+131,1040,1,typhus 
+131,1040,4,antibiotics tetracycline or chloramphenicol 
+132,1041,1,EVD 
+132,1041,5,infection control measures 
+132,1041,5,Avoid contact with any medical equipment 
+132,1041,1,Ebola 
+132,1042,1,Ebola  
+132,1042,8,chimpanzees 
+132,1042,8,Gorilla 
+132,1042,8,Bats 
+132,1042,8,forest antelope 
+132,1042,8,porcupines 
+132,1042,5,Avoid close contact with wild animals 
+132,1043,1,EVD 
+132,1043,5,see a healthcare provider 
+132,1043,2,fever 
+132,1043,5,Seek medical attention immediately 
+133,1044,5,experimental vaccine 
+133,1044,8,vesicular stomatitis virus 
+133,1044,8,Ebola virus 
+133,1044,1,Ebola 
+134,1045,1,Ebola 
+134,1045,8,virus 
+134,1045,2,muscle and joint pain 
+134,1045,2,fever 
+134,1045,2,sore throat 
+134,1046,1,Ebola 
+134,1047,1,EVD 
+134,1047,5,no proven vaccine 
+134,1047,2,high fever 
+134,1047,2,central nervous system damage 
+134,1048,1,Ebola 
+134,1048,8,virus 
+135,1049,1,malaria 
+135,1049,8,mosquitoes  
+135,1049,5,Avoid sleeping outside 
+135,1050,5,antimalarial  
+135,1050,1,malaria 
+135,1050,5,Consult with a travel clinic healthcare provider 
+135,1050,5,practise malaria prophylaxis 
+135,1051,2,flu-like symptoms 
+135,1051,7,6 months after 
+135,1051,5,always inform any doctor treating you 
+135,1051,1,malaria 
+136,1052,1,malaria 
+136,1052,5,Bite prevention 
+136,1052,5,Awareness of risk  
+136,1052,5,Diagnosis – seek immediate medical advice 
+136,1052,4,tablets  
+136,1052,8,mosquito  
+136,1053,1,malaria 
+136,1053,8,mosquito  
+136,1053,5,Stay somewhere that has effective air conditioning 
+136,1053,5,make sure that doors and windows close properly. 
+136,1054,1,malaria 
+136,1054,5,antimalarial 
+137,1055,1,malaria 
+137,1055,5,proper steps to reduce the risk of exposure  
+137,1056,1,malria 
+137,1056,7,25-Apr
+137,1057,1,malaria 
+137,1058,1,malaria 
+141,1059,5,vaccine 
+141,1059,8,insects  
+141,1059,1,typhus 
+141,1060,5,maintaining personal hygiene 
+141,1060,5,controlling the rodent population 
+141,1060,8,lice 
+141,1060,8,rodents 
+141,1061,1,typhus 
+141,1061,6,past few years 
+141,1061,8,pest  
+142,1062,1,typhus 
+142,1062,5,vaccine 
+142,1062,8,lice 
+142,1062,5,avoid contact with lice 
+142,1063,4,treatment with the antibiotic doxycycline 
+142,1063,1,typhus 
+142,1064,8,bacteria 
+142,1064,1,parasites 
+142,1064,1,typhus 
+144,1065,7,mid-20th century 
+144,1065,1,typhus 
+144,1065,5,body louse must be eliminated 
+144,1065,5,pesticide 
+144,1066,6,after two to three weeks 
+144,1066,1,typhus 
+144,1066,2,headache 
+144,1066,2,general pain 
+144,1066,2,chills and fever 
+146,1067,1,typhus 
+146,1067,8,insects 
+146,1067,5,good hygiene and the use of insect repellents 
+146,1068,1,typhus 
+146,1068,8,viral and bacterial 
+147,1069,1,cholera 
+147,1069,5,providing clean water and proper sanitation 
+147,1069,5,Health education and good food hygiene are equally important 
+147,1070,5,strengthening surveillance and early warning 
+147,1070,5,routine treatment of a community 
+147,1070,4,antibiotics 
+147,1070,1,cholera 
+148,1071,1,Cholera 
+148,1071,5,Boil it cook it peel it or forget it 
+148,1071,5,Foods should be thoroughly cooked 
+148,1072,8,infected person 
+148,1072,1,Cholera 
+148,1073,2,watery diarrhea 
+148,1073,2,vomiting 
+148,1073,3,Lab tests include stool gram stain 
+148,1073,1,Cholera 
+149,1074,6,previous 5 days 
+149,1074,2,vomiting and diarrhoea 
+149,1075,8,Cholera organism  
+149,1075,1,Cholera 
+149,1076,1,Cholera 
+149,1076,8,fish or shellfish 
+149,1076,8,flies 
+151,1077,1,Ebola 
+151,1077,8,Ebola-virus 
+151,1077,5,Infection control strategies may have to be modified 
+151,1078,5,workers are not exposed to harmful levels of chemicals 
+151,1078,1,Ebola 
+151,1078,8,virus 
+151,1079,1,Ebola 
+151,1079,8,Virus 
+151,1079,5,personal protective equipment (PPE) 
+152,1080,1,Ebola Virus Disease 
+152,1080,8,virus 
+152,1080,5,avoid outbreak areas like Sierra Leone 
+153,1081,1,Ebola 
+153,1081,5,no vaccine 
+153,1081,8,Virus 
+153,1081,5,intensive supportive treatment given by a hospital 
+153,1082,1,Ebola virus disease 
+153,1082,6,1976
+153,1083,1,Ebola 
+153,1083,6,1976
+153,1084,1,Ebola 
+153,1084,2,fever  
+153,1084,8,animal 
+154,1085,5,avoid being bitten by mosquitoes 
+154,1085,8,mosquito 
+154,1085,4,anti-malarial drugs 
+154,1085,1,malaria 
+154,1086,4,prophylaxis drugs 
+154,1086,5,See a travel medicine expert before you go 
+154,1086,1,malaria 
+154,1087,2,fever 
+154,1087,2,chills 
+154,1087,2,sweating 
+154,1088,3,Diagnosis is made by a blood test 
+154,1088,1,malaria 
+155,1089,8,parasite called Plasmodium 
+155,1089,8,mosquito 
+155,1089,1,malaria 
+155,1090,1,Malaria 
+155,1090,8,mosquito 
+155,1090,8,insecticide  
+155,1090,5,Cover doors and windows with fine mesh netting 
+155,1090,5,Use air conditioning or a fan in your room 
+155,1091,1,Malaria 
+156,1092,1,Malaria 
+156,1092,5,Talk to your doctor or nurse if you feel seriously ill 
+156,1092,2,fever 
+156,1093,1,Malaria 
+156,1093,5,There are prescription medicines you can take to prevent malaria 
+156,1093,5,preventing mosquito bites 
+156,1093,8,mosquito 
+156,1094,1,Malaria 
+156,1094,2,high fevers 
+156,1094,2,chills 
+156,1094,2,flu-like illness 
+18,1095,1,typhus 
+18,1095,5,No vaccine  
+18,1095,5,Avoidance of endemic areas and crowding 
+18,1095,5,Treatment of domestic animals to eradicate fleas 
+18,1095,8,animals 
+18,1095,8,vectors 
+18,1095,8,fleas and rats in particular 
+18,1096,5,efforts to treat domestic animals 
+18,1096,5,avoid any physical contact with infested clothing 
+18,1096,7,5 days 
+18,1096,1,typhus 
+18,1097,1,typhus 
+18,1097,7,1-2 weeks 
+18,1097,7,12 days 
+18,1097,7,two weeks 
+242,1098,1,typhus 
+242,1098,5,Spraying with insecticides 
+242,1098,5,rodent control measures 
+242,1098,5,cutting down vegetation 
+242,1098,8,insecticide 
+242,1098,8,rodent 
+242,1099,1,typhus 
+242,1099,5,protecting the body from insect bites 
+242,1099,5,applying insect repellent to the skin 
+242,1099,5,vaccine  
+242,1099,8,insect 
+243,1100,1,typhus 
+243,1100,4,Chloramphenicol  
+243,1100,4,250 to 500 mg orally or intravenously 
+243,1100,4,Azithromycin 
+243,1100,7,six months 
+243,1101,2,high fever 
+243,1101,2,intense generalized headache 
+243,1101,2,diffuse myalgias 
+243,1101,2,rash 
+243,1101,1,Scrub typhus  
+243,1102,1,Scrub typhus 
+244,1103,1,cholera 
+244,1103,5,personal and general preventive measures should be taken 
+244,1103,5,Do not buy food from unlicensed food premises or illegal hawkers 
+244,1103,5,Pay attention to hygienic condition of shops and the holding temperature of food 
+244,1103,4,general preventive measures 
+244,1104,1,Cholera 
+244,1104,5,Keep raw and cooked food separately 
+244,1104,5,Consume cooked food as soon as possible 
+244,1104,5,Left-over food must be stored in a refrigerator 
+244,1105,1,Cholera 
+244,1105,4,Personal hygiene 
+244,1105,5,Keep kitchen clean 
+244,1105,5,Store refuse in a well-covered dustbin 
+246,1106,1,Cholera 
+246,1106,5,Vaccination and improved sanitation 
+246,1106,5,Cholera vaccine 
+246,1106,6,1980s 
+246,1107,5,impressive protection with cholera vaccine 
+246,1107,5,pertussis vaccine 
+246,1107,6,1970s 
+247,1108,1,Cholera 
+247,1108,7,SEPTEMBER LAST YEAR 
+247,1109,2,diarrhea 
+247,1109,2,vomiting 
+247,1109,2,dehydration 
+247,1109,1,Cholera 
+247,1109,2,electrolyte imbalances 
+247,1110,8,bacteria 
+247,1110,1,Cholera 
+249,1111,1,Cholera 
+249,1111,6,1817
+249,1112,1,Cholera 
+249,1112,7,early years 
+251,1113,1,Ebola 
+251,1113,7,26-year 
+251,1114,1,Ebola 
+251,1115,1,Ebola 
+251,1115,8,virus 
+251,1115,5,spraying medical gloves 
+251,1115,5,removal of hazardous materials from treatment sites 
+252,1116,1,Ebola 
+252,1116,5,avoiding contact with blood and body fluids 
+252,1116,5,practicing careful hand hygiene 
+252,1116,5,educating themselves on recognizing the disease and preventing it 
+252,1117,1,Ebola 
+252,1117,5,refraining from engaging in burial rituals 
+252,1117,5,handling items a person with Ebola has handled 
+252,1118,1,Ebola 
+252,1118,5,Healthcare workers and lab technicians also must practice very careful precautions 
+252,1118,5,isolating people with Ebola 
+252,1118,5,wearing protective gowns 
+252,1119,1,Ebola 
+252,1119,5,Cleaning crews should use a bleach solution to clean floors 
+252,1119,8,virus 
+253,1120,1,Ebola 
+253,1120,2,Fever 
+253,1120,8,Ebola virus 
+253,1120,2,internal bleeding and organ failure 
+253,1121,1,Ebola 
+253,1121,8,Ebola virus 
+253,1122,3,support for laboratory testing 
+253,1122,1,Ebola 
+258,1123,1,Malaria 
+258,1123,5,Awareness of risk 
+258,1123,5,Bite avoidance 
+258,1123,5,taking preventive medicines 
+258,1123,4,early treatment of an infected case 
+258,1124,1,Malaria 
+258,1124,4,medicine 
+258,1124,5,Measures to avoid bites should always be taken 
+258,1125,8,Mosquitoes that carry malaria 
+258,1125,1,Malaria 
+258,1125,5,Air-conditioned rooms are good 
+258,1125,5,There should be no holes in the gauze 
+258,1125,4,doxycycline  
+258,1126,4,chloroquine and other drugs 
+258,1126,5,choosing the most appropriate antimalarial 
+258,1126,8,mosquito 
+258,1126,1,malaria 
+259,1127,8, Plasmodium falciparum 
+259,1127,8,P. vivax 
+259,1127,8,P. ovale  and P. malariae 
+259,1127,8,mosquito vector 
+259,1128,1,malaria 
+259,1128,1,malaria 
+259,1128,8,P. falciparum malaria 
+259,1128,7,2006
+259,1129,1,malaria 
+259,1129,4,mefloquine 
+262,1130,5,expanding coverage of insecticide-treated bed nets 
+262,1130,5,expanding use of intermittent preventive treatment for pregnant women 
+262,1130,5,use of indoor residual spraying with DDT 
+262,1130,1,malaria 
+262,1131,1,malaria 
+262,1131,4,inexpensive drugs 
+262,1131,1,Tuberculosis and Malaria  
+264,1133,5,Immunization and louse control 
+264,1133,5,dusting infested people with malathion or lindane 
+264,1133,5,Lice may be eliminated  
+264,1133,8,lice 
+264,1134,8,Louse  
+264,1135,4,doxycycline 200 mg po once followed by 100 mg 
+264,1135,7,7 days 
+264,1135,4,Chloramphenicol 500 mg 
+264,1136,1,typhus 
+264,1136,7,7 to 10 days 
+264,1136,2,rash 
+266,1137,7,3–5 days 
+266,1137,4,treatment with doxycycline 
+266,1137,5,murine typhus should be promptly reported 
+266,1137,5,typhus should be considered in the differential diagnosis 
+266,1138,1,typhus 
+266,1138,8,rodents 
+266,1138,8,animals  
+266,1139,6,2 decades 
+266,1139,6,8 mosquito 
+266,1139,6,8 virus 
+267,1140,5,Control flea infestation 
+267,1140,5,Eliminate food sources and other areas that may harbor wild animals 
+267,1140,5,Take personal precautions 
+268,1141,1,typhus 
+268,1141,5,environmental hygiene 
+268,1141,5,personal protection 
+268,1141,5,health education 
+268,1141,5,infestation control 
+268,1141,5,disease notification 
+268,1142,5,report suspected or confirmed cases 
+268,1142,5,public health control measures 
+268,1142,5,monitor the trend of the disease 
+268,1142,1,typhus 
+268,1142,7,1951
+269,1143,2,diarrhoea 
+269,1143,1,cholera 
+269,1143,5,provision and use of clean drinking water 
+269,1143,5,good home and environmental hygiene and sanitation 
+269,1143,5,avoidance of potentially contaminated foods 
+269,1144,5,vaccination 
+269,1144,5,giving antibiotics to large numbers of people 
+269,1144,4,antibiotics 
+269,1144,5,restricting food imports from affected areas 
+269,1145,2,diarrhoea.  
+269,1145,2,dehydration 
+269,1145,4,vaccination 
+269,1145,4,quarantine 
+269,1145,1,Cholera 
+271,1146,1,Cholera 
+271,1146,5,Proper disposal of sewage Sterilization of contaminated infected materials 
+271,1146,5,Use of disinfectants like chlorine beach Warning boards over contaminated water sources 
+271,1146,5,directions on the water treatment strategies 
+271,1146,5,Water purification measures 
+271,1147,5,Piped water sources Drinks sold in cups 
+271,1147,5,Food or beverages from street vendors 
+271,1147,5,Unpasteurized milk and milk products 
+273,1148,2,profound fluid and electrolyte losses in the stool 
+273,1148,2,Vomiting 
+273,1148,2,diarrhea 
+273,1149,8,V. cholerae 
+273,1149,1,Cholera 
+273,1149,3,microbiology laboratories 
+273,1149,3,selective media and biochemical tests 
+274,1150,1,Cholera 
+274,1151,1,Cholera 
+274,1151,6,19th century 
+274,1151,6,1855
+274,1152,6,1883
+274,1152,1,Cholera 
+4,1153,1,Ebola 
+4,1153,5,Raising awareness 
+4,1153,8,Ebola infection 
+4,1154,5,clean  non-sterile long-sleeved gown  and gloves  
+4,1154,8, Ebola virus 
+4,1154,1,Ebola 
+4,1155,1,Ebola 
+4,1155,8,Ebola virus 
+65,1156,1,cholera 
+65,1156,5,vaccine against cholera 
+65,1156,5,using only water that has been boiled 
+65,1156,6,few months 
+65,1157,2,watery diarrhea and vomiting 
+65,1157,4,highly treatable 
+65,1157,1,Cholera 
+68,1158,1,cholera 
+68,1159,8,fish and shellfish 
+68,1159,2,diarrhea 
+68,1159,1,cholera 
+68,1159,5,waste must be kept from entering any water supply 
+68,1160,1,cholera 
+68,1160,8,flies 
+68,1160,5,keep garbage far away from food 
+68,1160,5,toilets will be sealed 
+68,1161,4,Drinking water 
+68,1161,2,diarrhea 
+7,1162,1,Ebola viral disease 
+7,1162,7,7days 
+7,1162,7,21days 
+7,1163,1,Ebola viral disease 
+7,1163,8,Gorilla 
+7,1163,8,chimpanzees 
+7,1163,8,monkeys 
+73,1164,1,Ebola 
+73,1164,8,Ebola virus 
+73,1164,5,droplet precautions to care 
+76,1165,1,Ebola 
+76,1165,5,Use soap and water 
+76,1165,8,infectious diseases 
+76,1166,5,vaccine development 
+76,1166,8,Ebola or Marburg viruses 
+76,1166,1,Ebola 
+78,1167,7,current Ebola Crisis 
+78,1167,1,Ebola 
+78,1168,6,late 1800s 
+78,1168,8,Ebola virus 
+78,1169,1,Ebola 
+82,1171,8,Mosquito 
+82,1171,5,protective clothing 
+82,1171,2,mosquito bites 
+82,1172,1,malaria 
+82,1172,2,being sick 
+82,1172,5,take preventive malaria medicines 
+84,1173,1,malaria 
+85,1175,5,malaria prevention 
+85,1175,8,mosquito 
+85,1175,1,Malaria an infectious disease 
+85,1176,5,malaria prevention and control  
+85,1176,1,malaria 
+85,1176,4,treatment for malaria 
+86,1177,5,precautions include wearing light 
+86,1177,1,malaria 
+86,1177,8,mosquito that spreads malaria 
+86,1178,1,malaria 
+86,1178,5,malaria vaccine 
+87,1179,1,malaria 
+87,1180,5,malaria prevention 
+88,1181,5,reducing populations of rats  mice 
+88,1181,1,typhus 
+88,1181,8,fleas 
+88,1182,1,typhus 
+88,1182,5,vaccines 
+88,1182,4,taking any antibiotics 
+89,1183,5,Using insecticides 
+89,1183,4,1% permethrin 
+89,1183,8,lice 
+89,1184,8,Rickettsia typhi 
+89,1184,1,typhus 
+89,1185,2,Abdominal pain Backache Dull 
+89,1186,4,antibiotics such as:Doxycycline Tetracycline 
+90,1187,1,typhus 
+90,1187,8,fleas  lice and chiggers 
+90,1187,5,Bedding Clothes Linens 
+91,1188,8,lice 
+91,1188,5,Boiling clothes 
+91,1188,4,public health measures 
+91,1189,8,Rickettsia prowazekii 
+91,1190,1,typhus 
+93,1191,1,cholera 
+93,1191,5,Wash hands with soap 
+93,1191,4,alcohol-based hand sanitizer 
+93,1192,5,Eat food that's completely cooked 
+93,1192,4,Avoid sushi 
+93,1192,1,cholera 
+93,1193,1,cholera 
+93,1193,5,immunization against cholera 
+93,1193,4,local office of public health 
+96,1194,1,cholera 
+96,1194,5,Cholera vaccines 
+96,1194,3,diagnosed by the discovery of the bacteria 
+96,1195,2,diarrhea and vomiting 
+96,1196,1,cholera 
+96,1197,1,cholera 
+97,1198,1,cholera 
+97,1198,5,vaccine 
+97,1198,7,six weeks apart 
+97,1199,6,1971
+97,1199,7,19th century 
+97,1200,4,antibiotics 
+100,601,1,Plasmodium falciparum malaria 
+100,601,4,artemisinin-based combination therapies (ACTs)
+100,601,8,P. vivax
+101,603,5,antibodies 
+101,603,6,24 hours of infection 
+101,603,8,Ebola virus 
+101,604,6,1976 in Zaire 
+101,604,8,Filoviridae; 
+101,605,6,May-11
+101,605,5,hydration
+101,605,1,Ebola 
+102,606,1,Ebola 
+102,607,4,ZMapp 
+102,607,1,Ebola. 
+102,607,5,genetically engineered antibodies 
+102,608,4,Brincidofovir
+102,608,8,Ebola virus 
+102,608,6,first patient 
+102,609,4,Blood transfusions from an Ebola survivor 
+102,609,5,develop antibodies 
+102,609,7,decades 
+103,610,2,bleeding inside and outside the body. 
+103,610,8,Ebola virus 
+103,611,2,colds
+103,612,6,2 to 21 days 
+103,612,2,vomit or cough up blood
+104,613,4,rehydration with ORS 
+104,613,7,primary 
+104,613,1,cholera. 
+104,614,6,24 hours 
+104,614,4,ibramycin
+104,614,3,perform a full reassessment 
+105,615,4,oral rehydration therapy 
+105,615,6,first two to four hours 
+105,615,1,cholera 
+105,616,4,Antibiotic treatments 
+105,616,6,one to three days 
+105,616,5,antibiotics 
+105,617,4,Doxycycline 
+105,617,8,strains of V. cholerae 
+105,617,7,future choices 
+106,618,1,Cholera 
+106,619,1,cholera 
+106,620,1,cholera 
+107,621,5,Vaccination 
+107,622,5,CVD-103HgR 
+119,623,1,Ebola hemorrhagic fever 
+119,623,6,August 2000 to January 2001. 
+119,623,3,PCR (RT-PCR) 
+119,623,8,ebolavirus 
+119,623,6,1976
+119,623,6,1979
+119,623,6,24 to 48 h 
+120,624,8,Ebola Virus 
+120,625,3,laboratory biosafety 
+120,625,1,Ebola 
+120,626,3,RT-PCR test 
+120,626,6,2 to 6 hours 
+120,627,3,PCR tests 
+120,627,6,December 
+120,627,3,Ebola diagnostic tests 
+121,628,3,blood tests for Ebola
+121,628,2,fever 
+121,628,2,nausea 
+121,628,2,diarrhea 
+121,628,1,Ebola 
+121,629,6,21 days 
+121,629,1,Ebola 
+121,629,6,Oct. 17
+121,629,3,negative Ebola test
+121,630,3,RT-PCR 
+121,630,2,fever 
+121,630,6,two days 
+121,630,8,virus 
+121,630,3,blood to detect 
+122,631,3,PCR 
+122,631,8,virus 
+122,631,3,genetic material 
+122,632,3,PCR 
+122,632,8,viral material 
+122,632,1,ebola 
+267,635,1,cholera 
+267,635,4,Antimicrobial therapy 
+267,635,4,fluid therapy 
+267,635,4,antibiotic 
+267,635,2,diarrhea 
+267,635,6,48 hours 
+267,636,8,V cholerae O1 
+267,636,4,antimicrobial 
+267,636,8,V cholerae O139 
+267,637,4,Furazolidone 
+267,637,1,cholera 
+267,637,4,quinolones 
+267,637,4,ampicillin 
+267,637,4,erythromycin 
+268,638,4,Co-trimoxazole 
+268,638,2,diarrhea 
+268,638,3,sulfamethoxazole 
+269,639,5,Cholera Vaccine 
+269,639,8,Vibrio cholerae 
+269,639,4,Phenol 
+27,640,4,antimalarial drugs 
+27,640,2,control fever
+27,640,1,malaria 
+27,641,1,falciparum malaria 
+27,641,4,Quinine
+27,641,2,breathing failure
+27,641,7,first days of treatment 
+270,642,1,cholera 
+270,642,4,fluids and electrolytes 
+270,642,4,water 
+270,642,4,sugar 
+270,642,4,salts 
+270,642,2,dehydration 
+270,642,6,three to six days 
+270,643,4,antibiotic tetracycline 
+270,643,2,reduce fluid loss 
+270,643,8,cholera bacteria 
+270,644,1,cholera 
+270,644,3,fresh stool sample 
+270,644,2,diarrhea 
+270,644,2,vomiting 
+270,644,8,cholera bacteria 
+272,645,1,Cholera 
+272,645,8,bacterium Vibrio cholerae 
+272,646,2,watery diarrhoea 
+272,646,2,dehydration 
+272,647,8,V. cholerae 
+272,647,2,diarrhoea 
+272,647,8,V. parahaemolyticus
+272,647,8,V. mimicus
+272,647,8,aeromonas 
+272,647,1,meningitis 
+275,648,8,female Anopheles mosquito 
+275,648,8,Plasmodium 
+275,648,4,polymerase chain reaction 
+275,648,8,P. knowlesi 
+275,648,1,malaria 
+275,649,1,malaria 
+275,649,3,blood films 
+275,649,3,RDT 
+275,649,8,malarial parasite 
+276,650,1,malaria 
+276,651,6,2010
+276,651,1,malaria 
+277,652,1,malaria 
+277,652,8,Giemsa-stained parasites 
+277,652,3,PCR 
+277,652,3,microsatellite testing 
+277,652,3,blood sample 
+277,653,1,simian malaria 
+277,653,3,molecular testing 
+277,653,8,falciparum 
+288,654,3,microscopic demonstration 
+288,654,8,malaria parasites 
+288,654,6,12 hours 
+288,654,2,malaria 
+288,654,3,Malaria 
+288,654,4,malaria 
+288,654,7,delays 
+293,658,1,Scrub typhus 
+293,658,8,trombiculid mites 
+293,658,2,fever 
+293,658,2,rash 
+293,658,2,eschar 
+293,658,3,indirect fluorescent antibody 
+293,659,1,scrub-typhus 
+293,659,3,serology 
+293,659,3,Weilâ€“Felix OX-K agglutination reaction 
+293,659,3,IIP 
+293,659,6,hours 
+293,660,3,serological tests 
+293,660,1,typhus 
+293,660,3,antibody 
+295,661,1,typhus 
+295,661,3,differential diagnoses 
+295,662,1,typhus 
+295,662,3,clinically 
+295,663,3,PCR 
+295,663,8,rickettsial DNA 
+295,663,3,skin biopsy 
+295,663,1,typhus 
+295,664,3,EIA 
+295,664,3,IFA 
+295,664,1,typhus 
+295,664,8,rickettsial species. 
+296,665,1,Bush typhus 
+296,665,1,Scrub typhus 
+296,665,8,Orientia tsutsugamushi 
+296,665,8,Gram-negative 
+296,665,8,Rickettsiaceae 
+296,665,6,1930
+296,666,1,Paratyphoid 
+296,666,1,Dengue Fever
+296,666,3,Weil-Felix test 
+296,667,3,PCR 
+296,667,3,culture 
+296,667,3,serological testing 
+296,667,4,antibiotic treatment 
+296,667,7,prior 
+298,668,8,V. cholerae serogroup O1 
+298,668,8,V. cholerae serogroup O139 
+298,668,2,Epidemic Dysentery 
+298,668,1,Cholera 
+298,668,3,stool specimen 
+298,669,3,rapid diagnostic test 
+298,669,1,cholerae 
+298,669,3,stool culture 
+299,670,3,RDTs 
+299,670,3,IP cholera dipstick
+299,670,3,SMART 
+299,670,3,IP dipstick 
+299,670,3,Medicos 
+299,671,1,cholera 
+299,671,7,early 
+299,671,8,Vibrio cholerae 
+299,671,3,rapid diagnostic tests 
+299,671,3,bacterial cultures 
+299,672,3,rapid diagnostic tests 
+299,672,1,cholera 
+300,673,3,cholera stool specimens 
+300,673,8,V. cholerae 
+300,673,3,rice water stool 
+300,673,2,diarrhea 
+300,674,3,stool specimen 
+300,674,8,V. cholerae 
+300,674,6,18 to 24 h 
+301,675,1,Cholera 
+301,675,8,Vibrio cholerae. 
+301,675,2,diarrhea 
+301,676,1,diarrhea 
+301,676,4,intravenous
+301,676,3,Antibiotics 
+301,676,3,restore fluids 
+301,676,4,IV fluid 
+301,676,1,cholera 
+301,676,5,vaccines 
+301,676,4,replace fluid 
+301,676,4,salts 
+301,676,2,fluid loss 
+301,676,2,diarrhea 
+302,678,2,diarrhoea 
+302,678,3,replace fluids 
+302,678,3,oral rehydration 
+302,678,3,intravenous fluid 
+302,678,2,dehydration 
+302,678,6,per day 
+302,678,6,3 days. 
+302,679,4,antibiotics 
+302,679,4,antimalarial medication 
+302,679,3,rapid diagnostic tes 
+302,680,8,Ebola virus 
+302,680,6,5 days 
+302,680,8,Zaire species 
+303,681,8,Ebola virus 
+303,681,6,decades 
+303,681,8,Marburg virus 
+303,681,2,hemorrhagic fevers 
+303,681,2,severe bleeding 
+303,681,2,hemorrhage 
+303,681,2,organ failure 
+303,682,8,contaminated needles 
+303,682,8,body fluids 
+303,683,1,Ebola 
+303,683,8,Marburg virus 
+303,683,5,vaccines 
+311,684,4,supportive care 
+311,684,8,ebola virus 
+311,684,2,dehydration
+311,684,2,blood loss 
+311,684,2,low blood pressure 
+311,684,4,palliative care 
+311,685,4,Nutritional support 
+311,685,1,Ebola 
+311,685,2,nausea 
+311,685,2,vomiting 
+311,685,2,diarrhea 
+311,685,4,tube feedings 
+311,685,4,intravenous fluids 
+311,686,4,Balancing fluids 
+311,686,4,electrolytes 
+311,686,4,intravenous fluids 
+311,686,4,salts 
+312,687,1,Ebola 
+312,687,8,Ebola virus 
+312,687,4,supportive treatment 
+312,687,4,critical care medicine 
+312,687,4,virus-specific medical therapies 
+32,688,1,diagnostic products 
+32,688,3,ReEBOV Antigen Rapid Test 
+32,688,1,Ebola 
+32,689,7,currently being tested 
+32,689,3,Nucleic acid tests 
+32,689,6,between 12 and 24 hours 
+32,689,1,detection of the virusâ€™s nucleic acid 
+32,690,7,previously listed by WHO 
+32,690,8,Ebola protein 
+32,690,3,testing a new blood sample 
+33,691,3,the rapid test 
+33,691,6,15 minutes 
+33,691,8,Ebola virus 
+34,692,3,Ebola eZYSCREEN 
+34,692,1,drop of the patientâ€™s blood 
+34,692,6,15 minutes 
+34,692,7,Current tests 
+35,693,8,Ebola virus 
+35,694,1,detect such viruses 
+35,694,3,one drop of blood 
+35,695,3,PCR Tests 
+35,695,7,Conventional 
+36,696,3,CARE Kits 
+36,696,7,next 21 days 
+37,697,7,current test 
+37,697,3, test kit 
+38,698,1,Diagnosing Ebola 
+38,699,3,body fluids 
+38,700,8,Ebola virus 
+38,700,1, reach detectable levels 
+38,700,3,ELISA testing 
+38,700,7,three days after symptoms start 
+39,701,3,blood tests 
+39,701,1,Ebola 
+39,701,7,early signs 
+40,702,1,diagnose 
+40,702,1,early symptoms 
+40,703,3,PCR test 
+40,703,8,genetic material from the virus 
+40,703,1,Ebola 
+40,704,5,antibodies 
+40,704,3,ELISA 
+40,704,1,Ebola 
+41,705,8,Ebola Virus 
+41,705,1,malaria
+41,705,3,Testing for Ebola virus 
+41,706,5,isolate the virus 
+41,707,1,Ebola 
+42,708,8,Malaria parasites 
+42,708,7,Prior to examination 
+42,708,1,confirmation of malaria 
+42,708,3,blood smear 
+42,709,3,detect antigens derived 
+42,709,6,2-15 minutes 
+42,709,1,reliable microscopic diagnosis 
+42,710,8,Parasite nucleic acids 
+42,710,3,PCR 
+42,710,2,febrile illnesses
+43,711,4,reserving antimalarials 
+43,711,3,malaria rapid diagnostic test 
+43,711,1,Diagnostic testing 
+44,712,3,Giemsa microscopy 
+44,712,5,anti-malarial drug 
+44,712,1,malaria diagnosis 
+44,713,1,malaria diagnosis 
+44,714,3,RDT 
+44,715,1,clinical diagnosis 
+44,715,3,Quality RDT 
+45,716,3,malaria test 
+45,717,1,malaria 
+46,718,8,bacteria 
+46,718,3,Rapid cholera dipstick tests 
+46,718,1,confirm diagnosis 
+47,719,8,Vibrio cholerae 
+47,719,3,Electron micrograph 
+47,719,2,watery diarrhea 
+47,720,8,Vibrio cholerae serogroup O1 
+47,720,3,stool specimen 
+47,720,1,laboratory diagnosis of cholera 
+47,721,3,the Crystal VCÂ® dipstick rapid test 
+47,721,8,TCBS 
+47,721,5,isolation and identification of V. cholerae 
+48,722,2,rice-water diarrhea 
+48,722,8,V. cholerae. 
+48,722,7,Preliminary diagnosis 
+48,722,3,PCR tests 
+49,723,8,Vibrio cholerae 
+49,723,5,anti cholera vaccine 
+49,724,8,All Gram-negative bacteria 
+50,725,8,serogroup 0139 
+50,725,1,Cholera 
+50,726,1,Cholera 
+50,727,8,Viable organisms 
+50,727,6,16 days 
+51,728,1,Typhus 
+51,728,8,Rickettsia typhi 
+51,729,2,Vomiting 
+51,729,8,murine or endemic typhus 
+51,730,3,complete blood count (CBC) 
+51,730,5,typhus antibodies 
+51,730,1,typhus 
+52,731,3,Western blot 
+52,731,1,Diagnostic tests 
+52,731,8,typhus in sputum samples 
+52,732,1,Diagnosis 
+52,732,2,symptoms are common 
+53,733,3,PCR testing of skin biopsy of skin rash 
+53,733,7,usually late or after the disease has been treated 
+53,733,8,endemic typhus
+53,733,4,antirickettsial antibodies 
+53,734,7,Early diagnosis 
+53,734,1,typhus 
+54,735,1,Murine (endemic) typhus 
+54,735,8,Rickettsia typhi 
+54,736,7,after a course of empiric therapy 
+54,736,3,convalescent serum samples 
+54,736,1,cultures of blood
+55,737,1,malaria 
+55,737,4,strong clinical suspicion 
+55,737,7,until the diagnosis 
+55,738,1,diagnosis of malaria 
+55,738,4,antimalarial treatment 
+55,738,8,Plasmodium species 
+56,739,4,artemisinin-based combination therapies 
+56,739,8,falciparum parasite 
+56,739,7,antimalarial medicines available today 
+56,740,4,treated with chloroquine 
+56,740,8,P. vivax 
+56,740,5,partner medicine 
+56,741,4,injectable artesunate 
+56,741,1,Severe malaria 
+56,741,7,followed by a complete course of an ACT 
+57,742,4,antimalarial therapies 
+57,742,1,malaria diagnoses 
+57,743,1,parasitological diagnosis 
+58,744,3,rapid diagnostic tests 
+58,744,4,antimalarial treatment 
+58,745,1,malaria 
+58,745,4,ACT 
+59,746,4,ACT 
+59,746,1,parasitological confirmation of diagnosis 
+60,747,1,malaria 
+60,747,8,malaria parasite 
+60,748,2,age
+60,749,6,the tests should be repeated 3 or 4 times 
+60,749,2,flu-like symptoms 
+61,750,5,preventative antimalarial tablets 
+61,750,3,blood test confirms malaria 
+61,751,5,antimalarial medicine 
+62,752,1,P. falciparum malaria 
+62,752,4,artemisinin-based combination therapy (ACT). 
+62,752,7,Early diagnosis 
+63,753,4,Antimalarial medications 
+63,753,3,parasitological confirmation by microscopy 
+63,753,1,malaria 
+64,754,4,chloroquine 
+64,754,8,Plasmodium 
+64,754,1,malaria 
+65,755,5,vaccine against cholera 
+65,755,7,few months 
+65,755,1,cholera 
+65,756,5,Antibiotics 
+65,756,4,Hydration 
+65,756,1,cholera 
+65,756,8,bacteria
+66,757,4,Antibiotics 
+66,757,6,since 1964 
+66,757,1,cholera 
+66,758,4,Tetracycline 
+66,758,7,Recently
+66,758,1,cholera 
+66,759,3,antimicrobial susceptibility testing 
+66,759,4,IV hydration 
+66,759,5,recommend antibiotics 
+67,760,2,rapid dehydration 
+67,760,1,Cholera 
+67,761,6,In 1831 
+67,761,6,India in 1826 
+67,762,5,cholera vaccine 
+67,762,1,cholera 
+68,763,2,diarrhea 
+68,763,1,cholera 
+68,764,1,Cholera 
+69,765,5,Antibiotics 
+69,765,4,treatment of typhus 
+69,765,6,48-72 hours 
+70,766,4,doxycycline 
+70,766,1,rickettsioses 
+70,766,8,alternative agents 
+70,767,8, gram-negative bacteria 
+70,768,8,rickettsial pathogens 
+70,769,6,5-to 14-day 
+70,769,1,rickettsial diseases 
+70,770,1,Epidemic typhus 
+70,770,8,Sylvatic epidemic typhus 
+71,771,4,Treatment 
+71,771,5,antibodies 
+71,771,8,epidemic typhus 
+72,772,4,Intensive care 
+72,772,1,Typhus 
+72,772,5,Antibiotics 
+74,773,1,Ebola 
+74,773,4,Intravenous fluids
+74,773,2,control fever
+74,774,8,Ebola virus 
+74,774,4,supportive care 
+74,774,7,currently no proven treatment 
+74,775,2,control fever
+74,775,5,prevent secondary infections 
+74,775,4,Intravenous (IV) fluids 
+74,776,5,recover from the illness 
+74,776,1,Ebola 
+75,777,5,isolated 
+75,777,4,treat the symptoms 
+75,777,1,Ebola 
+75,778,4,Blood transfusions 
+75,778,1,Ebola 
+75,778,4,Survival 
+75,779,8,Ebola virus 
+75,779,6,3months 
+77,780,1,Ebola 
+77,781,4,care for a person 
+77,782,6,21 day incubation period 
+79,783,7,Early in August 
+79,783,1,Ebola 
+79,784,4,drugs 
+80,786,8,Ebola strains 
+80,786,6,30 minutes 
+80,786,3,blotting paper 
+80,786,1,prototype Ebola test 
+81,787,3,minimally invasive test 
+81,787,1,Ebola 
+81,787,6,days and hours to minutes or even seconds 
+81,788,8,RNA viruses 
+81,788,3,portable viral diagnostic for RNA viruses 
+81,788,2,Ebola hemorrhagic fever 
+82,789,3,polymerase chain reaction 
+82,789,8,multiple types of viruses. 
+82,789,7,middle of an outbreak 
+82,790,3,PCR machines 
+82,791,3,color-changing strips 
+82,791,6,15 minutes. 
+82,791,5,antibodies in blood samples 
+92,792,1,Neglected Tropical Diseases 
+92,792,8,Ebola virus 
+94,793,6,hundreds of years 
+94,793,7,Current measures 
+94,794,6,1942
+94,794,7,early diagnosis 
+95,795,1,falciparum malaria 
+95,795,6,3-day treatment course 
+95,795,4,MMV 
+95,796,8,Plasmodium vivax 
+95,796,4,primaquine
+95,796,6,14 days 
+95,796,2,haemolysis. 
+98,797,1,Malaria 
+98,797,2,high fever and chills 
+98,798,8,mosquito infected with parasites 
+98,799,3,malaria parasite in your blood. 
+98,799,2,high fever
+99,800,1,Falciparum malaria
+99,800,4,combination of quinidine or quinine plus doxycycline 
+99,800,8,chloroquine-resistant infections 
+123,1801,1,cholera 
+123,1801,2,diarrhea 
+124,1802,1,Cholera infection 
+124,1802,2,profuse watery diarrhea 
+124,1802,2,vomiting 
+124,1802,2,leg cramps 
+124,1802,2,dehydration 
+124,1802,7,within hours 
+124,1803,6,few hours 
+124,1803,6,5days 
+124,1803,6,2-3days 
+124,1804,1,Cholera 
+124,1804,7,immediate 
+124,1804,2,diarrhea 
+124,1804,4,rehydration solution 
+124,1804,4,intravenous fluid replacement 
+124,1804,4,rehydration 
+124,1804,4,salts 
+125,1805,1,cholera 
+125,1805,6,three and six days 
+125,1805,4,recovery 
+125,1806,1,cholera 
+125,1806,6,2-3 hours 
+125,1806,6,4-12 hours 
+125,1806,2,diarrhea 
+125,1806,2,liquid stool 
+125,1806,2,shock 
+125,1806,4,rehydration treatment 
+125,1807,4,rehydration 
+125,1807,4,salt 
+125,1807,4,sugar 
+125,1807,2,dehydration 
+125,1807,4,replace lost fluids and electrolytes 
+126,1808,6,few days 
+126,1808,7,months 
+126,1808,2,rapid dehydration 
+126,1808,2,diarrhea 
+126,1808,1,cholera 
+126,1808,6,2 to 6 months 
+126,1808,5,vaccine 
+127,1809,6,few days 
+127,1809,8,bacteria 
+127,1809,6,months 
+127,1809,6,years 
+127,1810,6,5 days 
+127,1810,7,previous 
+127,1810,4,rehydration 
+127,1810,4,salts 
+127,1810,1,cholera 
+127,1810,2,vomiting 
+127,1810,2,diarrhoea 
+128,1811,1,cholera 
+128,1811,7,early 
+128,1811,6,week 
+129,1812,1,typhus 
+129,1812,4,doxycycline 
+129,1812,6,3-day 
+129,1812,6,7-day 
+129,1812,4,tetracycline 
+129,1812,6,4 weeks 
+129,1812,7,after 
+130,1813,1,Typhus 
+130,1813,1,jail fever 
+130,1813,8,Rickettsia prowazekii 
+130,1813,8,fleas 
+130,1813,4,antibiotics 
+130,1814,4,oral antibiotics 
+130,1814,4,Tetracycline 
+130,1814,4,doxycycline 
+130,1814,4,azithromycin 
+130,1814,4,IV fluids 
+130,1814,2,kidney damage
+130,1815,1,Brill-Zinnser 
+130,1815,1,typhus 
+130,1815,4,antibiotics 
+130,1815,7,later 
+130,1815,7,after months or years 
+137,1816,4,azithromycin 
+137,1816,6,1-week 
+137,1816,6,daily 
+137,1816,4,doxycycline 
+137,1816,1,typhus 
+137,1817,4,azithromycin 
+137,1817,6,1-week 
+137,1817,6,daily 
+137,1817,4,doxycycline 
+137,1817,6, 21 h 
+137,1817,6, 29 h 
+137,1817,6,1-month 
+137,1818,6,Sep-02
+137,1818,6,Nov-03
+137,1818,4,azithromycin 
+137,1818,4,doxycycline 
+137,1818,1,typhus 
+139,1819,1,Tuberculosis 
+139,1819,8,Mycobacterium tuberculosis 
+140,1820,1,typhus 
+140,1820,8,Rickettsia prowazekii 
+140,1821,2,Typhus fevers 
+140,1821,8,fleas
+140,1821,8,Rickettsia 
+140,1821,1,typhus 
+140,1821,6,Today 
+143,1822,1,malaria 
+143,1822,5,anti-malarial 
+143,1823,3,blood test 
+143,1823,8,malaria parasite 
+143,1823,7,days 
+143,1823,7,later 
+143,1824,1,malaria 
+143,1824,4,recovery 
+143,1824,4,anti-malarial 
+143,1824,4,Quinine 
+143,1824,4,chloroquine 
+143,1825,7,duration 
+143,1825,1,malaria 
+143,1825,5,anti-malarial 
+143,1825,1,Plasmodium falciparum malaria 
+145,1826,1,malaria 
+145,1826,8,parasite 
+145,1826,6,several weeks 
+145,1826,2,weak 
+145,1826,2,tired 
+145,1827,4,chloroquine 
+145,1827,4,quinidine 
+145,1827,4,doxycycline 
+145,1827,4,tetracycline or clindamycin
+145,1827,4,pyrimethamine 
+145,1828,1,Malaria 
+145,1828,3,blood samples 
+145,1828,6,two weeks 
+145,1828,2,ever
+145,1828,6,years 
+150,1829,6,9 to 14 days 
+150,1829,6,12 to 18 days 
+150,1829,6,18 to 40 days 
+150,1829,6,11 to 12 days 
+150,1829,8,Plasmodium (P.) falciparum. 
+150,1829,8,P. vivax and P. ovale. 
+150,1829,8,P. malariae 
+150,1829,8,P. knowlesi. 
+150,1829,1,malaria 
+150,1830,1,malaria 
+150,1830,2,no symptoms 
+150,1830,8,malaria parasite 
+150,1830,2,spleen 
+150,1831,6,7 days 
+150,1831,5,chemoprophylaxis 
+150,1831,6,8 to 10 months 
+150,1831,8,P. vivax and P. ovale 
+23,1835,1,Ebola 
+23,1835,5,antibodies 
+23,1835,6,atleast10years 
+23,1835,8,different species of Ebola 
+23,1836,4,vaccine or medicine 
+23,1836,1,Ebola 
+23,1836,8,Treating other infections 
+23,1836,5,Providing intravenous fluids 
+24,1838,1,EVD 
+24,1838,4,treatment for EVD 
+24,1838,2,hypovolemia
+24,1838,5,approved vaccines 
+24,1839,4,maintenance of blood pressure 
+24,1839,5,large volumes of intravenous fluids 
+24,1839,8,West Africa with EVD 
+24,1839,2,Some patients may develop profound third-spacing of fluids 
+24,1840,6,21days 
+24,1840,1,Ebola 
+24,1841,1,EVD 
+24,1841,2,symptoms vomiting
+24,1841,5,control measures 
+24,1841,6,21days 
+245,1842,8,Ebola virus 
+245,1842,6,1976
+245,1842,1,Ebola 
+245,1843,8,Ebola virus 
+245,1843,4,supportive care 
+245,1844,2,fever 
+245,1844,2,muscle pains 
+245,1844,2,chills 
+245,1844,2,generalized weakness 
+245,1844,2,headaches 
+245,1844,2,sore throat 
+245,1844,2,diarrhea 
+245,1844,2,bloody stool 
+245,1844,2,bruising 
+245,1844,2,vomiting 
+245,1844,2,nausea 
+245,1845,6,two days 
+245,1845,6,21
+245,1845,8,Ebola virus 
+245,1846,4,supportive intensive care 
+245,1847,6,few week 
+245,1847,6,two weeks 
+245,1848,6,10 days 
+245,1848,6,five days 
+245,1848,2,fever 
+245,1848,2,diarrhea 
+245,1848,2,bleeding 
+245,1848,2,vomiting 
+248,1851,6,seven to 10 days 
+248,1851,1,Ebola 
+248,1851,4,antibodies 
+25,1852,1,ebola 
+25,1853,1,ebola 
+250,1854,6,weeks 
+250,1854,4,isolation unit 
+250,1854,8,Ebola 
+250,1855,1,Ebola 
+250,1855,4,aggressive treatment 
+254,1858,1,cholera 
+254,1858,2,diarrheal 
+254,1858,8,bacterium Vibrio cholerae 
+254,1858,2,without symptoms 
+254,1859,1,cholera 
+254,1859,2,renal failure 
+254,1859,2,electrolyte imbalances 
+254,1859,2,dehydration 
+254,1859,6,hours 
+254,1859,2,shock 
+254,1860,2, diarrhea 
+254,1860,8,Vibrio cholerae bacteria 
+254,1861,7,quickly 
+254,1861,8,Persons with cholera 
+254,1861,4,rapidly 
+255,1862,4,Antibiotics 
+255,1862,2,diarrhea 
+255,1862,5,hygienic 
+256,1863,2,diarrhoea 
+256,1863,6,few days 
+256,1863,2,loss of fluid 
+256,1864,6,24 hours 
+256,1864,4,sugar and salts 
+256,1864,4,replace the fluid 
+256,1865,1,cholera 
+256,1865,7,quickly 
+257,1866,4,electrolytes 
+257,1866,1,cholera 
+257,1866,2,severe dehydration 
+257,1866,4,intravenously 
+257,1866,6,three to six days 
+257,1867,1,cholera 
+257,1867,6,Today 
+257,1867,6,three to six days 
+257,1867,8,bacteria 
+257,1867,4,electrolyte replacement 
+26,1868,1,ebola 
+26,1868,8,virus 
+26,1869,1,ebola 
+26,1869,6,13-Mar
+260,1871,4,antibiotics 
+260,1871,5,Vaccination 
+260,1872,6,2 weeks 
+260,1872,2,fever 
+260,1872,1,typhus 
+261,1873,1,typhus 
+261,1873,8,Rickettsiae 
+261,1873,8,bacteria 
+261,1873,8,infected insect 
+261,1874,1,typhus 
+261,1874,1,epidemic typhus 
+261,1874,1,Brill-Zinsser disease 
+261,1874,1,murine typhus 
+261,1874,1,scrub typhus 
+261,1874,8,Rickettsia 
+261,1875,3,antibodies 
+261,1875,3,viral and bacterial markers 
+261,1875,1,rickettsial infection 
+261,1875,7,without 
+261,1876,1,typhus 
+261,1876,1,Brill-Zinsser 
+261,1876,1,scrub typhus 
+261,1876,4,sulfa drugs 
+263,1877,7,current 
+263,1877,1,typhus 
+263,1877,4,tetracycline 
+263,1877,4,Chloramphenicol 
+263,1877,4,antibiotics 
+263,1877,4,Intravenous (IV) antibiotic 
+263,1878,1,scrub typhus 
+263,1878,1,HIV-positive 
+264,1879,4,doxycycline 
+264,1879,6,24 to 48 h 
+264,1879,6,7 days 
+264,1879,4,Chloramphenicol 
+265,1880,6,2 weeks 
+265,1880,2,fatigue 
+265,1880,2,malaise 
+27,1881,6,2weeks 
+27,1881,1,Malaria 
+27,1881,2,fever
+27,1881,7,After repeated exposure 
+28,1883,1,malaria 
+28,1883,4,cured with prescription drugs 
+28,1883,8,malaria parasites 
+28,1883,7,short a period of time 
+28,1884,8,Plasmodium vivax and P. ovale 
+28,1884,1,malaria 
+28,1884,7,after months or years 
+28,1884,4,not treated 
+29,1885,8,P. falciparum 
+29,1885,7,last weeks
+29,1885,1,malaria 
+29,1886,7,malaria before 
+29,1886,1,malaria 
+29,1886,8,P. falciparum 
+29,1886,5,acquired immunity 
+30,1887,5,Antimalarial drugs 
+30,1887,7,nearly 100 years 
+30,1888,4,Intermittent preventive treatment 
+30,1888,5,prevention of malaria in pregnancy 
+31,1889,5,antimalarial drug 
+31,1889,8,parasite which infects mosquitoes 
+31,1890,4,artemisinin-based combination therapy 
+31,1891,5,treatments 
+31,1891,1,malaria 
+313,1892,1,malaria 
+313,1892,7,quickly 
+313,1892,5,natural immunity 
+313,1893,1,malaria 
+313,1893,8,P. falciparum 
+313,1893,8,P. malariae 
+313,1893,7,longer 
+313,1893,6,couple of days 
+314,1894,8,malaria-infected mosquito 
+314,1894,8,parasite 
+314,1894,1,malaria 
+314,1894,2,blood cells 
+314,1895,7,early stages 
+314,1895,8,P. falciparum 
+314,1895,8,P. knowlesi 
+314,1895,6,week 
+314,1895,6,month 
+314,1895,8,P. vivax 
+314,1895,8,P. malariae 
+314,1895,8,P. ovale 
+314,1896,1,Malaria 
+314,1896,8,P. falciparum 
+314,1896,2,death 
+315,1897,1,malaria 
+315,1897,8,mosquito bites 
+315,1897,4,antimalarial tablets 
+315,1897,6,year 
+315,1898,1,malaria 
+315,1898,4,Anti-malarial 
+315,1899,1,Malaria 
+315,1899,7,quickly 
+315,1899,2,anaemia 
+315,1899,2,seizures 
+315,1899,2,coma 
+315,1899,2,drowsiness 
+315,1899,2,weakness 
+316,1900,1,malaria 
+316,1900,4,antibiotics 
+316,1900,4,IV line 
+316,1900,6,months 
+316,1900,6,weeks 
+316,1900,8,malarial parasite 
+316,1901,1,malaria 
+316,1901,8,mosquitoes 
+316,1901,4,antibacterial drugs 
+317,1902,1,cholera 
+317,1902,1,diarrheal disease 
+317,1902,8,bacterium Vibrio cholerae 
+317,1902,6,2 to 3 days 
+317,1902,2,dehydration 
+317,1902,2,hypovolemic shock 
+317,1902,2,hypotension 
+317,1902,6, hours 
+317,1903,1,cholera 
+317,1903,8,shellfish 
+317,1903,8,cholera bacterium 
+317,1904,4,electrolyte replacement 
+317,1904,4,Prompt fluid 
+317,1904,4,antibiotics 
+317,1904,4,intravenous solution 
+317,1904,2,dehydration 
+317,1905,1,Cholera 
+317,1905,2,dehydration 
+317,1905,4,rehydration 
+317,1905,4,Rehydration Therapy 
+317,1905,7,timely 
+320,1906,1,cholera 
+320,1906,6,day 7 
+320,1906,6,day 2 
+320,1906,6,day 28 
+320,1906,4,antibiotic therapy 
+320,1906,3,metagenomic tool 
+320,1907,1,Cholera 
+320,1907,6,1â€“3 day 
+320,1907,4,rehydration 
+320,1907,8,V. choleare 
+320,1907,4,cephalosporins 
+320,1907,4,penicillins 
+320,1907,4,antibiotic 
+320,1907,8,E. coli 
+323,1908,2,rice water stool 
+323,1908,4,re-hydration 
+323,1908,6,5-6 days 
+324,1909,4,Tetracycline 
+324,1909,6,48 hours 
+324,1909,4,purified water 
+324,1909,4,oral hydration salts 
+324,1910,1,Traveler's diarrhea 
+324,1910,2,Diarrhea 
+324,1910,2,anxiety 
+324,1910,2,stress 
+324,1910,2,fatigue 
+324,1910,2,dietary changes 
+324,1911,2,Diarrhea 
+324,1911,6,first week 
+324,1911,6,3 or 4 days 
+324,1911,2,bowel syndrome 
+324,1911,2,Weakness 
+324,1911,2,seizures 
+329,1912,8,bodily fluids 
+329,1912,8,feces 
+329,1912,1,ebola 
+329,1913,1,ebola 
+329,1913,6,Couple weeks 
+329,1913,6,2 weeks 
+329,1914,1,ebola 
+329,1914,2,kidney failing 
+329,1914,4,dialysis 
+330,1915,6,1976
+330,1915,1,Ebola 
+330,1915,6,2014
+331,1917,4, Experimental vaccines 
+331,1917,6,10 years 
+331,1917,2,joint and vision problems. 
+331,1917,5,antibodies 
+331,1917,4,supportive care 
+332,1918,2,fever 
+332,1918,2,headache 
+332,1918,2,joint and muscle pain 
+332,1918,2,hemorrhaging 
+332,1918,7,Early 
+332,1918,4,intravenous fluids 
+332,1918,4,electrolytes 
+332,1918,2,dehydration 
+332,1918,2, shock 
+332,1918,2,low blood pressure 
+332,1919,1,ebola 
+332,1919,8, virus 
+333,1921,6,few days 
+333,1921,4,Experimental treatments 
+333,1921,1,ebola 
+333,1921,4,supportively 
+333,1921,4,intravenous fluids 
+333,1921,4,supplemental oxygen 
+333,1921,4,antibiotics 
+334,1922,8,Rickettsia 
+334,1922,1,typhus 
+334,1922,8,R. mooseri 
+334,1923,2,headache
+334,1923,2,arthralgia 
+334,1923,2,ill feeling
+334,1923,2,high grade fever
+334,1923,2,a cutaneous rash 
+334,1923,7,spontaneously 
+334,1924,8,R. typhi 
+334,1924,8,rat flea 
+334,1924,2,generalized vasculitis. 
+336,1925,2,spotted fever 
+336,1925,2,paralysis 
+336,1925,1,pneumonia 
+336,1925,2,fever 
+336,1925,1,hepatitis 
+336,1926,6,1 week 
+336,1926,6,weeks 
+336,1926,6,months 
+337,1927,1,typhus 
+337,1927,4,sulfa drugs 
+388,1928,4,doxycycline 
+388,1928,1,malaria 
+388,1928,8, P. falciparum 
+388,1928,6,2-3 hours 
+388,1929,2,Fever 
+388,1929,4,anti-malarial medication 
+388,1929,2,nausea 
+389,1930,6,2 months 
+389,1930,1,malaria 
+389,1930,2,malnutrition 
+389,1930,1,TB 
+390,1931,1,malaria 
+390,1931,6,1940
+390,1931,6,1970
+390,1931,8,mosquitoes 
+390,1931,4,chloroquine 
+390,1932,1,malaria 
+390,1932,3,blood sample 
+391,1933,6,six months 
+391,1933,1,malaria 
+391,1933,6,weeks 
+391,1933,6,2 month 
+391,1933,2,fever
+391,1933,2,headache
+391,1933,2,body ache
+391,1933,2,vomiting
+391,1933,2,weakness 
+391,1933,2,diarrhea 
+393,1935,1,ebola 
+393,1935,6,day 6 
+393,1935,6,3 months 
+393,1936,2,fatigue 
+393,1936,1,ebola 
+393,1936,2,hemorrhagic complications 
+393,1937,2,hemorrhagic complications 
+393,1937,6,days 6 
+393,1937,6,16
+393,1937,8,Ebola virus 
+393,1938,4,Supportive treatment 
+393,1938,8,Ebola virus. 
+393,1938,6,21 days 
+393,1938,6,30 days 
+393,1938,6,90 days 
+393,1938,6,21 days 
+393,1938,6,42 days 
+393,1938,6,120 days 
+393,1938,6,150 days 
+394,1940,8,Ebola virus 
+394,1940,4,Balancing the fluids 
+394,1940,4, electrolytes 
+394,1940,4,procoagulants 
+394,1940,4,oxygen levels 
+394,1940,4,antibiotics 
+394,1941,4,intensive care 
+394,1941,2,shock 
+394,1941,4,fluids 
+394,1942,8,Ebola virus 
+394,1942,7,quickly 
+394,1942,2,low blood pressure 
+394,1942,2,shock 
+395,1944,1,Ebola hemorrhagic fever 
+395,1945,1,ebola 
+395,1945,4,relief from symptoms 
+395,1945,4,supportive care 
+395,1946,6,Sep-01
+395,1946,6,Oct-01
+395,1946,8,Ebola virus 
+396,1947,2,dehydration 
+396,1947,1,Cholera 
+397,1948,1,Cholera 
+397,1948,4,prognosis 
+398,1949,2,dehydration 
+398,1949,4,fluids 
+399,1950,1,cholera 
+399,1950,4,rehydration 
+399,1950,4,replacement fluids 
+399,1950,6,three to six days 
+399,1951,1,cholera 
+399,1951,2,diarrhea 
+399,1951,2,vomiting 
+399,1951,2,dehydration 
+399,1951,6,per hour 
+399,1951,4,electrolytes 
+399,1952,1,cholera 
+399,1952,5,sanitation 
+399,1952,5,waste treatment systems 
+399,1953,5,cholera vaccine 
+399,1954,5,Peru-15 
+399,1954,1,cholera 
+399,1954,6,2003
+399,1954,6,2004
+399,1955,1,Cholera 
+399,1955,2,dehydrated 
+400,1956,4,replacing fluids 
+400,1956,4,electrolyte losses
+417,1957,1,typhus 
+417,1957,8,mice and rats 
+417,1957,2,spotted rash on the trunk 
+417,1957,2,swelling of the lymph glands 
+417,1958,1,Scrub typhus 
+417,1958,8,Rickettsia tsutsugamushi 
+417,1959,1,Scrub typhus 
+417,1959,4,antibiotics 
+417,1959,4,tetracycline 
+417,1959,4,Chloramphenicol 
+417,1959,7,first 
+417,1959,2, fever 
+417,1959,6,two days 
+417,1959,6,few days 
+417,1960,4,antibiotics 
+417,1960,1,typhus 
+417,1960,7,short 
+417,1960,7,modern 
+417,1960,8,rickettsial strain 
+420,1961,2,headache
+420,1961,2,chills
+420,1961,2,prostration
+420,1961,2,fever 
+420,1961,2,hemorrhagic 
+420,1961,6,2 weeks 
+420,1962,1,Typhus 
+420,1962,8,Infected lice 
+420,1962,8,ectoparasites 
+420,1963,4,Doxycycline 
+420,1963,6,7 to 10 days 
+420,1963,6,3 days 
+420,1963,2,fever 
+420,1964,4,tetracycline 
+420,1964,4,doxycycline 
+420,1964,4,Fluoroquinolones 
+422,1965,1,Typhus 
+422,1965,8,Rickettsia bacteria 
+422,1966,1,typhus 
+422,1966,4,doxycycline 
+422,1966,4,tetracycline 
+422,1966,6,48 hours 
+425,1967,1,malaria 
+425,1967,6,week 
+425,1967,6,few months 
+425,1967,6,decades 
+426,1968,8,P. vivax 
+426,1968,1,malaria 
+426,1968,8,P. falciparum 
+426,1968,6,3days 
+426,1968,6,14 days 
+427,1969,1,malaria 
+427,1969,8,P. ovale 
+427,1969,8,Plasmodium vivax 
+427,1969,3,blood 
+427,1969,6,decades 
+428,1970,1,malaria 
+428,1970,7,lifetime 
+429,1971,8,Plasmodium 
+429,1971,2,influenza 
+429,1971,6,10â€“30 days 
+429,1971,2,fever 
+430,1972,1,malaria 
+430,1973,1,malaria 
+430,1973,8,parasite 
+430,1974,1,malaria 
+430,1974,2,swelling of the blood vessels 
+430,1975,1,malaria 
+430,1975,7,before 
+430,1975,7,during 
+430,1975,7,after 
+430,1975,5,vaccine 
+430,1976,8,mosquito 
+430,1976,8,infected mother 
+430,1976,1,malaria 
+5,1997,8,bodily fluids 
+5,1997,1,Ebola 
+5,1998,8,blood 
+5,1998,6,7 weeks 
+51,1999,7, quickly 
+51,1999,4,antibiotic 
+51,2000,1,Typhus 
+51,2000,2,Renal insufficiency 
+51,2000,1,Pneumonia 
+51,2000,2,Central nervous system damage 

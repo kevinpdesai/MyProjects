@@ -17,7 +17,7 @@ string delimeter = "/";
 #endif
 
 string dataDir, resourcesDir, filesDir;
-string lembin, stopwFile, annoFile, queryResults, indexFile, wordNetFile, urlsFile, urlmapFile, docrfsFile, query;
+string lembin, stopwFile, annoFile, queryResults, indexFile, wordNetFile, urlsFile, urlmapFile, filemapFile, docrfsFile, query;
 bool hasUpdate = false;
 
 set<string> stopWords;
@@ -152,42 +152,12 @@ void parseDir(const char dirName[]) {
 	for(uint i=0; i<files.size(); i++) {
 		file = fileName + files[i];
 		uint id = atoi(splitString(files[i], '.')[1].c_str());
-		fileNames[id] = file;
-		if(pnourls.count(id) == 0) {
+		if(fileNames.count(id)==0) {
+			fileNames[id] = file;
 			parseFile(file, id);
-			hasUpdate = true;
 		}
 	}
 }
-
-// Parse the vector of the files in the directory.
-// void parseDir(const char dirName[]) {
-// 	string file;
-// 	string fileName(dirName);
-// 	fileName += "/";
-// 	for(uint i=0; i<files.size(); i++) {
-// 		file = fileName + files[i];
-// 		uint id = atoi(splitString(files[i], '.')[1].c_str());
-// 		fileNames[id] = file;
-// 	}
-// }
-// 
-// void parseDirAll(const char dirName[]) {
-// 	string file;
-// 	string fileName(dirName);
-// 	string conff = resourcesDir + "/conflicts.txt";
-// 	ofstream ofs(conff.c_str());
-// 	fileName += "/";
-// 	for(uint i=0; i<files.size(); i++) {
-// 		file = fileName + files[i];
-// 		uint id = atoi(splitString(files[i], '.')[1].c_str());
-// 		if (fileNames.count(id)) { ofs << id << endl; }
-// 		fileNames[id] = file;
-// 		parseFile(file, id);
-// 	}
-// 	ofs.close();
-// }
-
 
 // Write the indices.
 void writeIndex()
@@ -232,6 +202,22 @@ void readDocRFsFile(string filename) {
 	delete idf;
 }
 
+void writeFileMapToFile(string filename) {
+	fileWriter *fw = new fileWriter(filename, fileNames);
+	fw->writeURLMapToFile();
+	delete fw;
+}
+
+bool readFileMapFromFile (string filename) {
+	indexFileReader *idf = new indexFileReader(filename);
+	if(idf->_errorReadingFile)
+		return false;
+	idf->readURL();
+	fileNames = idf->_urls;
+	delete idf;
+	return true;
+}
+
 void writeURLMapToFile(string filename) {
 	fileWriter *fw = new fileWriter(filename, pnourls);
 	fw->writeURLMapToFile();
@@ -267,6 +253,8 @@ float calcRocketsScore(const vector<string> &words, uint docid) {
 		for (uint j = 0; j < lemmas[words[i]].size(); j++) {
 			if (lemmas[words[i]][j].docId == docid) {
 				float weight = 1, relf = 1;
+				// logic: rfscore
+				// using relevance factors to influence score
 				if (wordNet.count(words[i]) != 0) {
 					int wrfn = wordNet[words[i]];
 					if (wrfn == 1)			weight = 5;
@@ -283,7 +271,8 @@ float calcRocketsScore(const vector<string> &words, uint docid) {
 						}
 					}
 				}
-				score += (0.75 * weight * relf) + (0.5 * (1 + log10(lemmas[words[i]][j].tf)) * log10 (float(fileNames.size()) / lemmas[words[i]].size()));
+				// end rfscore
+				score += (0.75 * weight * relf) + (0.25 * (1 + log10(lemmas[words[i]][j].tf)) * log10 (float(fileNames.size()) / lemmas[words[i]].size()));
 			}
 		}
 	}
@@ -321,8 +310,16 @@ void processQuery(const string &query) {
 	ofstream ofs(queryResults.c_str(), ios::app);
 	ofs << "Query : " << query << endl;
 	ofs << "Scoring : TF-IDF " << endl;
+	string prevurl = "";
 	// fetch top 10 results from heap
 	for (uint i = 0; i < 10; i++) {
+		// duplication filter
+		if (pnourls.count(qscore.top().second) && pnourls[qscore.top().second] == prevurl) {
+			qscore.pop();
+			i--;
+			continue;
+		}
+		//---
 		ofs << "Doc ID = " << qscore.top().second << "\tScore = " << qscore.top().first << endl;
 		ifstream ifs(fileNames[qscore.top().second].c_str());
 		if (!ifs ) { cout << "File does not exist" << endl; continue; }
@@ -338,10 +335,13 @@ void processQuery(const string &query) {
 			cout << "...";
 		cout << endl;
 		ifs.close();
-		if (pnourls.count(qscore.top().second) != 0)
+		if (pnourls.count(qscore.top().second) != 0) {
 			cout << pnourls[qscore.top().second] << endl;
-		else
+			prevurl = pnourls[qscore.top().second];
+		}
+		else {
 			cout << "URL unavailable" << endl;
+		}
 		qscore.pop();
 	}
 
@@ -382,8 +382,8 @@ void setMetaData() {
 
 		docrfs[docid].push_back(pair<string, uint> (lemma, atoi(anno._data[i][2].c_str())));
 
-		if (wordNet.count(lemma) != 0)
-			continue;
+// 		if (wordNet.count(lemma) != 0)
+// 			continue;
 		wordNet[lemma] = atoi(anno._data[i][2].c_str());
 	}
 
@@ -391,14 +391,18 @@ void setMetaData() {
 	writeURLMapToFile(urlmapFile);
 	writeWordNetToFile(wordNetFile);
 	writeDocRFsToFile(docrfsFile);
+	writeFileMapToFile(filemapFile);
 }
 
 
 void setupResources() {
-	cout << "Setting up resources (index, wordnet, RFMap)" << endl;
+	//cout << "Setting up resources (index, wordnet, RFMap)" << endl;
 	parseDir(filesDir.c_str());
+	//cout << "Directory parsing completed!" << endl;
 	writeIndex();
+	//cout << "Index writing completed!" << endl;
 	setMetaData();
+	//cout << "Metadata reading and writing completed!" << endl;
 }
 
 int main(int argc, char *argv[]) {
@@ -414,6 +418,7 @@ int main(int argc, char *argv[]) {
 		annoFile = dataDir + "/annotations.csv";
 		urlsFile = dataDir + "/urls.csv";
 		urlmapFile = resourcesDir + "/urlmap.txt";
+		filemapFile = resourcesDir + "/filemap.txt";
 		lembin = resourcesDir + "/lem-m-en.bin";
 		stopwFile = resourcesDir + "/common_words";
 		indexFile = resourcesDir + "/index.txt";
@@ -428,42 +433,88 @@ int main(int argc, char *argv[]) {
 	addStopWords(stopwFile.c_str());
 	readDir(filesDir.c_str());
 
-	if (query[0] == '0') {
-		setupResources();
+	if(!readFileMapFromFile(filemapFile))
+		hasUpdate = true;
+	else
+	{
+		if(fileNames.size()!=files.size())
+			hasUpdate = true;
 	}
-	else {
+
+	if(!hasUpdate)
+	{
 		// read URL map from file
 		readURLMapFromFile(urlmapFile);
+		// read index
+		readIndexFromFile();
+		// read wordNet from file
+		readWordNetFromFile(wordNetFile);
+		// read RFMap from file
+		readDocRFsFile(docrfsFile);
+		// read file list
+	}
+	else
+	{
+		// read index
+		readIndexFromFile();
 		// read file list
 		parseDir(filesDir.c_str());
-
-		if (! hasUpdate) {
-			// read index
-			readIndexFromFile();
-			// read wordNet from file
-			readWordNetFromFile(wordNetFile);
-			// read RFMap from file
-			readDocRFsFile(docrfsFile);
-		} else {
-			// index updated. write new index to file.
-			writeIndex();
-			// read urls.csv and annotations.csv and write wordNet, docrfs and urlmap.
-			setMetaData();
-		}
-
-		//		cout <<"Number of tokens in dict = " << lemmas.size() << endl;
-		//		cout << "Number of files = " << fileNames.size() << endl;
-		//		cout << "WordNet size = " << wordNet.size() << endl;
-		//		cout << "Document RFNS = " << docrfs.size() << endl;
+		// index updated. write new index to file.
+		writeIndex();
+		// read urls.csv and annotations.csv and write wordNet, docrfs and urlmap.
+		setMetaData();
 	}
+
+// 
+// 	if (query[0] == '0') {
+// 		setupResources();
+// 	}
+// 	else {
+// 		// read URL map from file
+// 		readURLMapFromFile(urlmapFile);
+// 		// read index
+// 		readIndexFromFile();
+// 		// read wordNet from file
+// 		readWordNetFromFile(wordNetFile);
+// 		// read RFMap from file
+// 		readDocRFsFile(docrfsFile);
+// 		// read file list
+// 		parseDir(filesDir.c_str());
+// 		if(hasUpdate) {
+// 			// index updated. write new index to file.
+// 			writeIndex();
+// 			// read urls.csv and annotations.csv and write wordNet, docrfs and urlmap.
+// 			setMetaData();
+// 		}
+
+//		cout << "Number of files = " << fileNames.size() << endl;
+//		cout << "URLMap size = " << pnourls.size() << endl;
+//		cout << "WordNet size = " << wordNet.size() << endl;
+//		cout << "Document RFNS = " << docrfs.size() << endl;
+//		cout <<"Number of index entries = " << lemmas.size() << endl;
+// 	}
 
 	timer *t = new timer();
-	if (query[0] != '0'){
-		processQuery(query);
+	processQuery(query);
+
+	/* Missing annotations of files
+	ofstream ofs ("missing.txt");
+	for (uint i=1; i<2801; i++) {
+		ofs << i << "\t,";
+		if (pnourls.count(i) == 0)
+			ofs << "UUN" << endl;
+		else
+			ofs << pnourls[i] << endl;
 	}
+	ofs.close();
+	*/
 
 	// time to execute entire program
 	t->stopTimer();
 	cout << t->getTimeTaken() << " ms" << endl;
+
+#ifdef windows
+	_getch();
+#endif // windows
 	return 0;
 }

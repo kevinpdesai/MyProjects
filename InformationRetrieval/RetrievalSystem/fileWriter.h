@@ -26,10 +26,10 @@ public:
 	fileWriter(string file, map<int, pair<int, int> > doc_info):_fileName(file),_docInfo(doc_info)
 	{
 		// Open file and check if it is opened correctly.
-		f.open(file);
+		f.open(file.c_str());
 		if (!f) {
 			errorReadingFile = true;
-			cout<<file<<" not opened correctly\n";
+// 			cout<<file<<" not opened correctly\n";
 			return;
 		}
 	}
@@ -37,10 +37,10 @@ public:
 	fileWriter(string file, map<string, uint> wordNet):_fileName(file),_wordInfo(wordNet)
 	{
 		// Open file and check if it is opened correctly.
-		f.open(file);
+		f.open(file.c_str());
 		if (!f) {
 			errorReadingFile = true;
-			cout<<file<<" not opened correctly\n";
+// 			cout<<file<<" not opened correctly\n";
 			return;
 		}
 	}
@@ -48,10 +48,10 @@ public:
 	fileWriter(string file, map<uint, string> url):_fileName(file),_url(url)
 	{
 		// Open file and check if it is opened correctly.
-		f.open(file);
+		f.open(file.c_str());
 		if (!f) {
 			errorReadingFile = true;
-			cout<<file<<" not opened correctly\n";
+// 			cout<<file<<" not opened correctly\n";
 			return;
 		}
 	}
@@ -59,10 +59,10 @@ public:
 	fileWriter(string file, map<uint, vector<pair<string, uint> > > docrf):_fileName(file),_docrfs(docrf)
 	{
 		// Open file and check if it is opened correctly.
-		f.open(file);
+		f.open(file.c_str());
 		if (!f) {
 			errorReadingFile = true;
-			cout<<file<<" not opened correctly\n";
+// 			cout<<file<<" not opened correctly\n";
 			return;
 		}
 	}
@@ -70,10 +70,10 @@ public:
 	fileWriter(string file, map<string, vector<pair<int, int> > > ind, int version = 1, bool compressed = false):_fileName(file),_version(version),_compressed(compressed),_index(ind)
 	{
 		// Open file and check if it is opened correctly.
-		f.open(file);
+		f.open(file.c_str());
 		if (!f) {
 			errorReadingFile = true;
-			cout<<file<<" not opened correctly\n";
+// 			cout<<file<<" not opened correctly\n";
 			return;
 		}
 	}
@@ -81,10 +81,10 @@ public:
 	fileWriter(string file, map<string, vector<postingEntry> > ind):_fileName(file),_projIndex(ind)
 	{
 		// Open file and check if it is opened correctly.
-		f.open(file);
+		f.open(file.c_str());
 		if (!f) {
 			errorReadingFile = true;
-			cout<<file<<" not opened correctly\n";
+// 			cout<<file<<" not opened correctly\n";
 			return;
 		}
 	}

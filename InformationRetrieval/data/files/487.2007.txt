@@ -1,0 +1,1 @@
+Take, for example, measles. The virus is one of the most contagious diseases known to man. It's R0 sits around 18. That means each person with the measles spreads it to 18 people, on average, when nobody is vaccinated. (When everyone is vaccinated, the R0 drops to essentially zero for measles).

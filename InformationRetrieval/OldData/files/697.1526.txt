@@ -1,0 +1,4 @@
+Malaria is an infectious disease caused by a parasite that is transmitted through
+bite of an infected mosquito at night. There are two main types of malaria:
+Falciparum and Vivax. Falciparum malaria is the more severe type and can be
+fatal. Vivax malaria is generally mild but can sometimes be fatal. 

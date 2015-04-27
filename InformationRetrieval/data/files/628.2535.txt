@@ -1,0 +1,2 @@
+Ebola Results
+The mean incubation period was estimated to be 12.7 days (standard deviation 4.31 days), indicating that about 4.1% of patients may have incubation periods longer than 21 days.

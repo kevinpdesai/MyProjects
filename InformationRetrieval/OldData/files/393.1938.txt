@@ -1,0 +1,26 @@
+Supportive treatment, Ebola virus.
+DURATION IN DAYS
+Job Classification
+Minimum
+Optimum
+Maximum
+Sedentary
+21
+30
+90
+Light
+21
+30
+90
+Medium
+21
+30
+90
+Heavy
+30
+42
+120
+Very Heavy
+30
+42
+150

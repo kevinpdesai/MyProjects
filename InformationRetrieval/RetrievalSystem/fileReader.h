@@ -11,15 +11,16 @@ public:
 	string _fileName;
 	bool _textField;
 
-	fileReader(const char file[]):_fileName(file),_textField(false),_errorReadingFile(false)
+	fileReader(string file):_fileName(file),_textField(false),_errorReadingFile(false)
 	{
 		// Open file and check if it is opened correctly.
-		fin.open(file);
+		fin.open(file.c_str());
 		if (!fin) {
 			_errorReadingFile = true;
-			cout<<file<<" not opened correctly\n";
+// 			cout<<file<<" not opened correctly\n";
 			return;
 		}
+		_errorReadingFile = false;
 	}
 
 	~fileReader(void)

@@ -1,0 +1,2 @@
+Parasite nucleic acids are detected using polymerase chain reaction (PCR). Although this technique may be slightly more sensitive than smear microscopy, it is of limited utility for the diagnosis of acutely ill patients in the standard healthcare setting. PCR results are often not available quickly enough to be of value in establishing the diagnosis of malaria infection.
+PCR is most useful for confirming the species of malarial parasite after the diagnosis has been established by either smear microscopy or RDT.

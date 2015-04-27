@@ -1,0 +1,2 @@
+Methods
+We analyzed data collected during the Ebola outbreak (subtype Zaire) in Kikwit, Democratic Republic of the Congo, in 1995 using maximum likelihood inference and assuming a log-normally distributed incubation period.

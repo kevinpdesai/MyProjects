@@ -1,0 +1,1 @@
+Diagnostic tests available: Antigen-capture enzyme-linked immunosorbent assay (ELISA) testing; IgM ELISA; Polymerase chain reaction (PCR);Virus isolation.

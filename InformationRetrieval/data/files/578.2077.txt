@@ -1,0 +1,1 @@
+Using Ebolavirus genomic and epidemiological data, we conduct the first joint analysis where both data types are used to fit dynamic transmission models for an ongoing outbreak. Our results indicate that transmission is clustered, highlighting a potential bias in medical demand forecasts, and provide the first empirical estimate of underreporting.

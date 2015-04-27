@@ -1,0 +1,8 @@
+Specific tests:
+  ELISA for detection of antibodies to the bacterium, which is commonly used nowadays.
+  Indirect Immunofluorescence antibody test, which is the gold standard.
+  Weil-Felix test, which is not used so often now.
+  Blood culture
+  PCR (polymerase chain reaction)
+
+

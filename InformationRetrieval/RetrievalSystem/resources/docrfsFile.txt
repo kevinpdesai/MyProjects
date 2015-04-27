@@ -1,640 +1,680 @@
-1 4 ebola 1 1976 6 in(1976 7 ebola 8
-2 6 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8
-3 8 2002 6 1976 6 1975 6 1980 6 1979 6 in(1975 7 in(a 7 marburg 8
-4 5 ebola 1 1976 6 2013 6 2014 6 ebola 8
-5 9 ebola 1 14dec 6 8 6 14sep 6 14aug 6 on(8 7 by(late 7 on(30 7 on(29 7
-6 2 050 5 2122 6
+1 4 ebola 8 in(1976 7 1976 6 ebola 1
+2 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+3 8 marburg 8 in(1975 7 in(a 7 2002 6 1976 6 1975 6 1980 6 1979 6
+4 5 ebola 8 1976 6 2013 6 2014 6 ebola 1
+5 9 on(8 7 by(late 7 on(30 7 on(29 7 14dec 6 8 6 14sep 6 14aug 6 ebola 1
+6 2 2122 6 050 5
 7 1 ebola 1
-8 2 ebola 1 2014 6
-9 3 ebola 1 infection 2 ebola 8
-10 3 ebola 1 5 6 ebola 8
-11 4 1976 6 15apr 6 2013 6 in(1976 7
-12 4 ebola 1 fever 2 2mar 6 2001 6
+8 2 2014 6 ebola 1
+9 3 ebola 8 infection 2 ebola 1
+10 3 ebola 8 5 6 ebola 1
+11 4 in(1976 7 1976 6 15apr 6 2013 6
+12 4 2mar 6 2001 6 fever 2 ebola 1
 13 1 1976 6
-14 3 ebola 1 sick 2 8nov 6
+14 3 8nov 6 sick 2 ebola 1
 15 2 8jan 6 7dec 6
-17 2 14apr 6 in(april 7
+17 2 in(april 7 14apr 6
 18 1 2014 6
-21 3 ebola 1 1976 6 in(1976 7
-22 4 ebola 1 1976 6 in(1976 7 ebola 8
-23 6 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8
-24 8 2002 6 1976 6 1975 6 1980 6 1979 6 in(1975 7 in(a 7 marburg 8
-25 5 ebola 1 1976 6 2013 6 2014 6 ebola 8
-26 2 ebola 1 infection 2
-27 5 ebola 1 infection 2 glove 5 instruction 5 ebola 8
-28 2 ebola 1 person 5
-29 4 condom 5 7 6 at(least 7 during(7 7
+21 3 in(1976 7 1976 6 ebola 1
+22 4 ebola 8 in(1976 7 1976 6 ebola 1
+23 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+24 8 marburg 8 in(1975 7 in(a 7 2002 6 1976 6 1975 6 1980 6 1979 6
+25 5 ebola 8 1976 6 2013 6 2014 6 ebola 1
+26 2 infection 2 ebola 1
+27 5 ebola 8 glove 5 instruction 5 infection 2 ebola 1
+28 2 person 5 ebola 1
+29 4 at(least 7 during(7 7 7 6 condom 5
 30 1 ebola 1
-31 6 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8
-32 5 2014 6 marburgvirus 8 ebolavirus 8 cuevavirus 8 virus 8
-33 3 ebola 1 2014 6 in(guinea 7
-34 5 ebola 1 14mar 6 13dec 6 15apr 6 in(march 7
-35 9 ebola 1 14dec 6 8 6 14sep 6 14aug 6 on(8 7 by(late 7 on(30 7 on(29 7
-36 3 ebola 1 2014 6 ebola 8
-37 3 ebola 1 2014 6 ebola 8
-38 4 ebola 1 1976 6 in(1976 7 ebola 8
-39 4 ebola 1 1976 6 since(1976 7 ebola 8
+31 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+32 5 marburgvirus 8 ebolavirus 8 cuevavirus 8 virus 8 2014 6
+33 3 in(guinea 7 2014 6 ebola 1
+34 5 in(march 7 14mar 6 13dec 6 15apr 6 ebola 1
+35 9 on(8 7 by(late 7 on(30 7 on(29 7 14dec 6 8 6 14sep 6 14aug 6 ebola 1
+36 3 ebola 8 2014 6 ebola 1
+37 3 ebola 8 2014 6 ebola 1
+38 4 ebola 8 in(1976 7 1976 6 ebola 1
+39 4 ebola 8 since(1976 7 1976 6 ebola 1
 40 2 2003 6 2007 6
-41 4 ebola 1 1976 6 in(1976 7 ebola 8
-42 6 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8
-43 3 ebola 1 1976 6 in(1976 7
-44 5 ebola 1 14mar 6 1976 6 in(march 7 since(it 7
+41 4 ebola 8 in(1976 7 1976 6 ebola 1
+42 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+43 3 in(1976 7 1976 6 ebola 1
+44 5 in(march 7 since(it 7 14mar 6 1976 6 ebola 1
 45 1 ebola 1
-46 2 14mar 6 on(23 7
+46 2 on(23 7 14mar 6
 47 1 ebola 1
 49 1 ebola 1
 50 2 ebola 1 aid 1
-51 4 ebola 1 death 2 2014 6 ebola 8
-52 6 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8
-53 2 14mar 6 on(23 7
+51 4 ebola 8 2014 6 death 2 ebola 1
+52 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+53 2 on(23 7 14mar 6
 54 1 ebola 1
-57 3 ebola 1 1976 6 in(1976 7
+57 3 in(1976 7 1976 6 ebola 1
 58 2 ebola 1 rabies 1
 59 1 ebola 1
-60 4 ebola 1 2006 6 2005 6 in(2005 7
-61 4 ebola 1 1976 6 in(1976 7 ebola 8
-62 6 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8
-63 3 ebola 1 1976 6 in(1976 7
-64 5 ebola 1 1976 6 15apr 6 2013 6 in(1976 7
-65 8 2002 6 1976 6 1975 6 1980 6 1979 6 in(1975 7 in(a 7 marburg 8
-67 4 ebola 1 infection 2 sterile 5 ebola 8
-68 2 ebola 1 infection 2
-69 3 ebola 1 ebola 8 marburg 8
+60 4 in(2005 7 2006 6 2005 6 ebola 1
+61 4 ebola 8 in(1976 7 1976 6 ebola 1
+62 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+63 3 in(1976 7 1976 6 ebola 1
+64 5 in(1976 7 1976 6 15apr 6 2013 6 ebola 1
+65 8 marburg 8 in(1975 7 in(a 7 2002 6 1976 6 1975 6 1980 6 1979 6
+67 4 ebola 8 sterile 5 infection 2 ebola 1
+68 2 infection 2 ebola 1
+69 3 ebola 8 marburg 8 ebola 1
 70 1 infection 2
-71 2 ebola 1 2014 6
-72 5 ebola 1 14mar 6 1976 6 in(march 7 since(it 7
+71 2 2014 6 ebola 1
+72 5 in(march 7 since(it 7 14mar 6 1976 6 ebola 1
 73 1 ebola 1
-74 2 14mar 6 on(23 7
-75 3 ebola 1 14aug 6 in(august 7
+74 2 on(23 7 14mar 6
+75 3 in(august 7 14aug 6 ebola 1
 76 1 ebola 1
 77 1 ebola 1
-79 2 13dec 6 in(december 7
-81 5 ebola 1 14mar 6 1976 6 in(march 7 since(it 7
-82 2 14mar 6 on(23 7
+79 2 in(december 7 13dec 6
+81 5 in(march 7 since(it 7 14mar 6 1976 6 ebola 1
+82 2 on(23 7 14mar 6
 83 1 ebola 1
 84 1 ebola 1
-85 4 ebola 1 2014 6 on(6 7 ebola 8
+85 4 ebola 8 on(6 7 2014 6 ebola 1
 86 1 ebola 1
-89 2 ebola 1 2014 6
-90 2 ebola 1 death 2
-91 2 14mar 6 on(23 7
+89 2 2014 6 ebola 1
+90 2 death 2 ebola 1
+91 2 on(23 7 14mar 6
 92 1 ebola 1
 93 1 ebola 1
-94 3 ebola 1 14aug 6 in(august 7
-95 2 2014 6 in(2014 7
-96 2 ebola 1 2014 6
-97 2 ebola 1 death 2
-101 16 ebola 1 2014 6 on(6 7 ebola 8 ebola 1 virus 8 ebola 1 virus 8 rna 8 filovirida 8 1976 6 ebola 1 virus 8 rna 8 filovirida 8 1976 6
-102 16 ebola 1 pcr 3 2014 6 ebola 8 ebola 1 blood 3 blood 3 fluid 3 airborne 8 research 3 ebola 1 221 7 airborne 8 research 3 ebola 1 221 7
-103 12 ebola 1 ebola 1 healthcare 4 symptom 2 virus 8 animal 8 cdc 5 category 8 virus 8 animal 8 cdc 5 category 8
-104 9 ebola 1 avoid 5 ebola 1 ebola 8 40 7 1976 6 ebola 8 40 7 1976 6
-105 13 ebola 1 2014 6 virus 8 ebola 1 avoid 5 1976 6 cdc 5 1995 6 ebola 1 1976 6 cdc 5 1995 6 ebola 1
-106 21 ebola 1 ebola 1 virus 8 virus 8 ebola 1 ebo 1 june 6 hemorrhagic 1 ebola 1 ehf 1 july 6 july 6 virus 8 ebola 1 ebo 1 june 6 hemorrhagic 1 ebola 1 ehf 1 july 6 july 6
-107 13 ebola 1 july 6 ebola 8 ebola 1 2000 6 national 4 world 4 july 6 ebola 8 ebola 1 2000 6 national 4 world 4
-108 12 bat 8 ebola 1 filovirida 8 marburg 8 1967 6 green 8 research 3 filovirida 8 marburg 8 1967 6 green 8 research 3
-109 13 ebola 1 aid 1 wear 5 complete 4 ebola 1 monkey 8 virus 8 quarantine 5 marburg 8 monkey 8 virus 8 quarantine 5 marburg 8
-110 7 ebola 8 marburg 8 ebola 1 virus 8 marburg 8 ebola 1 virus 8
-111 20 ebola 1 death 2 2014 6 ebola 8 ebola 1 march 6 zmapp 4 experimental 4 ebola 1 treatment 4 cure 4 monkey 8 ebola 8 zmapp 4 experimental 4 ebola 1 treatment 4 cure 4 monkey 8 ebola 8
-112 13 14mar 6 on(23 7 ebola 8 brincidofovir 4 oral 4 phase 3 side 4 national 4 brincidofovir 4 oral 4 phase 3 side 4 national 4
-113 19 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8 prevent 5 antimalarial 4 malaria 1 ebola 1 ebola 8 internal 2 bleed 2 ebola 1 ebola 1 ebola 8 internal 2 bleed 2 ebola 1
-114 18 2002 6 1976 6 1975 6 1980 6 1979 6 in(1975 7 in(a 7 marburg 8 malaria 1 mosquito 8 ebola 1 1976 6 virus 8 ebola 1 ebola 1 1976 6 virus 8 ebola 1
-115 10 ebola 1 1976 6 2013 6 2014 6 ebola 8 antimalarial 4 needle 8 cdc 5 needle 8 cdc 5
-116 10 malaria 5 malaria 1 sudden 2 intense 2 ebola 1 internal 2 sudden 2 intense 2 ebola 1 internal 2
-117 5 death 2 infection 2 preventative 5 ebola 1 ebola 1
-118 16 ebola 1 shock 2 liver 2 3 6 in(3 7 ebola 8 malaria 4 malaria 1 zmapp 4 treatment 4 antiebola 4 mouse 4 zmapp 4 treatment 4 antiebola 4 mouse 4
-119 16 fever 2 infection 2 tnf 3 malaria 1 mouse 4 human 4 stop 4 ebola 1 chimeric 4 rhesus 8 mouse 4 human 4 stop 4 ebola 1 chimeric 4 rhesus 8
-120 4 infection 2 malaria 1 vaccine 5 vaccine 5
-121 7 14mar 6 on(23 7 1999 6 promising 5 malaria 1 ebola 1 ebola 1
-122 15 ebola 1 death 2 2014 6 ebola 8 malaria 1 parasite 8 public 4 chad3zebov 5 rvsvzebov 5 phase 4 glaxosmithkline 4 chad3zebov 5 rvsvzebov 5 phase 4 glaxosmithkline 4
-123 13 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8 transmit 8 typhus 1 avoid 5 ebola 1 virus 8 ebola 1 virus 8
-124 13 2002 6 1976 6 1975 6 1980 6 1979 6 in(1975 7 in(a 7 marburg 8 practice 5 typhus 1 prescribe 4 ebola 1 ebola 1
-125 14 ebola 1 1976 6 2013 6 2014 6 ebola 8 flea 8 typhus 1 wash 5 ebola 1 test 4 alternative 4 ebola 1 test 4 alternative 4
-126 19 ebola 1 death 2 pain 2 weakness 2 low 2 joint 2 pressure 2 coma 2 liver 2 blood 2 14 6 in(between 7 cleanliness 5 typhus 1 treatment 4 late 7 hemorrhage 2 late 7 hemorrhage 2
-127 8 ebola 1 ebola 8 ebolavirus 8 headache 2 virus 8 ebola 1 virus 8 ebola 1
-128 7 ebolavirus 8 typhus 1 ebola 1 1976 6 1989 6 1994 6 chimpanzee 8
-129 9 ebola 1 ebola 8 ebolavirus 8 fever 2 ebola 8 1996 6 20012002 6 2003 6 pathogenic 8
-130 8 ebola 1 open 2 sick 2 infection 2 parasite 8 ebola 1 1989 7 test 3
-131 10 ebola 1 1976 6 in(1976 7 ebola 8 typhus 1 flying 8 ebola 1 1976 6 2003 6 ebola 6
-132 13 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8 2006 6 typhus 1 ebola 1 flulike 1 diarrhea 2 headache 2 achy 2
-133 27 ebola 1 1976 6 in(1976 7 cholera 1 wash 5 wash 5 emergency 4 bushmeat 8 ebola 1 wild 8 fruit 8 ebov 8 monkey 8 chimpanzee 8 gorilla 8 baboon 8 duiker 8 bushmeat 8 ebola 1 wild 8 fruit 8 ebov 8 monkey 8 chimpanzee 8 gorilla 8 baboon 8 duiker 8
-134 26 ebola 1 1976 6 1972 6 in(1976 7 in(1972 7 diarrhea 2 vomit 2 dehydration 2 cholera 1 water 2 laboratory 3 ev 1 low 2 increase 2 abnormality 2 prolong 2 electron 3 ebola 1 laboratory 3 ev 1 low 2 increase 2 abnormality 2 prolong 2 electron 3 ebola 1
-135 32 ebola 1 1976 6 in(1976 7 treatment 4 diarrhea 2 vomit 2 genus 8 ebola 1 bundibugyo 8 bdbv 8 sudan 8 sudv 8 ta 8 tafv 8 ebola 8 ebov 8 zaire 8 reston 8 restv 8 genus 8 ebola 1 bundibugyo 8 bdbv 8 sudan 8 sudv 8 ta 8 tafv 8 ebola 8 ebov 8 zaire 8 reston 8 restv 8
-136 7 050 5 2122 6 clean 5 cholera 1 ebola 1 1976 6 virus 8
-137 6 ebola 1 cholera 1 vaccinate 5 1976 6 ebola 1 ebola 8
-138 7 ebola 1 2014 6 vaccination 5 cholera 1 fever 2 ebola 8 ebola 1
-139 13 ebola 1 infection 2 ebola 8 typhus 1 avoidance 5 good 5 insect 8 bacterium 8 ebola 1 ebola 8 ebolaivory 8 ebolasudan 8 ebolazaire 8
-140 7 ebola 1 5 6 ebola 8 typhus 1 antibiotic 4 ebola 1 ebola 8
-141 10 ebola 1 1976 6 in(1976 7 ev 1 infection 5 avoid 5 ebola 1 22 6 consciousness 2 ebola 1
-142 18 2002 6 1976 6 1975 6 1980 6 1979 6 in(1975 7 in(a 7 marburg 8 ebola 1 chimpanzee 8 gorilla 8 bat 8 forest 8 porcupine 8 avoid 5 ebola 1 consciousness 2 22 6
-143 12 ebola 1 1976 6 2013 6 2014 6 ebola 8 ev 1 fever 2 seek 5 ebola 1 1999 6 1996 6 blood 3
-144 10 ebola 1 5 6 ebola 8 experimental 5 vesicular 8 ebola 8 ebola 1 ebola 1 1976 6 pig 8
-145 9 nov76 6 ebola 1 virus 8 muscle 2 fever 2 sore 2 ebola 1 ebola 4 1976 6
-146 6 ebola 1 ebola 8 ebola 1 ebola 1 virus 8 develop 4
-147 6 2012 6 in(2012 7 ev 1 high 2 central 2 ebola 1
-148 9 ebola 1 ebola 1 fever 2 infection 2 ebola 8 ebola 1 virus 8 ebola 1 ebola 8
-149 13 ebola 1 infection 2 ebola 8 ebolavirus 8 virus 8 malaria 1 mosquito 8 avoid 5 ebola 1 joint 2 fever 2 headache 2 sore 2
-150 9 ebola 1 ebola 8 antimalarial 5 malaria 1 consult 5 practise 5 infect 8 ebola 1 virus 1
-151 13 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8 flulike 2 6 7 malaria 1 ebola 1 1976 6 ebola 1 1976 6
-152 13 ebola 1 5 6 ebola 8 malaria 1 bite 5 awareness 5 diagnosis 5 tablet 4 mosquito 8 ebola 1 1976 6 ebola 1 1976 6
-153 11 ebola 1 malaria 1 mosquito 8 stay 5 make 5 ebola 1 1976 6 virus 8 ebola 1 1976 6 virus 8
-154 7 ebola 1 malaria 1 antimalarial 5 ebola 1 weakness 2 muscle 2 headache 2
-155 4 malaria 1 proper 5 ebola 1 1976 6
-156 4 malria 1 april 7 ebola 1 2014 6
-157 8 death 2 fever 2 vomit 2 malaria 1 ebola 1 1976 6 virus 8 dying 2
-158 6 ebola 1 death 2 infection 2 malaria 1 ebola 1 virus 8
-159 5 2012 6 in(2012 7 vaccine 5 insect 8 typhus 1
-160 7 2005 6 maintain 5 control 5 louse 8 rodent 8 ebola 1 vaccine 4
-161 8 ebola 1 1976 6 on(in 7 typhus 1 past 6 pest 8 ebola 1 virus 8
-162 12 ebola 1 1976 6 in(1976 7 ebola 8 typhus 1 vaccine 5 louse 8 avoid 5 symptom 2 ebola 1 virus 8 flulike 2
-163 8 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8 treatment 4 typhus 1
-164 7 ebola 1 2001 6 2jul 6 ebola 8 bacterium 8 parasite 1 typhus 1
-165 6 8jan 6 7dec 6 mid20th 7 typhus 1 body 5 pesticide 5
-166 4 typhus 1 headache 2 general 2 chill 2
-167 6 ebola 1 2015 6 in(2015 7 typhus 1 insect 8 good 5
-168 3 ebola 1 typhus 1 viral 8
-169 4 infection 2 cholera 1 providing 5 health 5
-170 6 strengthen 5 routine 5 antibiotic 4 cholera 1 vaccine 5 doseresponse 5
-171 8 ebola 1 cholera 1 boil 5 food 5 scientist 5 ebola 1 antibody 4 virus 8
-172 6 ebola 1 infect 8 cholera 1 ebola 1 laboratory 3 virus 8
-173 13 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8 watery 2 vomit 2 lab 3 cholera 1 ebola 1 laboratory 3 vaccine 5
-174 11 ebola 1 1976 6 2013 6 2014 6 ebola 8 previous 6 vomit 2 ebola 1 diseasecause 8 laboratory 3 vaccine 5
-175 14 ebola 1 14mar 6 13dec 6 15apr 6 in(march 7 cholera 8 cholera 1 drug 4 ebola 5 ebola 1 replace 4 antiviral 4 maintain 4 virus 8
-176 4 cholera 1 fish 8 fly 8 providing 5
-177 6 ebola 1 ebola 1 ebolavirus 8 infection 5 ebola 1 virus 8
-178 5 ebola 1 worker 5 ebola 1 virus 8 ebola 1
-179 9 ebola 1 ebola 1 virus 8 personal 5 fruit 8 chimpanzee 8 gorilla 8 monkey 8 ebola 1
-180 10 ebola 1 drug 2 ebola 8 ebola 1 virus 8 avoid 5 1 6 24 6 viral 8 fever 2
-181 9 14mar 6 on(23 7 ebola 1 virus 8 intensive 5 1 6 ebola 1 fever 8 malaria 8
-182 9 ebola 1 14aug 6 in(august 7 ebola 1 1976 6 ebola 1 marburg 8 ebola 8 eighth 7
-183 4 2014 6 in(2014 7 ebola 1 1976 6
-184 4 ebola 1 ebola 1 fever 2 animal 8
-185 15 2002 6 1976 6 1975 6 1980 6 1979 6 in(1975 7 in(a 7 marburg 8 avoid 5 mosquito 8 antimalarial 4 malaria 1 ebola 1 zaire 8 1976 6
-186 9 ebola 1 2014 6 prophylaxi 4 malaria 1 1976 6 2000 6 1995 6 ebola 8 ebola 1
-187 8 ebola 1 death 2 fever 2 chill 2 sweat 2 ebola 8 ebola 1 infect 8
-188 5 ebola 1 diagnosis 3 malaria 1 ebola 1 1976 6
-189 5 parasite 8 mosquito 8 malaria 1 1665 6 2012 6
-190 9 ebola 1 1976 6 in(1976 7 malaria 1 mosquito 8 insecticide 8 cover 5 ebola 1 virus 8
-191 5 ebola 1 2014 6 malaria 1 ebola 1 virus 8
-192 12 ebola 1 14mar 6 1976 6 in(march 7 since(it 7 malaria 1 talk 5 fever 2 ebola 1 tkmebola 1 vaccine 5 fourth 4
-193 12 ebola 1 14mar 6 1976 6 in(march 7 in(1976 7 ebola 8 malaria 1 prevent 5 mosquito 8 ebola 4 vaccine 5 field 3
-194 10 14mar 6 on(23 7 malaria 1 high 2 chill 2 flulike 2 sudan 1 zaire 1 chimp 8 cold 8
-195 13 ebola 1 death 2 2014 6 ebola 8 typhus 1 avoidance 5 treatment 5 animal 8 vector 8 flea 8 ebola 1 virus 8 experimental 4
-196 11 1999 6 2013 6 in(2013 7 effort 5 avoid 5 5 7 typhus 1 ebola 1 lack 4 experimental 4 treatment 4
-197 8 ebola 1 fear 2 ebola 8 typhus 1 12 7 12 7 ebola 1 virus 8
-198 9 ebola 1 eye 5 typhus 1 spray 5 rodent 5 cutting 5 insecticide 8 rodent 8 ebola 1
-199 13 sick 2 typhus 1 protect 5 apply 5 vaccine 5 insect 8 ebola 1 virus 8 bat 8 insect 8 december 6 diarrhea 2 fever 2
-200 10 ebola 1 cholera 1 malaria 1 panic 2 typhus 1 chloramphenicol 4 250 4 azithromycin 4 ebola 1 diarrhea 2
-201 6 high 2 intense 2 diffuse 2 rash 2 scrub 1 ebola 1
-202 7 scrub 1 ebola 1 ev 1 1976 6 1979 6 1994 6 virus 8
-203 5 cholera 1 personal 5 pay 5 general 4 ebola 1
-204 5 cholera 1 consume 5 leftover 5 ebola 1 fatal 2
-205 8 cholera 1 personal 4 store 5 2 7 headache 2 muscle 2 headache 2 sore 2
-206 7 cholera 1 vaccination 5 cholera 5 1980 6 ebola 1 virus 8 1976 6
-207 7 impressive 5 pertussis 5 1970 6 disease 5 ebola 1 virus 8 1976 6
-208 4 cholera 1 september 7 ebola 1 virus 8
-209 8 diarrhea 2 vomit 2 dehydration 2 cholera 1 electrolyte 2 ebola 1 810 7 21 7
-210 7 bacterium 8 cholera 1 ebola 1 1976 6 virus 8 chimp 8 gorilla 8
-211 2 cholera 1 1817 6
-212 2 cholera 1 early 7
-213 2 ebola 1 26year 7
-214 1 ebola 1
-215 4 ebola 1 virus 8 spray 5 removal 5
-216 4 ebola 1 avoid 5 practice 5 educate 5
-217 3 ebola 1 refrain 5 handle 5
-218 4 ebola 1 healthcare 5 isolate 5 wear 5
-219 3 ebola 1 cleaning 5 virus 8
-220 4 ebola 1 fever 2 ebola 8 internal 2
-221 2 ebola 1 ebola 8
-222 2 support 3 ebola 1
-223 5 malaria 1 awareness 5 bite 5 taking 5 early 4
-224 3 malaria 1 medicine 4 measure 5
-225 4 mosquito 8 malaria 1 aircondition 5 doxycycline 4
-226 4 chloroquine 4 choose 5 mosquito 8 malaria 1
-227 2 plasmodium 8 mosquito 8
-228 3 malaria 1 malaria 1 2006 7
-229 2 malaria 1 mefloquine 4
-230 3 expand 5 expand 5 malaria 1
-231 3 malaria 1 inexpensive 4 tuberculosis 1
-233 4 immunization 5 dust 5 louse 5 louse 8
-234 1 louse 8
-235 3 doxycycline 4 7 7 chloramphenicol 4
-236 3 typhus 1 7 7 rash 2
-237 4 3–5 7 treatment 4 murine 5 typhus 5
-238 3 typhus 1 rodent 8 animal 8
-239 3 2 6 8 6 8 6
-240 2 control 5 eliminate 5
-241 6 typhus 1 environmental 5 personal 5 health 5 infestation 5 disease 5
-242 5 report 5 public 5 monitor 5 typhus 1 1951 7
-243 5 diarrhoea 2 cholera 1 provision 5 good 5 avoidance 5
-244 4 vaccination 5 give 5 antibiotic 4 restrict 5
-245 5 diarrhoea 2 dehydration 2 vaccination 4 quarantine 4 cholera 1
-246 4 cholera 1 proper 5 direction 5 water 5
-247 3 pipe 5 food 5 unpasteurized 5
-248 3 profound 2 vomit 2 diarrhea 2
-249 6 cholera 1 microbiology 3 selective 3 ebola 1 vaccine 5 treat 5
-250 5 cholera 1 ebola 1 2012 6 42 6 treatment 4
-251 6 cholera 1 19th 6 1855 6 ebola 1 march 6 december 6
-252 6 1883 6 cholera 1 basic 4 test 3 care 4 ebola 1
-253 6 ebola 1 raise 5 ebola 8 treatment 4 test 3 seek 4
-254 5 clean 5 ebola 8 ebola 1 ebola 1 deadly 8
-255 4 ebola 1 ebola 8 ebola 1 deadly 8
-256 4 cholera 1 vaccine 5 ebola 1 10 7
-257 5 watery 2 highly 4 cholera 1 ebola 1 cholera 1
-258 3 cholera 1 ebola 1 early 4
-259 8 fish 8 diarrhea 2 cholera 1 waste 5 ebola 1 plenty 4 keeping 4 address 4
-260 8 cholera 1 fly 8 toilet 5 ebola 1 virus 8 animal 8 forest 8 fruit 8
-261 6 drinking 4 diarrhea 2 headache 2 muscle 2 difficulty 2 chill 2
-262 6 ebola 1 7day 7 21day 7 ebola 1 experimental 4 tkmebola 8
-263 7 ebola 1 gorilla 8 chimpanzee 8 monkey 8 ebola 1 tkmebola 8 clinical 3
-264 5 ebola 1 ebola 8 droplet 5 ebola 1 treat 4
-265 5 ebola 1 infectious 8 experimental 4 ebola 2 drug 4
-266 5 vaccine 5 ebola 8 ebola 1 treatment 6 ebola 1
-267 3 current 7 ebola 1 ebola 1
-268 3 late 6 ebola 8 ebola 1
-269 5 ebola 1 ebola 1 virus 8 1976 6 1970 7
-270 3 ebola 1 ebola 8 1976 6
-271 6 mosquito 8 protective 5 mosquito 2 ebola 1 july 6 virus 8
-272 4 malaria 1 ebola 1 september 6 virus 8
-273 3 malaria 1 ebola 1 virus 8
-274 4 ebola 1 21 7 headache 2 muscle 2
-275 6 malaria 5 mosquito 8 malaria 1 june 6 ebola 1 diarrhea 2
-276 6 malaria 5 malaria 1 treatment 4 ebola 1 october 6 2014 6
-277 4 precaution 5 malaria 1 mosquito 8 ebola 1
-278 3 malaria 1 malaria 5 ebola 1
-279 5 malaria 1 ebola 1 vaccine 5 drug 4 small 4
-280 5 malaria 5 ebola 1 ebola 5 2013 6 antibody 5
-281 6 reduce 5 typhus 1 flea 8 ebola 1 virus 8 medicine 4
-282 7 typhus 1 vaccine 5 taking 4 ebola 1 biodefense 4 ebola 4 research 4
-283 5 1 4 louse 8 ebola 1 effective 4 aggressive 5
-284 4 rickettsia 8 typhus 1 ebola 1 animal 8
-285 3 abdominal 2 ebola 1 sick 8
-286 3 antibiotic 4 ebola 1 worry 5
-287 6 typhus 1 flea 8 bedding 5 ebola 1 virus 8 pathogen 8
-288 6 louse 8 boil 5 public 4 ebola 1 virus 8 monkey 8
-289 3 rickettsia 8 ebola 1 virus 8
-290 3 typhus 1 ebola 1 1976 6
-291 5 cholera 1 wash 5 alcoholbase 4 ebola 1 2014 6
-292 6 eat 5 avoid 4 cholera 1 ebola 1 ebola 8 1976 6
-293 3 cholera 1 immunization 5 local 4
-294 6 cholera 1 cholera 5 diagnose 3 1976 6 ebola 1 ebola 8
-295 3 diarrhea 2 ebola 1 march 6
-296 3 cholera 1 ebola 1 1976 6
-297 3 cholera 1 1979 7 1994 6
-298 2 cholera 1 vaccine 5
-299 2 1971 6 19th 7
-300 1 antibiotic 4
-401 5 ebola 1 malaise 2 fever 2 diarrhea 2 vomit 2
+94 3 in(august 7 14aug 6 ebola 1
+95 2 in(2014 7 2014 6
+96 2 2014 6 ebola 1
+97 2 death 2 ebola 1
+101 4 ebola 8 on(6 7 2014 6 ebola 1
+102 4 ebola 8 2014 6 pcr 3 ebola 1
+103 1 ebola 1
+104 1 ebola 1
+105 2 2014 6 ebola 1
+106 1 ebola 1
+109 2 ebola 1 aid 1
+111 4 ebola 8 2014 6 death 2 ebola 1
+112 2 on(23 7 14mar 6
+113 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+114 8 marburg 8 in(1975 7 in(a 7 2002 6 1976 6 1975 6 1980 6 1979 6
+115 5 ebola 8 1976 6 2013 6 2014 6 ebola 1
+117 2 death 2 infection 2
+118 6 ebola 8 in(3 7 3 6 shock 2 liver 2 ebola 1
+119 3 tnf 3 fever 2 infection 2
+120 1 infection 2
+121 2 on(23 7 14mar 6
+122 4 ebola 8 2014 6 death 2 ebola 1
+123 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+124 8 marburg 8 in(1975 7 in(a 7 2002 6 1976 6 1975 6 1980 6 1979 6
+125 5 ebola 8 1976 6 2013 6 2014 6 ebola 1
+126 12 in(between 7 14 6 death 2 pain 2 weakness 2 low 2 joint 2 pressure 2 coma 2 liver 2 blood 2 ebola 1
+127 3 ebola 8 ebolavirus 8 ebola 1
+128 1 ebolavirus 8
+129 3 ebola 8 ebolavirus 8 ebola 1
+130 4 open 2 sick 2 infection 2 ebola 1
+131 4 ebola 8 in(1976 7 1976 6 ebola 1
+132 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+133 3 in(1976 7 1976 6 ebola 1
+134 5 in(1976 7 in(1972 7 1976 6 1972 6 ebola 1
+135 3 in(1976 7 1976 6 ebola 1
+136 2 2122 6 050 5
+137 1 ebola 1
+138 2 2014 6 ebola 1
+139 3 ebola 8 infection 2 ebola 1
+140 3 ebola 8 5 6 ebola 1
+141 3 in(1976 7 1976 6 ebola 1
+142 8 marburg 8 in(1975 7 in(a 7 2002 6 1976 6 1975 6 1980 6 1979 6
+143 5 ebola 8 1976 6 2013 6 2014 6 ebola 1
+144 3 ebola 8 5 6 ebola 1
+145 1 nov76 6
+146 2 ebola 8 ebola 1
+147 2 in(2012 7 2012 6
+148 5 ebola 8 fever 2 infection 2 ebola 1 ebola 1
+149 5 ebola 8 ebolavirus 8 virus 8 infection 2 ebola 1
+150 2 ebola 8 ebola 1
+151 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+152 3 ebola 8 5 6 ebola 1
+153 1 ebola 1
+154 1 ebola 1
+157 3 death 2 fever 2 vomit 2
+158 3 death 2 infection 2 ebola 1
+159 2 in(2012 7 2012 6
+160 1 2005 6
+161 3 on(in 7 1976 6 ebola 1
+162 4 ebola 8 in(1976 7 1976 6 ebola 1
+163 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+164 4 ebola 8 2001 6 2jul 6 ebola 1
+165 2 8jan 6 7dec 6
+167 3 in(2015 7 2015 6 ebola 1
+168 1 ebola 1
+169 1 infection 2
+171 1 ebola 1
+172 1 ebola 1
+173 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+174 5 ebola 8 1976 6 2013 6 2014 6 ebola 1
+175 5 in(march 7 14mar 6 13dec 6 15apr 6 ebola 1
+177 1 ebola 1
+178 1 ebola 1
+179 1 ebola 1
+180 3 ebola 8 drug 2 ebola 1
+181 2 on(23 7 14mar 6
+182 3 in(august 7 14aug 6 ebola 1
+183 2 in(2014 7 2014 6
+184 1 ebola 1
+185 8 marburg 8 in(1975 7 in(a 7 2002 6 1976 6 1975 6 1980 6 1979 6
+186 2 2014 6 ebola 1
+187 2 death 2 ebola 1
+188 1 ebola 1
+190 3 in(1976 7 1976 6 ebola 1
+191 2 2014 6 ebola 1
+192 5 in(march 7 since(it 7 14mar 6 1976 6 ebola 1
+193 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+194 2 on(23 7 14mar 6
+195 4 ebola 8 2014 6 death 2 ebola 1
+196 3 in(2013 7 1999 6 2013 6
+197 3 ebola 8 fear 2 ebola 1
+198 2 eye 5 ebola 1
+199 1 sick 2
+200 4 panic 2 ebola 1 cholera 1 malaria 1
+201 4 21dec 7 october 7 1976 7 ebola 1
+202 10 virus 8 rna 8 filovirida 8 virus 8 rna 8 filovirida 8 1976 6 1976 6 ebola 1 ebola 1
+203 8 airborne 8 airborne 8 221 7 221 7 research 3 research 3 ebola 1 ebola 1
+204 8 virus 8 animal 8 category 8 virus 8 animal 8 category 8 cdc 5 cdc 5
+205 6 ebola 8 ebola 8 40 7 40 7 1976 6 1976 6
+206 8 1976 6 1995 6 1976 6 1995 6 cdc 5 cdc 5 ebola 1 ebola 1
+207 18 virus 8 virus 8 june 6 july 6 14jul 6 june 6 july 6 14jul 6 ebola 1 ebo 1 hemorrhagic 1 ebola 1 ehf 1 ebola 1 ebo 1 hemorrhagic 1 ebola 1 ehf 1
+208 12 ebola 8 ebola 8 12jul 6 2000 6 12jul 6 2000 6 national 4 world 4 national 4 world 4 ebola 1 ebola 1
+209 10 filovirida 8 marburg 8 green 8 filovirida 8 marburg 8 green 8 1967 6 1967 6 research 3 research 3
+210 8 monkey 8 virus 8 marburg 8 monkey 8 virus 8 marburg 8 quarantine 5 quarantine 5
+211 6 marburg 8 virus 8 marburg 8 virus 8 ebola 1 ebola 1
+212 14 monkey 8 ebola 8 monkey 8 ebola 8 zmapp 4 experimental 4 treatment 4 cure 4 zmapp 4 experimental 4 treatment 4 cure 4 ebola 1 ebola 1
+213 10 brincidofovir 4 oral 4 side 4 national 4 brincidofovir 4 oral 4 side 4 national 4 phase 3 phase 3
+214 10 ebola 8 ebola 8 internal 2 bleed 2 internal 2 bleed 2 ebola 1 ebola 1 ebola 1 ebola 1
+215 8 virus 8 virus 8 1976 6 1976 6 ebola 1 ebola 1 ebola 1 ebola 1
+216 4 needle 8 needle 8 cdc 5 cdc 5
+217 8 sudden 2 intense 2 internal 2 sudden 2 intense 2 internal 2 ebola 1 ebola 1
+218 2 ebola 1 ebola 1
+219 8 zmapp 4 treatment 4 antiebola 4 mouse 4 zmapp 4 treatment 4 antiebola 4 mouse 4
+220 12 rhesus 8 rhesus 8 mouse 4 human 4 stop 4 chimeric 4 mouse 4 human 4 stop 4 chimeric 4 ebola 1 ebola 1
+221 2 vaccine 5 vaccine 5
+222 2 ebola 1 ebola 1
+223 8 chad3zebov 5 rvsvzebov 5 chad3zebov 5 rvsvzebov 5 phase 4 glaxosmithkline 4 phase 4 glaxosmithkline 4
+224 4 virus 8 virus 8 ebola 1 ebola 1
+225 2 ebola 1 ebola 1
+226 6 test 4 alternative 4 test 4 alternative 4 ebola 1 ebola 1
+227 4 late 7 hemorrhage 2 late 7 hemorrhage 2
+228 4 virus 8 virus 8 ebola 1 ebola 1
+229 5 chimpanzee 8 1976 6 1989 6 1994 6 ebola 1
+230 5 ebola 8 pathogenic 8 1996 6 20012002 6 2003 6
+231 3 1989 7 test 3 ebola 1
+232 4 1976 6 2003 6 ebola 6 ebola 1
+233 5 diarrhea 2 headache 2 achy 2 ebola 1 flulike 1
+234 20 bushmeat 8 wild 8 fruit 8 ebov 8 monkey 8 chimpanzee 8 gorilla 8 baboon 8 duiker 8 bushmeat 8 wild 8 fruit 8 ebov 8 monkey 8 chimpanzee 8 gorilla 8 baboon 8 duiker 8 ebola 1 ebola 1
+235 16 laboratory 3 electron 3 laboratory 3 electron 3 low 2 increase 2 abnormality 2 prolong 2 low 2 increase 2 abnormality 2 prolong 2 ev 1 ebola 1 ev 1 ebola 1
+236 26 genus 8 bundibugyo 8 bdbv 8 sudan 8 sudv 8 ta 8 tafv 8 ebola 8 ebov 8 zaire 8 reston 8 restv 8 genus 8 bundibugyo 8 bdbv 8 sudan 8 sudv 8 ta 8 tafv 8 ebola 8 ebov 8 zaire 8 reston 8 restv 8 ebola 1 ebola 1
+237 3 virus 8 1976 6 ebola 1
+238 3 ebola 8 1976 6 ebola 1
+239 3 ebola 8 fever 2 ebola 1
+240 5 ebola 8 ebolaivory 8 ebolasudan 8 ebolazaire 8 ebola 1
+241 2 ebola 8 ebola 1
+242 3 22jun95 6 consciousness 2 ebola 1
+243 3 22jun95 6 consciousness 2 ebola 1
+244 4 1999 6 1996 6 blood 3 ebola 1
+245 3 pig 8 1976 6 ebola 1
+246 3 1976 6 ebola 4 ebola 1
+247 3 virus 8 develop 4 ebola 1
+248 1 ebola 1
+249 2 ebola 8 ebola 1
+250 5 joint 2 fever 2 headache 2 sore 2 ebola 1
+251 3 infect 8 ebola 1 virus 1
+252 4 1976 6 1976 6 ebola 1 ebola 1
+253 4 1976 6 1976 6 ebola 1 ebola 1
+254 6 virus 8 virus 8 1976 6 1976 6 ebola 1 ebola 1
+255 4 weakness 2 muscle 2 headache 2 ebola 1
+256 2 1976 6 ebola 1
+257 2 2014 6 ebola 1
+258 4 virus 8 1976 6 dying 2 ebola 1
+259 2 virus 8 ebola 1
+261 2 vaccine 4 ebola 1
+262 2 virus 8 ebola 1
+263 4 virus 8 symptom 2 flulike 2 ebola 1
+271 2 vaccine 5 doseresponse 5
+272 4 virus 8 scientist 5 antibody 4 ebola 1
+273 3 virus 8 laboratory 3 ebola 1
+274 3 vaccine 5 laboratory 3 ebola 1
+275 4 diseasecause 8 vaccine 5 laboratory 3 ebola 1
+276 7 virus 8 ebola 5 drug 4 replace 4 antiviral 4 maintain 4 ebola 1
+277 1 providing 5
+278 2 virus 8 ebola 1
+279 1 ebola 1
+280 5 fruit 8 chimpanzee 8 gorilla 8 monkey 8 ebola 1
+281 4 viral 8 1sep 6 24oct76 6 fever 2
+282 4 fever 8 malaria 8 1sep76 6 ebola 1
+283 4 marburg 8 ebola 8 eighth 7 ebola 1
+286 3 zaire 8 1976 6 ebola 1
+287 5 ebola 8 1976 6 2000 6 1995 6 ebola 1
+288 3 ebola 8 infect 8 ebola 1
+289 2 1976 6 ebola 1
+290 2 1665 6 2012 6
+291 2 virus 8 ebola 1
+292 2 virus 8 ebola 1
+293 4 vaccine 5 fourth 4 ebola 1 tkmebola 1
+294 3 vaccine 5 ebola 4 field 3
+295 4 chimp 8 cold 8 sudan 1 zaire 1
+296 3 virus 8 experimental 4 ebola 1
+297 4 lack 4 experimental 4 treatment 4 ebola 1
+298 2 virus 8 ebola 1
+299 1 ebola 1
+300 7 virus 8 bat 8 insect 8 december 6 diarrhea 2 fever 2 ebola 1
+301 2 diarrhea 2 ebola 1
+302 1 ebola 1
+303 6 virus 8 1976 6 1979 6 1994 6 ebola 1 ev 1
+304 1 ebola 1
+305 2 fatal 2 ebola 1
+306 5 2 7 headache 2 muscle 2 headache 2 sore 2
+307 3 virus 8 1976 6 ebola 1
+308 4 virus 8 1976 6 disease 5 ebola 1
+309 2 virus 8 ebola 1
+310 3 810 7 21 7 ebola 1
+311 5 virus 8 chimp 8 gorilla 8 1976 6 ebola 1
+350 3 vaccine 5 treat 5 ebola 1
+351 4 2012 6 42 6 treatment 4 ebola 1
+352 3 14mar 6 13dec 6 ebola 1
+353 4 basic 4 care 4 test 3 ebola 1
+354 3 treatment 4 seek 4 test 3
+355 2 deadly 8 ebola 1
+356 2 deadly 8 ebola 1
+357 2 10 7 ebola 1
+358 2 ebola 1 cholera 1
+359 2 early 4 ebola 1
+360 4 plenty 4 keeping 4 address 4 ebola 1
+361 5 virus 8 animal 8 forest 8 fruit 8 ebola 1
+362 4 headache 2 muscle 2 difficulty 2 chill 2
+363 3 tkmebola 8 experimental 4 ebola 1
+364 3 tkmebola 8 clinical 3 ebola 1
+365 2 treat 4 ebola 1
+366 3 experimental 4 drug 4 ebola 2
+367 2 treatment 6 ebola 1
+368 1 ebola 1
+369 1 ebola 1
+370 4 virus 8 1970 7 1976 6 ebola 1
+371 3 ebola 8 1976 6 ebola 1
+372 3 virus 8 july 6 ebola 1
+373 3 virus 8 september 6 ebola 1
+374 2 virus 8 ebola 1
+375 4 21 7 headache 2 muscle 2 ebola 1
+376 3 june 6 diarrhea 2 ebola 1
+377 3 october 6 2014 6 ebola 1
+378 1 ebola 1
+379 1 ebola 1
+380 4 vaccine 5 drug 4 small 4 ebola 1
+381 4 2013 6 ebola 5 antibody 5 ebola 1
+382 3 virus 8 medicine 4 ebola 1
+383 4 biodefense 4 ebola 4 research 4 ebola 1
+384 3 aggressive 5 effective 4 ebola 1
+385 2 animal 8 ebola 1
+386 2 sick 8 ebola 1
+387 2 worry 5 ebola 1
+388 3 virus 8 pathogen 8 ebola 1
+389 3 virus 8 monkey 8 ebola 1
+390 2 virus 8 ebola 1
+391 2 1976 6 ebola 1
+392 2 2014 6 ebola 1
+393 3 ebola 8 1976 6 ebola 1
+395 3 ebola 8 1976 6 ebola 1
+396 2 march 6 ebola 1
+397 2 1976 6 ebola 1
+398 2 1979 7 1994 6
+401 5 malaise 2 fever 2 diarrhea 2 vomit 2 ebola 1
 402 1 fever 2
-403 7 ebola 1 cholera 1 malaria 1 confusion 2 fever 2 common 2 vomit 2
-404 11 ebola 1 ebola 1 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 8 ebolavirus 8
-405 12 ebola 1 cholera 1 typhoid 1 meningitis 1 malaria 1 fever 2 typhoid 2 meningitis 2 rash 2 vomit 2 blood 2 red 2
-406 2 ebola 1 2014 6
+403 7 confusion 2 fever 2 common 2 vomit 2 ebola 1 cholera 1 malaria 1
+404 11 ebola 8 ebolavirus 8 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 1 ebola 1
+405 12 fever 2 typhoid 2 meningitis 2 rash 2 vomit 2 blood 2 red 2 ebola 1 cholera 1 typhoid 1 meningitis 1 malaria 1
+406 2 2014 6 ebola 1
 407 1 ebola 1
-408 3 ebola 1 bill 4 ebola 8
-409 2 ebola 1 death 2
-410 2 ebola 1 sick 2
+408 3 ebola 8 bill 4 ebola 1
+409 2 death 2 ebola 1
+410 2 sick 2 ebola 1
 411 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
-412 10 ebola 1 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2
-413 5 ebola 1 cough 2 infection 2 fever 2 vomit 2
-414 6 ebola 1 flu 1 fever 2 sore 2 infection 2 headache 2
-415 13 ebola 1 flu 1 high 2 ache 2 fever 2 pain 2 muscle 2 weakness 2 infection 2 stomach 2 sore 2 headache 2 21 6
+412 10 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2 ebola 1
+413 5 cough 2 infection 2 fever 2 vomit 2 ebola 1
+414 6 fever 2 sore 2 infection 2 headache 2 ebola 1 flu 1
+415 13 21 6 high 2 ache 2 fever 2 pain 2 muscle 2 weakness 2 infection 2 stomach 2 sore 2 headache 2 ebola 1 flu 1
 416 1 drug 2
 420 4 bruise 2 diarrhea 2 rash 2 vomit 2
-421 4 flu 1 malaria 1 infection 2 flulike 2
-422 6 flu 1 malaria 1 chill 2 vomit 2 fever 2 headache 2
-423 8 flu 1 malaria 1 high 2 chill 2 flulike 2 fever 2 1940 6 in(the 7
-424 8 malaria 1 irritability 2 sweat 2 fever 2 drowsiness 2 rapid 2 poor 2 chill 2
-425 2 malaria 1 fever 2
-426 2 malaria 1 fever 2
-427 2 malaria 1 drug 2
+421 4 infection 2 flulike 2 flu 1 malaria 1
+422 6 chill 2 vomit 2 fever 2 headache 2 flu 1 malaria 1
+423 8 in(the 7 1940 6 high 2 chill 2 flulike 2 fever 2 flu 1 malaria 1
+424 8 irritability 2 sweat 2 fever 2 drowsiness 2 rapid 2 poor 2 chill 2 malaria 1
+425 2 fever 2 malaria 1
+426 2 fever 2 malaria 1
+427 2 drug 2 malaria 1
 428 1 malaria 1
 430 2 influenza 1 malaria 1
-431 14 endemic 1 high 2 malaise 2 death 2 pain 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 rash 2 cough 2 headache 2 in(about 7
+431 14 in(about 7 high 2 malaise 2 death 2 pain 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 rash 2 cough 2 headache 2 endemic 1
 432 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-433 19 endemic 1 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 12 6
+433 19 12 6 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 endemic 1
 434 10 fever 2 pain 2 eschar 2 lymphadenopathy 2 myalgia 2 rash 2 vomit 2 cough 2 maculopapular 2 headache 2
 435 1 fever 2
 436 1 typhus 1
-438 5 plague 1 body 1 typhus 1 epidemic 1 fever 2
-439 2 epidemic 1 infection 2
-440 2 endemic 1 infection 2
-441 2 cholera 1 dehydration 2
-442 5 cholera 1 dehydration 2 diarrhea 2 infection 2 vomit 2
-443 11 cholera 1 cramp 2 muscle 2 diarrhea 2 sunken 2 infection 2 vomit 2 cold 2 dehydration 2 electrolyte 2 imbalance 2
-444 3 cholera 1 diarrhea 2 antibiotic 4
-445 6 cholera 1 death 2 1849 6 1854 6 2010 6 by(john 7
-446 6 cholera 1 dehydration 2 death 2 diarrhea 2 vomit 2 severe 2
-447 9 cholera 1 cramp 2 death 2 shock 2 diarrhea 2 infection 2 vomit 2 leg 2 dehydration 2
+438 5 fever 2 plague 1 body 1 typhus 1 epidemic 1
+439 2 infection 2 epidemic 1
+440 2 infection 2 endemic 1
+441 2 dehydration 2 cholera 1
+442 5 dehydration 2 diarrhea 2 infection 2 vomit 2 cholera 1
+443 11 cramp 2 muscle 2 diarrhea 2 sunken 2 infection 2 vomit 2 cold 2 dehydration 2 electrolyte 2 imbalance 2 cholera 1
+444 3 antibiotic 4 diarrhea 2 cholera 1
+445 6 by(john 7 1849 6 1854 6 2010 6 death 2 cholera 1
+446 6 dehydration 2 death 2 diarrhea 2 vomit 2 severe 2 cholera 1
+447 9 cramp 2 death 2 shock 2 diarrhea 2 infection 2 vomit 2 leg 2 dehydration 2 cholera 1
 448 1 infection 2
-449 4 cholera 1 relate 5 1800 6 in(the 7
+449 4 in(the 7 1800 6 relate 5 cholera 1
 450 1 cholera 1
-451 5 ebola 1 malaise 2 fever 2 diarrhea 2 vomit 2
+451 5 malaise 2 fever 2 diarrhea 2 vomit 2 ebola 1
 452 1 fever 2
-453 7 ebola 1 cholera 1 malaria 1 confusion 2 fever 2 common 2 vomit 2
-454 11 ebola 1 ebola 1 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 8 ebolavirus 8
-455 12 ebola 1 cholera 1 typhoid 1 meningitis 1 malaria 1 fever 2 typhoid 2 meningitis 2 rash 2 vomit 2 blood 2 red 2
-456 2 ebola 1 2014 6
+453 7 confusion 2 fever 2 common 2 vomit 2 ebola 1 cholera 1 malaria 1
+454 11 ebola 8 ebolavirus 8 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 1 ebola 1
+455 12 fever 2 typhoid 2 meningitis 2 rash 2 vomit 2 blood 2 red 2 ebola 1 cholera 1 typhoid 1 meningitis 1 malaria 1
+456 2 2014 6 ebola 1
 457 1 ebola 1
-458 2 2019 6 on(in 7
+458 2 on(in 7 2019 6
 459 1 sick 2
-461 9 ebola 1 pain 2 ebola 2 diarrhea 2 infection 2 vomit 2 stomach 2 muscle 2 ebola 8
-462 10 ebola 1 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2
-463 7 ebola 1 death 2 collapse 2 diarrhea 2 pressure 2 vomit 2 bloody 2
-464 6 ebola 1 typhoid 1 flu 1 malaria 1 fever 2 typhoid 2
-465 13 ebola 1 ebola 1 death 2 pain 2 diarrhea 2 low 2 rash 2 vomit 2 pressure 2 fever 2 sore 2 sixteen 6 ebola 8
-466 5 ebola 1 high 2 fever 2 ebola 8 virus 8
-467 2 ebola 1 ebola 8
+461 9 ebola 8 pain 2 ebola 2 diarrhea 2 infection 2 vomit 2 stomach 2 muscle 2 ebola 1
+462 10 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2 ebola 1
+463 7 death 2 collapse 2 diarrhea 2 pressure 2 vomit 2 bloody 2 ebola 1
+464 6 fever 2 typhoid 2 ebola 1 typhoid 1 flu 1 malaria 1
+465 13 ebola 8 sixteen 6 death 2 pain 2 diarrhea 2 low 2 rash 2 vomit 2 pressure 2 fever 2 sore 2 ebola 1 ebola 1
+466 5 ebola 8 virus 8 high 2 fever 2 ebola 1
+467 2 ebola 8 ebola 1
 468 1 ebola 1
-469 2 ebola 1 ebola 8
+469 2 ebola 8 ebola 1
 470 1 ebola 1
-471 4 flu 1 malaria 1 infection 2 flulike 2
-472 6 flu 1 malaria 1 chill 2 vomit 2 fever 2 headache 2
-473 8 flu 1 malaria 1 high 2 chill 2 flulike 2 fever 2 1940 6 in(the 7
-474 8 malaria 1 irritability 2 sweat 2 fever 2 drowsiness 2 rapid 2 poor 2 chill 2
-475 2 malaria 1 fever 2
+471 4 infection 2 flulike 2 flu 1 malaria 1
+472 6 chill 2 vomit 2 fever 2 headache 2 flu 1 malaria 1
+473 8 in(the 7 1940 6 high 2 chill 2 flulike 2 fever 2 flu 1 malaria 1
+474 8 irritability 2 sweat 2 fever 2 drowsiness 2 rapid 2 poor 2 chill 2 malaria 1
+475 2 fever 2 malaria 1
 476 1 malaria 1
-477 5 malaria 1 infection 2 1500 6 3000 6 at(altitude 7
+477 5 at(altitude 7 1500 6 3000 6 infection 2 malaria 1
 478 1 malaria 1
 479 1 malaria 1
-480 2 malaria 1 infection 2
-481 14 endemic 1 high 2 malaise 2 death 2 pain 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 rash 2 cough 2 headache 2 in(about 7
+480 2 infection 2 malaria 1
+481 14 in(about 7 high 2 malaise 2 death 2 pain 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 rash 2 cough 2 headache 2 endemic 1
 482 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-483 19 endemic 1 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 12 6
+483 19 12 6 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 endemic 1
 484 10 fever 2 pain 2 eschar 2 lymphadenopathy 2 myalgia 2 rash 2 vomit 2 cough 2 maculopapular 2 headache 2
 485 1 fever 2
-486 3 typhus 1 1648 6 1618 6
-487 3 typhus 1 1812 6 at(from 7
-488 9 typhus 1 fever 2 1849 6 1816 6 1830 6 1819 6 1846 6 in(in 7 in(ireland 7
-489 11 typhus 1 typhoid 1 fever 2 typhoid 2 1843 6 1865 6 1837 6 1873 6 in(1843 7 on(dc 7 in(philadelphia 7
-490 4 typhus 1 fever 2 1848 6 1847 6
-491 5 cholera 1 dehydration 2 diarrhea 2 infection 2 vomit 2
-492 2 cholera 1 dehydration 2
-493 11 cholera 1 cramp 2 muscle 2 diarrhea 2 sunken 2 infection 2 vomit 2 cold 2 dehydration 2 electrolyte 2 imbalance 2
-494 3 cholera 1 diarrhea 2 antibiotic 4
-495 6 cholera 1 death 2 1849 6 1854 6 2010 6 by(john 7
-496 6 cholera 1 dehydration 2 death 2 diarrhea 2 vomit 2 severe 2
-497 9 cholera 1 cramp 2 death 2 shock 2 diarrhea 2 infection 2 vomit 2 leg 2 dehydration 2
+486 3 1648 6 1618 6 typhus 1
+487 3 at(from 7 1812 6 typhus 1
+488 9 in(in 7 in(ireland 7 1849 6 1816 6 1830 6 1819 6 1846 6 fever 2 typhus 1
+489 11 in(1843 7 on(dc 7 in(philadelphia 7 1843 6 1865 6 1837 6 1873 6 fever 2 typhoid 2 typhus 1 typhoid 1
+490 4 1848 6 1847 6 fever 2 typhus 1
+491 5 dehydration 2 diarrhea 2 infection 2 vomit 2 cholera 1
+492 2 dehydration 2 cholera 1
+493 11 cramp 2 muscle 2 diarrhea 2 sunken 2 infection 2 vomit 2 cold 2 dehydration 2 electrolyte 2 imbalance 2 cholera 1
+494 3 antibiotic 4 diarrhea 2 cholera 1
+495 6 by(john 7 1849 6 1854 6 2010 6 death 2 cholera 1
+496 6 dehydration 2 death 2 diarrhea 2 vomit 2 severe 2 cholera 1
+497 9 cramp 2 death 2 shock 2 diarrhea 2 infection 2 vomit 2 leg 2 dehydration 2 cholera 1
 498 1 infection 2
-499 4 cholera 1 relate 5 1800 6 in(the 7
+499 4 in(the 7 1800 6 relate 5 cholera 1
 500 1 cholera 1
-501 5 ebola 1 malaise 2 fever 2 diarrhea 2 vomit 2
+501 5 malaise 2 fever 2 diarrhea 2 vomit 2 ebola 1
 502 1 fever 2
-503 7 ebola 1 cholera 1 malaria 1 confusion 2 fever 2 common 2 vomit 2
-504 11 ebola 1 ebola 1 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 8 ebolavirus 8
-505 12 ebola 1 cholera 1 typhoid 1 meningitis 1 malaria 1 fever 2 typhoid 2 meningitis 2 rash 2 vomit 2 blood 2 red 2
+503 7 confusion 2 fever 2 common 2 vomit 2 ebola 1 cholera 1 malaria 1
+504 11 ebola 8 ebolavirus 8 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 1 ebola 1
+505 12 fever 2 typhoid 2 meningitis 2 rash 2 vomit 2 blood 2 red 2 ebola 1 cholera 1 typhoid 1 meningitis 1 malaria 1
 511 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
-512 10 ebola 1 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2
-513 5 ebola 1 cough 2 infection 2 fever 2 vomit 2
-514 6 ebola 1 flu 1 fever 2 sore 2 infection 2 headache 2
-515 13 ebola 1 flu 1 high 2 ache 2 fever 2 pain 2 muscle 2 weakness 2 infection 2 stomach 2 sore 2 headache 2 21 6
-516 2 ebola 1 ebola 8
+512 10 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2 ebola 1
+513 5 cough 2 infection 2 fever 2 vomit 2 ebola 1
+514 6 fever 2 sore 2 infection 2 headache 2 ebola 1 flu 1
+515 13 21 6 high 2 ache 2 fever 2 pain 2 muscle 2 weakness 2 infection 2 stomach 2 sore 2 headache 2 ebola 1 flu 1
+516 2 ebola 8 ebola 1
 517 1 ebola 1
 518 1 infection 2
-519 2 ebola 1 ebola 8
-520 2 ebola 1 2015 6
-521 4 flu 1 malaria 1 infection 2 flulike 2
-522 6 flu 1 malaria 1 chill 2 vomit 2 fever 2 headache 2
-523 8 flu 1 malaria 1 high 2 chill 2 flulike 2 fever 2 1940 6 in(the 7
-524 8 malaria 1 irritability 2 sweat 2 fever 2 drowsiness 2 rapid 2 poor 2 chill 2
-525 2 malaria 1 fever 2
-526 3 malaria 1 thrombocytopenia 2 anemia 2
+519 2 ebola 8 ebola 1
+520 2 2015 6 ebola 1
+521 4 infection 2 flulike 2 flu 1 malaria 1
+522 6 chill 2 vomit 2 fever 2 headache 2 flu 1 malaria 1
+523 8 in(the 7 1940 6 high 2 chill 2 flulike 2 fever 2 flu 1 malaria 1
+524 8 irritability 2 sweat 2 fever 2 drowsiness 2 rapid 2 poor 2 chill 2 malaria 1
+525 2 fever 2 malaria 1
+526 3 thrombocytopenia 2 anemia 2 malaria 1
 527 1 malaria 1
 528 1 malaria 1
-529 2 malaria 1 infection 2
+529 2 infection 2 malaria 1
 530 1 malaria 1
-531 13 high 2 malaise 2 death 2 pain 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 rash 2 cough 2 headache 2 in(about 7
+531 13 in(about 7 high 2 malaise 2 death 2 pain 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 rash 2 cough 2 headache 2
 532 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-533 19 endemic 1 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 12 6
+533 19 12 6 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 endemic 1
 534 10 fever 2 pain 2 eschar 2 lymphadenopathy 2 myalgia 2 rash 2 vomit 2 cough 2 maculopapular 2 headache 2
 535 1 fever 2
 536 1 typhus 1
-537 4 epidemic 1 murine 1 death 2 antibiotic 4
+537 4 antibiotic 4 death 2 epidemic 1 murine 1
 538 1 typhus 1
-539 8 typhus 1 delirium 2 fever 2 spot 2 sore 2 red 2 1489 6 in(1489 7
-540 9 typhus 1 epidemic 1 death 2 fever 2 1577 6 1759 6 in(may 7 at(oxford 7 in(1759 7
-541 5 cholera 1 dehydration 2 diarrhea 2 infection 2 vomit 2
-542 2 cholera 1 dehydration 2
-543 11 cholera 1 cramp 2 muscle 2 diarrhea 2 sunken 2 infection 2 vomit 2 cold 2 dehydration 2 electrolyte 2 imbalance 2
-544 9 cholera 1 cramp 2 death 2 shock 2 diarrhea 2 infection 2 vomit 2 leg 2 dehydration 2
+539 8 in(1489 7 1489 6 delirium 2 fever 2 spot 2 sore 2 red 2 typhus 1
+540 9 in(may 7 at(oxford 7 in(1759 7 1577 6 1759 6 death 2 fever 2 typhus 1 epidemic 1
+541 5 dehydration 2 diarrhea 2 infection 2 vomit 2 cholera 1
+542 2 dehydration 2 cholera 1
+543 11 cramp 2 muscle 2 diarrhea 2 sunken 2 infection 2 vomit 2 cold 2 dehydration 2 electrolyte 2 imbalance 2 cholera 1
+544 9 cramp 2 death 2 shock 2 diarrhea 2 infection 2 vomit 2 leg 2 dehydration 2 cholera 1
 545 1 infection 2
-547 2 cholera 1 diarrhea 2
-548 2 cholera 1 infection 2
-549 2 cholera 1 dehydration 2
-550 11 cholera 1 irritability 2 lethargy 2 dry 2 sunken 2 arrhythmia 2 thirst 2 low 2 pressure 2 dehydration 2 irregular 2
-551 5 ebola 1 malaise 2 fever 2 diarrhea 2 vomit 2
+547 2 diarrhea 2 cholera 1
+548 2 infection 2 cholera 1
+549 2 dehydration 2 cholera 1
+550 11 irritability 2 lethargy 2 dry 2 sunken 2 arrhythmia 2 thirst 2 low 2 pressure 2 dehydration 2 irregular 2 cholera 1
+551 5 malaise 2 fever 2 diarrhea 2 vomit 2 ebola 1
 552 1 fever 2
-553 7 ebola 1 cholera 1 malaria 1 confusion 2 fever 2 common 2 vomit 2
-554 11 ebola 1 ebola 1 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 8 ebolavirus 8
-555 12 ebola 1 cholera 1 typhoid 1 meningitis 1 malaria 1 fever 2 typhoid 2 meningitis 2 rash 2 vomit 2 blood 2 red 2
+553 7 confusion 2 fever 2 common 2 vomit 2 ebola 1 cholera 1 malaria 1
+554 11 ebola 8 ebolavirus 8 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 1 ebola 1
+555 12 fever 2 typhoid 2 meningitis 2 rash 2 vomit 2 blood 2 red 2 ebola 1 cholera 1 typhoid 1 meningitis 1 malaria 1
 557 1 200 6
 559 1 malaria 1
 560 1 ulcer 2
 561 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
-562 10 ebola 1 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2
-563 7 ebola 1 death 2 collapse 2 diarrhea 2 pressure 2 vomit 2 bloody 2
-564 6 ebola 1 typhoid 1 flu 1 malaria 1 fever 2 typhoid 2
-565 13 ebola 1 ebola 1 death 2 pain 2 diarrhea 2 low 2 rash 2 vomit 2 pressure 2 fever 2 sore 2 sixteen 6 ebola 8
+562 10 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2 ebola 1
+563 7 death 2 collapse 2 diarrhea 2 pressure 2 vomit 2 bloody 2 ebola 1
+564 6 fever 2 typhoid 2 ebola 1 typhoid 1 flu 1 malaria 1
+565 13 ebola 8 sixteen 6 death 2 pain 2 diarrhea 2 low 2 rash 2 vomit 2 pressure 2 fever 2 sore 2 ebola 1 ebola 1
 566 1 ebola 1
-567 5 ebola 1 malaise 2 fever 2 diarrhea 2 vomit 2
-568 2 ebola 1 2014 6
+567 5 malaise 2 fever 2 diarrhea 2 vomit 2 ebola 1
+568 2 2014 6 ebola 1
 569 1 ebola 1
-570 6 2002 6 2009 6 2005 6 in(comparison 7 in(2005 7 in(2009 7
-571 4 flu 1 malaria 1 infection 2 flulike 2
-572 6 flu 1 malaria 1 chill 2 vomit 2 fever 2 headache 2
-573 8 flu 1 malaria 1 high 2 chill 2 flulike 2 fever 2 1940 6 in(the 7
-574 8 malaria 1 irritability 2 sweat 2 fever 2 drowsiness 2 rapid 2 poor 2 chill 2
-575 2 malaria 1 fever 2
-577 6 malaria 1 abdominal 2 nausea 2 pain 2 vomit 2 headache 2
+570 6 in(comparison 7 in(2005 7 in(2009 7 2002 6 2009 6 2005 6
+571 4 infection 2 flulike 2 flu 1 malaria 1
+572 6 chill 2 vomit 2 fever 2 headache 2 flu 1 malaria 1
+573 8 in(the 7 1940 6 high 2 chill 2 flulike 2 fever 2 flu 1 malaria 1
+574 8 irritability 2 sweat 2 fever 2 drowsiness 2 rapid 2 poor 2 chill 2 malaria 1
+575 2 fever 2 malaria 1
+577 6 abdominal 2 nausea 2 pain 2 vomit 2 headache 2 malaria 1
 578 1 malaria 1
-579 2 malaria 1 anemia 2
-580 3 malaria 1 interaction 4 human 8
-581 14 endemic 1 high 2 malaise 2 death 2 pain 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 rash 2 cough 2 headache 2 in(about 7
+579 2 anemia 2 malaria 1
+580 3 human 8 interaction 4 malaria 1
+581 14 in(about 7 high 2 malaise 2 death 2 pain 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 rash 2 cough 2 headache 2 endemic 1
 582 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-583 19 endemic 1 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 12 6
+583 19 12 6 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 endemic 1
 584 10 fever 2 pain 2 eschar 2 lymphadenopathy 2 myalgia 2 rash 2 vomit 2 cough 2 maculopapular 2 headache 2
 585 1 fever 2
-586 4 typhus 1 fever 2 1848 6 1847 6
+586 4 1848 6 1847 6 fever 2 typhus 1
 587 2 death 2 sick 2
-588 5 typhus 1 1921 6 1922 6 by(1921 7 in(1922 7
+588 5 by(1921 7 in(1922 7 1921 6 1922 6 typhus 1
 589 1 typhus 1
 590 1 typhus 1
-591 2 cholera 1 dehydration 2
-592 11 cholera 1 irritability 2 lethargy 2 dry 2 sunken 2 arrhythmia 2 thirst 2 low 2 pressure 2 dehydration 2 irregular 2
-593 11 cholera 1 cramp 2 muscle 2 diarrhea 2 sunken 2 infection 2 vomit 2 cold 2 dehydration 2 electrolyte 2 imbalance 2
-594 9 cholera 1 cramp 2 death 2 shock 2 diarrhea 2 infection 2 vomit 2 leg 2 dehydration 2
+591 2 dehydration 2 cholera 1
+592 11 irritability 2 lethargy 2 dry 2 sunken 2 arrhythmia 2 thirst 2 low 2 pressure 2 dehydration 2 irregular 2 cholera 1
+593 11 cramp 2 muscle 2 diarrhea 2 sunken 2 infection 2 vomit 2 cold 2 dehydration 2 electrolyte 2 imbalance 2 cholera 1
+594 9 cramp 2 death 2 shock 2 diarrhea 2 infection 2 vomit 2 leg 2 dehydration 2 cholera 1
 595 1 infection 2
-599 4 cholera 1 dehydration 2 death 2 diarrhea 2
-600 3 cholera 1 1800 6 in(the 7
-601 2 plasmodium 1 artemisininbase 4
-603 3 antibody 5 24 6 ebola 8
-604 2 1976 6 filovirida 8
-605 2 hydration 5 ebola 1
+599 4 dehydration 2 death 2 diarrhea 2 cholera 1
+600 3 in(the 7 1800 6 cholera 1
+601 2 artemisininbase 4 plasmodium 1
+603 3 ebola 8 24 6 antibody 5
+604 2 filovirida 8 1976 6
+605 3 11may 6 hydration 5 ebola 1
 606 1 ebola 1
-607 3 zmapp 4 ebola 1 genetically 5
-608 2 brincidofovir 4 ebola 8
-609 3 blood 4 develop 5 decade 7
-610 2 bleed 2 ebola 8
+607 3 genetically 5 zmapp 4 ebola 1
+608 2 ebola 8 brincidofovir 4
+609 3 decade 7 develop 5 blood 4
+610 2 ebola 8 bleed 2
 611 1 cold 2
 612 2 2 6 vomit 2
-613 3 rehydration 4 primary 7 cholera 1
+613 3 primary 7 rehydration 4 cholera 1
 614 3 24 6 ibramycin 4 perform 3
 615 2 oral 4 cholera 1
-616 2 antibiotic 4 antibiotic 5
-617 3 doxycycline 4 strain 8 future 7
+616 2 antibiotic 5 antibiotic 4
+617 3 strain 8 future 7 doxycycline 4
 618 1 cholera 1
 619 1 cholera 1
 620 1 cholera 1
 621 1 vaccination 5
 622 1 cvd103hgr 5
-623 7 ebola 1 august 6 pcr 3 ebolavirus 8 1976 6 1979 6 24 6
+623 7 ebolavirus 8 august 6 1976 6 1979 6 24 6 pcr 3 ebola 1
 624 1 ebola 8
 625 2 laboratory 3 ebola 1
-626 2 rtpcr 3 2 6
-627 3 pcr 3 december 6 ebola 3
+626 2 2 6 rtpcr 3
+627 3 december 6 pcr 3 ebola 3
 628 5 blood 3 fever 2 nausea 2 diarrhea 2 ebola 1
-629 4 21 6 ebola 1 oct 6 negative 3
-630 4 rtpcr 3 fever 2 virus 8 blood 3
-631 3 pcr 3 virus 8 genetic 3
-632 3 pcr 3 viral 8 ebola 1
-635 6 cholera 1 antimicrobial 4 fluid 4 antibiotic 4 diarrhea 2 48 6
+629 4 21 6 oct 6 negative 3 ebola 1
+630 4 virus 8 rtpcr 3 blood 3 fever 2
+631 3 virus 8 pcr 3 genetic 3
+632 3 viral 8 pcr 3 ebola 1
+635 6 48 6 antimicrobial 4 fluid 4 antibiotic 4 diarrhea 2 cholera 1
 636 1 antimicrobial 4
-637 5 furazolidone 4 cholera 1 quinolone 4 ampicillin 4 erythromycin 4
-638 3 cotrimoxazole 4 diarrhea 2 sulfamethoxazole 3
-639 3 cholera 5 vibrio 8 phenol 4
+637 5 furazolidone 4 quinolone 4 ampicillin 4 erythromycin 4 cholera 1
+638 3 cotrimoxazole 4 sulfamethoxazole 3 diarrhea 2
+639 3 vibrio 8 cholera 5 phenol 4
 640 3 antimalarial 4 control 2 malaria 1
-641 3 falciparum 1 quinine 4 breathing 2
-642 6 cholera 1 fluid 4 water 4 sugar 4 salt 4 dehydration 2
-643 3 antibiotic 4 reduce 2 cholera 8
-644 5 cholera 1 fresh 3 diarrhea 2 vomit 2 cholera 8
-645 2 cholera 1 bacterium 8
+641 3 quinine 4 breathing 2 falciparum 1
+642 6 fluid 4 water 4 sugar 4 salt 4 dehydration 2 cholera 1
+643 3 cholera 8 antibiotic 4 reduce 2
+644 5 cholera 8 fresh 3 diarrhea 2 vomit 2 cholera 1
+645 2 bacterium 8 cholera 1
 646 2 watery 2 dehydration 2
-647 3 diarrhoea 2 aeromona 8 meningitis 1
+647 3 aeromona 8 diarrhoea 2 meningitis 1
 648 4 female 8 plasmodium 8 polymerase 4 malaria 1
-649 4 malaria 1 blood 3 rdt 3 malarial 8
+649 4 malarial 8 blood 3 rdt 3 malaria 1
 650 1 malaria 1
 651 2 2010 6 malaria 1
-652 5 malaria 1 giemsastain 8 pcr 3 microsatellite 3 blood 3
-653 3 simian 1 molecular 3 falciparum 8
-654 7 microscopic 3 malaria 8 12 6 malaria 2 malaria 3 malaria 4 delay 7
-658 6 scrub 1 trombiculid 8 fever 2 rash 2 eschar 2 indirect 3
-659 5 scrubtyphus 1 serology 3 weil–felix 3 iip 3 hour 6
-660 3 serological 3 typhus 1 antibody 3
-661 2 typhus 1 differential 3
-662 2 typhus 1 clinically 3
-663 4 pcr 3 rickettsial 8 skin 3 typhus 1
-664 4 eia 3 ifa 3 typhus 1 rickettsial 8
-665 6 bush 1 scrub 1 orientia 8 gramnegative 8 rickettsiacea 8 1930 6
-666 3 paratyphoid 1 dengue 1 weilfelix 3
-667 5 pcr 3 culture 3 serological 3 antibiotic 4 prior 7
-668 3 epidemic 2 cholera 1 stool 3
-669 3 rapid 3 cholera 1 stool 3
+652 5 giemsastain 8 pcr 3 microsatellite 3 blood 3 malaria 1
+653 3 falciparum 8 molecular 3 simian 1
+654 7 malaria 8 delay 7 12 6 malaria 4 microscopic 3 malaria 3 malaria 2
+658 6 trombiculid 8 indirect 3 fever 2 rash 2 eschar 2 scrub 1
+659 5 hour 6 serology 3 weil–felix 3 iip 3 scrubtyphus 1
+660 3 serological 3 antibody 3 typhus 1
+661 2 differential 3 typhus 1
+662 2 clinically 3 typhus 1
+663 4 rickettsial 8 pcr 3 skin 3 typhus 1
+664 4 rickettsial 8 eia 3 ifa 3 typhus 1
+665 6 orientia 8 gramnegative 8 rickettsiacea 8 1930 6 bush 1 scrub 1
+666 3 weilfelix 3 paratyphoid 1 dengue 1
+667 5 prior 7 antibiotic 4 pcr 3 culture 3 serological 3
+668 3 stool 3 epidemic 2 cholera 1
+669 3 rapid 3 stool 3 cholera 1
 670 5 rdt 3 ip 3 smart 3 ip 3 medicos 3
-671 5 cholera 1 early 7 vibrio 8 rapid 3 bacterial 3
+671 5 vibrio 8 early 7 rapid 3 bacterial 3 cholera 1
 672 2 rapid 3 cholera 1
 673 3 cholera 3 rice 3 diarrhea 2
-674 2 stool 3 18 6
-675 3 cholera 1 vibrio 8 diarrhea 2
-676 11 diarrhea 1 intravenous 4 antibiotic 3 restore 3 iv 4 cholera 1 vaccine 5 replace 4 salt 4 fluid 2 diarrhea 2
-678 6 diarrhoea 2 replace 3 oral 3 intravenous 3 dehydration 2 3 6
+674 2 18 6 stool 3
+675 3 vibrio 8 diarrhea 2 cholera 1
+676 11 vaccine 5 intravenous 4 iv 4 replace 4 salt 4 antibiotic 3 restore 3 fluid 2 diarrhea 2 diarrhea 1 cholera 1
+678 6 3 6 replace 3 oral 3 intravenous 3 diarrhoea 2 dehydration 2
 679 3 antibiotic 4 antimalarial 4 rapid 3
-680 3 ebola 8 5 6 zaire 8
-681 7 ebola 8 decade 6 marburg 8 hemorrhagic 2 severe 2 hemorrhage 2 organ 2
+680 3 ebola 8 zaire 8 5 6
+681 7 ebola 8 marburg 8 decade 6 hemorrhagic 2 severe 2 hemorrhage 2 organ 2
 682 2 contaminate 8 body 8
-683 3 ebola 1 marburg 8 vaccine 5
-684 6 supportive 4 ebola 8 dehydration 2 blood 2 low 2 palliative 4
-685 7 nutritional 4 ebola 1 nausea 2 vomit 2 diarrhea 2 tube 4 intravenous 4
+683 3 marburg 8 vaccine 5 ebola 1
+684 6 ebola 8 supportive 4 palliative 4 dehydration 2 blood 2 low 2
+685 7 nutritional 4 tube 4 intravenous 4 nausea 2 vomit 2 diarrhea 2 ebola 1
 686 4 balance 4 electrolyte 4 intravenous 4 salt 4
-687 5 ebola 1 ebola 8 supportive 4 critical 4 virusspecific 4
-688 3 diagnostic 1 reebov 3 ebola 1
+687 5 ebola 8 supportive 4 critical 4 virusspecific 4 ebola 1
+688 3 reebov 3 diagnostic 1 ebola 1
 689 2 nucleic 3 detection 1
-690 3 previously 7 ebola 8 test 3
-691 2 15 6 ebola 8
-692 4 ebola 3 drop 1 15 6 current 7
+690 3 ebola 8 previously 7 test 3
+691 2 ebola 8 15 6
+692 4 current 7 15 6 ebola 3 drop 1
 693 1 ebola 8
 694 1 detect 1
-695 2 pcr 3 conventional 7
+695 2 conventional 7 pcr 3
 696 1 care 3
 697 2 current 7 test 3
 698 1 diagnose 1
 699 1 body 3
-700 3 ebola 8 reach 1 elisa 3
-701 3 blood 3 ebola 1 early 7
+700 3 ebola 8 elisa 3 reach 1
+701 3 early 7 blood 3 ebola 1
 702 2 diagnose 1 early 1
-703 3 pcr 3 genetic 8 ebola 1
+703 3 genetic 8 pcr 3 ebola 1
 704 3 antibody 5 elisa 3 ebola 1
-705 3 ebola 8 malaria 1 test 3
+705 3 ebola 8 test 3 malaria 1
 706 1 isolate 5
 707 1 ebola 1
-708 4 malaria 8 prior 7 confirmation 1 blood 3
-709 3 detect 3 215 6 reliable 1
+708 4 malaria 8 prior 7 blood 3 confirmation 1
+709 3 215 6 detect 3 reliable 1
 710 3 parasite 8 pcr 3 febrile 2
 711 3 reserve 4 malaria 3 diagnostic 1
-712 3 giemsa 3 antimalarial 5 malaria 1
+712 3 antimalarial 5 giemsa 3 malaria 1
 713 1 malaria 1
 714 1 rdt 3
-715 2 clinical 1 quality 3
+715 2 quality 3 clinical 1
 716 1 malaria 3
 717 1 malaria 1
 718 3 bacterium 8 rapid 3 confirm 1
 719 3 vibrio 8 electron 3 watery 2
 720 3 vibrio 8 stool 3 laboratory 1
 721 2 tcb 8 isolation 5
-722 3 ricewater 2 preliminary 7 pcr 3
+722 3 preliminary 7 pcr 3 ricewater 2
 723 2 vibrio 8 anti 5
 725 2 serogroup 8 cholera 1
 726 1 cholera 1
 727 2 viable 8 16 6
-728 2 typhus 1 rickettsia 8
-729 2 vomit 2 murine 8
-730 3 complete 3 typhus 5 typhus 1
-731 3 western 3 diagnostic 1 typhus 8
-732 2 diagnosis 1 symptom 2
-733 3 pcr 3 endemic 8 antirickettsial 4
+728 2 rickettsia 8 typhus 1
+729 2 murine 8 vomit 2
+730 3 typhus 5 complete 3 typhus 1
+731 3 typhus 8 western 3 diagnostic 1
+732 2 symptom 2 diagnosis 1
+733 3 endemic 8 antirickettsial 4 pcr 3
 734 2 early 7 typhus 1
-735 2 murine 1 rickettsia 8
+735 2 rickettsia 8 murine 1
 736 2 convalescent 3 culture 1
-737 2 malaria 1 strong 4
-738 3 diagnosis 1 antimalarial 4 plasmodium 8
-739 3 artemisininbase 4 falciparum 8 antimalarial 7
-740 2 treat 4 partner 5
-741 3 injectable 4 severe 1 follow 7
+737 2 strong 4 malaria 1
+738 3 plasmodium 8 antimalarial 4 diagnosis 1
+739 3 falciparum 8 antimalarial 7 artemisininbase 4
+740 2 partner 5 treat 4
+741 3 follow 7 injectable 4 severe 1
 742 2 antimalarial 4 malaria 1
 743 1 parasitological 1
-744 2 rapid 3 antimalarial 4
-745 2 malaria 1 act 4
+744 2 antimalarial 4 rapid 3
+745 2 act 4 malaria 1
 746 2 act 4 parasitological 1
-747 2 malaria 1 malaria 8
+747 2 malaria 8 malaria 1
 748 1 age 2
 749 1 flulike 2
 750 2 preventative 5 blood 3
 751 1 antimalarial 5
-752 2 artemisininbase 4 early 7
+752 2 early 7 artemisininbase 4
 753 3 antimalarial 4 parasitological 3 malaria 1
-754 3 chloroquine 4 plasmodium 8 malaria 1
+754 3 plasmodium 8 chloroquine 4 malaria 1
 755 2 vaccine 5 cholera 1
-756 4 antibiotic 5 hydration 4 cholera 1 bacterium 8
+756 4 bacterium 8 antibiotic 5 hydration 4 cholera 1
 757 2 antibiotic 4 cholera 1
-758 3 tetracycline 4 recently 7 cholera 1
-759 3 antimicrobial 3 iv 4 recommend 5
+758 3 recently 7 tetracycline 4 cholera 1
+759 3 recommend 5 iv 4 antimicrobial 3
 760 2 rapid 2 cholera 1
 761 1 india 6
 762 2 cholera 5 cholera 1
 763 2 diarrhea 2 cholera 1
 764 1 cholera 1
-765 3 antibiotic 5 treatment 4 4872 6
-766 3 doxycycline 4 rickettsiose 1 alternative 8
+765 3 4872 6 antibiotic 5 treatment 4
+766 3 alternative 8 doxycycline 4 rickettsiose 1
 767 1 gramnegative 8
 768 1 rickettsial 8
 769 2 5to 6 rickettsial 1
-770 2 epidemic 1 sylvatic 8
-771 3 treatment 4 antibody 5 epidemic 8
-772 3 intensive 4 typhus 1 antibiotic 5
-773 3 ebola 1 intravenous 4 control 2
+770 2 sylvatic 8 epidemic 1
+771 3 epidemic 8 antibody 5 treatment 4
+772 3 antibiotic 5 intensive 4 typhus 1
+773 3 intravenous 4 control 2 ebola 1
 774 2 ebola 8 supportive 4
-775 3 control 2 prevent 5 intravenous 4
+775 3 prevent 5 intravenous 4 control 2
 776 2 recover 5 ebola 1
 777 3 isolate 5 treat 4 ebola 1
-778 3 blood 4 ebola 1 survival 4
+778 3 blood 4 survival 4 ebola 1
 779 2 ebola 8 3month 6
 780 1 ebola 1
 781 1 care 4
@@ -642,687 +682,1820 @@
 783 2 early 7 ebola 1
 784 1 drug 4
 786 4 ebola 8 30 6 blot 3 prototype 1
-787 3 minimally 3 ebola 1 day 6
+787 3 day 6 minimally 3 ebola 1
 788 3 rna 8 portable 3 ebola 2
-789 3 polymerase 3 multiple 8 middle 7
+789 3 multiple 8 middle 7 polymerase 3
 790 1 pcr 3
-791 3 colorchange 3 15 6 antibody 5
-792 2 neglect 1 ebola 8
-793 2 hundred 6 current 7
-794 2 1942 6 early 7
-795 3 falciparum 1 3day 6 mmv 4
-796 4 plasmodium 8 primaquine 4 14 6 haemolysis 2
-797 2 malaria 1 high 2
+791 3 15 6 antibody 5 colorchange 3
+792 2 ebola 8 neglect 1
+793 2 current 7 hundred 6
+794 2 early 7 1942 6
+795 3 3day 6 mmv 4 falciparum 1
+796 4 plasmodium 8 14 6 primaquine 4 haemolysis 2
+797 2 high 2 malaria 1
 798 1 mosquito 8
 799 2 malaria 3 high 2
-800 3 falciparum 1 combination 4 chloroquineresistant 8
-801 2 ebola 1 blood 3
+800 3 chloroquineresistant 8 combination 4 falciparum 1
+801 2 blood 3 ebola 1
 802 1 ebola 1
 803 1 ebola 1
-804 2 ebola 1 infection 2
+804 2 infection 2 ebola 1
 806 1 ebola 1
 807 1 ebola 1
 808 1 dialysis 3
-809 2 ebola 1 kidney 2
-810 2 kidney 2 dialysis 3
-811 2 ebola 1 2014 6
+809 2 kidney 2 ebola 1
+810 2 dialysis 3 kidney 2
+811 2 2014 6 ebola 1
 812 1 ebola 1
-813 2 ebola 1 infection 2
+813 2 infection 2 ebola 1
 815 1 ebola 1
-816 2 ebola 1 ebola 8
-817 2 ebola 1 isolation 5
-818 3 sar 1 2005 6 in(2005 7
+816 2 ebola 8 ebola 1
+817 2 isolation 5 ebola 1
+818 3 in(2005 7 2005 6 sar 1
 820 1 infection 2
 821 1 ebola 1
 822 1 ebola 1
 823 1 ebola 1
-824 2 ebola 1 infection 2
+824 2 infection 2 ebola 1
 825 1 ebola 1
-826 3 ebola 1 sick 2 dialysis 4
-827 3 ebola 1 death 2 dialysis 4
+826 3 dialysis 4 sick 2 ebola 1
+827 3 dialysis 4 death 2 ebola 1
 828 2 isolation 5 dialysis 4
 830 1 ebola 1
-831 2 ebola 1 blood 4
+831 2 blood 4 ebola 1
 832 1 ebola 1
-833 2 ebola 1 2014 6
+833 2 2014 6 ebola 1
 834 1 ebola 1
-835 2 ebola 1 infection 2
-838 2 ebola 1 dialysis 4
-839 2 ebola 1 isolation 5
-840 2 ebola 1 dialysis 4
+835 2 infection 2 ebola 1
+838 2 dialysis 4 ebola 1
+839 2 isolation 5 ebola 1
+840 2 dialysis 4 ebola 1
 841 1 ebola 1
-842 2 ebola 1 infection 2
+842 2 infection 2 ebola 1
 844 1 ebola 1
 845 1 ebola 1
-846 3 ebola 1 infection 2 scientist 4
-847 3 ebola 1 infection 2 ebola 8
-848 5 ebola 1 ebola 1 fever 2 infection 2 ebola 8
-849 5 ebola 1 1976 6 in(1976 7 ebola 8 virus 8
-850 14 ebola 1 ache 2 fever 2 pain 2 muscle 2 hiccup 2 weakness 2 diarrhea 2 infection 2 vomit 2 rash 2 stomach 2 sore 2 headache 2
-851 2 ebola 1 blood 3
+846 3 scientist 4 infection 2 ebola 1
+847 3 ebola 8 infection 2 ebola 1
+848 5 ebola 8 fever 2 infection 2 ebola 1 ebola 1
+849 5 ebola 8 virus 8 in(1976 7 1976 6 ebola 1
+850 14 ache 2 fever 2 pain 2 muscle 2 hiccup 2 weakness 2 diarrhea 2 infection 2 vomit 2 rash 2 stomach 2 sore 2 headache 2 ebola 1
+851 2 blood 3 ebola 1
 852 1 ebola 1
-853 2 ebola 1 2014 6
+853 2 2014 6 ebola 1
 854 1 ebola 1
 855 1 ebola 1
 856 1 ebola 1
-857 3 ebola 1 11may 6 in(may 7
+857 3 in(may 7 11may 6 ebola 1
 858 1 antibody 4
-859 3 ebola 1 1976 6 ebola 8
-861 2 ebola 1 blood 3
+859 3 ebola 8 1976 6 ebola 1
+861 2 blood 3 ebola 1
 862 1 ebola 1
 863 1 ebola 1
-864 2 ebola 1 infection 2
+864 2 infection 2 ebola 1
 865 1 ebola 1
-866 2 ebola 1 drug 4
+866 2 drug 4 ebola 1
 867 1 ebola 1
 868 1 today 6
-869 2 ebola 1 isolation 5
-870 2 ebola 1 sick 2
-871 2 ebola 1 blood 4
+869 2 isolation 5 ebola 1
+870 2 sick 2 ebola 1
+871 2 blood 4 ebola 1
 872 1 ebola 1
 873 1 ebola 1
 875 1 ebola 1
 876 1 ebola 1
-877 2 ebola 1 infection 2
+877 2 infection 2 ebola 1
 878 1 ebola 1
-880 2 ebola 1 sick 2
-881 2 ebola 1 blood 4
-882 2 ebola 1 2014 6
-883 2 ebola 1 infection 2
-885 3 ebola 1 isolation 5 dialysis 4
-886 2 ebola 1 fever 2
-887 6 cholera 1 diarrhea 2 severe 2 potassium 4 sodium 4 electrolyte 4
-888 4 ebola 1 ebola 2 infection 2 ebola 8
+880 2 sick 2 ebola 1
+881 2 blood 4 ebola 1
+882 2 2014 6 ebola 1
+883 2 infection 2 ebola 1
+885 3 isolation 5 dialysis 4 ebola 1
+886 2 fever 2 ebola 1
+887 6 potassium 4 sodium 4 electrolyte 4 diarrhea 2 severe 2 cholera 1
+888 4 ebola 8 ebola 2 infection 2 ebola 1
 890 1 ebola 1
-891 2 ebola 1 blood 4
+891 2 blood 4 ebola 1
 892 1 ebola 1
 894 1 ebola 1
-895 3 ebola 1 isolation 5 dialysis 4
+895 3 isolation 5 dialysis 4 ebola 1
 899 1 ebola 1
 900 1 researcher 4
-901 2 ebola 1 2014 6
+901 2 2014 6 ebola 1
 902 1 ebola 1
 903 1 ebola 1
 904 1 ebola 1
-905 3 ebola 1 isolation 5 dialysis 4
+905 3 isolation 5 dialysis 4 ebola 1
 906 1 drug 4
 908 1 drug 4
-910 3 ebola 1 infection 2 infusion 4
+910 3 infusion 4 infection 2 ebola 1
 911 1 ebola 1
-912 2 ebola 1 infection 2
+912 2 infection 2 ebola 1
 913 1 ebola 1
 914 1 ebola 1
-915 3 ebola 1 isolation 5 dialysis 4
-917 2 drug 4 in(this 7
+915 3 isolation 5 dialysis 4 ebola 1
+917 2 in(this 7 drug 4
 918 1 drug 4
 919 1 drug 4
 920 1 ebola 1
-921 2 ebola 1 infection 2
+921 2 infection 2 ebola 1
 923 1 ebola 1
 924 1 ebola 1
-925 3 ebola 1 isolation 5 dialysis 4
-927 2 ebola 1 ebola 8
-929 3 ebola 1 fever 2 lowgrade 2
-930 6 ebola 1 fever 2 diarrhea 2 vomit 2 sore 2 headache 2
-931 2 ebola 1 blood 4
+925 3 isolation 5 dialysis 4 ebola 1
+927 2 ebola 8 ebola 1
+929 3 fever 2 lowgrade 2 ebola 1
+930 6 fever 2 diarrhea 2 vomit 2 sore 2 headache 2 ebola 1
+931 2 blood 4 ebola 1
 932 1 ebola 1
 934 1 ebola 1
-935 3 ebola 1 isolation 5 dialysis 4
-936 5 ebola 1 pressure 2 diarrhea 2 vomit 2 including 4
-937 3 ebola 1 dehydration 2 farber 4
+935 3 isolation 5 dialysis 4 ebola 1
+936 5 including 4 pressure 2 diarrhea 2 vomit 2 ebola 1
+937 3 farber 4 dehydration 2 ebola 1
 939 1 infection 2
 940 1 ebola 1
-941 2 ebola 1 blood 4
-942 2 ebola 1 2014 6
+941 2 blood 4 ebola 1
+942 2 2014 6 ebola 1
 943 1 ebola 1
-945 3 ebola 1 isolation 5 dialysis 4
-946 2 ebola 1 blood 4
+945 3 isolation 5 dialysis 4 ebola 1
+946 2 blood 4 ebola 1
 947 1 ebola 1
 948 1 american 4
 949 1 ebola 1
-951 2 ebola 1 blood 4
+951 2 blood 4 ebola 1
 952 1 ebola 1
-953 2 ebola 1 2014 6
+953 2 2014 6 ebola 1
 954 1 ebola 1
-955 3 ebola 1 isolation 5 dialysis 4
-956 4 ebola 1 dialysis 4 support 4 ebola 8
-958 4 ebola 1 dialysis 4 1990 6 in(the 7
-961 2 ebola 1 blood 4
+955 3 isolation 5 dialysis 4 ebola 1
+956 4 ebola 8 dialysis 4 support 4 ebola 1
+958 4 in(the 7 1990 6 dialysis 4 ebola 1
+961 2 blood 4 ebola 1
 962 1 ebola 1
-963 2 ebola 1 2014 6
+963 2 2014 6 ebola 1
 965 1 ebola 1
-966 8 ebola 1 dehydration 2 renal 2 diarrhea 2 vomit 2 artificial 3 hemodialysis 3 act 4
-967 2 ebola 1 dialysis 4
-968 2 ebola 1 dialysis 4
+966 8 act 4 artificial 3 hemodialysis 3 dehydration 2 renal 2 diarrhea 2 vomit 2 ebola 1
+967 2 dialysis 4 ebola 1
+968 2 dialysis 4 ebola 1
 971 1 ebola 1
-972 2 ebola 1 2014 6
-973 2 ebola 1 infection 2
+972 2 2014 6 ebola 1
+973 2 infection 2 ebola 1
 974 1 ebola 1
 975 1 ebola 1
-977 2 ebola 1 thirtyfive 6
-978 2 ebola 1 dialysis 4
-979 3 ebola 1 dialysis 4 kidney 3
+977 2 thirtyfive 6 ebola 1
+978 2 dialysis 4 ebola 1
+979 3 dialysis 4 kidney 3 ebola 1
 980 1 dialysis 4
-981 2 ebola 1 blood 4
+981 2 blood 4 ebola 1
 982 1 ebola 1
-983 2 ebola 1 2014 6
+983 2 2014 6 ebola 1
 984 1 ebola 1
-985 2 ebola 1 infection 2
+985 2 infection 2 ebola 1
 988 1 hemodialysis 4
 989 2 dialysis 4 intravenous 4
 990 1 dialysis 4
 991 1 ebola 1
-992 2 ebola 1 infection 2
+992 2 infection 2 ebola 1
 994 1 ebola 1
 995 1 ebola 1
 997 1 dialysis 4
+1001 2 virus 8 ebola 1
+1002 4 blood 3 blood 3 fluid 3 ebola 1
+1003 3 healthcare 4 symptom 2 ebola 1
+1004 2 avoid 5 ebola 1
+1005 3 virus 8 avoid 5 ebola 1
+1006 2 virus 8 ebola 1
+1007 1 ebola 1
+1008 2 bat 8 ebola 1
+1009 3 wear 5 complete 4 ebola 1
+1010 1 ebola 8
+1011 2 march 6 ebola 1
+1012 1 ebola 8
+1013 3 prevent 5 antimalarial 4 malaria 1
+1014 2 mosquito 8 malaria 1
+1015 1 antimalarial 4
+1016 2 malaria 5 malaria 1
+1017 1 preventative 5
+1018 2 malaria 4 malaria 1
+1019 1 malaria 1
+1020 1 malaria 1
+1021 3 1999 6 promising 5 malaria 1
+1022 3 parasite 8 public 4 malaria 1
+1023 3 transmit 8 avoid 5 typhus 1
+1024 3 practice 5 prescribe 4 typhus 1
+1025 3 flea 8 wash 5 typhus 1
+1026 3 cleanliness 5 treatment 4 typhus 1
+1027 1 headache 2
+1028 1 typhus 1
+1029 1 fever 2
+1030 1 parasite 8
+1031 2 flying 8 typhus 1
+1032 2 2006 6 typhus 1
+1033 4 wash 5 wash 5 emergency 4 cholera 1
+1034 5 diarrhea 2 vomit 2 dehydration 2 water 2 cholera 1
+1035 3 treatment 4 diarrhea 2 vomit 2
+1036 2 clean 5 cholera 1
+1037 2 vaccinate 5 cholera 1
+1038 2 vaccination 5 cholera 1
+1039 5 insect 8 bacterium 8 avoidance 5 good 5 typhus 1
+1040 2 antibiotic 4 typhus 1
+1041 4 infection 5 avoid 5 ev 1 ebola 1
+1042 7 chimpanzee 8 gorilla 8 bat 8 forest 8 porcupine 8 avoid 5 ebola 1
+1043 3 seek 5 fever 2 ev 1
+1044 4 vesicular 8 ebola 8 experimental 5 ebola 1
+1045 5 virus 8 muscle 2 fever 2 sore 2 ebola 1
+1046 1 ebola 1
+1047 3 high 2 central 2 ev 1
+1048 2 virus 8 ebola 1
+1049 3 mosquito 8 avoid 5 malaria 1
+1050 4 antimalarial 5 consult 5 practise 5 malaria 1
+1051 3 6 7 flulike 2 malaria 1
+1052 6 mosquito 8 bite 5 awareness 5 diagnosis 5 tablet 4 malaria 1
+1053 4 mosquito 8 stay 5 make 5 malaria 1
+1054 2 antimalarial 5 malaria 1
+1055 2 proper 5 malaria 1
+1056 2 25apr 7 malria 1
+1057 1 malaria 1
+1058 1 malaria 1
+1059 3 insect 8 vaccine 5 typhus 1
+1060 4 louse 8 rodent 8 maintain 5 control 5
+1061 3 pest 8 past 6 typhus 1
+1062 4 louse 8 vaccine 5 avoid 5 typhus 1
+1063 2 treatment 4 typhus 1
+1064 3 bacterium 8 parasite 1 typhus 1
+1065 4 mid20th 7 body 5 pesticide 5 typhus 1
+1066 4 headache 2 general 2 chill 2 typhus 1
+1067 3 insect 8 good 5 typhus 1
+1068 2 viral 8 typhus 1
+1069 3 providing 5 health 5 cholera 1
+1070 4 strengthen 5 routine 5 antibiotic 4 cholera 1
+1071 3 boil 5 food 5 cholera 1
+1072 2 infect 8 cholera 1
+1073 4 lab 3 watery 2 vomit 2 cholera 1
+1074 2 previous 6 vomit 2
+1075 2 cholera 8 cholera 1
+1076 3 fish 8 fly 8 cholera 1
+1077 3 ebolavirus 8 infection 5 ebola 1
+1078 3 virus 8 worker 5 ebola 1
+1079 3 virus 8 personal 5 ebola 1
+1080 3 virus 8 avoid 5 ebola 1
+1081 3 virus 8 intensive 5 ebola 1
+1082 2 1976 6 ebola 1
+1083 2 1976 6 ebola 1
+1084 3 animal 8 fever 2 ebola 1
+1085 4 mosquito 8 avoid 5 antimalarial 4 malaria 1
+1086 2 prophylaxi 4 malaria 1
+1087 3 fever 2 chill 2 sweat 2
+1088 2 diagnosis 3 malaria 1
+1089 3 parasite 8 mosquito 8 malaria 1
+1090 4 mosquito 8 insecticide 8 cover 5 malaria 1
+1091 1 malaria 1
+1092 3 talk 5 fever 2 malaria 1
+1093 3 mosquito 8 prevent 5 malaria 1
+1094 4 high 2 chill 2 flulike 2 malaria 1
+1095 6 animal 8 vector 8 flea 8 avoidance 5 treatment 5 typhus 1
+1096 4 5 7 effort 5 avoid 5 typhus 1
+1097 3 12 7 12 7 typhus 1
+1098 6 insecticide 8 rodent 8 spray 5 rodent 5 cutting 5 typhus 1
+1099 5 insect 8 protect 5 apply 5 vaccine 5 typhus 1
+1100 4 chloramphenicol 4 250 4 azithromycin 4 typhus 1
+1101 5 high 2 intense 2 diffuse 2 rash 2 scrub 1
+1102 1 scrub 1
+1103 4 personal 5 pay 5 general 4 cholera 1
+1104 3 consume 5 leftover 5 cholera 1
+1105 3 store 5 personal 4 cholera 1
+1106 4 1980 6 vaccination 5 cholera 5 cholera 1
+1107 3 1970 6 impressive 5 pertussis 5
+1108 2 september 7 cholera 1
+1109 5 diarrhea 2 vomit 2 dehydration 2 electrolyte 2 cholera 1
+1110 2 bacterium 8 cholera 1
+1111 2 1817 6 cholera 1
+1112 2 early 7 cholera 1
+1113 2 26year 7 ebola 1
+1114 1 ebola 1
+1115 4 virus 8 spray 5 removal 5 ebola 1
+1116 4 avoid 5 practice 5 educate 5 ebola 1
+1117 3 refrain 5 handle 5 ebola 1
+1118 4 healthcare 5 isolate 5 wear 5 ebola 1
+1119 3 virus 8 cleaning 5 ebola 1
+1120 4 ebola 8 fever 2 internal 2 ebola 1
+1121 2 ebola 8 ebola 1
+1122 2 support 3 ebola 1
+1123 5 awareness 5 bite 5 taking 5 early 4 malaria 1
+1124 3 measure 5 medicine 4 malaria 1
+1125 4 mosquito 8 aircondition 5 doxycycline 4 malaria 1
+1126 4 mosquito 8 choose 5 chloroquine 4 malaria 1
+1127 2 plasmodium 8 mosquito 8
+1128 3 2006 7 malaria 1 malaria 1
+1129 2 mefloquine 4 malaria 1
+1130 3 expand 5 expand 5 malaria 1
+1131 3 inexpensive 4 malaria 1 tuberculosis 1
+1133 4 louse 8 immunization 5 dust 5 louse 5
+1134 1 louse 8
+1135 3 7 7 doxycycline 4 chloramphenicol 4
+1136 3 7 7 rash 2 typhus 1
+1137 4 3 7 murine 5 typhus 5 treatment 4
+1138 3 rodent 8 animal 8 typhus 1
+1139 3 2 6 8 6 8 6
+1140 2 control 5 eliminate 5
+1141 6 environmental 5 personal 5 health 5 infestation 5 disease 5 typhus 1
+1142 5 1951 7 report 5 public 5 monitor 5 typhus 1
+1143 5 provision 5 good 5 avoidance 5 diarrhoea 2 cholera 1
+1144 4 vaccination 5 give 5 restrict 5 antibiotic 4
+1145 5 vaccination 4 quarantine 4 diarrhoea 2 dehydration 2 cholera 1
+1146 4 proper 5 direction 5 water 5 cholera 1
+1147 3 pipe 5 food 5 unpasteurized 5
+1148 3 profound 2 vomit 2 diarrhea 2
+1149 3 microbiology 3 selective 3 cholera 1
+1150 1 cholera 1
+1151 3 19th 6 1855 6 cholera 1
+1152 2 1883 6 cholera 1
+1153 3 ebola 8 raise 5 ebola 1
+1154 3 ebola 8 clean 5 ebola 1
+1155 2 ebola 8 ebola 1
+1156 2 vaccine 5 cholera 1
+1157 3 highly 4 watery 2 cholera 1
+1158 1 cholera 1
+1159 4 fish 8 waste 5 diarrhea 2 cholera 1
+1160 3 fly 8 toilet 5 cholera 1
+1161 2 drinking 4 diarrhea 2
+1162 3 7day 7 21day 7 ebola 1
+1163 4 gorilla 8 chimpanzee 8 monkey 8 ebola 1
+1164 3 ebola 8 droplet 5 ebola 1
+1165 2 infectious 8 ebola 1
+1166 3 ebola 8 vaccine 5 ebola 1
+1167 2 current 7 ebola 1
+1168 2 ebola 8 late 6
+1169 1 ebola 1
+1171 3 mosquito 8 protective 5 mosquito 2
+1172 1 malaria 1
+1173 1 malaria 1
+1175 3 mosquito 8 malaria 5 malaria 1
+1176 3 malaria 5 treatment 4 malaria 1
+1177 3 mosquito 8 precaution 5 malaria 1
+1178 2 malaria 5 malaria 1
+1179 1 malaria 1
+1180 1 malaria 5
+1181 3 flea 8 reduce 5 typhus 1
+1182 3 vaccine 5 taking 4 typhus 1
+1183 2 louse 8 1 4
+1184 2 rickettsia 8 typhus 1
+1185 1 abdominal 2
+1186 1 antibiotic 4
+1187 3 flea 8 bedding 5 typhus 1
+1188 3 louse 8 boil 5 public 4
+1189 1 rickettsia 8
+1190 1 typhus 1
+1191 3 wash 5 alcoholbase 4 cholera 1
+1192 3 eat 5 avoid 4 cholera 1
+1193 3 immunization 5 local 4 cholera 1
+1194 3 cholera 5 diagnose 3 cholera 1
+1195 1 diarrhea 2
+1196 1 cholera 1
+1197 1 cholera 1
+1198 2 vaccine 5 cholera 1
+1199 2 19th 7 1971 6
+1200 1 antibiotic 4
 1201 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
-1202 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1203 2 cholera 1 infection 2
+1202 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1203 2 infection 2 cholera 1
 1204 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-1206 2 ebola 1 ebola 8
+1206 2 ebola 8 ebola 1
 1207 1 isolation 5
-1208 3 ebola 1 2014 6 in(guinea 7
-1209 4 ebola 1 infection 2 glove 5 gown 5
+1208 3 in(guinea 7 2014 6 ebola 1
+1209 4 glove 5 gown 5 infection 2 ebola 1
 1211 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
 1212 1 infection 2
-1213 4 ebola 1 infection 2 21 6 ebola 8
-1214 7 ebola 1 1976 6 2000 6 1995 6 on(time 7 in(a 7 ebola 8
+1213 4 ebola 8 21 6 infection 2 ebola 1
+1214 7 ebola 8 on(time 7 in(a 7 1976 6 2000 6 1995 6 ebola 1
 1215 1 ebola 1
-1216 4 ebola 1 death 2 fever 2 ebola 8
-1217 3 ebola 1 1976 6 in(1976 7
-1218 2 ebola 1 ebola 8
-1220 2 ebola 1 infection 2
-1221 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1222 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1223 6 hepatitis 1 infection 2 hepatitis 2 60 6 in(30 7 hepatitis 8
-1224 2 infection 2 6 6
+1216 4 ebola 8 death 2 fever 2 ebola 1
+1217 3 in(1976 7 1976 6 ebola 1
+1218 2 ebola 8 ebola 1
+1220 2 infection 2 ebola 1
+1221 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1222 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1223 6 hepatitis 8 in(30 7 60 6 infection 2 hepatitis 2 hepatitis 1
+1224 2 6 6 infection 2
 1225 2 180 6 90 6
-1226 7 hepatitis 1 liver 2 death 2 liver 2 infection 2 hepatitis 2 hepatitis 8
-1227 6 hepatitis 1 liver 2 infection 2 hepatitis 2 1982 6 since(1982 7
-1228 2 hepatitis 1 hepatitis 2
-1229 3 hepatitis 1 infection 2 hepatitis 2
-1230 6 hepatitis 1 hepatitis 1 drug 2 infection 2 hepatitis 2 dental 3
-1231 2 cholera 1 infection 2
-1232 6 cholera 1 dehydration 2 death 2 infection 2 vomit 2 watery 2
-1233 4 cholera 1 dehydration 2 diarrhea 2 vomit 2
-1234 6 cholera 1 dehydration 2 diarrhea 2 vomit 2 antibiotic 4 antibiotic 5
+1226 7 hepatitis 8 liver 2 death 2 liver 2 infection 2 hepatitis 2 hepatitis 1
+1227 6 since(1982 7 1982 6 liver 2 infection 2 hepatitis 2 hepatitis 1
+1228 2 hepatitis 2 hepatitis 1
+1229 3 infection 2 hepatitis 2 hepatitis 1
+1230 6 dental 3 drug 2 infection 2 hepatitis 2 hepatitis 1 hepatitis 1
+1231 2 infection 2 cholera 1
+1232 6 dehydration 2 death 2 infection 2 vomit 2 watery 2 cholera 1
+1233 4 dehydration 2 diarrhea 2 vomit 2 cholera 1
+1234 6 antibiotic 5 antibiotic 4 dehydration 2 diarrhea 2 vomit 2 cholera 1
 1235 1 cholera 1
-1236 7 cholera 1 1991 6 1961 6 1971 6 in(1991 7 in(south 7 in(1971 7
-1237 2 1992 6 in(bangladesh 7
+1236 7 in(1991 7 in(south 7 in(1971 7 1991 6 1961 6 1971 6 cholera 1
+1237 2 in(bangladesh 7 1992 6
 1238 1 cholera 1
 1240 1 cholera 1
 1241 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-1242 20 endemic 1 typhus 1 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 12 6
+1242 20 12 6 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 endemic 1 typhus 1
 1243 10 fever 2 pain 2 eschar 2 lymphadenopathy 2 myalgia 2 rash 2 vomit 2 cough 2 maculopapular 2 headache 2
-1244 3 typhus 1 epidemic 1 fever 2
+1244 3 fever 2 typhus 1 epidemic 1
 1245 1 malaise 2
-1246 16 typhus 1 high 2 fever 2 pain 2 cough 2 stupor 2 rash 2 pressure 2 severe 2 death 2 delirium 2 fall 2 chill 2 muscle 2 headache 2 on(the 7
-1247 7 chickenpox 1 typhus 1 epidemic 1 shingle 1 malnutrition 2 1913 6 by(nathan 7
+1246 16 on(the 7 high 2 fever 2 pain 2 cough 2 stupor 2 rash 2 pressure 2 severe 2 death 2 delirium 2 fall 2 chill 2 muscle 2 headache 2 typhus 1
+1247 7 by(nathan 7 1913 6 malnutrition 2 chickenpox 1 typhus 1 epidemic 1 shingle 1
 1248 2 typhus 1 epidemic 1
-1249 8 typhus 1 infection 2 rudolf 4 rudolf 5 1930 6 1916 6 in(1916 7 in(1930 7
-1250 4 1943 6 1938 6 in(1938 7 by(1943 7
-1252 2 malaria 1 1 6
+1249 8 in(1916 7 in(1930 7 1930 6 1916 6 rudolf 5 rudolf 4 infection 2 typhus 1
+1250 4 in(1938 7 by(1943 7 1943 6 1938 6
+1252 2 1 6 malaria 1
 1253 1 malaria 1
-1255 3 malaria 1 drug 4 sick 2
+1255 3 drug 4 sick 2 malaria 1
 1256 1 drug 4
-1260 4 flu 1 malaria 1 infection 2 flulike 2
+1260 4 infection 2 flulike 2 flu 1 malaria 1
 1261 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
-1262 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1263 2 cholera 1 infection 2
+1262 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1263 2 infection 2 cholera 1
 1264 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-1266 8 aid 1 typhoid 1 fever 2 typhoid 2 infection 2 2004 6 in(2004 7 hiv 8
-1267 4 infection 2 2006 6 2010 6 2007 6
-1268 7 histoplasmosis 1 malaria 1 schistosomiasis 1 meningitis 1 bartonellosis 2 meningitis 2 infection 2
-1269 4 typhoid 1 fever 2 typhoid 2 20072010 6
+1266 8 hiv 8 in(2004 7 2004 6 fever 2 typhoid 2 infection 2 aid 1 typhoid 1
+1267 4 2006 6 2010 6 2007 6 infection 2
+1268 7 bartonellosis 2 meningitis 2 infection 2 histoplasmosis 1 malaria 1 schistosomiasis 1 meningitis 1
+1269 4 20072010 6 fever 2 typhoid 2 typhoid 1
 1271 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
 1272 1 infection 2
 1273 1 ebola 1
-1274 8 ebola 1 death 2 pain 2 shock 2 diarrhea 2 infection 2 fever 2 nausea 2
+1274 8 death 2 pain 2 shock 2 diarrhea 2 infection 2 fever 2 nausea 2 ebola 1
 1277 1 platelet 3
-1278 9 ebola 1 isolation 5 pcr 3 polymerase 3 2015 6 2014 6 18 6 in(2014 7 in(2015 7
-1279 4 dengue 1 malaria 1 fever 2 marburg 8
-1280 17 leishmaniasis 1 typhoid 1 cholera 1 typhus 1 candidiasis 1 hepatitis 1 shigellosis 1 leptospirosis 1 plague 1 sepsis 1 histoplasmosis 1 measles 1 leptospirosis 2 fever 2 typhoid 2 hepatitis 2 sepsis 2
-1281 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1282 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1283 6 hepatitis 1 infection 2 hepatitis 2 60 6 in(30 7 hepatitis 8
-1284 2 infection 2 6 6
+1278 9 in(2014 7 in(2015 7 2015 6 2014 6 18 6 isolation 5 pcr 3 polymerase 3 ebola 1
+1279 4 marburg 8 fever 2 dengue 1 malaria 1
+1280 17 leptospirosis 2 fever 2 typhoid 2 hepatitis 2 sepsis 2 leishmaniasis 1 typhoid 1 cholera 1 typhus 1 candidiasis 1 hepatitis 1 shigellosis 1 leptospirosis 1 plague 1 sepsis 1 histoplasmosis 1 measles 1
+1281 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1282 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1283 6 hepatitis 8 in(30 7 60 6 infection 2 hepatitis 2 hepatitis 1
+1284 2 6 6 infection 2
 1285 2 180 6 90 6
-1286 7 hepatitis 1 drug 2 liver 2 infection 2 hepatitis 2 vomit 2 chronic 4
-1287 4 hepatitis 1 drug 4 hepatitis 2 hepatitis 8
-1288 3 hepatitis 1 infection 2 hepatitis 2
-1290 4 hepatitis 1 liver 2 hepatitis 2 chemotherapy 4
-1291 2 cholera 1 infection 2
-1292 6 cholera 1 dehydration 2 death 2 infection 2 vomit 2 watery 2
-1293 4 cholera 1 dehydration 2 diarrhea 2 vomit 2
-1294 6 cholera 1 dehydration 2 diarrhea 2 vomit 2 antibiotic 4 antibiotic 5
+1286 7 chronic 4 drug 2 liver 2 infection 2 hepatitis 2 vomit 2 hepatitis 1
+1287 4 hepatitis 8 drug 4 hepatitis 2 hepatitis 1
+1288 3 infection 2 hepatitis 2 hepatitis 1
+1290 4 chemotherapy 4 liver 2 hepatitis 2 hepatitis 1
+1291 2 infection 2 cholera 1
+1292 6 dehydration 2 death 2 infection 2 vomit 2 watery 2 cholera 1
+1293 4 dehydration 2 diarrhea 2 vomit 2 cholera 1
+1294 6 antibiotic 5 antibiotic 4 dehydration 2 diarrhea 2 vomit 2 cholera 1
 1295 1 cholera 1
 1296 1 infection 2
 1297 1 infection 2
-1299 3 cholera 1 cholera 4 cholera 5
-1300 2 cholera 1 1908 6
+1299 3 cholera 5 cholera 4 cholera 1
+1300 2 1908 6 cholera 1
 1301 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-1302 20 endemic 1 typhus 1 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 12 6
+1302 20 12 6 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 endemic 1 typhus 1
 1303 10 fever 2 pain 2 eschar 2 lymphadenopathy 2 myalgia 2 rash 2 vomit 2 cough 2 maculopapular 2 headache 2
-1304 3 typhus 1 epidemic 1 fever 2
-1305 2 epidemic 1 malaise 2
-1306 5 epidemic 1 vasculitis 2 fever 2 infection 2 typhus 2
-1307 6 typhus 1 epidemic 1 1990 6 1930 6 during(the 7 during(the 7
+1304 3 fever 2 typhus 1 epidemic 1
+1305 2 malaise 2 epidemic 1
+1306 5 vasculitis 2 fever 2 infection 2 typhus 2 epidemic 1
+1307 6 during(the 7 during(the 7 1990 6 1930 6 typhus 1 epidemic 1
 1308 1 murine 1
 1309 1 epidemic 1
-1310 4 endemic 1 typhus 1 murine 1 19931997 6
-1312 2 malaria 1 1 6
+1310 4 19931997 6 endemic 1 typhus 1 murine 1
+1312 2 1 6 malaria 1
 1313 1 malaria 1
-1315 3 malaria 1 drug 2 sick 2
+1315 3 drug 2 sick 2 malaria 1
 1316 1 malaria 1
 1317 1 fever 2
 1318 1 malaria 1
-1319 2 malaria 1 seizure 2
+1319 2 seizure 2 malaria 1
 1320 1 infection 2
 1321 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
-1322 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1323 2 cholera 1 infection 2
+1322 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1323 2 infection 2 cholera 1
 1324 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
 1326 1 malaria 1
-1327 2 malaria 1 drug 2
+1327 2 drug 2 malaria 1
 1331 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
 1332 1 infection 2
-1333 4 ebola 1 infection 2 21 6 ebola 8
-1334 7 ebola 1 1976 6 2000 6 1995 6 on(time 7 in(a 7 ebola 8
-1336 10 ebola 1 typhoid 1 meningitis 1 malaria 1 ebola 2 fever 2 typhoid 2 meningitis 2 infection 2 ebola 8
+1333 4 ebola 8 21 6 infection 2 ebola 1
+1334 7 ebola 8 on(time 7 in(a 7 1976 6 2000 6 1995 6 ebola 1
+1336 10 ebola 8 ebola 2 fever 2 typhoid 2 meningitis 2 infection 2 ebola 1 typhoid 1 meningitis 1 malaria 1
 1337 1 test 3
-1338 2 test 3 immune 4
-1340 4 ebola 1 infection 2 sterile 5 ebola 8
-1341 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1342 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
-1343 6 hepatitis 1 infection 2 hepatitis 2 60 6 in(30 7 hepatitis 8
-1344 2 infection 2 6 6
+1338 2 immune 4 test 3
+1340 4 ebola 8 sterile 5 infection 2 ebola 1
+1341 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1342 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
+1343 6 hepatitis 8 in(30 7 60 6 infection 2 hepatitis 2 hepatitis 1
+1344 2 6 6 infection 2
 1345 2 180 6 90 6
-1346 2 series 4 series 5
+1346 2 series 5 series 4
 1347 1 infection 2
-1348 6 hepatitis 1 infection 2 hepatitis 2 1982 6 since(1982 7 hepatitis 8
-1349 5 hepatitis 1 hepatitis 2 1992 6 2013 6 in(1992 7
-1350 5 hepatitis 1 hepatitis 2 condom 5 assure 5 hepatitis 8
+1348 6 hepatitis 8 since(1982 7 1982 6 infection 2 hepatitis 2 hepatitis 1
+1349 5 in(1992 7 1992 6 2013 6 hepatitis 2 hepatitis 1
+1350 5 hepatitis 8 condom 5 assure 5 hepatitis 2 hepatitis 1
 1351 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-1352 20 endemic 1 typhus 1 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 12 6
+1352 20 12 6 backache 2 high 2 fever 2 pain 2 abdominal 2 nausea 2 respiratory 2 joint 2 vomit 2 dry 2 rash 2 renal 2 ataxia 2 cough 2 seizure 2 red 2 headache 2 endemic 1 typhus 1
 1353 10 fever 2 pain 2 eschar 2 lymphadenopathy 2 myalgia 2 rash 2 vomit 2 cough 2 maculopapular 2 headache 2
-1354 3 typhus 1 epidemic 1 fever 2
+1354 3 fever 2 typhus 1 epidemic 1
 1355 21 seizure 2 photophobia 2 fever 2 pain 2 hearing 2 abdominal 2 nausea 2 drowsiness 2 myalgia 2 joint 2 vomit 2 gangrene 2 severe 2 malaise 2 rash 2 confusion 2 coma 2 delirium 2 cough 2 necrosis 2 headache 2
-1356 4 1943 6 1938 6 in(1938 7 by(1943 7
-1357 3 infection 2 antibiotic 4 intravenous 4
-1358 5 typhus 1 1546 6 1083 6 in(1546 7 in(1083 7
-1359 3 typhus 1 vaccine 4 vaccine 5
+1356 4 in(1938 7 by(1943 7 1943 6 1938 6
+1357 3 antibiotic 4 intravenous 4 infection 2
+1358 5 in(1546 7 in(1083 7 1546 6 1083 6 typhus 1
+1359 3 vaccine 5 vaccine 4 typhus 1
 1360 2 epidemic 1 plague 1
-1362 2 malaria 1 1 6
+1362 2 1 6 malaria 1
 1363 1 malaria 1
-1365 3 malaria 1 drug 2 sick 2
+1365 3 drug 2 sick 2 malaria 1
 1367 2 influenza 1 malaria 1
-1368 3 malaria 1 thrombocytopenia 2 anemia 2
+1368 3 thrombocytopenia 2 anemia 2 malaria 1
 1369 1 malaria 1
-1371 2 ebola 1 21 6
+1371 2 21 6 ebola 1
 1372 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
-1373 10 ebola 1 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2
+1373 10 ache 2 fever 2 pain 2 diarrhea 2 vomit 2 sick 2 stomach 2 cough 2 headache 2 ebola 1
 1374 1 21 6
-1375 11 ebola 1 ebola 1 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 8 ebolavirus 8
-1376 3 ebola 1 infection 2 vaccine 5
-1377 5 ebola 1 cough 2 infection 2 fever 2 vomit 2
+1375 11 ebola 8 ebolavirus 8 fever 2 pain 2 diarrhea 2 rash 2 vomit 2 muscle 2 sore 2 ebola 1 ebola 1
+1376 3 vaccine 5 infection 2 ebola 1
+1377 5 cough 2 infection 2 fever 2 vomit 2 ebola 1
 1378 3 isolation 5 sick 2 infection 2
-1381 4 hepatitis 1 infection 2 hepatitis 2 6 6
+1381 4 6 6 infection 2 hepatitis 2 hepatitis 1
 1382 1 6 6
-1384 3 hepatitis 1 hepatitis 2 6 6
-1385 2 infection 2 6 6
-1386 5 hepatitis 1 liver 2 infection 2 hepatitis 2 hepatitis 8
+1384 3 6 6 hepatitis 2 hepatitis 1
+1385 2 6 6 infection 2
+1386 5 hepatitis 8 liver 2 infection 2 hepatitis 2 hepatitis 1
 1387 3 drug 4 liver 2 liver 2
-1388 4 hepatitis 1 infection 2 hepatitis 2 hepatitis 8
+1388 4 hepatitis 8 infection 2 hepatitis 2 hepatitis 1
 1389 1 infection 2
-1390 5 hepatitis 1 infection 2 hepatitis 2 acupuncture 3 hepatitis 8
+1390 5 hepatitis 8 acupuncture 3 infection 2 hepatitis 2 hepatitis 1
 1392 1 malaria 1
 1393 1 malaria 1
-1395 3 malaria 1 jaundice 2 relate 5
-1396 2 malaria 1 infection 2
+1395 3 relate 5 jaundice 2 malaria 1
+1396 2 infection 2 malaria 1
 1397 1 malaria 1
 1398 1 malaria 1
 1399 1 malaria 1
 1400 1 malaria 1
-1601 2 malaria 1 death 2
-1602 7 malaria 1 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2
-1603 10 ebola 1 flu 1 flulike 2 shock 2 diarrhea 2 low 2 infection 2 vomit 2 pressure 2 ebola 8
-1604 10 typhoid 1 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 antibiotic 4
-1605 10 ebola 1 flu 1 flulike 2 shock 2 diarrhea 2 low 2 infection 2 vomit 2 pressure 2 ebola 8
-1606 6 ebola 1 prevention 5 2014 6 on(the 7 ebola 8 ebolavirus 8
-1608 3 ebola 1 fear 2 anxiety 2
+1401 1 7�?4 7
+1402 4 consult 5 start 4 flulike 2 malaria 1
+1403 4 mosquito 8 past 7 feverish 2 malaria 1
+1404 6 plasmodium 8 9 7 12 7 18 7 11 7 malaria 1
+1405 2 5 7 cholera 1
+1406 5 parasite 8 7 7 3 7 fever 2 malaria 1
+1408 2 1 7 malaria 1
+1409 3 malarial 8 2010 7 malaria 1
+1410 3 221 8 21 7 malaria 1
+1411 4 ebola 8 21 7 31day 7 ebola 1
+1412 2 ebola 7 ebola 1
+1413 3 virus 8 21 7 ebola 1
+1414 2 ebola 8 ebola 1
+1415 2 virus 8 21 7
+1416 3 virus 8 21 7 vaccine 5
+1417 3 virus 8 21 7 october 7
+1418 3 virus 8 21 7 ebola 1
+1419 4 10 7 week 7 antimalarial 4 malaria 1
+1421 2 12 7 10 7
+1422 1 malaria 1
+1423 2 mosquito 8 malaria 1
+1424 4 fever 2 sweat 2 fever 2 malaria 1
+1425 4 malaria 7 malaria 7 sweat 2 allergic 2
+1426 3 medical 5 providing 5 ensure 5
+1427 1 cholera 1
+1428 3 1 7 3 7 cholera 1
+1429 2 week 7 cholera 1
+1430 1 cholera 1
+1431 3 1.4 7 develop 2 cholera 1
+1432 2 814 7 typhoid 1
+1433 3 bacterium 8 7 7 mild 2
+1434 1 bacterium 8
+1435 3 bacterium 8 30 7 significant 2
+1436 5 6�?0 7 typhoid 2 fever 2 typhoid 1 typhus 1
+1437 2 vaccine 5 typhoid 1
+1439 5 heart 2 pneumonia 2 osteomyelitis 2 encephalitis 2 meningitis 2
+1440 2 bacterium 8 20th 7
+1441 5 sustain 2 anorexia 2 lethargy 2 malaise 2 typhus 1
+1442 5 ebola 8 vomit 2 diarrhoea 2 abdominal 2 ebola 1
+1443 3 21 7 october 6 ebola 1
+1444 4 diarrhea 2 vomit 2 bleed 2 ebola 1
+1445 3 virus 8 2 7 ebola 1
+1446 3 virus 8 2 7 ebola 1
+1447 2 20th 7 ebola 1
+1448 2 14may 6 ebola 1
+1449 3 virus 8 2 7 ebola 1
+1450 3 sneeze 2 runny 2 ebola 1
+1451 3 1518 7 1217 7 malaria 1
+1452 1 parasite 8
+1453 1 malaria 1
+1454 2 mosquito 8 malaria 1
+1455 2 mosquito 8 malaria 1
+1456 2 mosquito 8 malaria 1
+1457 8 2 7 fever 2 intense 2 muscle 2 headache 2 vomit 2 diarrhoea 2 rash 2
+1458 3 2 7 watery 2 cholera 1
+1459 3 1976 7 ebola 2 ebola 1
+1460 3 3 7 1980 7 cholera 1
+1461 2 infection 2 cholera 1
+1462 1 cholera 1
+1463 2 14 6 infection 2
+1464 2 dehydration 2 death 2
+1465 2 hiv 8 death 2
+1466 4 period 7 1014 6 2 6 symptom 2
+1467 8 rash 2 petechia 2 delirium 2 stupor 2 hypotension 2 shock 2 death 2 purpura 2
+1468 5 rickettsia 8 louse 8 incubation 7 1 6 typhus 1
+1469 2 1969 6 typhus 1
+1470 5 12 6 fever 2 chill 2 headache 2 typhus 1
+1471 2 1 6 month 6
+1472 7 incubation 7 6 6 12 6 fever 2 chill 2 headache 2 rash 2
+1473 2 14nov 6 typhus 1
+1474 3 2 6 convalescent 4 infection 1
+1475 3 drug 2 infection 2 malaria 1
+1476 2 isolation 2 malaria 1
+1477 3 3 6 12 6 malaria 1
+1478 1 test 3
+1479 3 pcr 3 polymerase 3 malaria 1
+1480 4 arrival 4 test 3 infection 2 malaria 1
+1481 8 relapse 4 presumptive 4 test 3 hemolytic 2 death 2 infection 2 anemia 2 malaria 1
+1482 3 blood 3 infection 2 malaria 1
+1483 2 infection 2 malaria 1
+1484 1 1957 6
+1485 5 in(quarantine 7 twenty 6 excitement 2 cholera 1 plague 1
+1486 8 1835 6 quarantine 5 death 2 fever 2 impotence 2 cholera 1 yellow 1 plague 1
+1487 3 in(1893 7 1893 6 cholera 1
+1488 4 in(1797 7 1797 6 infection 2 cholera 1
+1489 3 isolation 5 death 2 cholera 1
+1490 1 21 6
+1492 2 21day 6 ebola 1
+1493 3 1799;1878;1944 6 power 5 yellow 1
+1494 2 14th 6 potentially 5
+1495 3 21 6 voluntary 5 ebola 1
+1496 1 21 6
+1497 3 h1n1 8 2009 6 h1n1 1
+1498 1 21 6
+1499 1 ebola 1
+1500 3 bleed 3 rash 2 typhus 1
+1501 3 ebola 8 twentyone 7 ebola 1
+1502 4 21 7 25 7 30 7 ebola 1
+1503 5 21 7 25 7 30 7 21 7 exhibit 2
+1504 3 ebola 8 twentyone 7 ebola 1
+1506 1 ebola 1
+1507 5 fever 2 headache 2 diarrhea 2 vomit 2 stomach 2
+1508 4 virus 8 antibody 4 ebola 1 ebola 1
+1509 2 ebola 1 symptom 1
+1510 1 ebola 1
+1511 1 ebola 1
+1512 2 21 7 ev 1
+1513 4 deadly 8 deadly 8 21 7 isolate 5
+1514 3 deadly 8 21 7 ebola 1
+1515 2 21 7 ebola 1
+1516 3 1976 6 ebola 1 ev 1
+1517 1 ebola 1
+1518 3 fruit 8 virus 8 ebola 1
+1519 3 fever 2 muscle 2 ebola 1
+1520 2 virus 8 ebola 1
+1521 2 mosquito 8 malaria 1
+1522 3 hour 7 germ 7 malaria 1
+1523 3 parasite 8 mosquito 8 vivax 1
+1524 3 parasite 8 fetus 8 malaria 1
+1525 2 mosquito 8 malaria 1
+1526 2 mosquito 8 malaria 1
+1528 4 mosquito 8 malaria 1 parasite 1 malaria 1
+1529 1 malaria 1
+1530 1 parasite 1
+1531 2 malaria 1 typhus 1
+1532 1 typhus 1
+1533 1 typhus 1
+1534 2 flea 8 bacterium 8
+1535 1 typhus 1
+1536 5 fever 2 chill 2 headache 2 muscle 2 typhus 1
+1537 1 typhus 1
+1538 1 symptom 2
+1539 4 doxycycline 5 tetracycline 4 laboratory 3 typhus 1
+1540 1 laboratory 3
+1541 2 21 7 ebola 1
+1542 1 21 7
+1543 2 21 7 ebola 1
+1544 3 ebola 8 21 7 ebola 1
+1545 3 21 7 1976 6 ebola 1
+1546 2 ebola 8 ebola 1
+1547 1 ebola 1
+1548 1 virus 8
+1549 3 virus 8 virus 8 ebola 1
+1550 2 ebola 1 ebola 1
+1551 2 21day 7 ebola 1
+1552 2 ebola 1 21day 1
+1553 3 21day 7 1976 6 ebola 1
+1554 3 virus 8 21day 7 ebola 1
+1555 3 21day 7 1976 6 ebola 1
+1556 1 ebola 1
+1557 1 ebola 1
+1558 2 infect 8 ebola 1
+1559 1 ebola 1
+1560 1 ebola 1
+1561 2 21day 7 ebola 1
+1562 3 virus 8 21day 7 ebola 1
+1563 2 21day 7 ebola 1
+1564 3 virus 8 21day 7 ebola 1
+1565 3 virus 8 twentyoneday 7 ebola 1
+1566 2 2014 6 ebola 1
+1567 2 ebola 1 viral 1
+1568 1 ebola 1
+1569 2 1976 6 ebola 1
+1570 1 ebola 1
+1571 3 virus 8 21day 7 ebola 1
+1572 2 virus 8 ebola 1
+1573 3 virus 8 21day 7 22nd 7
+1574 1 ebola 1
+1575 1 21day 7
+1576 1 ebola 1
+1577 1 ebola 1
+1578 1 ebola 1
+1579 2 virus 8 ebola 1
+1580 2 virus 8 ebola 1
+1581 3 221day 6 incubation 5 ebola 1
+1582 6 ebola 8 21 6 3.35 6 11.4 6 12.7 6 1976 6
+1583 4 ebola 8 21 6 quarantine 5 ebola 1
+1584 3 21day 6 quarantine 5 ebola 1
+1585 2 21day 6 ebola 1
+1586 2 quarantine 5 ebola 1
+1587 1 ebola 1
+1588 1 ebola 1
+1589 1 ebola 1
+1590 1 ebola 1
+1591 2 21 6 ebola 1
+1592 2 21 6 ebola 1
+1593 3 21day 6 incubation 5 ebola 1
+1594 2 21day 6 ebola 1
+1595 2 21day 6 ebola 1
+1596 1 ebola 1
+1597 1 ebola 1
+1598 1 virus 8
+1599 1 ebola 1
+1600 1 ebola 1
+1601 2 death 2 malaria 1
+1602 7 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2 malaria 1
+1603 10 ebola 8 flulike 2 shock 2 diarrhea 2 low 2 infection 2 vomit 2 pressure 2 ebola 1 flu 1
+1604 10 antibiotic 4 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 typhoid 1
+1605 10 ebola 8 flulike 2 shock 2 diarrhea 2 low 2 infection 2 vomit 2 pressure 2 ebola 1 flu 1
+1606 6 ebola 8 ebolavirus 8 on(the 7 2014 6 prevention 5 ebola 1
+1608 3 fear 2 anxiety 2 ebola 1
 1609 1 flu 1
-1610 2 ebola 1 test 3
+1610 2 test 3 ebola 1
 1611 2 death 2 blood 2
-1612 4 ebola 1 death 2 blister 2 ebola 8
-1613 3 typhoid 1 fever 2 typhoid 2
-1614 2 cholera 1 diarrhea 2
-1615 20 flu 1 malaria 1 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 15 6
+1612 4 ebola 8 death 2 blister 2 ebola 1
+1613 3 fever 2 typhoid 2 typhoid 1
+1614 2 diarrhea 2 cholera 1
+1615 20 15 6 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 flu 1 malaria 1
 1620 1 ebola 1
-1621 2 malaria 1 infection 2
+1621 2 infection 2 malaria 1
 1622 1 cholera 1
-1623 11 pneumonia 1 typhus 1 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2
-1624 5 ebola 1 pressure 2 dehydration 2 fever 2 diarrhea 2
-1625 5 ebola 1 blood 2 petechia 2 spot 2 red 2
-1626 5 ebola 1 1976 6 14aug 6 since(1976 7 ebola 8
-1627 2 2014 6 in(2014 7
-1630 2 infection 2 in(the 7
-1631 4 ebola 1 ebola 2 infection 2 ebola 8
-1632 3 ebola 1 infection 2 ebola 8
+1623 11 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2 pneumonia 1 typhus 1
+1624 5 pressure 2 dehydration 2 fever 2 diarrhea 2 ebola 1
+1625 5 blood 2 petechia 2 spot 2 red 2 ebola 1
+1626 5 ebola 8 since(1976 7 1976 6 14aug 6 ebola 1
+1627 2 in(2014 7 2014 6
+1630 2 in(the 7 infection 2
+1631 4 ebola 8 ebola 2 infection 2 ebola 1
+1632 3 ebola 8 infection 2 ebola 1
 1633 2 death 2 blood 2
-1634 4 ebola 1 death 2 blister 2 ebola 8
-1635 10 ebola 1 flu 1 flulike 2 shock 2 diarrhea 2 low 2 infection 2 vomit 2 pressure 2 ebola 8
-1636 4 ebola 1 ebola 1 fever 2 ebola 8
+1634 4 ebola 8 death 2 blister 2 ebola 1
+1635 10 ebola 8 flulike 2 shock 2 diarrhea 2 low 2 infection 2 vomit 2 pressure 2 ebola 1 flu 1
+1636 4 ebola 8 fever 2 ebola 1 ebola 1
 1637 1 infection 2
 1638 2 double 2 infection 2
 1639 1 ebola 1
-1641 5 malaria 1 coma 2 convulsion 2 brain 2 fever 2
-1642 2 malaria 1 infection 2
-1643 20 flu 1 malaria 1 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 15 6
-1644 2 malaria 1 death 2
-1645 7 malaria 1 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2
+1641 5 coma 2 convulsion 2 brain 2 fever 2 malaria 1
+1642 2 infection 2 malaria 1
+1643 20 15 6 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 flu 1 malaria 1
+1644 2 death 2 malaria 1
+1645 7 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2 malaria 1
 1646 1 ebola 1
 1647 1 ebola 1
-1648 2 may75 6 in(may 7
+1648 2 in(may 7 may75 6
 1649 1 malaria 1
-1651 4 typhus 1 coma 2 death 2 fever 2
-1652 11 pneumonia 1 typhus 1 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2
-1653 3 typhoid 1 fever 2 typhoid 2
+1651 4 coma 2 death 2 fever 2 typhus 1
+1652 11 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2 pneumonia 1 typhus 1
+1653 3 fever 2 typhoid 2 typhoid 1
 1654 1 typhus 1
-1655 10 typhoid 1 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 antibiotic 4
-1657 2 ebola 1 ebola 8
-1658 6 ebola 1 ebola 1 fever 2 ebola 8 ebolavirus 8 virus 8
+1655 10 antibiotic 4 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 typhoid 1
+1657 2 ebola 8 ebola 1
+1658 6 ebola 8 ebolavirus 8 virus 8 fever 2 ebola 1 ebola 1
 1659 1 ebolavirus 8
-1660 4 ebola 1 2007 6 in(uganda 7 ebolavirus 8
-1661 2 cholera 1 excoriation 2
+1660 4 ebolavirus 8 in(uganda 7 2007 6 ebola 1
+1661 2 excoriation 2 cholera 1
 1662 1 cholera 1
-1663 2 cholera 1 diarrhea 2
+1663 2 diarrhea 2 cholera 1
 1664 1 cholera 1
-1665 2 cholera 1 infection 2
-1666 2 ebola 1 ebolavirus 8
-1667 4 ebola 1 1976 6 in(1976 7 ebolavirus 8
-1668 3 ebola 1 13dec 6 on(28 7
-1669 3 ebola 1 2014 6 since(the 7
-1670 2 ebola 1 at(the 7
+1665 2 infection 2 cholera 1
+1666 2 ebolavirus 8 ebola 1
+1667 4 ebolavirus 8 in(1976 7 1976 6 ebola 1
+1668 3 on(28 7 13dec 6 ebola 1
+1669 3 since(the 7 2014 6 ebola 1
+1670 2 at(the 7 ebola 1
 1671 2 death 2 blood 2
-1672 4 ebola 1 death 2 blister 2 ebola 8
-1673 10 ebola 1 flu 1 flulike 2 shock 2 diarrhea 2 low 2 infection 2 vomit 2 pressure 2 ebola 8
-1674 5 ebola 1 pressure 2 dehydration 2 fever 2 diarrhea 2
-1675 5 ebola 1 blood 2 petechia 2 spot 2 red 2
-1676 3 ebola 1 blood 3 ebola 8
-1677 2 ebola 1 2014 6
-1678 2 ebola 1 ebola 8
-1679 7 ebola 1 2002 6 1976 6 1979 6 2005 6 in(a 7 in(the 7
-1680 7 infection 2 1976 6 2001 6 2003 6 1998 6 during(outbreak 7 ebolavirus 8
-1681 5 malaria 1 coma 2 convulsion 2 brain 2 fever 2
-1682 2 malaria 1 infection 2
-1683 20 flu 1 malaria 1 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 15 6
-1684 2 malaria 1 death 2
-1685 7 malaria 1 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2
+1672 4 ebola 8 death 2 blister 2 ebola 1
+1673 10 ebola 8 flulike 2 shock 2 diarrhea 2 low 2 infection 2 vomit 2 pressure 2 ebola 1 flu 1
+1674 5 pressure 2 dehydration 2 fever 2 diarrhea 2 ebola 1
+1675 5 blood 2 petechia 2 spot 2 red 2 ebola 1
+1676 3 ebola 8 blood 3 ebola 1
+1677 2 2014 6 ebola 1
+1678 2 ebola 8 ebola 1
+1679 7 in(a 7 in(the 7 2002 6 1976 6 1979 6 2005 6 ebola 1
+1680 7 ebolavirus 8 during(outbreak 7 1976 6 2001 6 2003 6 1998 6 infection 2
+1681 5 coma 2 convulsion 2 brain 2 fever 2 malaria 1
+1682 2 infection 2 malaria 1
+1683 20 15 6 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 flu 1 malaria 1
+1684 2 death 2 malaria 1
+1685 7 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2 malaria 1
 1689 1 infection 2
 1690 1 sick 2
-1691 4 typhus 1 coma 2 death 2 fever 2
-1692 11 pneumonia 1 typhus 1 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2
-1693 3 typhoid 1 fever 2 typhoid 2
+1691 4 coma 2 death 2 fever 2 typhus 1
+1692 11 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2 pneumonia 1 typhus 1
+1693 3 fever 2 typhoid 2 typhoid 1
 1694 1 typhus 1
-1695 10 typhoid 1 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 antibiotic 4
-1697 3 ebola 1 infection 2 ebola 8
+1695 10 antibiotic 4 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 typhoid 1
+1697 3 ebola 8 infection 2 ebola 1
 1698 1 ebola 1
-1699 2 ebola 1 ebola 8
+1699 2 ebola 8 ebola 1
 1700 1 flu 1
-1701 2 cholera 1 excoriation 2
+1701 2 excoriation 2 cholera 1
 1702 1 cholera 1
-1703 2 cholera 1 diarrhea 2
+1703 2 diarrhea 2 cholera 1
 1704 1 cholera 1
-1705 2 cholera 1 infection 2
+1705 2 infection 2 cholera 1
 1706 2 rash 2 maculopapular 2
 1708 1 7 6
 1709 3 bleed 2 death 2 blood 2
 1710 2 death 2 sick 2
-1711 4 ebola 1 ebola 2 infection 2 ebola 8
-1712 3 ebola 1 infection 2 ebola 8
-1713 5 ebola 1 pressure 2 dehydration 2 fever 2 diarrhea 2
-1714 5 ebola 1 blood 2 petechia 2 spot 2 red 2
+1711 4 ebola 8 ebola 2 infection 2 ebola 1
+1712 3 ebola 8 infection 2 ebola 1
+1713 5 pressure 2 dehydration 2 fever 2 diarrhea 2 ebola 1
+1714 5 blood 2 petechia 2 spot 2 red 2 ebola 1
 1715 2 death 2 blood 2
-1716 3 ebola 1 infection 2 ebola 8
-1717 4 loss 2 fever 2 infection 2 tnf 3
+1716 3 ebola 8 infection 2 ebola 1
+1717 4 tnf 3 loss 2 fever 2 infection 2
 1719 2 pcr 3 polymerase 3
 1720 2 isolation 5 pcr 3
-1721 5 malaria 1 coma 2 convulsion 2 brain 2 fever 2
-1722 2 malaria 1 infection 2
-1723 20 flu 1 malaria 1 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 15 6
-1724 2 malaria 1 death 2
-1725 7 malaria 1 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2
-1726 10 typhoid 1 malaria 1 cholera 1 typhus 1 shigellosis 1 dengue 1 viral 2 fever 2 typhoid 2 marburg 8
-1727 13 leishmaniasis 1 measles 1 typhus 1 candidiasis 1 hepatitis 1 leptospirosis 1 plague 1 histoplasmosis 1 smallpox 1 leptospirosis 2 fever 2 hepatitis 2 smallpox 8
-1728 2 kawasaki 1 telangiectasia 2
+1721 5 coma 2 convulsion 2 brain 2 fever 2 malaria 1
+1722 2 infection 2 malaria 1
+1723 20 15 6 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 flu 1 malaria 1
+1724 2 death 2 malaria 1
+1725 7 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2 malaria 1
+1726 10 marburg 8 viral 2 fever 2 typhoid 2 typhoid 1 malaria 1 cholera 1 typhus 1 shigellosis 1 dengue 1
+1727 13 smallpox 8 leptospirosis 2 fever 2 hepatitis 2 leishmaniasis 1 measles 1 typhus 1 candidiasis 1 hepatitis 1 leptospirosis 1 plague 1 histoplasmosis 1 smallpox 1
+1728 2 telangiectasia 2 kawasaki 1
 1729 1 ebola 1
 1730 1 ebola 1
-1731 4 typhus 1 coma 2 death 2 fever 2
-1732 11 pneumonia 1 typhus 1 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2
-1733 3 typhoid 1 fever 2 typhoid 2
+1731 4 coma 2 death 2 fever 2 typhus 1
+1732 11 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2 pneumonia 1 typhus 1
+1733 3 fever 2 typhoid 2 typhoid 1
 1734 1 typhus 1
-1735 10 typhoid 1 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 antibiotic 4
-1736 2 ebola 1 isolation 5
-1737 3 stomatitis 2 ebolavirus 8 adenovirus 8
+1735 10 antibiotic 4 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 typhoid 1
+1736 2 isolation 5 ebola 1
+1737 3 ebolavirus 8 adenovirus 8 stomatitis 2
 1739 1 ebolavirus 8
-1740 4 ebola 1 fever 2 infection 2 headache 2
-1741 2 cholera 1 excoriation 2
+1740 4 fever 2 infection 2 headache 2 ebola 1
+1741 2 excoriation 2 cholera 1
 1742 1 cholera 1
-1743 2 cholera 1 diarrhea 2
+1743 2 diarrhea 2 cholera 1
 1744 1 cholera 1
-1745 2 cholera 1 infection 2
-1746 2 drug 4 2014 6
-1747 3 ebola 1 2014 4 2014 6
+1745 2 infection 2 cholera 1
+1746 2 2014 6 drug 4
+1747 3 2014 6 2014 4 ebola 1
 1748 1 ebola 1
 1749 1 infection 2
-1750 4 dehydration 2 death 2 supportive 5 14apr 6
-1751 5 malaria 1 coma 2 convulsion 2 brain 2 fever 2
-1752 2 cholera 1 excoriation 2
-1753 4 typhus 1 coma 2 death 2 fever 2
-1754 4 ebola 1 ebola 2 infection 2 ebola 8
-1755 3 ebola 1 infection 2 ebola 8
+1750 4 14apr 6 supportive 5 dehydration 2 death 2
+1751 5 coma 2 convulsion 2 brain 2 fever 2 malaria 1
+1752 2 excoriation 2 cholera 1
+1753 4 coma 2 death 2 fever 2 typhus 1
+1754 4 ebola 8 ebola 2 infection 2 ebola 1
+1755 3 ebola 8 infection 2 ebola 1
 1758 1 fever 2
-1759 3 typhus 1 death 2 fever 2
+1759 3 death 2 fever 2 typhus 1
 1760 2 fever 2 infection 2
-1761 5 ebola 1 blood 2 petechia 2 spot 2 red 2
+1761 5 blood 2 petechia 2 spot 2 red 2 ebola 1
 1762 2 death 2 blood 2
-1763 4 ebola 1 death 2 blister 2 ebola 8
-1764 4 ebola 1 ebola 2 infection 2 ebola 8
-1765 3 ebola 1 infection 2 ebola 8
-1766 8 aid 1 typhoid 1 fever 2 typhoid 2 infection 2 2004 6 in(2004 7 hiv 8
-1767 4 infection 2 2006 6 2010 6 2007 6
-1768 7 histoplasmosis 1 malaria 1 schistosomiasis 1 meningitis 1 bartonellosis 2 meningitis 2 infection 2
-1769 4 typhoid 1 fever 2 typhoid 2 20072010 6
-1771 5 malaria 1 coma 2 convulsion 2 brain 2 fever 2
-1772 2 malaria 1 infection 2
-1773 20 flu 1 malaria 1 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 15 6
-1774 2 malaria 1 death 2
-1775 7 malaria 1 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2
-1776 50 typhoid 1 optic 2 typhoid 2 constipation 2 abdominal 2 ulcer 2 weight 2 dehydration 2 spot 2 crackle 2 death 2 rhonchi 2 macule 2 intestinal 2 epistaxi 2 rash 2 weakness 2 dry 2 abdominal 2 endocarditis 2 rose 2 headache 2 high 2 fever 2 pain 2 thrombocytopenia 2 confusion 2 infection 2 pressure 2 retinal 2 detachment 2 pick 2 cough 2 leukopenia 2 myocarditis 2 gallstone 2 apathy 2 cholecystitis 2 weak 2 tenderness 2 malaise 2 lymphocytosis 2 borborygmi 2 encephalitis 2 uveitis 2 bradycardia 2 test 3 bone 3 marrow 3 antibiotic 4
-1777 19 typhoid 1 anorexia 2 headache 2 cough 2 pain 2 constipation 2 abdominal 2 typhoid 2 infection 2 sweat 2 fever 2 dry 2 spot 2 weakness 2 rose 2 dizziness 2 chill 2 sore 2 bradycardia 2
-1778 11 typhoid 1 fever 2 typhoid 2 tenderness 2 epistaxi 2 pressure 2 splenomegaly 2 malaise 2 abdominal 2 increase 2 headache 2
-1779 4 schistosomiasis 1 malaria 1 fever 2 rash 2
-1780 20 african 1 yellow 1 influenza 1 malaria 1 cholera 1 typhus 1 dengue 1 tuberculosis 1 ebola 1 abscess 2 fever 2 pain 2 abdominal 2 infection 2 neurological 2 isolation 5 high 4 high 5 2010 6 in(2010 7
-1781 4 typhus 1 coma 2 death 2 fever 2
-1782 11 pneumonia 1 typhus 1 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2
-1783 3 typhoid 1 fever 2 typhoid 2
+1763 4 ebola 8 death 2 blister 2 ebola 1
+1764 4 ebola 8 ebola 2 infection 2 ebola 1
+1765 3 ebola 8 infection 2 ebola 1
+1766 8 hiv 8 in(2004 7 2004 6 fever 2 typhoid 2 infection 2 aid 1 typhoid 1
+1767 4 2006 6 2010 6 2007 6 infection 2
+1768 7 bartonellosis 2 meningitis 2 infection 2 histoplasmosis 1 malaria 1 schistosomiasis 1 meningitis 1
+1769 4 20072010 6 fever 2 typhoid 2 typhoid 1
+1771 5 coma 2 convulsion 2 brain 2 fever 2 malaria 1
+1772 2 infection 2 malaria 1
+1773 20 15 6 kidney 2 ache 2 headache 2 death 2 muscle 2 confusion 2 nausea 2 diarrhea 2 infection 2 vomit 2 fever 2 jaundice 2 tiredness 2 coma 2 chill 2 seizure 2 anemia 2 flu 1 malaria 1
+1774 2 death 2 malaria 1
+1775 7 severe 2 confusion 2 drowsiness 2 coma 2 convulsion 2 headache 2 malaria 1
+1776 50 antibiotic 4 test 3 bone 3 marrow 3 optic 2 typhoid 2 constipation 2 abdominal 2 ulcer 2 weight 2 dehydration 2 spot 2 crackle 2 death 2 rhonchi 2 macule 2 intestinal 2 epistaxi 2 rash 2 weakness 2 dry 2 abdominal 2 endocarditis 2 rose 2 headache 2 high 2 fever 2 pain 2 thrombocytopenia 2 confusion 2 infection 2 pressure 2 retinal 2 detachment 2 pick 2 cough 2 leukopenia 2 myocarditis 2 gallstone 2 apathy 2 cholecystitis 2 weak 2 tenderness 2 malaise 2 lymphocytosis 2 borborygmi 2 encephalitis 2 uveitis 2 bradycardia 2 typhoid 1
+1777 19 anorexia 2 headache 2 cough 2 pain 2 constipation 2 abdominal 2 typhoid 2 infection 2 sweat 2 fever 2 dry 2 spot 2 weakness 2 rose 2 dizziness 2 chill 2 sore 2 bradycardia 2 typhoid 1
+1778 11 fever 2 typhoid 2 tenderness 2 epistaxi 2 pressure 2 splenomegaly 2 malaise 2 abdominal 2 increase 2 headache 2 typhoid 1
+1779 4 fever 2 rash 2 schistosomiasis 1 malaria 1
+1780 20 in(2010 7 2010 6 isolation 5 high 5 high 4 abscess 2 fever 2 pain 2 abdominal 2 infection 2 neurological 2 african 1 yellow 1 influenza 1 malaria 1 cholera 1 typhus 1 dengue 1 tuberculosis 1 ebola 1
+1781 4 coma 2 death 2 fever 2 typhus 1
+1782 11 stupor 2 constipation 2 rash 2 pneumonia 2 splenomegaly 2 kidney 2 delirium 2 renal 2 bradycardia 2 pneumonia 1 typhus 1
+1783 3 fever 2 typhoid 2 typhoid 1
 1784 1 typhus 1
-1785 10 typhoid 1 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 antibiotic 4
-1786 5 fever 2 infection 2 antibiotic 4 clinically 4 empiric 4
-1787 12 typhoid 1 drug 2 fever 2 typhoid 2 abdominal 2 infection 2 antibiotic 4 antipyretic 4 antibiotic 4 ideal 4 ciprofloxacin 4 treatment 4
-1788 2 infection 2 empirical 4
-1789 13 typhoid 1 hepatitis 1 death 2 typhoid 2 myocarditis 2 pancreatitis 2 infection 2 cholecystitis 2 fever 2 hepatitis 2 jaundice 2 ecg 3 iv 4
-1790 3 schistosomiasis 1 infection 2 cholecystectomy 3
-1791 2 cholera 1 excoriation 2
+1785 10 antibiotic 4 fever 2 lethargy 2 abdominal 2 typhoid 2 spot 2 rose 2 pain 2 headache 2 typhoid 1
+1786 5 antibiotic 4 clinically 4 empiric 4 fever 2 infection 2
+1787 12 antibiotic 4 antipyretic 4 antibiotic 4 ideal 4 ciprofloxacin 4 treatment 4 drug 2 fever 2 typhoid 2 abdominal 2 infection 2 typhoid 1
+1788 2 empirical 4 infection 2
+1789 13 iv 4 ecg 3 death 2 typhoid 2 myocarditis 2 pancreatitis 2 infection 2 cholecystitis 2 fever 2 hepatitis 2 jaundice 2 typhoid 1 hepatitis 1
+1790 3 cholecystectomy 3 infection 2 schistosomiasis 1
+1791 2 excoriation 2 cholera 1
 1792 1 cholera 1
-1793 2 cholera 1 diarrhea 2
+1793 2 diarrhea 2 cholera 1
 1794 1 cholera 1
-1795 2 cholera 1 infection 2
-1797 2 infection 2 1907 6
+1795 2 infection 2 cholera 1
+1797 2 1907 6 infection 2
 1798 1 isolation 5
 1800 2 fever 2 infection 2
-1801 2 cholera 1 diarrhea 2
-1802 5 cholera 1 profuse 2 vomit 2 leg 2 dehydration 2
+1801 2 diarrhea 2 cholera 1
+1802 5 profuse 2 vomit 2 leg 2 dehydration 2 cholera 1
 1803 2 5day 6 23day 6
-1804 6 cholera 1 diarrhea 2 rehydration 4 intravenous 4 rehydration 4 salt 4
-1805 2 cholera 1 recovery 4
-1806 7 cholera 1 23 6 412 6 diarrhea 2 liquid 2 shock 2 rehydration 4
-1807 5 rehydration 4 salt 4 sugar 4 dehydration 2 replace 4
-1808 6 month 7 rapid 2 diarrhea 2 cholera 1 2 6 vaccine 5
+1804 6 rehydration 4 intravenous 4 rehydration 4 salt 4 diarrhea 2 cholera 1
+1805 2 recovery 4 cholera 1
+1806 7 23 6 412 6 rehydration 4 diarrhea 2 liquid 2 shock 2 cholera 1
+1807 5 rehydration 4 salt 4 sugar 4 replace 4 dehydration 2
+1808 6 month 7 2 6 vaccine 5 rapid 2 diarrhea 2 cholera 1
 1809 3 bacterium 8 month 6 year 6
-1810 7 5 6 previous 7 rehydration 4 salt 4 cholera 1 vomit 2 diarrhoea 2
-1811 3 cholera 1 early 7 week 6
-1812 6 typhus 1 doxycycline 4 3day 6 7day 6 tetracycline 4 4 6
-1813 5 typhus 1 jail 1 rickettsia 8 flea 8 antibiotic 4
+1810 7 previous 7 5 6 rehydration 4 salt 4 vomit 2 diarrhoea 2 cholera 1
+1811 3 early 7 week 6 cholera 1
+1812 6 3day 6 7day 6 4 6 doxycycline 4 tetracycline 4 typhus 1
+1813 5 rickettsia 8 flea 8 antibiotic 4 typhus 1 jail 1
 1814 6 oral 4 tetracycline 4 doxycycline 4 azithromycin 4 iv 4 kidney 2
-1815 3 brillzinnse 1 typhus 1 antibiotic 4
-1816 5 azithromycin 4 1week 6 daily 6 doxycycline 4 typhus 1
-1817 7 azithromycin 4 1week 6 daily 6 doxycycline 4 21 6 29 6 1month 6
-1818 5 september 6 november 6 azithromycin 4 doxycycline 4 typhus 1
-1819 2 tuberculosis 1 mycobacterium 8
-1820 2 typhus 1 rickettsia 8
-1821 5 typhus 2 flea 8 rickettsia 8 typhus 1 today 6
-1822 2 malaria 1 antimalarial 5
-1823 3 blood 3 malaria 8 day 7
-1824 5 malaria 1 recovery 4 antimalarial 4 quinine 4 chloroquine 4
-1825 4 duration 7 malaria 1 antimalarial 5 plasmodium 1
-1826 4 malaria 1 parasite 8 weak 2 tire 2
+1815 3 antibiotic 4 brillzinnse 1 typhus 1
+1816 5 1week 6 daily 6 azithromycin 4 doxycycline 4 typhus 1
+1817 7 1week 6 daily 6 21 6 29 6 1month 6 azithromycin 4 doxycycline 4
+1818 5 2sep 6 3nov 6 azithromycin 4 doxycycline 4 typhus 1
+1819 2 mycobacterium 8 tuberculosis 1
+1820 2 rickettsia 8 typhus 1
+1821 5 flea 8 rickettsia 8 today 6 typhus 2 typhus 1
+1822 2 antimalarial 5 malaria 1
+1823 3 malaria 8 day 7 blood 3
+1824 5 recovery 4 antimalarial 4 quinine 4 chloroquine 4 malaria 1
+1825 4 duration 7 antimalarial 5 malaria 1 plasmodium 1
+1826 4 parasite 8 weak 2 tire 2 malaria 1
 1827 5 chloroquine 4 quinidine 4 doxycycline 4 tetracycline 4 pyrimethamine 4
-1828 3 malaria 1 blood 3 year 6
-1829 6 9 6 12 6 18 6 11 6 plasmodium 8 malaria 1
-1830 3 malaria 1 malaria 8 spleen 2
-1831 3 7 6 chemoprophylaxi 5 8 6
-1835 3 ebola 1 antibody 5 atleast10year 6
-1836 4 vaccine 4 ebola 1 treat 8 providing 5
-1838 4 ev 1 treatment 4 hypovolemia 2 approve 5
-1839 3 maintenance 4 large 5 west 8
+1828 3 year 6 blood 3 malaria 1
+1829 6 plasmodium 8 9 6 12 6 18 6 11 6 malaria 1
+1830 3 malaria 8 spleen 2 malaria 1
+1831 3 7 6 8 6 chemoprophylaxi 5
+1835 3 atleast10year 6 antibody 5 ebola 1
+1836 4 treat 8 providing 5 vaccine 4 ebola 1
+1838 4 approve 5 treatment 4 hypovolemia 2 ev 1
+1839 3 west 8 large 5 maintenance 4
 1840 2 21day 6 ebola 1
-1841 4 ev 1 symptom 2 control 5 21day 6
+1841 4 21day 6 control 5 symptom 2 ev 1
 1842 3 ebola 8 1976 6 ebola 1
 1843 2 ebola 8 supportive 4
 1844 11 fever 2 muscle 2 chill 2 generalize 2 headache 2 sore 2 diarrhea 2 bloody 2 bruise 2 vomit 2 nausea 2
-1845 2 21 6 ebola 8
+1845 2 ebola 8 21 6
 1846 1 supportive 4
 1848 5 10 6 fever 2 diarrhea 2 bleed 2 vomit 2
-1851 2 ebola 1 antibody 4
+1851 2 antibody 4 ebola 1
 1852 1 ebola 1
 1853 1 ebola 1
-1854 3 week 6 isolation 4 ebola 8
-1855 2 ebola 1 aggressive 4
-1858 3 cholera 1 diarrheal 2 bacterium 8
-1859 6 cholera 1 renal 2 electrolyte 2 dehydration 2 hour 6 shock 2
-1860 2 diarrhea 2 vibrio 8
-1861 3 quickly 7 person 8 rapidly 4
-1862 3 antibiotic 4 diarrhea 2 hygienic 5
+1854 3 ebola 8 week 6 isolation 4
+1855 2 aggressive 4 ebola 1
+1858 3 bacterium 8 diarrheal 2 cholera 1
+1859 6 hour 6 renal 2 electrolyte 2 dehydration 2 shock 2 cholera 1
+1860 2 vibrio 8 diarrhea 2
+1861 3 person 8 quickly 7 rapidly 4
+1862 3 hygienic 5 antibiotic 4 diarrhea 2
 1863 2 diarrhoea 2 loss 2
 1864 3 24 6 sugar 4 replace 4
-1865 2 cholera 1 quickly 7
-1866 4 electrolyte 4 cholera 1 severe 2 intravenously 4
-1867 4 cholera 1 today 6 bacterium 8 electrolyte 4
-1868 2 ebola 1 virus 8
-1869 2 ebola 1 march 6
-1871 2 antibiotic 4 vaccination 5
+1865 2 quickly 7 cholera 1
+1866 4 electrolyte 4 intravenously 4 severe 2 cholera 1
+1867 4 bacterium 8 today 6 electrolyte 4 cholera 1
+1868 2 virus 8 ebola 1
+1869 2 13mar 6 ebola 1
+1871 2 vaccination 5 antibiotic 4
 1872 3 2 6 fever 2 typhus 1
-1873 4 typhus 1 rickettsia 8 bacterium 8 infect 8
-1874 6 typhus 1 epidemic 1 brillzinss 1 murine 1 scrub 1 rickettsia 8
+1873 4 rickettsia 8 bacterium 8 infect 8 typhus 1
+1874 6 rickettsia 8 typhus 1 epidemic 1 brillzinss 1 murine 1 scrub 1
 1875 3 antibody 3 viral 3 rickettsial 1
-1876 4 typhus 1 brillzinss 1 scrub 1 sulfa 4
-1877 6 current 7 typhus 1 tetracycline 4 chloramphenicol 4 antibiotic 4 intravenous 4
+1876 4 sulfa 4 typhus 1 brillzinss 1 scrub 1
+1877 6 current 7 tetracycline 4 chloramphenicol 4 antibiotic 4 intravenous 4 typhus 1
 1878 2 scrub 1 hivpositive 1
-1879 4 doxycycline 4 24 6 7 6 chloramphenicol 4
+1879 4 24 6 7 6 doxycycline 4 chloramphenicol 4
 1880 3 2 6 fatigue 2 malaise 2
-1881 3 2week 6 malaria 1 fever 2
-1883 4 malaria 1 cure 4 malaria 8 short 7
+1881 3 2week 6 fever 2 malaria 1
+1883 4 malaria 8 short 7 cure 4 malaria 1
 1884 2 plasmodium 8 malaria 1
 1885 1 malaria 1
-1886 3 malaria 7 malaria 1 acquire 5
+1886 3 malaria 7 acquire 5 malaria 1
 1887 1 antimalarial 5
-1888 2 intermittent 4 prevention 5
-1889 2 antimalarial 5 parasite 8
+1888 2 prevention 5 intermittent 4
+1889 2 parasite 8 antimalarial 5
 1890 1 artemisininbase 4
 1891 2 treatment 5 malaria 1
-1892 3 malaria 1 quickly 7 natural 5
-1893 3 malaria 1 long 7 couple 6
-1894 4 malariainfect 8 parasite 8 malaria 1 blood 2
+1892 3 quickly 7 natural 5 malaria 1
+1893 3 long 7 couple 6 malaria 1
+1894 4 malariainfect 8 parasite 8 blood 2 malaria 1
 1895 3 early 7 week 6 month 6
-1896 2 malaria 1 death 2
-1897 4 malaria 1 mosquito 8 antimalarial 4 year 6
-1898 2 malaria 1 antimalarial 4
-1899 7 malaria 1 quickly 7 anaemia 2 seizure 2 coma 2 drowsiness 2 weakness 2
-1900 6 malaria 1 antibiotic 4 iv 4 month 6 week 6 malarial 8
-1901 3 malaria 1 mosquito 8 antibacterial 4
-1902 8 cholera 1 diarrheal 1 bacterium 8 2 6 dehydration 2 hypovolemic 2 hypotension 2 hour 6
-1903 3 cholera 1 shellfish 8 cholera 8
+1896 2 death 2 malaria 1
+1897 4 mosquito 8 year 6 antimalarial 4 malaria 1
+1898 2 antimalarial 4 malaria 1
+1899 7 quickly 7 anaemia 2 seizure 2 coma 2 drowsiness 2 weakness 2 malaria 1
+1900 6 malarial 8 month 6 week 6 antibiotic 4 iv 4 malaria 1
+1901 3 mosquito 8 antibacterial 4 malaria 1
+1902 8 bacterium 8 2 6 hour 6 dehydration 2 hypovolemic 2 hypotension 2 cholera 1 diarrheal 1
+1903 3 shellfish 8 cholera 8 cholera 1
 1904 5 electrolyte 4 prompt 4 antibiotic 4 intravenous 4 dehydration 2
-1905 5 cholera 1 dehydration 2 rehydration 4 rehydration 4 timely 7
-1906 6 cholera 1 day 6 day 6 day 6 antibiotic 4 metagenomic 3
-1907 6 cholera 1 1–3 6 rehydration 4 cephalosporin 4 penicillin 4 antibiotic 4
-1908 3 rice 2 rehydration 4 56 6
-1909 4 tetracycline 4 48 6 purify 4 oral 4
-1910 6 traveler 1 diarrhea 2 anxiety 2 stress 2 fatigue 2 dietary 2
-1911 5 diarrhea 2 3 6 bowel 2 weakness 2 seizure 2
+1905 5 timely 7 rehydration 4 rehydration 4 dehydration 2 cholera 1
+1906 6 day 6 day 6 day 6 antibiotic 4 metagenomic 3 cholera 1
+1907 6 1 6 rehydration 4 cephalosporin 4 penicillin 4 antibiotic 4 cholera 1
+1908 3 56 6 rehydration 4 rice 2
+1909 4 48 6 tetracycline 4 purify 4 oral 4
+1910 6 diarrhea 2 anxiety 2 stress 2 fatigue 2 dietary 2 traveler 1
+1911 5 3 6 diarrhea 2 bowel 2 weakness 2 seizure 2
 1912 3 bodily 8 fece 8 ebola 1
-1913 3 ebola 1 couple 6 2 6
-1914 3 ebola 1 kidney 2 dialysis 4
-1915 3 1976 6 ebola 1 2014 6
-1917 5 experimental 4 10 6 joint 2 antibody 5 supportive 4
-1918 10 fever 2 headache 2 joint 2 hemorrhage 2 early 7 intravenous 4 electrolyte 4 dehydration 2 shock 2 low 2
-1919 2 ebola 1 virus 8
-1921 6 experimental 4 ebola 1 supportively 4 intravenous 4 supplemental 4 antibiotic 4
+1913 3 couple 6 2 6 ebola 1
+1914 3 dialysis 4 kidney 2 ebola 1
+1915 3 1976 6 2014 6 ebola 1
+1917 5 10 6 antibody 5 experimental 4 supportive 4 joint 2
+1918 10 early 7 intravenous 4 electrolyte 4 fever 2 headache 2 joint 2 hemorrhage 2 dehydration 2 shock 2 low 2
+1919 2 virus 8 ebola 1
+1921 6 experimental 4 supportively 4 intravenous 4 supplemental 4 antibiotic 4 ebola 1
 1922 2 rickettsia 8 typhus 1
-1923 5 headache 2 arthralgia 2 ill 2 high 2 spontaneously 7
+1923 5 spontaneously 7 headache 2 arthralgia 2 ill 2 high 2
 1924 2 rat 8 generalize 2
-1925 5 spot 2 paralysis 2 pneumonia 1 fever 2 hepatitis 1
+1925 5 spot 2 paralysis 2 fever 2 pneumonia 1 hepatitis 1
 1926 3 1 6 week 6 month 6
-1927 2 typhus 1 sulfa 4
-1928 3 doxycycline 4 malaria 1 23 6
-1929 3 fever 2 antimalarial 4 nausea 2
-1930 4 2 6 malaria 1 malnutrition 2 tb 1
-1931 5 malaria 1 1940 6 1970 6 mosquito 8 chloroquine 4
-1932 2 malaria 1 blood 3
-1933 9 malaria 1 week 6 2 6 fever 2 headache 2 body 2 vomit 2 weakness 2 diarrhea 2
-1935 3 ebola 1 day 6 3 6
-1936 3 fatigue 2 ebola 1 hemorrhagic 2
-1937 4 hemorrhagic 2 day 6 16 6 ebola 8
-1938 9 supportive 4 ebola 8 21 6 30 6 90 6 21 6 42 6 120 6 150 6
+1927 2 sulfa 4 typhus 1
+1928 3 23 6 doxycycline 4 malaria 1
+1929 3 antimalarial 4 fever 2 nausea 2
+1930 4 2 6 malnutrition 2 malaria 1 tb 1
+1931 5 mosquito 8 1940 6 1970 6 chloroquine 4 malaria 1
+1932 2 blood 3 malaria 1
+1933 9 week 6 2 6 fever 2 headache 2 body 2 vomit 2 weakness 2 diarrhea 2 malaria 1
+1935 3 day 6 3 6 ebola 1
+1936 3 fatigue 2 hemorrhagic 2 ebola 1
+1937 4 ebola 8 day 6 16 6 hemorrhagic 2
+1938 9 ebola 8 21 6 30 6 90 6 21 6 42 6 120 6 150 6 supportive 4
 1940 6 ebola 8 balance 4 electrolyte 4 procoagulant 4 oxygen 4 antibiotic 4
-1941 3 intensive 4 shock 2 fluid 4
+1941 3 intensive 4 fluid 4 shock 2
 1942 4 ebola 8 quickly 7 low 2 shock 2
 1944 1 ebola 1
-1945 3 ebola 1 relief 4 supportive 4
-1946 3 september 6 october 6 ebola 8
+1945 3 relief 4 supportive 4 ebola 1
+1946 3 ebola 8 1sep 6 1oct 6
 1947 2 dehydration 2 cholera 1
-1948 2 cholera 1 prognosis 4
-1949 2 dehydration 2 fluid 4
-1950 3 cholera 1 rehydration 4 replacement 4
-1951 5 cholera 1 diarrhea 2 vomit 2 dehydration 2 electrolyte 4
-1952 3 cholera 1 sanitation 5 waste 5
+1948 2 prognosis 4 cholera 1
+1949 2 fluid 4 dehydration 2
+1950 3 rehydration 4 replacement 4 cholera 1
+1951 5 electrolyte 4 diarrhea 2 vomit 2 dehydration 2 cholera 1
+1952 3 sanitation 5 waste 5 cholera 1
 1953 1 cholera 5
-1954 4 peru15 5 cholera 1 2003 6 2004 6
-1955 2 cholera 1 dehydrate 2
+1954 4 2003 6 2004 6 peru15 5 cholera 1
+1955 2 dehydrate 2 cholera 1
 1956 2 replace 4 electrolyte 4
-1957 4 typhus 1 mouse 8 spot 2 swelling 2
-1958 2 scrub 1 rickettsia 8
-1959 5 scrub 1 antibiotic 4 tetracycline 4 chloramphenicol 4 fever 2
-1960 5 antibiotic 4 typhus 1 short 7 modern 7 rickettsial 8
-1961 6 headache 2 chill 2 prostration 2 fever 2 hemorrhagic 2 2 6
-1962 3 typhus 1 infect 8 ectoparasite 8
-1963 4 doxycycline 4 7 6 3 6 fever 2
+1957 4 mouse 8 spot 2 swelling 2 typhus 1
+1958 2 rickettsia 8 scrub 1
+1959 5 antibiotic 4 tetracycline 4 chloramphenicol 4 fever 2 scrub 1
+1960 5 rickettsial 8 short 7 modern 7 antibiotic 4 typhus 1
+1961 6 2 6 headache 2 chill 2 prostration 2 fever 2 hemorrhagic 2
+1962 3 infect 8 ectoparasite 8 typhus 1
+1963 4 7 6 3 6 doxycycline 4 fever 2
 1964 3 tetracycline 4 doxycycline 4 fluoroquinolone 4
-1965 2 typhus 1 rickettsia 8
-1966 4 typhus 1 doxycycline 4 tetracycline 4 48 6
-1967 3 malaria 1 week 6 decade 6
-1968 3 malaria 1 3day 6 14 6
-1969 4 malaria 1 plasmodium 8 blood 3 decade 6
-1970 2 malaria 1 lifetime 7
-1971 4 plasmodium 8 influenza 2 10–30 6 fever 2
+1965 2 rickettsia 8 typhus 1
+1966 4 48 6 doxycycline 4 tetracycline 4 typhus 1
+1967 3 week 6 decade 6 malaria 1
+1968 3 3day 6 14 6 malaria 1
+1969 4 plasmodium 8 decade 6 blood 3 malaria 1
+1970 2 lifetime 7 malaria 1
+1971 4 plasmodium 8 10�?0 6 influenza 2 fever 2
 1972 1 malaria 1
-1973 2 malaria 1 parasite 8
-1974 2 malaria 1 swelling 2
-1975 2 malaria 1 vaccine 5
+1973 2 parasite 8 malaria 1
+1974 2 swelling 2 malaria 1
+1975 2 vaccine 5 malaria 1
 1976 3 mosquito 8 infect 8 malaria 1
 1997 2 bodily 8 ebola 1
 1998 2 blood 8 7 6
 1999 2 quickly 7 antibiotic 4
-2000 4 typhus 1 renal 2 pneumonia 1 central 2
+2000 4 renal 2 central 2 typhus 1 pneumonia 1
+2001 3 october 6 24oct 6 ebola 1
+2002 5 october 6 21day 6 28oct 6 3nov 6 13oct 6
+2003 4 september 6 7nov 6 21 6 ebola 1
+2004 5 28sep 6 4oct 6 fever 2 diarrhea 2 ebola 1
+2005 4 ebola 8 late 7 25mar14 6 24mar 6
+2006 1 ebola 1
+2007 1 measles 2
+2008 1 ebola 1
+2009 2 1976 6 ebola 1
+2010 2 ebola 8 blood 2
+2011 3 current 7 23mar14 6 ebola 1
+2012 5 1976 6 1944 6 1979 6 14aug 6 ebola 1
+2013 4 24mar 6 march 6 ebola 1 ebola 1
+2014 4 ebola 8 27mar 6 pcr 6 ebola 2
+2015 4 ebola 8 23mar14 6 22mar14 6 ebola 1
+2016 2 dec 6 ebola 1
+2017 3 week 6 fever 2 diarrhea 2
+2018 2 ebola 8 ebola 1
+2019 2 ebola 1 1976 1
+2020 1 ebola 1
+2021 3 22mar14 6 fever 2 ebola 1
+2022 4 29sep14 6 week 6 test 3 ebola 1
+2023 7 ebov 8 ebola 8 2014�?5 6 2014 6 midmarch 6 1970 6 ebola 1
+2024 3 14mar 6 viral 1 ebola 1
+2025 4 ebola 8 23mar14 6 23mar 6 ebola 1
+2026 2 15nov 6 ebola 1
+2027 1 ebola 1
+2028 1 ebola 1
+2029 3 marburg 8 ebola 8 hemorrhagic 1
+2030 2 21mar 6 ebola 1
+2031 5 26dec13 6 21mar14 6 fever 2 black 2 vomit 2
+2032 5 ebola 8 21mar 6 23mar 6 ebola 1 marburg 1
+2033 2 23mar 6 ebola 1
+2034 3 ebola 8 march 6 ebola 1
+2035 5 late 7 march 6 13dec 6 4 6 ebola 1
+2036 6 virus 8 fever 2 diarrhea 2 rash 2 bleed 2 ebola 1
+2037 1 ebola 1
+2038 1 ebola 1
+2039 2 28 6 ebola 1
+2040 1 ebola 1
+2041 5 14mar 6 1aug 6 8aug 6 ebola 1 ebola 1
+2042 3 14mar 6 july 6 ebola 1
+2043 8 20142015 6 2014 6 march 6 fever 2 vomit 2 hemorrhage 2 black 2 ebola 1
+2044 4 late 7 current 7 early 6 late 6
+2045 3 ebola 8 30dec14 6 ebola 1
+2046 3 16apr15 6 13apr15 6 ebola 1
+2047 2 march 6 ebola 1
+2048 1 ebola 1
+2049 1 ebola 1
+2050 6 1976 6 2014 6 fever 2 nausea 2 diarrhoea 2 ebola 1
+2051 2 march 6 ebola 1
+2052 2 march 6 ebola 1
+2053 3 ebola 8 march 6 ebola 1
+2054 3 current 7 2014 6 march 6
+2055 2 march 6 ebola 1
+2056 2 ebola 8 1976 6
+2057 1 virus 8
+2058 2 virus 8 bleed 2
+2059 3 april 6 13dec 6 ebola 1
+2060 1 ebola 1
+2061 2 march 6 ebola 1
+2062 4 30mar14 6 28mar 6 ev 1 ebola 1
+2063 5 17apr 6 17aug14 6 10mar15 6 25mar 6 ebola 1
+2064 5 17apr 6 25mar 6 march 6 2014 6 ebola 1
+2065 4 14mar 6 march 6 blood 3 ebola 1
+2066 1 ebola 1
+2067 3 lassa 2 ebola 1 marburg 1
+2068 2 ebola 8 pcr 3
+2069 2 haemorrhagic 2 ev 1
+2070 1 ev 1
+2071 5 ebola 8 current 7 14mar 6 1976 6 ebola 1
+2072 4 18mar 6 22mar 6 ebola 2 ebola 1
+2073 2 24mar 6 ebola 1
+2074 4 ebola 8 14mar 6 2014 6 ebola 1
+2075 3 march 6 ebola 1 ebola 1
+2076 2 ebolavirus 8 ebola 1
+2077 1 ebolavirus 8
+2078 1 ebola 1
+2079 3 ebola 8 current 7 ebola 1
+2080 1 pcrbase 3
+2081 4 since(1976 7 1976 6 death 2 ebola 1
+2082 2 on(1 7 15feb 6
+2083 4 ebola 8 in(1976 7 1976 6 ebola 1
+2084 6 ebola 8 in(march 7 in(1976 7 14mar 6 1976 6 ebola 1
+2085 5 patient 5 maintain 4 patient 4 pressure 2 ebola 1
+2086 2 ebola 8 ebola 1
+2087 6 ebola 8 ebolavirus 8 death 2 fever 2 ebola 1 ebola 1
+2089 17 ebola 8 ache 2 fever 2 pain 2 meningitis 2 flulike 2 abdominal 2 diarrhea 2 hepatitis 2 vomit 2 dehydration 2 meningitis 1 malaria 1 cholera 1 flu 1 hepatitis 1 ebola 1
+2090 6 intravenous 5 intravenous 4 pressure 2 dehydration 2 fever 2 pain 2
+2091 8 in(1976 7 1976 6 15apr 6 2013 6 vaccine 4 oral 4 give 4 ebola 1
+2092 7 ebola 8 intensive 4 vaccine 4 maintain 4 intravenous 4 pressure 2 ebola 1
+2093 14 ebola 8 at(change 7 in(1976 7 in(lancet 7 in(the 7 1976 6 2014 6 1980 6 1970 6 commercial 5 vaccine 5 commercial 4 vaccine 4 ebola 1
+2094 5 ebola 8 virus 8 in(1976 7 1976 6 ebola 1
+2095 7 antibiotic 5 antibiotic 4 pressure 2 fever 2 diarrhea 2 vomit 2 ebola 1
+2096 4 in(usa 7 2009 6 2004 6 infection 2
+2097 1 ebola 1
+2098 1 ebola 1
+2099 2 infection 2 ebola 1
+2100 2 ebola 8 ebola 1
+2101 4 ebola 8 in(1976 7 1976 6 ebola 1
+2102 5 ebola 8 in(1976 7 1976 6 infection 2 ebola 1
+2103 8 in(1976 7 1976 6 15apr 6 2013 6 vaccine 4 oral 4 intravenous 4 ebola 1
+2104 1 nov76 6
+2105 5 balance 4 providing 4 maintain 4 pressure 2 ebola 1
+2106 5 in(march 7 in(2014 7 14mar 6 2014 6 ebola 1
+2107 3 ebola 8 infection 2 ebola 1
+2108 1 ebola 1
+2109 1 ebola 1
+2110 5 ebola 8 ebolavirus 8 virus 8 2014 6 ebola 1
+2111 1 immune 4
+2112 8 in(1976 7 1976 6 15apr 6 2013 6 vaccine 4 oral 4 give 4 ebola 1
+2113 2 regulator 5 antimalarial 4
+2115 7 ebola 8 intensive 4 vaccine 4 maintain 4 intravenous 4 pressure 2 ebola 1
+2116 2 infection 2 ebola 1
+2117 2 ebola 8 ebola 1
+2119 1 ebola 1
+2121 1 immune 4
+2122 3 1995 6 blood 4 ebola 1
+2123 4 ebola 8 zmapp 4 zmapp 4 ebola 1
+2124 1 brincidofovir 4
+2125 5 ebola 8 in(january 7 14jan 6 tkmebola 4 ebola 1
+2126 5 ebola 8 ebolavirus 8 virus 8 2014 6 ebola 1
+2127 2 ebola 1 flu 1
+2128 3 ebola 8 21 6 ebola 1
+2129 3 ebola 8 2014 6 ebola 1
+2130 2 infection 2 ebola 1
+2132 2 oxygen 4 ebola 1
+2133 6 balance 4 providing 4 maintain 4 balance 3 pressure 2 ebola 1
+2135 2 regulator 5 antimalarial 4
+2136 2 experimental 4 ebola 1
+2137 2 2013 6 ebola 1
+2138 2 death 2 ebola 1
+2139 1 ebola 1
+2140 1 ebola 1
+2141 2 zmapp 4 ebola 1
+2142 2 ebola 8 ebola 1
+2143 2 ebola 1 flu 1
+2144 3 viral 4 ebola 1 flu 1
+2145 3 blood 4 drug 2 ebola 1
+2147 1 ebola 1
+2150 1 2015 6
+2152 2 oxygen 4 ebola 1
+2153 2 zmapp 4 ebola 1
+2154 2 ebola 8 ebola 1
+2155 8 ebola 8 ebola 5 human 5 ebola 4 human 4 ebola 2 infection 2 ebola 1
+2156 9 21 6 fever 2 pain 2 weakness 2 joint 2 muscle 2 sore 2 headache 2 ebola 1
+2157 1 ebola 1
+2158 5 high 2 diarrhea 2 fever 2 bloody 2 ebola 1
+2159 1 gastrointestinal 2
+2161 4 virus 8 10 7 symptom 2 ebola 1
+2162 2 symptom 2 ebola 1
+2163 2 bleed 2 bruise 2
+2164 4 2 7 test 3 symptom 2 ebola 1
+2165 4 virus 8 2 7 8 7 symptom 2
+2166 4 virus 8 symptom 2 fever 2 ebola 1
+2167 3 virus 8 hemorrhagic 2 ebola 1
+2168 4 virus 8 treatment 4 zmapp 4 ebola 1
+2169 4 virus 8 vaccine 5 treatment 4 ebola 1
+2170 5 17oct 6 15oct 6 23oct 6 30sep 6 ebola 1
+2171 3 symptom 2 fever 2 malaria 1
+2172 3 symptom 2 muscle 2 malaria 1
+2173 3 symptom 2 shiver 2 malaria 1
+2174 3 symptom 2 fever 2 malaria 1
+2175 3 4 7 symptom 2 malaria 1
+2176 3 treatment 4 malaria 1 artemisin 4
+2177 4 examination 4 plasmodium 4 symptom 2 diagnosis 1
+2178 2 prevention 5 malaria 1
+2179 3 drug 4 symptom 2 malaria 1
+2180 2 mosquitotransmit 8 falciparum 1
+2181 5 4 7 headache 4 rash 4 symptom 2 typhus 1
+2182 2 symptom 2 typhus 1
+2183 1 empty 1
+2184 3 symptom 2 nausea 2 typhus 1
+2185 5 7 7 treatment 4 symptom 2 itchy 2 typhus 1
+2186 3 typhus 1 epidemic 1 murine 1
+2187 3 virus 8 bacterium 8 typhus 1
+2188 2 endemic 1 murine 1
+2189 2 endemic 1 brillzinss 1
+2190 1 empty 1
+2191 4 12 7 diarrhea 2 vomit 2 cholera 1
+2192 3 symptom 2 thirsty 2 cholera 1
+2193 3 diarrhea 2 symptom 2 cholera 1
+2194 4 1 7 diarrhea 2 symptom 2 cholera 1
+2195 2 3 7 cholera 1
+2196 3 vibrio 8 bacterium 8 cholera 1
+2197 4 bacterium 8 water 8 contaminate 8 cholera 1
+2198 3 medical 4 water 4 cholera 1
+2199 3 vibrio 8 1817 6 cholera 1
+2200 2 1831 6 cholera 1
+2201 3 gastrointestinal 2 diarrhoea 2 vomit 2
+2202 3 symptom 2 diarrhoea 2 ebola 1
+2203 4 virus 8 21 7 symptom 2 ebola 1
+2204 2 symptom 2 ebola 1
+2205 3 virus 8 symptom 2 ebola 1
+2206 3 treatment 4 symptom 2 ebola 1
+2207 2 test 3 ebola 1
+2208 3 virus 8 ebola 1 malaria 1
+2209 3 treatment 4 symptom 2 ebola 1
+2210 2 cdc 5 ebola 1
+2211 3 fever 2 symptom 2 malaria 1
+2212 4 4872 7 symptom 2 malaria 1 disease 1
+2213 4 2 7 2 7 shake 2 malaria 1
+2214 3 head 2 malaria 1 febrile 1
+2215 2 headache 2 malaria 1
+2216 3 symptom 2 malaria 1 disease 1
+2217 3 sporozoan 8 parasite 8 malaria 1
+2218 4 sporozoan 8 mosquito 8 gametocyte 8 malaria 1
+2219 4 parasite 8 sporozoite 8 symptom 2 malaria 1
+2220 5 parasite 8 mosquito 8 1897 6 1902 6 malaria 1
+2221 3 high 2 symptom 2 typhus 1
+2222 4 treatment 4 symptom 2 fever 2 typhus 1
+2223 3 symptom 2 typhus 1 diagnosis 1
+2225 4 fever 2 symptom 2 headache 2 typhus 1
+2226 3 test 3 typhus 1 eschar 1
+2227 3 bacterium 8 test 3 typhus 1
+2228 3 treatment 4 typhus 1 disease 1
+2229 1 empty 1
+2230 4 prevention 5 vaccine 5 malathion 5 typhus 1
+2231 4 bacterial 8 symptom 2 diarrhea 2 typhus 1
+2232 4 contaminate 8 amoeba 8 diarrhea 2 disease 1
+2233 5 contaminate 8 bacterium 8 symptom 2 cholera 1 disease 1
+2234 4 symptom 2 dehydration 2 cholera 1 disease 1
+2235 4 sever 2 symptom 2 dehydration 2 cholera 1
+2236 4 19th 6 symptom 2 cholera 1 disease 1
+2237 4 water 8 bacterial 8 disinfectant 5 cholera 1
+2238 3 drug 4 treat 4 cholera 1
+2239 3 1700 6 cholera 1 disease 1
+2240 3 bacterial 8 cholera 1 disease 1
+2241 2 ebola 1 malaria 1
+2242 3 today 6 reebov 3 ebola 1
+2243 1 ebola 1
+2244 3 pcr 3 reebov 3 ebola 1
+2245 2 reebov 3 ebola 1
+2246 1 ebola 1
+2247 5 fever 2 typhoid 2 ebola 1 typhoid 1 malaria 1
+2248 2 ebola 8 ebola 1
+2249 1 ebola 1
+2250 1 ebola 1
+2251 2 infection 2 malaria 1
+2252 1 malaria 1
+2253 1 malaria 1
+2254 2 2008 6 malaria 1
+2255 2 infection 2 malaria 1
+2256 1 malaria 1
+2257 1 wbc 3
+2258 1 wbc 3
+2260 1 malaria 1
+2261 2 infection 2 typhus 1
+2262 9 in(1963 7 1963 6 human 5 specific 5 antigenic 5 human 4 specific 4 antigenic 4 typhus 1
+2263 8 pcr 3 pcr 3 pcr 3 skin 2 rash 2 endemic 1 anthrax 1 epidemic 1
+2264 4 immunofluorescence 3 sputum 2 infection 2 typhus 1
+2265 6 skin 3 polymerase 3 skin 3 fourfold 3 indirect 3 murine 1
+2266 3 in(1930 7 1930 6 typhus 1
+2267 1 typhus 1
+2268 1 typhus 1
+2269 2 eschar 2 typhus 1
+2270 1 typhus 1
+2271 2 antimicrobial 3 commercially 3
+2272 2 death 2 cholera 1
+2274 2 dipstick 3 cholera 1
+2275 2 pcr 3 cholera 1
+2276 6 by(john 7 1849 6 1854 6 2010 6 death 2 cholera 1
+2277 6 dehydration 2 death 2 diarrhea 2 vomit 2 severe 2 cholera 1
+2278 14 seizure 2 fever 2 lactic 2 dry 2 acidosis 2 secondary 2 clammy 2 sunken 2 infection 2 pressure 2 dehydration 2 weakness 2 coma 2 decrease 2
+2280 3 infection 2 cholera 1 aid 1
+2281 10 infection 5 intravenous 4 septic 2 pain 2 shock 2 diarrhea 2 infection 2 vomit 2 pressure 2 dehydration 2
+2282 1 immune 4
+2283 3 immunological 4 treat 4 ebola 1
+2284 3 providing 4 pressure 2 infection 2
+2285 8 ebola 8 in(their 7 5 6 21 6 zmapp 5 zmapp 4 infection 2 ebola 1
+2286 1 infection 2
+2287 1 ebola 1
+2288 3 ebola 8 82 6 ebola 1
+2289 9 fever 2 pain 2 infection 2 vomit 2 fatigue 2 rash 2 muscle 2 sore 2 headache 2
+2290 10 ebola 8 ebola 2 fever 2 typhoid 2 meningitis 2 infection 2 ebola 1 typhoid 1 meningitis 1 malaria 1
+2291 4 dizziness 2 nausea 2 headache 2 malaria 1
+2292 3 drug 4 drug 2 malaria 1
+2293 2 donate 4 vivax 2
+2294 3 artemisininbase 4 infection 2 malaria 1
+2295 2 act 4 malaria 1
+2296 7 vomit 2 chill 2 tiredness 2 fever 2 nausea 2 flu 1 malaria 1
+2297 4 coma 2 confusion 2 anemia 2 malaria 1
+2298 5 renal 2 hypoglycemia 2 infection 2 anemia 2 malaria 1
+2300 1 malaria 1
+2301 5 ebola 8 pcr 3 transcription 3 isolation 2 ebola 1
+2302 4 ebola 8 ebola 2 infection 2 ebola 1
+2303 1 pcr 3
+2304 2 pcr 3 polymerase 3
+2305 7 ebola 8 pcr 3 ebola 2 infection 2 ebola 1 influenza 1 malaria 1
+2306 2 infection 2 ebola 1
+2307 1 personal 5
+2308 6 ebola 8 extra 5 glove 5 sterile 5 infection 2 ebola 1
+2309 2 infection 2 ebola 1
+2310 3 ebola 8 marburg 8 ebola 1
+2311 3 antigen 3 fever 2 malaria 1
+2312 1 malaria 1
+2313 1 malaria 1
+2314 1 pcr 3
+2315 3 laboratory 3 infection 2 malaria 1
+2316 1 drug 2
+2320 3 flulike 2 flu 1 malaria 1
+2321 2 ebola 8 oct 6
+2322 4 ebola 8 19aug 6 aug 6 sept 6
+2323 3 month 6 treat 4 ebola 1
+2324 1 zmapp 4
+2325 5 19 6 zmapp 4 fever 2 diarrhea 2 ebola 1
+2326 3 zmapp 4 blood 3 ebola 1
+2327 1 ebola 1
+2328 1 ebola 1
+2329 1 21day 6
+2330 1 ebola 1
+2331 2 experimental 4 ebola 1
+2332 3 zmapp 4 recover 4 ebola 1
+2333 3 oct 6 successfully 4 ebola 1
+2334 2 blood 4 ebola 1
+2335 1 ebola 1
+2336 1 ebola 1
+2337 1 ebola 1
+2338 2 sept 6 ebola 1
+2340 1 ebola 1
+2341 5 aug 6 aug 6 blood 4 treatment 4 ebola 1
+2342 3 week 6 21aug 6 zmapp 4
+2343 2 treat 4 ebola 1
+2344 1 ebola 1
+2345 2 ebola 8 blood 3
+2346 3 iv 4 blood 3 ebola 1
+2347 2 fourth 6 ebola 1
+2348 2 ebola 8 antibody 5
+2349 1 ebola 8
+2350 2 zmapp 4 ebola 1
+2351 2 ninth 6 ebola 1
+2352 1 48 6
+2353 4 14aug 6 donate 4 treatment 4 ebola 1
+2354 3 14aug 6 zmapp 4 ebola 1
+2355 3 ebola 8 21aug 6 recover 4
+2356 1 ebola 1
+2357 1 ebola 1
+2358 1 ebola 1
+2359 2 ebola 8 plasma 4
+2360 2 19sep 6 ebola 1
+2361 3 immune 5 experimental 4 ebola 1
+2362 2 zmapp 4 ebola 1
+2363 2 21aug 6 ebola 1
+2364 4 cure 4 blood 3 ebola 1 ebola 1
+2365 3 2aug 6 21aug 6 zmapp 4
+2366 2 21 6 ebola 1
+2367 1 ebola 1
+2368 2 successfully 4 ebola 1
+2369 2 15nov14 6 ebola 1
+2370 1 ebola 1
+2371 3 antibody 5 zmapp 4 ebola 1
+2372 1 ebola 1
+2373 2 ebola 8 treat 4
+2374 2 21aug 6 ebola 1
+2375 3 ebola 8 recover 4 ebola 1
+2376 1 ebola 8
+2377 3 july 6 treat 4 ebola 1
+2378 2 fourth 6 ebola 1
+2379 3 ebola 8 1976 6 ebola 1
+2380 1 ebola 1
+2381 2 successfully 4 ebola 1
+2382 3 21aug 6 recovery 4 ebola 1
+2384 2 ebola 8 conquer 4
+2385 4 21aug 6 zmapp 4 recovery 4 ebola 1
+2386 1 ebola 8
+2387 2 oct 6 ebola 1
+2388 7 fever 2 sore 2 muscle 2 headache 2 external 2 diarrhea 2 vomit 2
+2389 2 blood 3 ebola 1
+2391 4 aug 6 isolation 4 recover 4 ebola 1
+2392 2 recover 4 ebola 1
+2393 5 28 6 21aug 6 cure 4 ebola 1 ebola 1
+2394 3 oct 6 recover 4 ebola 1
+2395 3 zmapp 4 successful 4 ebola 1
+2396 2 2014 6 ebola 1
+2397 1 ebola 1
+2398 2 21 6 ebola 1
+2399 1 ebola 1
+2400 1 ebola 1
+2401 2 drug 2 ebola 1
+2402 2 infection 2 ebola 1
+2404 5 mask 5 glove 5 gown 5 infection 2 ebola 1
+2405 5 ebola 8 precautionary 5 personal 5 infection 2 ebola 1
+2406 1 ebola 1
+2407 1 ebola 1
+2408 2 gown 5 ebola 1
+2411 3 abc 5 rabies 1 malaria 1
+2412 3 malaria 5 jaundice 2 malaria 1
+2413 2 antimalarial 5 malaria 1
+2414 2 drug 2 malaria 1
+2416 1 malaria 1
+2417 1 malaria 1
+2418 4 in(the 7 1378 6 2012 6 malaria 1
+2419 2 emergency 4 drug 2
+2420 1 malaria 1
+2421 4 antibiotic 4 infestation 2 infection 2 typhus 1
+2423 2 typhus 5 typhus 1
+2424 7 repellent 5 eliminate 5 insect 2 infection 2 epidemic 1 typhus 1 body 1
+2426 1 drug 2
+2427 6 high 2 fever 2 rash 2 maculopapular 2 headache 2 epidemic 1
+2428 2 body 8 epidemic 1
+2430 12 ecchymosis 2 collapse 2 vascular 2 macule 2 rash 2 pneumonia 2 splenomegaly 2 fever 2 gangrene 2 prostration 2 headache 2 pneumonia 1
+2431 1 cholera 1
+2433 2 vaccination 4 sick 2
+2434 3 sick 2 infection 2 cholera 1
+2435 1 cholera 1
+2436 1 cholera 1
+2437 1 cholera 1
+2438 1 cholera 1
+2439 2 taking 5 cholera 1
+2441 2 infection 2 tuberculosis 1
+2442 4 personal 5 autopsy 3 dental 3 infection 2
+2443 1 ebola 1
+2444 2 personal 5 infection 2
+2445 4 surgical 5 cough 2 sneeze 2 sick 2
+2447 1 ebola 1
+2448 1 ebola 1
+2449 1 ebola 1
+2450 6 fever 2 sore 2 infection 2 headache 2 ebola 1 flu 1
+2451 2 malaria 5 malaria 1
+2452 3 antimalarial 4 infection 2 malaria 1
+2453 2 infection 2 malaria 1
+2454 2 infection 2 malaria 1
+2455 5 gelatin 4 drug 2 vomit 2 stomach 2 malaria 1
+2457 1 malaria 1
+2458 1 malaria 1
+2459 1 malaria 1
+2460 3 halofantrine 4 drug 2 malaria 1
+2461 7 rid 5 antibiotic 5 antibiotic 4 endemic 1 typhus 1 epidemic 1 typhus 1
+2462 2 typhus 5 typhus 1
+2463 3 pet 4 infestation 2 typhus 1
+2464 2 control 5 typhus 1
+2465 4 antibiotic 4 infestation 2 infection 2 typhus 1
+2466 2 typhus 1 flu 1
+2468 1 typhus 1
+2469 2 2009 6 typhus 1
+2470 1 typhus 1
+2471 1 cholera 1
+2472 1 cholera 1
+2473 2 washing 5 cholera 1
+2474 3 oral 5 oral 5 cholera 1
+2475 1 cholera 1
+2476 1 intravenous 4
+2477 3 antimicrobial 4 doxycycline 4 cholera 1
+2479 1 cholera 1
+2481 3 21 7 12:00 7 ebola 1
+2482 3 21 7 ebola 1 hickox 1
+2483 3 21 7 symptom 2 ebola 1
+2484 2 21 7 ebola 1
+2485 2 21 7 ebola 1
+2486 5 virus 8 infect 8 symptom 2 failure 2 ebola 1
+2487 2 symptom 2 ebola 1
+2488 2 virus 8 ebola 1
+2489 4 symptom 2 fever 2 malaise 2 ebola 1
+2490 2 virus 8 ebola 1
+2491 3 hepatitis 8 symptom 2 hepatitis 1
+2492 3 15 7 symptom 2 hepatitis 1
+2493 4 virus 8 4 7 symptom 2 hepatitis 1
+2494 4 virus 8 23 7 symptom 2 hepatitis 1
+2495 6 hepatitis 8 1550 7 30150 7 15160 7 symptom 2 hepatitis 1
+2496 3 virus 8 infect 8 hepatitis 1
+2497 4 infect 8 symptom 2 jaundice 2 hbv 1
+2498 2 vaccine 5 hbv 1
+2499 4 vaccine 5 condom 5 symptom 2 hbv 1
+2500 2 protect 5 hbv 1
+2501 3 4 7 18 7 cholera 1
+2502 4 bacterium 8 watery 2 vomit 2 cholera 1
+2503 3 bacterium 8 diarrheal 2 cholera 1
+2504 3 13 7 1854 6 cholera 1
+2505 2 5 7 cholera 1
+2506 2 2010 6 cholera 1
+2507 4 bacterium 8 vibrio 8 diarrhea 2 cholera 1
+2508 1 cholera 1
+2509 2 examine 3 cholera 1
+2510 3 vomit 2 prompt 2 cholera 1
+2511 1 typhus 1
+2512 7 headache 2 malaise 2 vomit 2 fever 2 nausea 2 backache 2 typhus 1
+2513 2 fever 2 typhus 1
+2514 2 orientia 8 scrub 1
+2515 2 bacterium 8 typhus 1
+2516 3 maintain 5 health 5 epidemic 1
+2517 2 fever 2 typhus 1
+2518 3 orientia 8 fever 2 srub 1
+2519 4 24 7 7 7 doxycycline 4 chloramphenicol 4
+2520 6 2 7 pulse 2 bp 2 delirium 2 stupor 2 muscular 2
+2521 6 730 7 24 7 fever 2 headache 2 myalgia 2 malaria 1
+2522 1 malaria 1
+2523 1 malaria 1
+2524 2 12 7 malaria 1
+2525 6 anophele 8 plasmodium 8 plasmodium 8 1840 7 1217 7 914 7
+2526 1 malaria 1
+2527 3 parasite 8 reference 3 malaria 1
+2528 2 drug 4 malaria 1
+2529 1 malaria 1
+2530 1 malaria 1
+2531 4 ebola 8 2�?1 7 8�?0 7 ebola 1
+2532 2 21 7 ebola 1
+2534 4 virus 8 21 7 ebola 1 ebola 1
+2535 3 4.3 6 12.7 7 21 7
+2536 1 25 7
+2537 2 1995 7 ebola 1
+2538 2 2009 7 ebola 1
+2539 1 ebola 1
+2540 1 ebola 1
+2541 3 poor 2 nausea 2 ache 2
+2542 2 1 7 hepatitis 1
+2543 3 virus 8 60150 7 hbv 1
+2544 5 dna 8 60110 7 liver 2 hepatitis 1 acute 1
+2545 3 hepatitis 8 dna 8 50160 7
+2546 1 hepatitis 1
+2547 2 virus 8 hepatitis 1
+2548 4 hepatitis 5 side 4 hepatitis 1 hepatitis 1
+2549 1 hepatitis 5
+2550 2 adult 5 side 4
+2551 1 cholera 1
+2552 3 5 7 23 7 cholera 1
+2553 2 disease 8 cholera 1
+2554 3 1 7 28 7 cholera 1
+2555 2 differential 3 symptom 2
+2556 4 sudden 2 vomit 2 muscle 2 cholera 1
+2557 3 healthcare 4 treatment 4 cholera 1
+2558 3 hour 7 cholera 4 mild 2
+2559 6 bacterium 8 vibrio 8 2000 6 diarrhoeal 2 cholera 1 cholera 1
+2562 1 1976 6
+2563 4 ebola 8 ebola 2 infection 2 ebola 1
+2564 1 ebola 1
+2565 2 ebola 8 ebola 1
+2566 4 fever 2 diarrhea 2 vomit 2 ebola 1
+2567 1 ebola 1
+2568 1 ebola 1
+2569 1 ebola 1
+2570 1 ebola 1
+2571 2 flu 1 malaria 1
+2572 2 flu 1 malaria 1
+2573 1 malaria 1
+2574 1 malaria 1
+2575 3 intravenous 4 drug 2 malaria 1
+2576 1 malaria 1
+2577 2 1000 6 malaria 1
+2578 1 malaria 1
+2579 4 diagnostic 3 infection 2 plasmodium 2 malaria 1
+2580 2 symptom 2 malaria 1
+2581 5 by(the 7 at(typhus 7 1920 6 1847 6 typhus 1
+2582 3 bowel 2 fever 2 rocky 1
+2583 1 typhus 1
+2585 15 backache 2 ache 2 fever 2 pain 2 abdominal 2 muscle 2 diarrhea 2 rash 2 vomit 2 nausea 2 dry 2 cough 2 high 2 headache 2 murine 1
+2586 16 on(the 7 high 2 fever 2 pain 2 cough 2 stupor 2 rash 2 pressure 2 severe 2 death 2 delirium 2 fall 2 chill 2 muscle 2 headache 2 typhus 1
+2587 7 by(nathan 7 1913 6 malnutrition 2 chickenpox 1 typhus 1 epidemic 1 shingle 1
+2588 2 typhus 1 epidemic 1
+2589 7 in(1916 7 in(1930 7 1930 6 1916 6 vaccine 5 infection 2 typhus 1
+2590 4 in(1938 7 by(1943 7 1943 6 1938 6
+2591 4 death 2 impotence 2 cholera 1 plague 1
+2592 3 in(1855 7 1855 6 cholera 1
+2593 3 in(1883 7 1883 6 cholera 1
+2594 2 sick 2 cholera 1
+2595 3 in(paris 7 1851 6 cholera 1
+2596 2 quarantine 5 sick 2
+2601 2 in(dallas 7 ebola 1
+2602 3 21 6 fear 2 ebola 1
+2604 1 ebola 1
+2605 2 ebola 8 ebola 1
+2608 3 hiv 8 drug 2 tuberculosis 1
+2609 2 in(the 7 1920 6
+2611 2 flu 1 malaria 1
+2612 2 flu 1 malaria 1
+2613 1 malaria 1
+2614 1 malaria 1
+2615 2 intravenous 4 malaria 1
+2616 1 malaria 1
+2617 8 drug 4 muscle 2 fever 2 pain 2 ache 2 abdominal 2 vomit 2 chill 2
+2618 1 malaria 1
+2619 1 malaria 1
+2620 1 malaria 1
+2621 5 by(the 7 at(typhus 7 1920 6 1847 6 typhus 1
+2622 3 bowel 2 fever 2 rocky 1
+2623 1 typhus 1
+2625 15 backache 2 ache 2 fever 2 pain 2 abdominal 2 muscle 2 diarrhea 2 rash 2 vomit 2 nausea 2 dry 2 cough 2 high 2 headache 2 murine 1
+2626 1 fever 2
+2627 5 on(29 7 at(5293 7 5293 6 july 6 death 2
+2628 1 typhus 1
+2631 4 death 2 impotence 2 cholera 1 plague 1
+2632 4 in(1855 7 1855 6 fall 2 cholera 1
+2633 3 in(1883 7 1883 6 cholera 1
+2634 2 sick 2 cholera 1
+2635 3 in(paris 7 1851 6 cholera 1
+2636 1 cholera 1
+2637 1 cholera 1
+2638 1 cholera 1
+2639 2 vaccination 5 cholera 1
+2640 2 parenteral 5 cholera 1
+2641 3 mosquito 8 parasite 8 invade 2
+2642 2 low 2 malaria 1
+2643 3 plasmodium 8 red 2 malaria 1
+2644 5 falciparum 1 treatment 4 severe 2 symptom 2 diarrhea 2
+2645 4 cell 2 cerebral 1 malaria 1 plasmodium 1
+2646 3 parasite 8 disease 1 plasmodium 1
+2647 3 immune 2 malaria 1 plasmodium 1
+2648 3 compromise 2 lymphoma 1 malaria 1
+2649 4 cancer 2 hiv/aid 2 malaria 1 lymphoma 1
+2650 3 facial 2 lymphoma 1 malaria 1
+2651 3 symptom 2 fever 2 typhus 1
+2652 3 antibiotic 4 treatment 4 typhus 1
+2653 3 medication 4 treatment 4 typhus 1
+2654 3 rickettsia 8 damage 2 damage 2
+2655 4 treat 4 abnormality 2 multiorgan 2 typhus 1
+2656 3 bacterium 8 damage 2 rickettsial 1
+2657 2 tick 8 rickettsial 1
+2658 4 viral 8 symptom 2 fever 2 rickettsial 1
+2659 5 treat 4 antibiotic 4 doxycycline 4 low 2 rickettsial 1
+2660 3 congestive 2 bronchopneumonia 2 rickettsialpox 1
+2661 4 bacterium 8 symptom 2 diarrhea 2 cholera 1
+2662 4 vibrio 8 diarrhea 2 symptom 2 cholera 1
+2663 4 vibrio 8 185 6 dehydration 2 cholera 1
+2664 5 bacterium 8 symptom 2 diarrhea 2 nausea 2 cholera 1
+2665 3 bacterium 8 vibrio 8 disease 1
+2666 2 1883 6 cholera 1
+2667 3 fecaloral 8 cholera 1 disease 1
+2668 3 treatment 4 diarrhea 2 cholera 1
+2669 3 symptom 2 diarrhea 2 cholera 1
+2670 5 tetracycline 4 treatment 4 antibiotic 4 antibiotic 4 cholera 1
+2671 6 falciparum 8 virus 8 damage 2 blood 2 malaria 1 ebola 1
+2672 4 virus 8 blood 2 damage 2 disease 1
+2673 6 virus 8 blood 2 hemorrhage 2 weaken 2 severe 2 disease 1
+2674 3 virulent 8 phagocyte 8 ebola 1
+2675 3 virus 8 ump 8 ebola 1
+2676 4 ebolavirus 5 protein 5 ebola 1 disease 1
+2677 5 virus 8 1976 6 2014 6 14jul 6 ebola 1
+2678 3 sick 8 virus 8 ebola 1
+2679 4 virus 8 bleed 2 symptom 2 ebola 1
+2680 4 virus 8 symptom 2 ebola 1 disease 1
+2681 4 mosquito 8 parasite 8 red 2 malaria 1
+2683 4 brain 2 symptom 2 red 2 falciparum 1
+2684 3 rimpair 2 symptom 2 cerebral 1
+2685 2 parasite 8 malaria 1
+2686 4 protozoan 8 plasmodium 8 2008 6 malaria 1
+2687 9 mosquito 8 plasmodium 8 plasmodium 8 plasmodia 8 24 7 symptom 2 fever 2 malaria 1 malaria 1
+2689 4 treatment 4 antimalarial 4 vaccine 4 malaria 1
+2690 4 anophele 8 protozoon 8 malaria 1 disease 1
+2691 5 typhus 8 typhus 8 21 6 system 2 typhus 1
+2692 6 degeneration 2 ulceration 2 delirium 2 paralysis 2 typhus 1 typhus 1
+2693 6 failure 2 septic 2 jaundice 2 acute 2 respiratory 2 scrub 1
+2694 5 blood 2 tissue 2 organ 2 brain 2 spinal 2
+2695 8 fever 2 lung 2 affect 2 affect 2 typhus 1 cerebral 1 typhus 1 pneumo 1
+2696 3 blood 3 typhus 3 typhus 1
+2697 2 tetracycline 4 chloramphenicol 4
+2698 2 typhus 1 pneumonia 1
+2699 4 rickettsia 8 rickettsia 8 typhus 1 murine 1
+2700 2 scrub 1 spot 1
+2701 5 vibrio 8 diarrhea 2 intestine 2 capillary 2 cholera 1
+2702 6 diarrhea 2 dehydration 2 intestinal 2 prominent 2 fever 2 cholera 1
+2703 4 vibrio 8 intestine 2 watery 2 cholera 1
+2704 4 watery 2 intestinal 2 massive 2 cholera 1
+2705 2 intestine 2 digestive 2
+2706 2 pcr 3 cholera 1
+2707 2 1817 6 cholera 1
+2708 2 antibiotic 4 electrolyte 4
+2709 2 vibrio 8 escherichia 8
+2710 1 vibrio 8
+2711 6 immune 2 head 2 sore 2 feverish 2 week 2 ebola 1
+2712 7 tissue 2 damange 2 diarrhea 2 damage 2 fever 2 circulatory 2 ebola 1
+2713 3 ebola 8 ebola 8 infect 2
+2714 3 infect 2 ebola 1 hiv 1
+2715 7 fever 2 headache 2 jaundice 2 vomit 2 loss 2 bloody 2 ebola 1
+2716 2 dismantle 2 ebola 1
+2717 2 1989 6 ebola 1
+2718 2 ebola 8 blood 2
+2719 2 internal 2 ebola 1
+2720 2 2003 6 ebola 1
+2721 3 ebola 8 death 2 ebola 1
+2722 1 ebola 1
+2723 4 fever 2 diarrhea 2 vomit 2 ebola 1
+2724 1 ebola 1
+2725 1 death 2
+2726 6 ebola 8 on(the 7 1976 6 2000 6 2500 6 ebola 1
+2727 2 ebola 8 ebola 1
+2728 3 ebola 8 death 2 ebola 1
+2729 18 chill 2 pain 2 diarrhea 2 cough 2 bloody 2 weight 2 fever 2 vomit 2 chest 2 rash 2 weakness 2 bloodshot 2 stomach 2 bruise 2 internal 2 sore 2 nausea 2 impair 2
+2730 2 ebola 8 ebola 1
+2731 4 death 2 infection 2 death 2 malaria 1
+2732 1 malaria 1
+2733 3 drug 4 infection 2 malaria 1
+2734 3 falciparum 8 vivax 8 14 6
+2735 1 malaria 1
+2736 4 insecticide 5 drug 2 death 2 malaria 1
+2737 2 information 5 malaria 1
+2738 2 blood 3 malaria 1
+2739 2 fever 2 malaria 1
+2740 2 fever 2 malaria 1
+2741 3 4 6 antibiotic 4 fever 2
+2742 6 high 2 pressure 2 lose 2 fever 2 myocarditis 2 typhus 1
+2743 20 high 2 chill 2 pain 2 constipation 2 stupor 2 nausea 2 diarrhea 2 fever 2 vomit 2 pneumonia 2 heart 2 chest 2 rash 2 delirium 2 cough 2 red 2 headache 2 pneumonia 1 typhus 1 epidemic 1
+2744 3 fever 2 rash 2 typhus 1
+2745 5 therapy 4 doxycycline 4 fever 2 typhus 2 typhus 1
+2746 1 epidemic 1
+2747 2 rash 2 typhus 1
+2748 6 cbc 3 complete 3 low 2 low 2 anemia 2 typhus 1
+2750 2 death 2 epidemic 1
+2751 1 antibiotic 4
+2752 2 fever 2 infection 2
+2753 12 diarrhea 3 cramp 2 death 2 weakness 2 diarrhea 2 infection 2 muscle 2 dehydration 2 fever 2 thirst 2 fluid 2 cholera 1
+2754 5 abdominal 2 malaise 2 pain 2 vomit 2 headache 2
+2755 2 antibiotic 4 fever 2
+2756 2 infection 2 cholera 1
+2757 1 cholera 1
+2758 6 coma 2 dehydration 2 death 2 shock 2 renal 2 cholera 1
+2759 3 dispose 5 diarrhea 2 cholera 1
+2760 2 person 5 cholera 1
+2761 3 ebola 8 death 2 ebola 1
+2762 1 ebola 1
+2763 5 isolation 2 diarrhea 2 vomit 2 ebola 1 fever 2
+2764 1 ebola 1
+2765 1 death 2
+2768 1 burning 2
+2769 1 marburg 8
+2770 9 ebola 8 pressure 5 antibody 5 antibody 4 ebola 2 pressure 2 infection 2 flu 1 ebola 1
+2771 4 death 2 infection 2 death 2 malaria 1
+2772 1 malaria 1
+2773 4 drug 4 medicine 4 infection 2 malaria 1
+2774 3 falciparum 8 vivax 8 14 6
+2775 1 malaria 1
+2776 2 infection 2 malaria 1
+2778 1 malaria 1
+2779 1 malaria 1
+2780 2 infection 2 malaria 1
+2781 3 4 6 antibiotic 4 fever 2
+2782 6 high 2 pressure 2 lose 2 fever 2 myocarditis 2 typhus 1
+2783 20 high 2 chill 2 pain 2 constipation 2 typhus 1 epidemic 1 pneumonia 1 stupor 2 nausea 2 diarrhoea 2 fever 2 vomit 2 pneumonia 2 heart 2 chest 2 rash 2 delirium 2 cough 2 red 2 headache 2
+2784 3 fever 2 rash 2 typhus 1
+2785 5 therapy 4 doxycycline 4 fever 2 typhus 2 typhus 1
+2786 3 fever 2 typhus 1 epidemic 1
+2787 2 infection 2 typhus 1
+2788 3 today 6 typhus 1 epidemic 1
+2789 1 typhus 1
+2790 1 murine 1
+2791 1 antibiotic 4
+2792 2 fever 2 infection 2
+2793 12 diarrhea 3 cramp 2 diarrhea 2 infection 2 muscle 2 dehydration 2 fever 2 thirst 2 fluid 2 cholera 1 weakness 2 death 2
+2794 5 abdominal 2 malaise 2 pain 2 vomit 2 headache 2
+2795 2 antibiotic 4 fever 2
+2797 1 infection 2
+2798 1 cholera 1
+2799 3 diarrhea 2 infection 2 cholera 1
+2800 1 cholera 1

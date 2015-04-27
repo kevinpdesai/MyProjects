@@ -1,0 +1,5 @@
+6	TYPHUS DIAGNOSIS	Wine whey
+7	Delirium, foul tongue, fetid bowels, weak pulse, restlessness	Wine whey, oysters and sago, laudanum, volatile Alkali, Senna
+8	Frequent pulse, delirium, Dr. Physick attends	Calomel, wine whey, leeches
+9		Volatile Alkali, wine whey, Senna
+10	No restlessness, stronger pulse, Dr. Dewees attends	Volatile Alkali, wine whey, calomel

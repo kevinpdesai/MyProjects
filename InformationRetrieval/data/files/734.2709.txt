@@ -1,0 +1,2 @@
+The scientists first tested the toxicity of Vibrio cholerae against Gram positive and Gram negative bacteria (referring to the composition of their cell walls). A Vibrio cholerae strain lacking accessory toxins did not inhibit the growth of any of the tested Gram positive bacteria.
+However, the strain did inhibit the growth of many Gram negative bacteria (e.g. those common to the human stomach and intestines), to various extents. For example, while Vibrio cholerae was essentially nontoxic to Pseudomonas aeruginosa, it was highly toxic to Escherichia coli.

@@ -1,0 +1,14 @@
+Ebola virus is detected in blood only after onset of symptoms, most notably fever, which accompany the rise in circulating virus within the patient's body. It may take up to three days after symptoms start for the virus to reach detectable levels. Laboratory tests used in diagnosis include:
+
+Timeline of Infection	Diagnostic tests available
+Within a few days after symptoms begin	
+Antigen-capture enzyme-linked immunosorbent assay (ELISA) testing
+IgM ELISA
+Polymerase chain reaction (PCR)
+Virus isolation
+Later in disease course or after recovery	
+IgM and IgG antibodies
+Retrospectively in deceased patients	
+Immunohistochemistry testing
+PCR
+Virus isolation

@@ -612,7 +612,7 @@ QID ,URLNO ,PNO ,REL,EXPL,,,,
 122,4,1211,1,shows the incubation period for Ebola, Hepatitis B, Cholera, Typhus, Malaria
 122,5,1212,1,shows the incubation period for Ebola, Hepatitis B, Cholera, Typhus, Malaria
 122,6,1213,1,shows the incubation period for Ebola, Hepatitis B, Cholera, Typhus, Malaria
-122,6,1214,4,No related information is found,,,,
+122,6,1214,0,No related information is found,,,,
 122,7,1215,1,shows the incubation period for Ebola, Hepatitis B, Cholera, Typhus, Malaria
 122,5,1216,0,No related information is found,,,,
 122,5,1217,0,No related information is found,,,,
@@ -732,7 +732,7 @@ QID ,URLNO ,PNO ,REL,EXPL,,,,
 134,4,1331,1,shows the incubation period for Ebola, Hepatitis B, Cholera, Typhus, Malaria
 134,5,1332,1,shows the incubation period for Ebola, Hepatitis B, Cholera, Typhus, Malaria
 134,6,1333,1,shows the incubation period for Ebola, Hepatitis B, Cholera, Typhus, Malaria
-134,6,1334,4,No related information is found,,,,
+134,6,1334,0,No related information is found,,,,
 134,3,1335,1,shows the incubation period for Ebola, Hepatitis B, Cholera, Typhus, Malaria
 134,4,1336,0,No related information is found,,,,
 134,4,1337,0,No related information is found,,,,
@@ -999,993 +999,1793 @@ QID ,URLNO ,PNO ,REL,EXPL,,,,
 180,7,1798,0,it doesn't satisfy the information need,,,,
 180,7,1799,0,it doesn't satisfy the information need,,,,
 180,7,1800,0,it doesn't satisfy the information need,,,,
-141,335,1410,1,Gives the quarantine time for ebola and explains how it was set. 
-141,340,1411,1,Gives the quarantine time for ebola and discusses its validity. 
-141,342,1412,1,Gives the quarantine time for ebola and explains how it was set. 
-141,344,1413,1,Argument on current quarantine period standards 
-141,346,1414,0,Ebola and the advantages of quarantine procedure 
-141,347,1415,0,"Quarantine policy and first Ebola case in USA. Give Ebola virus incubation period and not the standard quarantine period  although they are the same" 
-141,348,1416,0,The need of quarantine during Ebola epidemic 
-141,349,1417,0,State policies on Ebola quarantine 
-141,350,1418,0,Dr. Snyderman's story on mandatory ebola quarantine violation
-141,6,1459,1,Gives the quarantine time for ebola and explains how it was set. 
-142,150,1404,1,Describes malaria's incubation period  
-142,195,1406,1,Malaria symptoms detection time interval after exposure 
-142,275,1409,0,malaria diagnosis 
-142,351,1419,1,Describes how long does malaria symptoms take to surface after infection 
-142,356,1420,1,Time period between infection and development of disease malaria 
-142,357,1421,1,incubation period of malaria 
-142,358,1422,0,incubation period of malaria and temperature of host relevance 
-142,359,1423,0,malaria epidermilogy 
-142,360,1424,0,malaria effects and symptoms 
-142,361,1425,0,malaria prevention 
-143,13,1401,0,cholera and symptoms and statistics 
-143,17,1405,1,cholera incubation period 
-143,363,1426,0,rantine needs and usefulness 
-143,365,1427,0,cholera incubation period- common incorrect data 
-143,365,1428,1,cholera incubation period 
-143,365,1429,1,detailed incubation discussion 
-143,369,1430,0,cholera in 1830s in Britain 
-143,370,1431,1,result of an experiment- cholera incubation period 
-143,50,1458,1,cholera incubation period 
-143,96,1460,0,cholera epidermilogy 
-144,373,1432,1,Typhoid incubation period 
-144,374,1433,1,Typhoid incubation period 
-144,375,1434,1,Typhoid incubation period 
-144,376,1435,1,Typhoid incubation period 
-144,377,1436,1,Typhoid incubation period 
-144,377,1437,0,precautions and vaccines 
-144,377,1438,0,diagnosis 
-144,378,1439,0,typhoid effects after 2 weeks 
-144,378,1440,0,typhoid strain and Typhoid Mary 
-144,379,1441,0,typhoid symptoms 
-145,380,1442,1,ebola infection time and symptoms 
-145,381,1443,1,ebola news on incubation time 
-145,382,1444,1,ebola news showing incubation period 
-145,383,1445,1,ebola incubation period 
-145,383,1446,0,ebola instructions 
-145,384,1447,0,incubation period definition 
-145,385,1448,0,WHO situation report 
-145,386,1449,0,ebola and future measures 
-145,387,1450,0,Common cold incubation period 
-145,5,1457,1,ebola incubation period along with symptoms 
-146,135,1402,0,malaria prevention while traveling abroad 
-146,143,1403,1,describes malaria's spread 
-146,231,1407,0,maiaria types and its dangers 
-146,232,1408,1,how malaria spreads and time required for infection 
-146,450,1451,1,incubation period of various malaria agents 
-146,452,1452,1,how malaria spreads and time required for infection 
-146,456,1453,1,time after which patient develops symptoms 
-146,459,1454,0,malaria in the world 
-146,460,1455,0,tips on preventing malaria 
-146,462,1456,0,malaria fighting global strategy 
-147,18,1466,1,Gives nuber of days 
-147,18,1467,0,gives time for rash 
-147,21,1468,1,Gives average weeks and explains how much time each symptom remain 
-147,21,1469,0,gives time when epidemic occurred but doesnot serve information need 
-147,261,1470,1,Time for fever for tyhpus to be careful about 
-147,336,1471,1,Typical infection last period 
-147,454,1472,1,Gives incubation period and the average time 
-147,454,1473,0,gives the number of deaths in an epidemic 
-147,455,1474,0,gives the amount ot time to take the serum to stop the disease 
-147,71,1500,0,just gives symptoms 
-148,465,1475,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-148,466,1476,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-148,467,1477,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-148,468,1478,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-148,469,1479,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-148,470,1480,0,No required information is found 
-148,470,1481,0,No required information is found 
-148,470,1482,0,No required information is found 
-148,470,1483,0,No required information is found 
-148,470,1484,0,No required information is found 
-149,471,1485,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-149,472,1486,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-149,473,1487,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-149,474,1488,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera 
-149,475,1489,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera
-149,13,1461,0,No required information is found 
-149,13,1462,0,No required information is found 
-149,13,1463,0,No required information is found 
-149,13,1464,0,No required information is found 
-149,13,1465,0,No required information is found 
-150,476,1490,1,quarantine time plolicy stating quarantine time 
-150,476,1491,0,subject policy 
-150,477,1492,1,texas policy stating time 
-150,477,1493,0,history of ebola in USA 
-150,477,1494,0,isolation period in 14th century 
-150,478,1495,1,ebola guidelines stating isolation time 
-150,478,1496,1,minnesota's quarantine policy stating time 
-150,478,1497,0,"history  policy and guidelines" 
-150,479,1498,1,cuomo's home based quarantine time 
-150,479,1499,0,some completely irrelevant bullshit 
-151,685,1501,1,Explains about quarantine period
-151,685,1502,1,Explains about quarantine period
-151,685,1503,1,Explains about quarantine period
-151,686,1504,1,Explains about quarantine period
-151,687,1505,1,Explains about quarantine period
-151,688,1506,0,Does not Explains about quarantine period
-151,689,1507,0,Does not Explains about quarantine period
-151,689,1508,0,Does not Explains about quarantine period
-151,689,1509,0,Does not Explains about quarantine period
-151,689,1510,0,Does not Explains about quarantine period
-152,690,1511,1,Explains when to quarantine people
-152,691,1512,1,Describes when to quarantine person
-152,692,1513,1,Describes when to quarantine person
-152,692,1514,1,Describes when to quarantine person
-152,693,1515,1,Describes when to quarantine person
-152,694,1516,0,Does not Explain when to quarantine people
-152,694,1517,0,Does not Explain when to quarantine people
-152,694,1518,0,Does not Explain when to quarantine people
-152,694,1519,0,Does not Explain when to quarantine people
-152,694,1520,0,Does not Explain when to quarantine people
-153,695,1521,1,Explains why quarantine is not  required
-153,695,1522,1,Explains why quarantine is not  required
-153,697,1523,1,Explains why quarantine is not  required
-153,696,1524,1,Explains why quarantine is not  required
-153,697,1525,1,Explains why quarantine is not  required
-153,697,1526,0,Does not mention anything about quarantine
-153,697,1527,0,Does not mention anything about quarantine
-153,697,1528,0,Does not mention anything about quarantine
-153,697,1529,0,Does not mention anything about quarantine
-153,696,1530,0,Does not mention anything about quarantine
-154,710,1531,1,Describes why quarantine not required
-154,710,1532,1,Describes why quarantine not required
-154,713,1533,1,Describes why quarantine not required
-154,713,1534,1,Describes why quarantine not required
-154,717,1535,1,Describes why quarantine not required
-154,717,1536,0,Explains only symptoms
-154,718,1537,0,Does not mention about quarantine
-154,718,1538,0,Does not mention about quarantine
-154,718,1539,0,Does not mention about quarantine
-154,718,1540,0,Does not mention about quarantine
-155,719,1541,1,Mentions about quarantine period
-155,719,1542,1,Mentions about quarantine period
-155,719,1543,1,Mentions about quarantine period
-155,719,1544,1,Mentions about quarantine period
-155,719,1545,1,Mentions about quarantine period
-155,720,1546,0, Does not address about quarantine period
-155,720,1547,0, Does not address about quarantine period
-155,720,1548,0, Does not address about quarantine period
-155,720,1549,0, Does not address about quarantine period
-155,720,1550,0, Does not address about quarantine period
-156,738,1551,1,Addresses Quarantine period
-156,738,1552,1,Addresses Quarantine period
-156,738,1553,1,Addresses Quarantine period
-156,738,1554,1,Addresses Quarantine period
-156,738,1555,1,Addresses Quarantine period
-156,738,1556,0, does not Addresses Quarantine period
-156,739,1557,0, does not Addresses Quarantine period
-156,739,1558,0, does not Addresses Quarantine period
-156,739,1559,0, does not Addresses Quarantine period
-156,739,1560,0, does not Addresses Quarantine period
-157,740,1561,1,Mentions about quarantine period
-157,740,1562,1,Mentions about quarantine period
-157,741,1563,1,Mentions about quarantine period
-157,741,1564,1,Mentions about quarantine period
-157,741,1565,1,Mentions about quarantine period
-157,742,1566,0,does not address about quarantine period
-157,742,1567,0,does not address about quarantine period
-157,743,1568,0,does not address about quarantine period
-157,743,1569,0,does not address about quarantine period
-157,743,1570,0,does not address about quarantine period
-158,744,1571,1,Describes about quarantine for Ebola
-158,745,1572,1,Describes about quarantine for Ebola
-158,745,1573,1,Describes about quarantine for Ebola
-158,745,1574,1,Describes about quarantine for Ebola
-158,745,1575,1,Describes about quarantine for Ebola
-158,746,1576,0,Does not mention about  quarantine for Ebola
-158,747,1576,0,Does not mention about  quarantine for Ebola
-158,747,1578,0,Does not mention about  quarantine for Ebola
-158,748,1579,0,Does not mention about  quarantine for Ebola
-158,748,1580,0,Does not mention about  quarantine for Ebola
-159,6,1581,1,tells the quarantine period for ebola
-159,6,1582,1,tells the quarantine period for ebola
-159,6,1583,1,tells the quarantine period for ebola
-159,749,1584,1,tells the quarantine period for ebola
-159,750,1585,1,tells the quarantine period for ebola
-159,751,1586,0,does not tell about the quarantine period for ebola
-159,751,1587,0,does not tell about the quarantine period for ebola
-159,751,1588,0,does not tell about the quarantine period for ebola
-159,752,1589,0,does not tell about the quarantine period for ebola
-159,752,1590,0,does not tell about the quarantine period for ebola
-160,340,1591,1,tells the quarantine period for ebola
-160,340,1592,1,tells the quarantine period for ebola
-160,755,1593,1,tells the quarantine period for ebola
-160,756,1594,1,tells the quarantine period for ebola
-160,741,1595,1,tells the quarantine period for ebola
-160,753,1596,0,does not tell the quarantine period for ebola
-160,754,1597,0,does not tell the quarantine period for ebola
-160,757,1598,0,does not tell the quarantine period for ebola
-160,757,1599,0,does not tell the quarantine period for ebola
-160,757,1600,0,does not tell the quarantine period for ebola
-21,278,202,1,talks about the discovery of ebola 
-21,278,203,0,does not talk about first observation 
-21,278,204,1,talks how the first human got ebola 
-21,279,205,1,talks about first reported outbreaks of ebola 
-21,279,206,1,talks about various initial reported outbreaks of ebola 
-21,280,207,1,talks about first observations of Ebola-S 
-21,280,208,0,does not talk about first observation
-21,3,234,0,talks only about agents of ebola 
-21,3,235,0,talk about symptoms of Ebola 
-21,3,236,0,talk only about different types of ebola viruses  
-22,281,209,1,talk about first ebola treatments and cause 
-22,281,210,1,talk about treatment 
-22,281,211,0,Talks about history not treatment 
-22,282,212,1,talks all about treatment 
-22,282,213,1,talks about drugs for treatment 
-22,283,214,0,does not talk about treatment 
-22,283,215,0,Talks about history not treatment 
-22,284,216,1,talks about treatment 
-22,285,217,0,talk only about symptoms 
-22,286,218,0,talk only about history 
-23,287,219,1,Addresses ebola latest treatment 
-23,287,220,1,Addresses ebola latest treatment 
-23,288,221,0,Does not Addresses ebola latest treatment 
-23,289,222,1,Addresses ebola latest treatment 
-23,290,223,0,Does not Addresses ebola latest treatment 
-23,291,224,0,Does not Addresses ebola latest treatment 
-23,291,225,0,Does not Addresses ebola latest treatment 
-23,291,226,1,Addresses ebola latest treatment 
-23,294,227,1,Addresses ebola latest treatment 
-23,294,400,0,does not address ebola latest treatment 
-24,297,229,1,Talks about the first occurrence of Ebola 
-24,298,230,1,Mentions when first outbreak occured 
-24,298,231,0,Does not tell when Ebola outbreak occured 
-24,298,232,1,Mentions the years when outbreak occured 
-24,298,233,0,Mentions only about symptoms 
-24,304,237,1,Gives the year in which first Ebola outbreak occured 
-24,304,238,1,Mentions when the First Ebola case found 
-24,304,239,0,Does not mention when First Ebola was observed 
-24,304,240,0,Mentions only type of Ebola viruses 
-24,305,241,0,Gives information about ebola. 
-25,306,242,1,Talks about the initial treatment procedure 
-25,306,243,1,Talks about treatment in 1995 
-25,307,244,1,Gives information about the initial treatment 
-25,307,245,1,Addresses treatment conducted in 1976 
-25,308,246,1,Describes the initial treatment 
-25,309,247,0,Does not mention anything about initial treatments 
-25,309,248,0,No mentions about initial treatment 
-25,310,249,0, Does not talk about treatment 
-25,310,250,0,Talks only about treatment 
-25,310,251,0, talks only about ebola spreading 
-26,318,252,1,talk about First observation 
-26,318,253,1,talk about First observation 
-26,319,254,1,talk about First observation 
-26,319,255,1,talk about First observation 
-26,320,256,1,talk about First observation 
-26,321,257,0,does not talk about First observation 
-26,321,258,0, does not talk about First observation 
-26,322,259,0,talk about how does ebola travels 
-26,322,260,0,talk about vaccines 
-28,322,260,1,talk about latest treatment 
-26,322,261,0,talk about vaccines 
-27,338,271,1,Talks about latest treatment 
-27,338,272,1,Describes latest development in treatment 
-27,339,273,1,Addresses latest vaccine development 
-27,339,274,1,Talks about latest vaccine development 
-27,339,275,1,Mentions latest vaccine development 
-27,342,277,0, Talks only about symptoms 
-27,345,278,0,Does not talk about treatment 
-27,345,279,0,No mention about treatment 
-27,345,280,0,Does not address treatment 
-27,345,280,0,Does not talk about treatment
-28,325,262,0, does not talk about latest treatment 
-28,325,263,0, does not talk about latest treatment 
-28,326,264,1,talk about latest treatment 
-28,327,265,1,talk about latest treatment 
-28,328,266,1 ,talk about research 
-28,328,267,1,talk about latest treatment 
-28,328,268,0,does not talk about latest treatment 
-28,329,269,0,does not talk about latest treatment 
-28,329,270,0,does not talk about latest treatment  
-29,352,281,1,Mentions first outbreak of Ebola 
-29,352,282,1,Mentions the first occurrence of Ebola 
-29,352,283,0,Does not mention any dates 
-29,353,286,1,Mentions when Ebola first occurred 
-29,353,287,1,Addresses when first Ebola outbreak occurred 
-29,353,288,0, Explains only about how Ebola spreads 
-29,354,289,1,Mentions date when Ebola first occurred 
-29,354,290,0,Does not address anything about first occurrence 
-29,355,291,0,No mention about first occurrence 
-29,355,292,0,Nothing about first occurrence 
-30,362,293,1,Explains latest treatments for Ebola 
-30,362,294,1,Talks about drugs being developed lately 
-30,362,295,1,Explains latest developments in drugs for Ebola 
-30,364,296,1,Addresses latest treatment methods 
-30,364,297,1,Explains latest treatments 
-30,366,298,0,Talks only about Ebola spread 
-30,366,299,0,Explains only about Ebola transmission 
-30,367,300,0,No mentions about treatments 
-30,367,301,0,Does not mention any treatments 
-30,367,302,0,does not address any treatment methods 
-31,368,303,1,Mentions the year in which first Ebola case occurred 
-31,368,304,0,Does not mention any First occurrence of Ebola 
-31,368,305,0,Gives only overview not history of Ebola 
-31,368,306,0,Explains only symptoms and incubation period 
-31,371,307,1,Mentions the first case of Ebola 
-31,371,308,1,Specifies the year in which Ebola occurred first 
-31,371,309,0,Nothing about history
-31,161,201,1,Mentions when Ebola occurred for the first time 
-31,371,310,0,Does not mention when Ebola occurred 
-31,372,311,1,Addresses first occurrence of Ebola 
-32,423,350,1,Addresses the treatment 
-32,423,351,1,Mentions one of the earlier treatment  
-32,424,352,0,Describes only Ebola outbreak start 
-32,424,353,1,Mentions steps of general treatment 
-32,424,354,1,Mentions earlier treatment 
-32,430,355,0,Does not mention any treatment 
-32,430,356,0,Does not mention any treatment 
-32,430,357,0,Does not mention any treatment 
-32,430,358,0,Does not mention any treatment 
-32,430,359,1,mentions some treatment 
-33,432,360,1,Addresses treatment measures 
-33,432,361,0,Explains only about Ebola spread 
-33,432,362,0,Explains only about symptoms 
-33,435,363,1,Explains development of a drug 
-33,435,364,1,Develops phase 3 of development drug 
-33,436,365,1,Talks about experimental drugs 
-33,436,366,0,No mention about treatment 
-33,436,367,1,Explains treatment in West Africa 
-33,436,368,0,No mention about treatments 
-33,436,369,0,No mention about treatments 
-34,440,370,1,Describes first Ebola case 
-34,440,371,1,Mentions first Ebola case 
-34,442,372,1,Mentions first Ebola break 
-34,442,373,1,Gives information about first outbreak 
-34,442,374,0,No information about first occurrence 
-34,442,375,0,Does not tell when first ebola occurred 
-34,444,376,1,Discusses first case of Ebola 
-34,444,377,0,Discusses spread of Ebola in 2014 
-34,447,378,0,No mention about first occurrence 
-34,447,379,0,No mention about first occurrence 
-35,448,380,1,Describes development of latest drugs 
-35,448,381,1,Describes latest drug development 
-35,448,382,1,Mentions latest method for treatment 
-35,449,383,1,Addresses latest development in research for treatment 
-35,449,383,1,Mentions latest developments in treatment 
-35,453,385,0,Does not mention anything about treatment 
-35,453,386,0,Does not mention anything about treatment 
-35,453,387,0,Does not mention anything about treatment 
-35,453,388,0,Does not mention anything about treatment 
-35,453,389,0,Does not mention anything about treatment
-36,401,312,0, talk about the difference between outbreak and current one
-36,401,313,0, talk about the difference between outbreak and current one 
-36,402,314,1, talk about when the word ebola came 
-36,402,315,1, talk about when the ebola first 
-36,403,316,1, talk about when the ebola first 
-36,403,317,0, does not talk about when the ebola first 
-36,404,318,0, talk about the book patient zero 
-36,404,319,1, talk about when the ebola first 
-36,352,284,1, talk about the initial cases of ebola 
-36,352,285,0, talk about the symptoms and treatment of ebola 
-37,405,320,0 does not talks about treatment tried lately,
-37,405,321,1 talks about treatment tried lately,
-37,406,322,1 talks about treatment tried lately,
-37,406,323,1 talks about treatment tried lately,
-37,407,324,0 does not talks about treatment tried lately,
-37,407,325,0 does not talks about treatment tried lately,
-37,408,326,0 talks about treatment focuses,
-37,409,327,0 does not talks about treatment tried lately,
-37,409,328,1 talks about treatment tried lately,
-37,409,329,1 talks about treatment tried lately,
-38,410,330,1, talk about first occurrence of Ebola 
-38,410,331,0, talk about EHF 
-38,411,332,0, does not talk about first occurrence of Ebola 
-38,411,333,0, does not talk about first occurrence of Ebola 
-38,412,334,1, talk about first occurrence of Ebola 
-38,412,335,0, talk about the viruses 
-38,413,336,1, talk about first occurrence of Ebola 
-38,413,337,1, talk about report of Ebola 
-38,414,338,1, talk about first occurrence of Ebola 
-38,414,339,0, talk about symptoms of Ebola 
-39,415,340,1, talk about the treatment 
-39,415,341,1, talk about the treatment 
-39,415,342,1, talk about the treatment 
-39,416,343,1, talk about the treatment 
-39,416,344,1, talk about the treatment 
-39,416,345,0, does not talk about the treatment 
-39,418,346,0, does not talk about the treatment 
-39,419,347,0, does not talk about the treatment 
-39,419,348,0, does not talk about the treatment 
-39,421,349,0, does not talk about the treatment  
-40,457,390,0,Does not mention anything about first occurrence 
-40,459,391,1,Mentions when Ebola occurred 
-40,459,392,0,Mentions Ebola occurrence in 2014 
-40,461,393,1,Mentions about first occurrence of Ebola 
-40,461,394,1, Does not mention about first occurrence 
-40,463,395,1,Mentions first occurrence of Ebola 
-40,463,396,0,Does not mention first occurrence 
-40,464,397,1,Mentions about first occurrence of Ebola 
-40,464,398,0,Mentions about Ebola occurrence in 1979 
-40,464,399,0,Mentions about Ebola occurrence in 1994 
-101,4,1153,1,Describes Ebola Prevention care 
-101,4,1154,1,Explains Preventive care for Health workers 
-101,4,1155,0,Explains only Reducing the risk of possible sexual transmission 
-112,65,1156,1,Addresses steps involved in Cholera prevention 
-112,65,1157,1,Explains cholera prevention before it occurs 
-108,68,1158,0,No mentions about preventive steps 
-108,68,1159,1,Explains how to prevent cholera 
-108,68,1160,1,Talks about cholera prevention 
-108,68,1161,0,Talks only about treatment 
-113,7,1162,0,Explains only about incubation period 
-113,7,1163,0,Explains only how Ebola spreads 
-101,73,1164,1,Explains preventive care of Ebola 
-101,76,1165,1,Explains various preventive measures 
-101,76,1166,1,talks about ebola preventive measures 
-101,78,1167,0,describes only current ebola crisis 
-101,78,1168,0, talks only about quarantine methods 
-101,78,1169,0, Describes quarantine in US 
-101,78,1170,0, does nor explain exact preventive care 
-102,82,1171,1,Explains how to prevent mosquito bites 
-102,82,1172,1,Explains about preventive malaria medicines 
-102,84,1173,0,does not mention specific preventive measures 
-102,84,1174,0,does not specify exact preventive measures 
-102,85,1175,1,Describes malaria prevention and treatment 
-102,85,1176,1,talks about malaria prevention and treatment 
-102,86,1177,1,talks about malaria prevention measures 
-102,86,1178,0,does not talk about exact preventive measures 
-102,87,1179,0,gives only overview of malaria 
-102,87,1180,0,mentions measures taken by Indian govt to control malaria 
-103,88,1181,1,Talks about Typhus prevention 
-103,88,1182,1,Mentions various ways to prevent typhus 
-103,89,1183,1,talks about Typhus preventions 
-103,89,1184,0,Explains how typhus is spread 
-103,89,1185,0,Explains only symptoms 
-103,89,1186,0,Talks about treatment only 
-103,90,1187,1,Explains the preventive measures 
-103,91,1188,1,Describes typhus prevention 
-103,91,1189,0, Explains how typhus is spread 
-103,91,1190,0,Explains various ways of how typhus is spread 
-104,93,1191,1,Explains preventive measure of Cholera 
-104,93,1192,1,Describes preventive measures 
-104,93,1193,1,Mentions various preventive measures 
-104,96,1194,1,Explains how cholera can be prevented 
-104,96,1195,0,Talks only about symptoms 
-104,96,1196,0,explains only about cholera transmission 
-104,96,1197,0,talks about the history of cholera 
-104,97,1198,1,describes how cholera preventions is done 
-104,97,1199,0, Describes cholera fact sheet 
-104,97,1200,0,Describes treatment only 
-105,108,1003,1,Describes methods to prevent Ebola 
-105,108,1004,1,Mentions steps to prevent Ebola 
-105,108,1005,1,Describes Ebola Prevention 
-105,108,1006,1,explains how to prevent Ebola 
-105,109,1007,0,Talks about only overview of Ebola 
-105,109,1008,0,Talks only about how Ebola is spread 
-105,109,1009,1,Talks about preventive measures of Ebola 
-105,110,1010,0,Gives only facts about ebola 
-105,110,1011,0,Talks only about ebola outbreak and widespread 
-105,110,1012,0,Does not explain preventive measures 
-106,111,1013,1,Talks about malaria prevention 
-106,111,1014,0,Talks about malaria overview 
-106,111,1015,0,Describes only about antimalarial drugs 
-106,112,1016,1,Explains how to prevent malaria 
-106,112,1017,0, Explains preventions only during trip/journey 
-106,112,1018,1,Describes malaria prevention 
-106,113,1019,0,Talks about malaria in Kenya 
-106,113,1020,0,Explains how malaria is spread in Kenya 
-106,114,1021,1,Describes malaria prevention steps 
-106,114,1022,1,Explains how to prevent malaria 
-107,115,1023,1,Explains prevention of typhus 
-107,115,1024,1,Describes typhus prevention 
-107,116,1025,1,Mentions steps to prevent typhus 
-107,117,1026,1,Talks about how to prevent typhus 
-107,117,1027,0,Explains only abut symptoms 
-107,117,1028,0,Describes how typhus is infected 
-107,118,1029,0,Talks about only symptoms 
-107,118,1030,0,Does not explain how to prevent typhus 
-107,118,1031,1,Describes steps to prevent typhus 
-107,118,1032,0,Does not mention anything about preventive steps 
-108,123,1033,1,Describes the preventive measures of cholera 
-108,123,1034,1,describes preventive measures of Cholera 
-108,123,1035,0,Does not describe preventive measure of Cholera 
-108,126,1036,1,Adresses how to prevent cholera 
-108,126,1037,0,Describes spread of cholera in South Sudan 
-108,126,1038,0,Does not address any preventive measures 
-109,132,1041,1,Describes how to prevent ebola 
-109,132,1042,1,Explains prevention by not contacting carriers 
-109,132,1043,1,Addresses Different steps to prevent ebola 
-109,133,1044,1,Explains about vaccine development to prevent Ebola 
-109,134,1045,1,Talks about ebola prevention 
-109,134,1046,0,Does not give enough information on how to prevent ebola 
-109,134,1047,0,Given only overview of Ebola 
-109,134,1048,0,Does not give enough information about prevention 
-109,103,1001,0,Does not explain about prevention 
-109,103,1002,0,Does not address prevention steps 
-110,135,1049,1,Mentions steps to prevent malaria 
-110,135,1050,1,Addresses how to prevent malaria 
-110,135,1051,1,Explains how to be on safe side to prevent malaria 
-110,136,1052,1,Describes malaria prevention 
-110,136,1053,1,Explains malaria prevention by avoiding mosquito bites 
-110,136,1054,0,Does not address prevention steps 
-110,137,1055,0,Does not describe exactly how to prevent malaria 
-110,137,1056,0,Does not explain about malaria prevention 
-110,137,1057,0,No mentions about prevention 
-110,137,1058,0, No mentions about prevention 
-111,141,1059,1,Describes how to prevent typhus 
-111,141,1060,1,Explains steps to prevent typhus 
-111,141,1061,0,Does not mention how to prevent typhus 
-111,142,1062,1, Addresses steps to prevent typhus 
-111,142,1063,0,Describes only treatment of typhus 
-111,142,1064,0,Describes only about origin of typhus 
-111,144,1065,1,Mentions various ways to prevent typhus 
-111,144,1066,0,Describes only about symptoms of Typhus 
-111,146,1067,1,Explains typhus preventions 
-111,146,1068,1,Does not describe preventive measures 
-112,147,1069,1,Describes to prevent cholera 
-112,147,1070,1,Mentions various ways to prevent cholera 
-112,148,1071,1,Describes methods to prevent Cholera 
-112,148,1072,0,Explains how Cholera spreads 
-112,148,1073,0,Does not explain preventive measures 
-112,149,1074,0,Explains only about symptoms 
-112,149,1075,0, Does not explain how to prevent Cholera 
-112,149,1076,0,Explains only about spread of Cholera 
-113,151,1077,1,Explains preventive measures of Ebola 
-113,151,1078,1,Describes steps to prevent Ebola 
-113,151,1079,1,Explains various steps to prevent Ebola 
-113,152,1080,1,Describes Ebola prevention  
-113,153,1081,1,Addresses necessary steps to prevent Ebola 
-113,153,1082,0,Does not explain prevention 
-113,153,1083,0,Does not address any preventive measures 
-113,153,1084,0, No mention about preventions 
-114,154,1085,1,Explain preventive measures 
-114,154,1086,1,Describes preventive measures for travellers 
-114,154,1087,0,Explains only about symptoms 
-114,154,1088,0,Explain only about diagnosis 
-114,155,1089,0,Does not explain about prevention 
-114,155,1090,1,Explains preventive measures to avoid mosquito bite 
-114,155,1091,0,Explains only about immunity to Malaria 
-114,156,1092,1,Describes how to prevent Malaria 
-114,156,1093,1,Explains steps to prevent Malaria 
-114,156,1094,0,Describes only symptoms 
-115,18,1095,1,Explains preventive measures 
-115,18,1096,1,Describes preventive measures 
-115,18,1097,0,Describes only incubation period of typhus 
-115,242,1098,1,Explains preventive measures  
-115,242,1099,1,Explains steps to prevent typhus 
-115,243,1100,0,Describes only about treatment 
-115,243,1101,0,Explains only symptoms 
-115,243,1102,0,Explains about the distribution of typhus across world 
-115,131,1039,1,Explains prevention of typhus 
-115,131,1040,0,Explains only about treatments 
-116,244,1103,1,Explains preventive measures 
-116,244,1104,1,Describes preventive steps 
-116,244,1105,1,Addresses  steps to prevent Cholera 
-116,246,1106,1,Mentions hoe to prevent Cholera 
-116,246,1107,1,Addresses preventive measures 
-116,247,1108,0,Explains only spread of cholera in Ghana 
-116,247,1109,0,Addresses only symptoms 
-116,247,1110,0,Describes how Cholera is spread 
-116,249,1111,0,Explains only history of Cholera 
-116,249,1112,0,Describes only history of Cholera 
-117,251,1113,0,Explains about ebola patient only 
-117,251,1114,0,Does not explain any preventive steps 
-117,251,1115,1,Explains prevention and contamination of the patient 
-117,252,1116,1,Addresses preventive steps for workers 
-117,252,1117,1,Explains how to prevent ebola from ebola patient 
-117,252,1118,1,Mentions various steps to prevent Ebola 
-117,252,1119,1,Addresses steps to prevent Ebola for cleaning crews 
-117,253,1120,0,Does not mention anything about prevention 
-117,253,1121,0,Addresses only spread of Ebola 
-117,253,1122,0,Does not explain prevention 
-118,258,1123,1,Mentions steps to prevent Malaria 
-118,258,1124,1,Explains how to prevent bites 
-118,258,1125,1,Describes how to prevent bites 
-118,258,1126,1,Addresses steps to prevent malaria 
-118,259,1127,0,Does not mention anything about prevention 
-118,259,1128,0,Does not explain preventive steps 
-118,259,1129,0,No explanation about prevention 
-118,262,1130,1,Explains malaria prevention 
-118,262,1131,0,Does not explain prevention 
-118,262,1132,0,No explation about malaria prevention 
-119,264,1133,1,Describes how to prevent Typhus 
-119,264,1134,0,Does not describe any prevention steps 
-119,264,1135,0,Explains only about treatment 
-119,264,1136,0,Explains only symptoms 
-119,266,1137,1,Addresses prevention of typhus 
-119,266,1138,0,Does not explain about prevention 
-119,266,1139,0,Explains only about origin of typhus 
-119,267,1140,1,Describes steps to prevent typhus 
-119,268,1141,1,Explains measures to prevent typhus in HongKong 
-119,268,1142,1,Explains preventive steps in HongKong 
-120,269,1143,1,Mentions effective steps to prevent Cholera 
-120,269,1144,1,Addressed steps in prevention 
-120,269,1145,1,Mentions factors which do not prevent Cholera 
-120,271,1146,1,Describes Cholera prevention 
-120,271,1147,1,Describes foods to try and avoid to prevent Cholera 
-120,273,1148,0,Gives only introduction to Cholera 
-120,273,1149,0,Does not mention any preventive steps 
-120,274,1150,0,Explains only causes of Cholera 
-120,274,1151,0,Explains only about Cholera origin 
-120,274,1152,0,Does not explain about prevention 
-2,100,601,1,decscribes how non-complicated malaria is treated 
-72,100,602,1,decscribes how malaria is treated 
-73,101,603,1,talks about antibodies administered it macaques 
-73,101,604,0,talks about ebola origin 
-73,101,605,1,tells about supportive treatment 
-73,102,606,0,does not tell about ebola treatment 
-73,102,607,1,tells abot ZMapp drug for treating ebola 
-73,102,608,1,tells about Brincidofovir drug for ebola 
-73,102,609,1,tells about Blood transfussion drug for ebola 
-73,103,610,0,tells about ebola virus 
-73,103,611,0,tells about how ebola spreads 
-73,103,612,0,describes the symptoms of ebola 
-74,104,613,1,decsribes how to treat cholera 
-74,104,614,1,describes various ways to treat cholera 
-74,105,615,1,describes rehydration therapy to treat cholera 
-74,105,616,1,describes Antibiotic treatment for cholera 
-74,105,617,1,describes medicines to treat cholera 
-74,106,618,0,doesnot describes medicines to treat cholera 
-74,106,619,0,speaks about cost of treating cholera 
-74,106,620,0,doesnot tell decsribes how to treat cholera 
-74,107,621,0,tells about vaccination for cholera 
-74,107,622,0,tells about development of a vaccine for cholera 
-75,119,623,1,describes about PCR test 
-75,120,624,0,does not tell about PCR test 
-75,120,625,0,does not tell about PCR test 
-75,120,626,1,describes about PCR test 
-75,120,627,0,does not tell about PCR test 
-75,121,628,1,describes about PCR test for ebola 
-75,121,629,1,describes about PCR test to get get results quickly 
-75,121,630,1,describes about PCR test to detect ebola virus 
-75,122,631,0,not related to PCR test 
-75,122,632,0,not related to PCR test 
-69,18,633,1,describes how to treat typhus 
-69,18,634,0,talks about prognosis of typhus 
-76,267,635,1,tells about medication for cholera 
-76,267,636,1,describes the medicines avialable to treat cholera 
-76,268,638,0,doesnot tell about treatment for cholera 
-76,269,639,1,describes the medicines avialable to treat cholera 
-67,27,640,1,describes medications to treat malaria after confirmation 
-67,27,641,1,describes medications to treat malaria after confirmation 
-76,270,642,1,describes the medicines avialable to treat cholera 
-76,270,643,1,describes the medicines avialable to treat cholera 
-76,270,644,0,doesnot tell about treatment for cholera 
-76,272,645,0,tells how cholera is caused 
-76,272,646,0,tells about symptoms 
-76,272,647,0,tells about types of cholerae 
-77,275,648,1,describes how to test for malaria 
-77,275,649,1,tells diagnosis for testing the malaria parasite 
-77,276,650,0,does not tell how to diagnosis malaria 
-77,276,651,0,does not tell how to diagnosis malaria 
-77,277,652,1,tells diagnosis for testing the malaria parasite 
-77,277,653,1,describes how to test for malaria 
-77,288,654,1,describes how to test for malaria 
-77,288,655,0,speaks only systematic medline search in US 
-77,288,656,0,speaks about survey in US 
-77,288,657,0,does not tell how to diagnosis malaria 
-78,293,658,0,tells how typhus is transmitted 
-78,293,659,1,tells about diagnostic testing of typhus 
-78,293,660,1,tells about specific methos avialble to test for typhus 
-78,295,661,0,tells about laboratory testing 
-78,295,662,0,does not tell about typhus diagnostic tests 
-78,295,663,1,tells about diagnostic testing of typhus 
-78,295,664,0,does not tell about typhus diagnostic tests 
-78,296,665,0,does not tell about typhus diagnostic tests 
-78,296,666,1,tells about diagnostic testing of typhus 
-78,296,667,1,tells about specific methos avialble to test for typhus 
-79,298,668,1,decsribes about Diagnosis of Epidemic cholera 
-79,298,669,1,decsribes about Diagnosis of Epidemic cholera 
-79,299,670,0,does not tell how to diagnois cholera 
-79,299,671,1,tells about how to diagnois cholera 
-79,299,672,0,does not tell how to diagnois cholera 
-79,300,673,1,decsribes about Diagnosis of Epidemic cholera 
-79,300,674,1,tells about how to diagnois cholera 
-79,301,675,0,no information about test for cholera 
-79,301,676,0,no information about test for cholera 
-79,301,677,0,does not tell how to diagnois cholera 
-80,302,678,1,tells about supportive care for ebola 
-80,302,679,1,tells about methods in supportive care for ebola 
-80,302,680,0,does not tell anything supportive care 
-80,303,681,0,does not tell anything supportive care 
-80,303,682,0,does not describe anything about ebola care 
-80,303,683,0,does not tell anything supportive care 
-80,311,684,1,tells what supportive care is 
-80,311,685,1,tells what supportive care inludes 
-80,311,685,1,tells what supportive care inludes 
-80,312,687,0,does not tell about supportive carre for ebola 
-61,32,688,1,decsribes about the First Antigen Rapid Test for Ebola 
-61,32,689,1,decsribes the time in which test result can be obtained 
-61,32,690,1,describes the method to confirm once result of rapid test is obtained 
-61,33,691,1,describes the new test for ebola virus in West Aftrica 
-61,34,692,1,describes new tool kit for testing ebola 
-61,35,693,0,tells the manufacturer for various disease detection toolkit and 
-61,35,694,0,speaks in general the outbreak of ebola 
-61,35,695,0,talks about pricing of product and PCR test result 
-61,36,696,0,talks about CARE kits for travellers 
-61,37,697,0,tells about big hurdles of current tests 
-62,38,698,0,describes its difficult to diagonise 
-62,38,699,0,talks about when a person contacted with ebola be isolated 
-62,38,700,1,tells various tests available to test ebola 
-62,39,701,1,tells various tests available to test ebola 
-62,40,702,0,just tells its difficult to test 
-62,40,703,1,tells about PCR tests available to test ebola 
-62,40,704,1,tells about ELISA tests available to test ebola 
-62,41,705,1,tells what test should be performed 
-62,41,706,0,tells about after diagonsed steps 
-62,41,707,0,tells about whom to not to test 
-63,42,708,1,describes Various test kits for malaria 
-63,42,709,1,describes Various test kits for malaria 
-63,42,710,1,describes Various test kits for malaria 
-63,43,711,1,speaks about diagnostic testing for malaria 
-63,44,712,1,tells test to detect malaria 
-63,44,713,0,does not describe test for malaria 
-63,44,714,0,tells about cost of testing 
-63,44,715,0,talks about cost of anti malarial drug 
-63,45,716,0,tells how does the test kit work? 
-63,45,717,0,tells who can benefit from Malaria Rapid Test Kits? 
-64,46,718,1,tells how to test for cholarae 
-64,47,719,1,describes how to test for cholarae 
-64,47,720,1,tells one particular method to test for cholarae 
-64,47,721,1,tells one particular method to test for cholarae 
-64,48,722,1,describes in detail test for cholarea 
-64,49,723,0,does not tell how to test for cholarae 
-64,49,724,0,does not tell how to test for cholarae 
-64,50,725,0,does not tell how to test for cholarae 
-64,50,726,0,does not tell how to test for cholarae 
-64,50,727,0,does not tell how to test for cholarae 
-65,51,728,0,does not tell about test available for typhus 
-65,51,729,0,does not tell about test available for typhus 
-65,51,730,1,describes how to test for typhus 
-65,52,731,1,tells test available for typhus 
-65,52,732,1,tells test available for typhus for varous types of typhus 
-65,52,732,0,tells its difficult to test 
-65,53,733,1,tells test available for typhus 
-65,53,734,0,does not describes test available for typhus 
-65,54,735,0,just tells about typhus 
-65,54,736,1,tells how to diahnose Typhus 
-66,55,737,1,describes how to treat malaria 
-66,55,738,1,describes guidelines about how to treat malaria 
-66,56,739,1,describes how to proceed treating uncomplictaed malaria 
-66,56,740,1,describes how to treat malaria P. vivax infections 
-66,56,741,1,describes how to proceed treating severe malaria 
-66,57,742,0,does not describes how to treating before diagnosis is confirmed 
-66,57,743,0,doest not tell about trating malaria 
-66,58,744,0,talks about negative result of RDT 
-66,58,745,0,does not talk about treatment 
-66,59,746,0,doesnot address how to treat malaria 
-67,60,747,0,does not tell about treatment 
-67,60,748,0,tells about medicine choice 
-67,60,749,0,tells about test dusring treatment 
-67,61,750,0,tells only about type of antimalarial medicine and how long to take 
-67,61,751,0,does not tell about treatment 
-67,62,752,1,tells about artemisinin-based combination therapy (ACT) 
-67,63,753,1,tells about current practice in treating cases of malaria 
-67,64,754,1,drugs used in treating of malaria 
-68,65,755,1,describes how to protect one self from cholera 
-68,65,756,1,describes the mainstay of treatment for cholera. 
-68,66,757,1,describes adjunct treatment for cholera 
-68,66,758,1,talks about medicines used in treating cholera 
-68,66,759,1,talks about guidelines recommended to treat cholera 
-68,67,760,0,describes causes for cholera outbreak 
-68,67,761,0,describes cholera history 
-68,67,762,0,talks about prevention and not about treatment 
-68,68,763,0,describes how to prevent cholera from spreading 
-68,68,764,0,talks how cholera spreads 
-69,69,765,1,describes how to treat typhus 
-69,70,766,1,describes how to treat typhus 
-69,70,767,0,talks about causes only 
-69,70,768,0,doesnot describes how to treat typhus 
-69,70,769,0,doesnot describes how to treat typhus 
-69,70,770,0,doesnot describes how to treat typhus 
-69,71,771,1,describes how to treat typhus 
-69,72,772,1,describes how to treat typhus 
-70,74,773,1,describes how to treat ebola 
-70,74,774,1,describes medications avaialble to treat ebola 
-70,74,775,1,describes Supportive treatment measures for Ebola include 
-70,74,776,0,questions why people do not recover from the illness 
-70,75,777,1,describes treatment of ebola 
-70,75,778,1,describes treatment of ebola 
-70,75,779,0,does not describe how to treat ebola 
-70,77,780,0,talks about ebola treating hospitals in US 
-70,77,781,0,talks about ebola treating hospitals in US 
-70,77,782,0,talks about returning travelers 
-71,79,783,0,tells about how many days it takes to detect ebola 
-71,79,784,0,does not tell about testing of ebola 
-71,79,785,0,does not tell about testing of ebola 
-71,80,786,1,tells about new method to test ebola 
-71,81,787,1,tells about new method to test ebola 
-71,81,788,1,tells about new method to test ebola 
-71,82,789,1,talks about new method to test ebola quickly 
-71,82,790,0,does not tell about testing of ebola 
-71,82,791,1,tells about new method to test ebola 
-71,92,792,0,does not tell about testing of ebola 
-72,94,793,0,does not tell about cure for malaria 
-72,94,794,0,talks about DDT - malaria and eradication 
-72,95,795,1,describes how malaria in Africa is treated 
-72,95,796,1,describes how malaria is cured 
-72,98,797,0,does not tell about cure for malaria 
-72,98,798,0,does not tell about cure for malaria 
-72,98,799,0,does not tell about cure for malaria 
-72,99,800,1,describes how malaria is cured 
-181,23,1835,1,describes treatement duration based on patients immune system
-181,23,1836,1,describes treatement for ebola and related infections
-181,24,1838,1,describes the treatment for ebola
-181,24,1839,1,describes the treatment for ebola and
-181,24,1840,0,does not describes the treatment for ebola
-181,24,1841,1,describes the treatment and precautions evd
-181,25,1852,0,decsrbes who should treat ebola
-181,25,1853,0,decsrbes who should treat ebola
-181,26,1868,0,decscribes where the patient has been treated
-181,26,1869,0,decscribes only treatment location
-182,27,1881,1,decribes duration of malaria treament and symptoms
-182,28,1883,1,describes the length of the treatment of malaria
-182,28,1884,1,describes treatment and types
-182,29,1885,1,describes treatment for various malaria types
-182,29,1886,1,describes treatment for various malaria types
-182,30,1887,0,doesnot indicate length of treatment
-182,30,1888,0,doesnot contain treatment duration
-182,31,1889,0,describes only type(Primaquine) of antimalarial drug
-182,31,1890,0,talks about additional treatments for malaria
-182,31,1891,0,talks about research in Primaquine
-192,21,1834,0,does not tell about recovery time
-192,51,1999,1,tells about prognosis
-192,51,1999,1,tells about recovery time
-192,51,2000,0,tells about complication
-193,27,1882,1,tells the time to recovery
-183,123,1801,0,does not tell about treatment time
-183,124,1802,0,does not tella about duration
-183,124,1803,0,tells how long it takes for symptoms to appear
-183,125,1805,1,tells about time to treat cholera completely
-183,125,1806,1,tells how long it takes to recover fully
-183,125,1807,1,tells about time to treat cholera
-183,126,1808,1,tells about time to treat cholera completely
-183,127,1809,0,speaks about after recovery
-183,127,1810,0,does not tell about treament time
-183,128,1811,1,tells about time to treat cholera completely
-184,129,1812,1,tells about the typhus treatment course
-184,130,1813,0,does not tell about typhus treatment duration
-184,130,1814,1,tells about typhus treatment duration
-184,130,1815,1,speaks about the time to treat typhus using different medicines
-184,137,1816,1,tells about the typhus treatment course completion
-184,137,1817,1,tells about typhus treatment duration
-184,137,1818,0,does not tells about typhus treatment duration
-184,139,1819,0,does not tells about typhus treatment duration
-184,140,1820,0,does not tells about typhus treatment duration
-184,140,1821,0,does not tells about typhus treatment duration
-185,143,1822,0,does not tell about malaria symptoms duration
-185,143,1823,1,describes malaria symptoms duration
-185,143,1824,0,tells how malaria is treated
-185,143,1825,1,speaks about malaria symptoms duration
-185,145,1826,1,tells how long it takes to cure malaria
-185,145,1827,1,tells about treatment options
-185,145,1828,1,tells how long it takes for malaria symptoms to subside
-185,150,1829,0,tells about different time ranges for various malaria types
-185,150,1830,0,tells about symptoms depending on general health
-185,150,1831,0,tells how long it takes for symptoms to appear
-186,245,1842,0,does not tell about time to recovery
-186,245,1843,0,does not tell about time to recovery
-186,245,1844,0,tells only about the symptoms
-186,245,1845,0,does not tell about time to recovery
-186,245,1846,1,tells that only supportive crae can cure ebola
-186,245,1847,1,tells it could take few weeks to recover
-186,245,1848,1,tells about a specific case of ebola cure
-186,248,1851,1,tells that no cure is avlaible
-186,250,1854,1,tells about a specific case of ebola cure in US
-186,250,1855,0,does not tell anything about time to recovery
-187,254,1858,0,talks about cholera in general
-187,254,1859,0,only talks about what happens if untreated
-187,254,1860,0,talks about cholera symptoms
-187,254,1861,1,describes the time taken to recover from cholera
-187,255,1862,1,talks about time to recover from cholera
-187,256,1863,0,only talks about what happens if untreated
-187,256,1864,0,only talks about what happens if untreated
-187,256,1865,1,talks about time to recover from cholera
-187,257,1866,1,talks about time to recover from cholera
-187,257,1867,1,talks about time to recover from cholera
-188,260,1871,0,does not tell about treatment time
-188,260,1872,1,tells about prognosis recovery time from typhus
-188,261,1873,0,does not tell about treatment time
-188,261,1874,0,talks about types of typhus
-188,261,1875,0,describes to detect typhus presence
-188,261,1876,1,tells about recovery time in children
-188,263,1877,1,tells about recovery time after treatment
-188,263,1878,0,does not tella about typhus
-188,264,1879,1,tells about how long treatment is needed
-188,265,1880,1,tells about how long treatment is needed
-189,313,1892,1,tells how long it takes to recover from malaria
-189,313,1893,1,tells about recovery time
-189,314,1894,0,tells what happens when malaria infected mosquito bites
-189,314,1895,1,tells about recovery time
-189,314,1896,0,tells what happens in chidren and pregnant ladies as effect of malaria
-189,315,1897,0,tells how malaria can be prevented
-189,315,1898,1,tells on what factors recovery is possible
-189,315,1899,0,tells about complications in malaria
-189,316,1900,1,tells about long long it takes to recover
-189,316,1901,0,tells about prevention of malaria
-190,317,1902,0,talks about sypmtoms becoming prominent
-190,317,1903,0,talks about how cholera spreads
-190,317,1904,1,tells what factors make quick recovery from cholera
-190,317,1905,1,tells what factors make quick recovery
-190,320,1906,0,does not tell how long it takes to recover
-190,320,1907,1,tells about how to recover quickly from cholera
-190,323,1908,1,tells how long it takes to recover from cholera fully
-190,324,1909,1,tells about cholera treatment
-190,324,1910,0,talks about travellers diarrhea
-190,324,1911,0,talks about travellers diarrhea
-191,329,1912,0,does not tell about recovery
-191,329,1913,1,tells about recovery time depends on what factors
-191,329,1914,0,speaks about ebola faltality rate
-191,330,1915,0,does not tell about recovery
-191,331,1917,1,tells the there is no exact number of weeks to recover from ebola
-191,332,1918,1,tells about supportive care
-191,332,1919,0,does not tell about recovery
-191,333,1921,1,tell no cure for ebola
-191,5,1997,0,tells how infection is caused
-191,5,1998,1,tells that cure from ebola is very rare
-192,334,1922,0,does not tell how long it takes to recover from typhus
-192,334,1923,1,speaks about how long infection lasts
-192,334,1924,0,does not tell how long it takes to recover
-192,336,1925,0,tells about complication from typhus
-192,336,1926,1,tells about how long it takes to recover
-192,337,1927,1,tells about recovery time
-193,196,1832,0,speaks about vaccine against malaria
-193,196,1833,0,speaks about prevention of malaria
-193,388,1928,0,tells about doxycycline
-193,388,1929,0,tells about symptoms of malaria
-193,389,1930,1,tells the time to recovery
-193,390,1931,1,tells how malraia is treated
-193,390,1932,0,tells how malaria is tested
-193,391,1933,1,gives specific case to tell about recovery time
-193,392,1934,1,gives the timeline for children to adult
-194,393,1935,1,tells the time to recover if recovery is possible
-194,393,1936,0,tells about after effects on survivors
-194,393,1937,1,tells about days onwards the death happens if not recovered
-194,393,1938,1,tells duration of supportive treatment
-194,394,1940,0,does not tell about recovery time
-194,394,1941,0,does not tell about recovery time
-194,394,1942,1,tells about rare survivors in case of ebola
-194,395,1944,1,tells why its not possible to recover
-194,395,1945,0,does not tell about recovery time focuses on supportive care
-194,395,1946,0,tells ebola virus as bioterrorism
-195,396,1947,1,tells about full recovery
-195,397,1948,0,just tells what prognosis means
-195,398,1949,1,tells about full recovery
-195,399,1950,1,tells about treatment and recovery
-195,399,1951,1,tells about treatment and recovery
-195,399,1952,0,tells what prevention
-195,399,1953,0,tells about cholera vaccine
-195,399,1954,0,tells about cholera vaccine
-195,399,1955,0,tells how cholera break out happens
-195,400,1956,1,tells about treatment and recovery
-196,417,1957,0,tells about scrub typhus
-196,417,1958,0,tells about causing agent
-196,417,1959,1,tells about treatment and recovery time
-196,417,1960,1,tells about prognosis recovery time
-196,420,1961,1,tells about treatment time
-196,420,1962,0,does not speak about treatment time
-196,420,1963,1,tells about treatment time
-196,420,1964,0,does not speak about treatment time
-196,422,1965,0,does not speak about treatment time
-196,422,1966,1,tells about treatment time
-197,425,1967,1,tells about time for treatment
-197,426,1968,1,tells about time for treatment
-197,427,1969,1,tells about time for treatment
-197,428,1970,1,tells about time for treatment
-197,429,1971,1,tells time for symptoms to appear
-197,430,1972,0,does not tell about malaria treatment time
-197,430,1973,0,does not tell about malaria treatment time
-197,430,1974,0,does not tell about malaria treatment time
-197,430,1975,0,does not tell about malaria treatment time
-197,430,1976,0,does not tell about malaria treatment time
-198,433,1977,0,speaks about typhoid
-198,433,1978,0,speaks about typhoid
-198,434,1979,1,speaks about treatment time
-198,434,1980,1,speaks about treatment time
-198,437,1981,0,does not tell about treatment time
-198,437,1982,0,does not tell about treatment time
-198,437,1983,1,speaks about duration of symptoms
-198,437,1984,0,does not tell about treatment time
-198,438,1985,1,gives time for treatment using particular medicine
-198,438,1986,1,gives time for treatment using particular medicine
-199,439,1987,1,tells about cholera duration
-199,441,1988,0,does not tell about duration of treatment
-199,441,1989,0,does not tell about duration of treatment
-199,443,1990,1,tells about cholera duration
-199,443,1991,1,tells about cholera duration
-199,445,1992,0,does not tell about treatment duration
-199,445,1993,0,does not tell about treatment duration
-199,446,1994,0,does not tell about treatment duration
-199,451,1995,1,tells how long it takes to remove cholera
-199,451,1996,1,tells how long it takes to remove cholera
+209,480,2081,1,provides the time and treament when Ebola was first observed,,,,
+209,482,2082,1,provides the time and treament when Ebola was first observed,,,,
+209,4,2083,1,provides the time and treament when Ebola was first observed,,,,
+209,4,2084,1,provides the time and treament when Ebola was first observed,,,,
+209,481,2085,1,provides the time and treament when Ebola was first observed,,,,
+209,483,2086,0,does not address what treatment were tried when Ebola was first observed,,,,
+209,483,2087,0,does not address what treatment were tried when Ebola was first observed,,,,
+209,483,2088,0,does not address what treatment were tried when Ebola was first observed,,,,
+209,483,2089,0,does not address what treatment were tried when Ebola was first observed,,,,
+209,483,2090,0,does not address what treatment were tried when Ebola was first observed,,,,
+210,3,2091,1,provides the time and treament when Ebola was first observed,,,,
+210,308,2092,1,provides the time and treament when Ebola was first observed,,,,
+210,484,2093,1,provides the time and treament when Ebola was first observed,,,,
+210,101,2094,1,provides the time and treament when Ebola was first observed,,,,
+210,683,2095,1,provides the time and treament when Ebola was first observed,,,,
+210,368,2096,0,does not address what treatment were tried when Ebola was first observed,,,,
+210,368,2097,0,does not address what treatment were tried when Ebola was first observed,,,,
+210,368,2098,0,does not address what treatment were tried when Ebola was first observed,,,,
+210,368,2099,0,does not address what treatment were tried when Ebola was first observed,,,,
+210,368,2100,0,does not address what treatment were tried when Ebola was first observed,,,,
+211,4,2101,1,provides the time and treament when Ebola was first observed,,,,
+211,282,2102,1,provides the time and treament when Ebola was first observed,,,,
+211,3,2103,1,provides the time and treament when Ebola was first observed,,,,
+211,4,2104,1,provides the time and treament when Ebola was first observed,,,,
+211,23,2105,1,provides the time and treament when Ebola was first observed,,,,
+211,282,2106,0,does not address what treatment were tried when Ebola was first observed,,,,
+211,282,2107,0,does not address what treatment were tried when Ebola was first observed,,,,
+211,282,2108,0,does not address what treatment were tried when Ebola was first observed,,,,
+211,282,2109,0,does not address what treatment were tried when Ebola was first observed,,,,
+211,282,2110,0,does not address what treatment were tried when Ebola was first observed,,,,
+212,4,2111,1,provides the time and treament when Ebola was first observed,,,,
+212,3,2112,1,provides the time and treament when Ebola was first observed,,,,
+212,3,2113,1,provides the time and treament when Ebola was first observed,,,,
+212,281,2114,1,provides the time and treament when Ebola was first observed,,,,
+212,368,2115,1,provides the time and treament when Ebola was first observed,,,,
+212,368,2116,0,does not address what treatment were tried when Ebola was first observed,,,,
+212,368,2117,0,does not address what treatment were tried when Ebola was first observed,,,,
+212,368,2118,0,does not address what treatment were tried when Ebola was first observed,,,,
+212,368,2119,0,does not address what treatment were tried when Ebola was first observed,,,,
+212,368,2120,0,does not address what treatment were tried when Ebola was first observed,,,,
+213,4,2121,1,provides the time and treament when Ebola was first observed,,,,
+213,282,2122,1,provides the time and treament when Ebola was first observed,,,,
+213,282,2123,1,provides the time and treament when Ebola was first observed,,,,
+213,282,2124,1,provides the time and treament when Ebola was first observed,,,,
+213,282,2125,1,provides the time and treament when Ebola was first observed,,,,
+213,331,2126,0,does not address what treatment were tried when Ebola was first observed,,,,
+213,331,2127,0,does not address what treatment were tried when Ebola was first observed,,,,
+213,331,2128,0,does not address what treatment were tried when Ebola was first observed,,,,
+213,331,2129,0,does not address what treatment were tried when Ebola was first observed,,,,
+213,331,2130,0,does not address what treatment were tried when Ebola was first observed,,,,
+214,102,2131,1,provides the time and treament when Ebola was first observed,,,,
+214,101,2132,1,provides the time and treament when Ebola was first observed,,,,
+214,23,2133,1,provides the time and treament when Ebola was first observed,,,,
+214,281,2134,1,provides the time and treament when Ebola was first observed,,,,
+214,3,2135,1,provides the time and treament when Ebola was first observed,,,,
+214,345,2136,0,does not address what treatment were tried when Ebola was first observed,,,,
+214,345,2137,0,does not address what treatment were tried when Ebola was first observed,,,,
+214,345,2138,0,does not address what treatment were tried when Ebola was first observed,,,,
+214,345,2139,0,does not address what treatment were tried when Ebola was first observed,,,,
+214,345,2140,0,does not address what treatment were tried when Ebola was first observed,,,,
+215,102,2141,1,provides the time and treament when Ebola was first observed,,,,
+215,102,2142,1,provides the time and treament when Ebola was first observed,,,,
+215,102,2143,1,provides the time and treament when Ebola was first observed,,,,
+215,102,2144,1,provides the time and treament when Ebola was first observed,,,,
+215,102,2145,1,provides the time and treament when Ebola was first observed,,,,
+215,289,2146,0,does not address what treatment were tried when Ebola was first observed,,,,
+215,289,2147,0,does not address what treatment were tried when Ebola was first observed,,,,
+215,289,2148,0,does not address what treatment were tried when Ebola was first observed,,,,
+215,289,2149,0,does not address what treatment were tried when Ebola was first observed,,,,
+215,289,2150,0,does not address what treatment were tried when Ebola was first observed,,,,
+216,102,2151,1,provides the time and treament when Ebola was first observed,,,,
+216,101,2152,1,provides the time and treament when Ebola was first observed,,,,
+216,102,2153,1,provides the time and treament when Ebola was first observed,,,,
+216,102,2154,1,provides the time and treament when Ebola was first observed,,,,
+216,287,2155,1,provides the time and treament when Ebola was first observed,,,,
+216,503,2156,0,does not address what treatment were tried when Ebola was first observed,,,,
+216,503,2157,0,does not address what treatment were tried when Ebola was first observed,,,,
+216,503,2158,0,does not address what treatment were tried when Ebola was first observed,,,,
+216,503,2159,0,does not address what treatment were tried when Ebola was first observed,,,,
+216,102,2160,0,does not address what treatment were tried when Ebola was first observed,,,,
+225,39,2241,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+225,32,2242,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+225,32,2243,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+225,32,2244,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+225,32,2245,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+225,40,2246,0,No tests are givein in this paragraph,,,,
+225,40,2247,0,No tests are givein in this paragraph,,,,
+225,40,2248,0,No tests are givein in this paragraph,,,,
+225,40,2249,0,No tests are givein in this paragraph,,,,
+225,40,2250,0,No tests are givein in this paragraph,,,,
+226,504,2251,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+226,504,2252,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+226,42,2253,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+226,505,2254,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+226,505,2255,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+226,506,2256,0,No tests are givein in this paragraph,,,,
+226,506,2257,0,No tests are givein in this paragraph,,,,
+226,506,2258,0,No tests are givein in this paragraph,,,,
+226,507,2259,0,No tests are givein in this paragraph,,,,
+226,507,2260,0,No tests are givein in this paragraph,,,,
+227,508,2261,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+227,508,2262,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+227,53,2263,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+227,509,2264,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+227,54,2265,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+227,296,2266,0,No tests are givein in this paragraph,,,,
+227,296,2267,0,No tests are givein in this paragraph,,,,
+227,296,2268,0,No tests are givein in this paragraph,,,,
+227,296,2269,0,No tests are givein in this paragraph,,,,
+227,296,2270,0,No tests are givein in this paragraph,,,,
+228,47,2271,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+228,46,2272,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+228,96,2273,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+228,47,2274,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+228,48,2275,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+228,96,2276,0,No tests are givein in this paragraph,,,,
+228,96,2277,0,No tests are givein in this paragraph,,,,
+228,96,2278,0,No tests are givein in this paragraph,,,,
+228,96,2279,0,No tests are givein in this paragraph,,,,
+228,96,2280,0,No tests are givein in this paragraph,,,,
+229,24,2281,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+229,4,2282,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+229,4,2283,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+229,343,2284,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+229,515,2285,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+229,4,2286,0,No tests are givein in this paragraph,,,,
+229,4,2287,0,No tests are givein in this paragraph,,,,
+229,4,2288,0,No tests are givein in this paragraph,,,,
+229,4,2289,0,No tests are givein in this paragraph,,,,
+229,4,2290,0,No tests are givein in this paragraph,,,,
+230,27,2291,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+230,514,2292,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+230,56,2293,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+230,58,2294,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+230,56,2295,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+230,42,2296,0,No tests are givein in this paragraph,,,,
+230,42,2297,0,No tests are givein in this paragraph,,,,
+230,42,2298,0,No tests are givein in this paragraph,,,,
+230,42,2299,0,No tests are givein in this paragraph,,,,
+230,42,2300,0,No tests are givein in this paragraph,,,,
+231,516,2301,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+231,516,2302,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+231,119,2303,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+231,38,2304,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+231,41,2305,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+231,4,2306,0,No tests are givein in this paragraph,,,,
+231,4,2307,0,No tests are givein in this paragraph,,,,
+231,4,2308,0,No tests are givein in this paragraph,,,,
+231,4,2309,0,No tests are givein in this paragraph,,,,
+231,4,2310,0,No tests are givein in this paragraph,,,,
+232,517,2311,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+232,517,2312,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+232,517,2313,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+232,517,2314,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+232,517,2315,1,shows test are performed for Ebola Malaria Typhus or Cholera,,,,
+232,518,2316,0,No tests are givein in this paragraph,,,,
+232,518,2317,0,No tests are givein in this paragraph,,,,
+232,518,2318,0,No tests are givein in this paragraph,,,,
+232,518,2319,0,No tests are givein in this paragraph,,,,
+232,518,2320,0,No tests are givein in this paragraph,,,,
+241,103,2401,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+241,76,2402,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+241,329,2403,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+241,109,2404,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+241,151,2405,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+241,329,2406,0,No preventive care information is mentioned,,,,
+241,329,2407,0,No preventive care information is mentioned,,,,
+241,329,2408,0,No preventive care information is mentioned,,,,
+241,329,2409,0,No preventive care information is mentioned,,,,
+241,329,2410,0,No preventive care information is mentioned,,,,
+242,111,2411,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+242,111,2412,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+242,111,2413,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+242,258,2414,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+242,258,2415,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+242,258,2416,0,No preventive care information is mentioned,,,,
+242,258,2417,0,No preventive care information is mentioned,,,,
+242,258,2418,0,No preventive care information is mentioned,,,,
+242,258,2419,0,No preventive care information is mentioned,,,,
+242,258,2420,0,No preventive care information is mentioned,,,,
+243,509,2421,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+243,509,2422,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+243,142,2423,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+243,242,2424,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+243,264,2425,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+243,264,2426,0,No preventive care information is mentioned,,,,
+243,264,2427,0,No preventive care information is mentioned,,,,
+243,264,2428,0,No preventive care information is mentioned,,,,
+243,264,2429,0,No preventive care information is mentioned,,,,
+243,264,2430,0,No preventive care information is mentioned,,,,
+244,147,2431,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+244,269,2432,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+244,269,2433,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+244,269,2434,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+244,602,2435,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+244,230,2436,0,No preventive care information is mentioned,,,,
+244,230,2437,0,No preventive care information is mentioned,,,,
+244,230,2438,0,No preventive care information is mentioned,,,,
+244,230,2439,0,No preventive care information is mentioned,,,,
+244,230,2440,0,No preventive care information is mentioned,,,,
+245,73,2441,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+245,73,2442,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+245,329,2443,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+245,151,2444,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+245,151,2445,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+245,103,2446,0,No preventive care information is mentioned,,,,
+245,103,2447,0,No preventive care information is mentioned,,,,
+245,103,2448,0,No preventive care information is mentioned,,,,
+245,103,2449,0,No preventive care information is mentioned,,,,
+245,103,2450,0,No preventive care information is mentioned,,,,
+246,608,2451,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+246,608,2452,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+246,608,2453,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+246,608,2454,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+246,608,2455,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+246,608,2456,0,No preventive care information is mentioned,,,,
+246,608,2457,0,No preventive care information is mentioned,,,,
+246,608,2458,0,No preventive care information is mentioned,,,,
+246,608,2459,0,No preventive care information is mentioned,,,,
+246,608,2460,0,No preventive care information is mentioned,,,,
+247,88,2461,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+247,611,2462,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+247,611,2463,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+247,611,2464,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+247,141,2465,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+247,141,2466,0,No preventive care information is mentioned,,,,
+247,141,2467,0,No preventive care information is mentioned,,,,
+247,141,2468,0,No preventive care information is mentioned,,,,
+247,141,2469,0,No preventive care information is mentioned,,,,
+247,141,2470,0,No preventive care information is mentioned,,,,
+248,147,2471,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+248,612,2472,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+248,68,2473,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+248,613,2474,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+248,614,2475,1,gives the preventive care recommended for Ebola Malaria Typhus or Cholera,,,,
+248,614,2476,0,No preventive care information is mentioned,,,,
+248,614,2477,0,No preventive care information is mentioned,,,,
+248,614,2478,0,No preventive care information is mentioned,,,,
+248,614,2479,0,No preventive care information is mentioned,,,,
+248,614,2480,0,No preventive care information is mentioned,,,,
+257,342,2561,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+257,342,2562,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+257,6,2563,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+257,347,2564,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+257,6,2565,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+257,605,2566,0,No related information is found,,,,
+257,605,2567,0,No related information is found,,,,
+257,605,2568,0,No related information is found,,,,
+257,605,2569,0,No related information is found,,,,
+257,605,2570,0,No related information is found,,,,
+258,465,2571,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+258,28,2572,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+258,665,2573,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+258,666,2574,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+258,667,2575,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+258,470,2576,0,No related information is found,,,,
+258,470,2577,0,No related information is found,,,,
+258,470,2578,0,No related information is found,,,,
+258,470,2579,0,No related information is found,,,,
+258,470,2580,0,No related information is found,,,,
+259,670,2581,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+259,336,2582,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+259,671,2583,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+259,374,2584,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+259,677,2585,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+259,21,2586,0,No related information is found,,,,
+259,21,2587,0,No related information is found,,,,
+259,21,2588,0,No related information is found,,,,
+259,21,2589,0,No related information is found,,,,
+259,21,2590,0,No related information is found,,,,
+260,679,2591,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+260,274,2592,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+260,274,2593,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+260,274,2594,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+260,274,2595,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+260,363,2596,0,No related information is found,,,,
+260,363,2597,0,No related information is found,,,,
+260,363,2598,0,No related information is found,,,,
+260,363,2599,0,No related information is found,,,,
+260,363,2600,0,No related information is found,,,,
+261,615,2601,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+261,615,2602,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+261,615,2603,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+261,615,2604,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+261,6,2605,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+261,347,2606,0,No related information is found,,,,
+261,347,2607,0,No related information is found,,,,
+261,347,2608,0,No related information is found,,,,
+261,347,2609,0,No related information is found,,,,
+261,347,2610,0,No related information is found,,,,
+262,465,2611,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+262,28,2612,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+262,665,2613,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+262,666,2614,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+262,667,2615,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+262,659,2616,0,No related information is found,,,,
+262,659,2617,0,No related information is found,,,,
+262,659,2618,0,No related information is found,,,,
+262,659,2619,0,No related information is found,,,,
+262,659,2620,0,No related information is found,,,,
+263,670,2621,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+263,336,2622,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+263,671,2623,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+263,374,2624,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+263,677,2625,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+263,661,2626,0,No related information is found,,,,
+263,661,2627,0,No related information is found,,,,
+263,661,2628,0,No related information is found,,,,
+263,661,2629,0,No related information is found,,,,
+263,661,2630,0,No related information is found,,,,
+264,679,2631,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+264,274,2632,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+264,274,2633,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+264,274,2634,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+264,274,2635,1,shows the length of quarantine period for Ebola Malaria Typhus Cholera,,,,
+264,13,2636,0,No related information is found,,,,
+264,13,2637,0,No related information is found,,,,
+264,13,2638,0,No related information is found,,,,
+264,13,2639,0,No related information is found,,,,
+264,13,2640,0,No related information is found,,,,
+273,245,2721,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+273,245,2722,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+273,245,2723,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+273,652,2724,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+273,329,2725,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+273,245,2726,0,it doesn't satisfy the information need,,,,
+273,245,2727,0,it doesn't satisfy the information need,,,,
+273,245,2728,0,it doesn't satisfy the information need,,,,
+273,245,2729,0,it doesn't satisfy the information need,,,,
+273,245,2730,0,it doesn't satisfy the information need,,,,
+274,313,2731,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+274,196,2732,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+274,316,2733,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+274,426,2734,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+274,635,2735,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+274,316,2736,0,it doesn't satisfy the information need,,,,
+274,316,2737,0,it doesn't satisfy the information need,,,,
+274,316,2738,0,it doesn't satisfy the information need,,,,
+274,316,2739,0,it doesn't satisfy the information need,,,,
+274,316,2740,0,it doesn't satisfy the information need,,,,
+275,18,2741,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+275,417,2742,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+275,146,2743,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+275,19,2744,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+275,420,2745,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+275,51,2746,0,it doesn't satisfy the information need,,,,
+275,51,2747,0,it doesn't satisfy the information need,,,,
+275,51,2748,0,it doesn't satisfy the information need,,,,
+275,51,2749,0,it doesn't satisfy the information need,,,,
+275,51,2750,0,it doesn't satisfy the information need,,,,
+276,640,2751,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+276,210,2752,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+276,645,2753,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+276,643,2754,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+276,646,2755,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+276,254,2756,0,it doesn't satisfy the information need,,,,
+276,254,2757,0,it doesn't satisfy the information need,,,,
+276,254,2758,0,it doesn't satisfy the information need,,,,
+276,254,2759,0,it doesn't satisfy the information need,,,,
+276,254,2760,0,it doesn't satisfy the information need,,,,
+277,245,2761,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+277,245,2762,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+277,245,2763,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+277,652,2764,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+277,329,2765,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+277,654,2766,0,it doesn't satisfy the information need,,,,
+277,654,2767,0,it doesn't satisfy the information need,,,,
+277,654,2768,0,it doesn't satisfy the information need,,,,
+277,654,2769,0,it doesn't satisfy the information need,,,,
+277,654,2770,0,it doesn't satisfy the information need,,,,
+278,313,2771,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+278,196,2772,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+278,316,2773,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+278,426,2774,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+278,635,2775,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+278,27,2776,0,it doesn't satisfy the information need,,,,
+278,27,2777,0,it doesn't satisfy the information need,,,,
+278,27,2778,0,it doesn't satisfy the information need,,,,
+278,27,2779,0,it doesn't satisfy the information need,,,,
+278,27,2780,0,it doesn't satisfy the information need,,,,
+279,18,2781,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+279,417,2782,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+279,146,2783,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+279,19,2784,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+279,420,2785,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+279,656,2786,0,it doesn't satisfy the information need,,,,
+279,656,2787,0,it doesn't satisfy the information need,,,,
+279,656,2788,0,it doesn't satisfy the information need,,,,
+279,656,2789,0,it doesn't satisfy the information need,,,,
+279,656,2790,0,it doesn't satisfy the information need,,,,
+280,640,2791,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+280,210,2792,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+280,645,2793,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+280,643,2794,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+280,646,2795,1,describes the length of recovery period for Ebola Malaria Typhus or Cholera after treatment,,,,
+280,96,2796,0,it doesn't satisfy the information need,,,,
+280,96,2797,0,it doesn't satisfy the information need,,,,
+280,96,2798,0,it doesn't satisfy the information need,,,,
+280,96,2799,0,it doesn't satisfy the information need,,,,
+280,96,2800,0,it doesn't satisfy the information need,,,,
+72,100,601,1,decscribes how non-complicated malaria is treated ,,,,
+72,100,602,1,decscribes how malaria is treated ,,,,
+73,101,603,1,talks about antibodies administered it macaques ,,,,
+73,101,604,0,talks about ebola origin ,,,,
+73,101,605,1,tells about supportive treatment ,,,,
+73,102,606,0,does not tell about ebola treatment ,,,,
+73,102,607,1,tells abot ZMapp drug for treating ebola ,,,,
+73,102,608,1,tells about Brincidofovir drug for ebola ,,,,
+73,102,609,1,tells about Blood transfussion drug for ebola ,,,,
+73,103,610,0,tells about ebola virus ,,,,
+73,103,611,0,tells about how ebola spreads ,,,,
+73,103,612,0,describes the symptoms of ebola ,,,,
+74,104,613,1,decsribes how to treat cholera ,,,,
+74,104,614,1,describes various ways to treat cholera ,,,,
+74,105,615,1,describes rehydration therapy to treat cholera ,,,,
+74,105,616,1,describes Antibiotic treatment for cholera ,,,,
+74,105,617,1,describes medicines to treat cholera ,,,,
+74,106,618,0,doesnot describes medicines to treat cholera ,,,,
+74,106,619,0,speaks about cost of treating cholera ,,,,
+74,106,620,0,doesnot tell decsribes how to treat cholera ,,,,
+74,107,621,0,tells about vaccination for cholera ,,,,
+74,107,622,0,tells about development of a vaccine for cholera ,,,,
+75,119,623,1,describes about PCR test ,,,,
+75,120,624,0,does not tell about PCR test ,,,,
+75,120,625,0,does not tell about PCR test ,,,,
+75,120,626,1,describes about PCR test ,,,,
+75,120,627,0,does not tell about PCR test ,,,,
+75,121,628,1,describes about PCR test for ebola ,,,,
+75,121,629,1,describes about PCR test to get get results quickly ,,,,
+75,121,630,1,describes about PCR test to detect ebola virus ,,,,
+75,122,631,0,not related to PCR test ,,,,
+75,122,632,0,not related to PCR test ,,,,
+69,18,633,1,describes how to treat typhus ,,,,
+69,18,634,0,talks about prognosis of typhus ,,,,
+76,267,635,1,tells about medication for cholera ,,,,
+76,267,636,1,describes the medicines avialable to treat cholera ,,,,
+76,268,638,0,doesnot tell about treatment for cholera ,,,,
+76,269,639,1,describes the medicines avialable to treat cholera ,,,,
+67,27,640,1,describes medications to treat malaria after confirmation ,,,,
+67,27,641,1,describes medications to treat malaria after confirmation ,,,,
+76,270,642,1,describes the medicines avialable to treat cholera ,,,,
+76,270,643,1,describes the medicines avialable to treat cholera ,,,,
+76,270,644,0,doesnot tell about treatment for cholera ,,,,
+76,272,645,0,tells how cholera is caused ,,,,
+76,272,646,0,tells about symptoms ,,,,
+76,272,647,0,tells about types of cholerae ,,,,
+77,275,648,1,describes how to test for malaria ,,,,
+77,275,649,1,tells diagnosis for testing the malaria parasite ,,,,
+77,276,650,0,does not tell how to diagnosis malaria ,,,,
+77,276,651,0,does not tell how to diagnosis malaria ,,,,
+77,277,652,1,tells diagnosis for testing the malaria parasite ,,,,
+77,277,653,1,describes how to test for malaria ,,,,
+77,288,654,1,describes how to test for malaria ,,,,
+77,288,655,0,speaks only systematic medline search in US ,,,,
+77,288,656,0,speaks about survey in US ,,,,
+77,288,657,0,does not tell how to diagnosis malaria ,,,,
+78,293,658,0,tells how typhus is transmitted ,,,,
+78,293,659,1,tells about diagnostic testing of typhus ,,,,
+78,293,660,1,tells about specific methos avialble to test for typhus ,,,,
+78,295,661,0,tells about laboratory testing ,,,,
+78,295,662,0,does not tell about typhus diagnostic tests ,,,,
+78,295,663,1,tells about diagnostic testing of typhus ,,,,
+78,295,664,0,does not tell about typhus diagnostic tests ,,,,
+78,296,665,0,does not tell about typhus diagnostic tests ,,,,
+78,296,666,1,tells about diagnostic testing of typhus ,,,,
+78,296,667,1,tells about specific methos avialble to test for typhus ,,,,
+79,298,668,1,decsribes about Diagnosis of Epidemic cholera ,,,,
+79,298,669,1,decsribes about Diagnosis of Epidemic cholera ,,,,
+79,299,670,0,does not tell how to diagnois cholera ,,,,
+79,299,671,1,tells about how to diagnois cholera ,,,,
+79,299,672,0,does not tell how to diagnois cholera ,,,,
+79,300,673,1,decsribes about Diagnosis of Epidemic cholera ,,,,
+79,300,674,1,tells about how to diagnois cholera ,,,,
+79,301,675,0,no information about test for cholera ,,,,
+79,301,676,0,no information about test for cholera ,,,,
+79,301,677,0,does not tell how to diagnois cholera ,,,,
+80,302,678,1,tells about supportive care for ebola ,,,,
+80,302,679,1,tells about methods in supportive care for ebola ,,,,
+80,302,680,0,does not tell anything supportive care ,,,,
+80,303,681,0,does not tell anything supportive care ,,,,
+80,303,682,0,does not describe anything about ebola care ,,,,
+80,303,683,0,does not tell anything supportive care ,,,,
+80,311,684,1,tells what supportive care is ,,,,
+80,311,685,1,tells what supportive care inludes ,,,,
+80,311,685,1,tells what supportive care inludes ,,,,
+80,312,687,0,does not tell about supportive carre for ebola ,,,,
+61,32,688,1,decsribes about the First Antigen Rapid Test for Ebola ,,,,
+61,32,689,1,decsribes the time in which test result can be obtained ,,,,
+61,32,690,1,describes the method to confirm once result of rapid test is obtained ,,,,
+61,33,691,1,describes the new test for ebola virus in West Aftrica ,,,,
+61,34,692,1,describes new tool kit for testing ebola ,,,,
+61,35,693,0,tells the manufacturer for various disease detection toolkit and ,,,,
+61,35,694,0,speaks in general the outbreak of ebola ,,,,
+61,35,695,0,talks about pricing of product and PCR test result ,,,,
+61,36,696,0,talks about CARE kits for travellers ,,,,
+61,37,697,0,tells about big hurdles of current tests ,,,,
+62,38,698,0,describes its difficult to diagonise ,,,,
+62,38,699,0,talks about when a person contacted with ebola be isolated ,,,,
+62,38,700,1,tells various tests available to test ebola ,,,,
+62,39,701,1,tells various tests available to test ebola ,,,,
+62,40,702,0,just tells its difficult to test ,,,,
+62,40,703,1,tells about PCR tests available to test ebola ,,,,
+62,40,704,1,tells about ELISA tests available to test ebola ,,,,
+62,41,705,1,tells what test should be performed ,,,,
+62,41,706,0,tells about after diagonsed steps ,,,,
+62,41,707,0,tells about whom to not to test ,,,,
+63,42,708,1,describes Various test kits for malaria ,,,,
+63,42,709,1,describes Various test kits for malaria ,,,,
+63,42,710,1,describes Various test kits for malaria ,,,,
+63,43,711,1,speaks about diagnostic testing for malaria ,,,,
+63,44,712,1,tells test to detect malaria ,,,,
+63,44,713,0,does not describe test for malaria ,,,,
+63,44,714,0,tells about cost of testing ,,,,
+63,44,715,0,talks about cost of anti malarial drug ,,,,
+63,45,716,0,tells how does the test kit work? ,,,,
+63,45,717,0,tells who can benefit from Malaria Rapid Test Kits? ,,,,
+64,46,718,1,tells how to test for cholarae ,,,,
+64,47,719,1,describes how to test for cholarae ,,,,
+64,47,720,1,tells one particular method to test for cholarae ,,,,
+64,47,721,1,tells one particular method to test for cholarae ,,,,
+64,48,722,1,describes in detail test for cholarea ,,,,
+64,49,723,0,does not tell how to test for cholarae ,,,,
+64,49,724,0,does not tell how to test for cholarae ,,,,
+64,50,725,0,does not tell how to test for cholarae ,,,,
+64,50,726,0,does not tell how to test for cholarae ,,,,
+64,50,727,0,does not tell how to test for cholarae ,,,,
+65,51,728,0,does not tell about test available for typhus ,,,,
+65,51,729,0,does not tell about test available for typhus ,,,,
+65,51,730,1,describes how to test for typhus ,,,,
+65,52,731,1,tells test available for typhus ,,,,
+65,52,732,1,tells test available for typhus for varous types of typhus ,,,,
+65,52,732,0,tells its difficult to test ,,,,
+65,53,733,1,tells test available for typhus ,,,,
+65,53,734,0,does not describes test available for typhus ,,,,
+65,54,735,0,just tells about typhus ,,,,
+65,54,736,1,tells how to diahnose Typhus ,,,,
+66,55,737,1,describes how to treat malaria ,,,,
+66,55,738,1,describes guidelines about how to treat malaria ,,,,
+66,56,739,1,describes how to proceed treating uncomplictaed malaria ,,,,
+66,56,740,1,describes how to treat malaria P. vivax infections ,,,,
+66,56,741,1,describes how to proceed treating severe malaria ,,,,
+66,57,742,0,does not describes how to treating before diagnosis is confirmed ,,,,
+66,57,743,0,doest not tell about trating malaria ,,,,
+66,58,744,0,talks about negative result of RDT ,,,,
+66,58,745,0,does not talk about treatment ,,,,
+66,59,746,0,doesnot address how to treat malaria ,,,,
+67,60,747,0,does not tell about treatment ,,,,
+67,60,748,0,tells about medicine choice ,,,,
+67,60,749,0,tells about test dusring treatment ,,,,
+67,61,750,0,tells only about type of antimalarial medicine and how long to take ,,,,
+67,61,751,0,does not tell about treatment ,,,,
+67,62,752,1,tells about artemisinin-based combination therapy (ACT) ,,,,
+67,63,753,1,tells about current practice in treating cases of malaria ,,,,
+67,64,754,1,drugs used in treating of malaria ,,,,
+68,65,755,1,describes how to protect one self from cholera ,,,,
+68,65,756,1,describes the mainstay of treatment for cholera. ,,,,
+68,66,757,1,describes adjunct treatment for cholera ,,,,
+68,66,758,1,talks about medicines used in treating cholera ,,,,
+68,66,759,1,talks about guidelines recommended to treat cholera ,,,,
+68,67,760,0,describes causes for cholera outbreak ,,,,
+68,67,761,0,describes cholera history ,,,,
+68,67,762,0,talks about prevention and not about treatment ,,,,
+68,68,763,0,describes how to prevent cholera from spreading ,,,,
+68,68,764,0,talks how cholera spreads ,,,,
+69,69,765,1,describes how to treat typhus ,,,,
+69,70,766,1,describes how to treat typhus ,,,,
+69,70,767,0,talks about causes only ,,,,
+69,70,768,0,doesnot describes how to treat typhus ,,,,
+69,70,769,0,doesnot describes how to treat typhus ,,,,
+69,70,770,0,doesnot describes how to treat typhus ,,,,
+69,71,771,1,describes how to treat typhus ,,,,
+69,72,772,1,describes how to treat typhus ,,,,
+70,74,773,1,describes how to treat ebola ,,,,
+70,74,774,1,describes medications avaialble to treat ebola ,,,,
+70,74,775,1,describes Supportive treatment measures for Ebola include ,,,,
+70,74,776,0,questions why people do not recover from the illness ,,,,
+70,75,777,1,describes treatment of ebola ,,,,
+70,75,778,1,describes treatment of ebola ,,,,
+70,75,779,0,does not describe how to treat ebola ,,,,
+70,77,780,0,talks about ebola treating hospitals in US ,,,,
+70,77,781,0,talks about ebola treating hospitals in US ,,,,
+70,77,782,0,talks about returning travelers ,,,,
+71,79,783,0,tells about how many days it takes to detect ebola ,,,,
+71,79,784,0,does not tell about testing of ebola ,,,,
+71,79,785,0,does not tell about testing of ebola ,,,,
+71,80,786,1,tells about new method to test ebola ,,,,
+71,81,787,1,tells about new method to test ebola ,,,,
+71,81,788,1,tells about new method to test ebola ,,,,
+71,82,789,1,talks about new method to test ebola quickly ,,,,
+71,82,790,0,does not tell about testing of ebola ,,,,
+71,82,791,1,tells about new method to test ebola ,,,,
+71,92,792,0,does not tell about testing of ebola ,,,,
+72,94,793,0,does not tell about cure for malaria ,,,,
+72,94,794,0,talks about DDT - malaria and eradication ,,,,
+72,95,795,1,describes how malaria in Africa is treated ,,,,
+72,95,796,1,describes how malaria is cured ,,,,
+72,98,797,0,does not tell about cure for malaria ,,,,
+72,98,798,0,does not tell about cure for malaria ,,,,
+72,98,799,0,does not tell about cure for malaria ,,,,
+72,99,800,1,describes how malaria is cured ,,,,
+181,23,1835,1,describes treatement duration based on patients immune system,,,,
+181,23,1836,1,describes treatement for ebola and related infections,,,,
+181,24,1838,1,describes the treatment for ebola,,,,
+181,24,1839,1,describes the treatment for ebola and,,,,
+181,24,1840,0,does not describes the treatment for ebola,,,,
+181,24,1841,1,describes the treatment and precautions evd,,,,
+181,25,1852,0,decsrbes who should treat ebola,,,,
+181,25,1853,0,decsrbes who should treat ebola,,,,
+181,26,1868,0,decscribes where the patient has been treated,,,,
+181,26,1869,0,decscribes only treatment location,,,,
+182,27,1881,1,decribes duration of malaria treament and symptoms,,,,
+182,28,1883,1,describes the length of the treatment of malaria,,,,
+182,28,1884,1,describes treatment and types,,,,
+182,29,1885,1,describes treatment for various malaria types,,,,
+182,29,1886,1,describes treatment for various malaria types,,,,
+182,30,1887,0,doesnot indicate length of treatment,,,,
+182,30,1888,0,doesnot contain treatment duration,,,,
+182,31,1889,0,describes only type(Primaquine) of antimalarial drug,,,,
+182,31,1890,0,talks about additional treatments for malaria,,,,
+182,31,1891,0,talks about research in Primaquine,,,,
+192,21,1834,0,does not tell about recovery time,,,,
+192,51,1999,1,tells about prognosis,,,,
+192,51,1999,1,tells about recovery time,,,,
+192,51,2000,0,tells about complication,,,,
+193,27,1882,1,tells the time to recovery,,,,
+183,123,1801,0,does not tell about treatment time,,,,
+183,124,1802,0,does not tella about duration,,,,
+183,124,1803,0,tells how long it takes for symptoms to appear,,,,
+183,125,1805,1,tells about time to treat cholera completely,,,,
+183,125,1806,1,tells how long it takes to recover fully,,,,
+183,125,1807,1,tells about time to treat cholera,,,,
+183,126,1808,1,tells about time to treat cholera completely,,,,
+183,127,1809,0,speaks about after recovery,,,,
+183,127,1810,0,does not tell about treament time,,,,
+183,128,1811,1,tells about time to treat cholera completely,,,,
+184,129,1812,1,tells about the typhus treatment course,,,,
+184,130,1813,0,does not tell about typhus treatment duration,,,,
+184,130,1814,1,tells about typhus treatment duration,,,,
+184,130,1815,1,speaks about the time to treat typhus using different medicines,,,,
+184,137,1816,1,tells about the typhus treatment course completion,,,,
+184,137,1817,1,tells about typhus treatment duration,,,,
+184,137,1818,0,does not tells about typhus treatment duration,,,,
+184,139,1819,0,does not tells about typhus treatment duration,,,,
+184,140,1820,0,does not tells about typhus treatment duration,,,,
+184,140,1821,0,does not tells about typhus treatment duration,,,,
+185,143,1822,0,does not tell about malaria symptoms duration,,,,
+185,143,1823,1,describes malaria symptoms duration,,,,
+185,143,1824,0,tells how malaria is treated,,,,
+185,143,1825,1,speaks about malaria symptoms duration,,,,
+185,145,1826,1,tells how long it takes to cure malaria,,,,
+185,145,1827,1,tells about treatment options,,,,
+185,145,1828,1,tells how long it takes for malaria symptoms to subside,,,,
+185,150,1829,0,tells about different time ranges for various malaria types,,,,
+185,150,1830,0,tells about symptoms depending on general health,,,,
+185,150,1831,0,tells how long it takes for symptoms to appear,,,,
+186,245,1842,0,does not tell about time to recovery,,,,
+186,245,1843,0,does not tell about time to recovery,,,,
+186,245,1844,0,tells only about the symptoms,,,,
+186,245,1845,0,does not tell about time to recovery,,,,
+186,245,1846,1,tells that only supportive crae can cure ebola,,,,
+186,245,1847,1,tells it could take few weeks to recover,,,,
+186,245,1848,1,tells about a specific case of ebola cure,,,,
+186,248,1851,1,tells that no cure is avlaible,,,,
+186,250,1854,1,tells about a specific case of ebola cure in US,,,,
+186,250,1855,0,does not tell anything about time to recovery,,,,
+187,254,1858,0,talks about cholera in general,,,,
+187,254,1859,0,only talks about what happens if untreated,,,,
+187,254,1860,0,talks about cholera symptoms,,,,
+187,254,1861,1,describes the time taken to recover from cholera,,,,
+187,255,1862,1,talks about time to recover from cholera,,,,
+187,256,1863,0,only talks about what happens if untreated,,,,
+187,256,1864,0,only talks about what happens if untreated,,,,
+187,256,1865,1,talks about time to recover from cholera,,,,
+187,257,1866,1,talks about time to recover from cholera,,,,
+187,257,1867,1,talks about time to recover from cholera,,,,
+188,260,1871,0,does not tell about treatment time,,,,
+188,260,1872,1,tells about prognosis recovery time from typhus,,,,
+188,261,1873,0,does not tell about treatment time,,,,
+188,261,1874,0,talks about types of typhus,,,,
+188,261,1875,0,describes to detect typhus presence,,,,
+188,261,1876,1,tells about recovery time in children,,,,
+188,263,1877,1,tells about recovery time after treatment,,,,
+188,263,1878,0,does not tella about typhus,,,,
+188,264,1879,1,tells about how long treatment is needed,,,,
+188,265,1880,1,tells about how long treatment is needed,,,,
+189,313,1892,1,tells how long it takes to recover from malaria,,,,
+189,313,1893,1,tells about recovery time,,,,
+189,314,1894,0,tells what happens when malaria infected mosquito bites,,,,
+189,314,1895,1,tells about recovery time,,,,
+189,314,1896,0,tells what happens in chidren and pregnant ladies as effect of malaria,,,,
+189,315,1897,0,tells how malaria can be prevented,,,,
+189,315,1898,1,tells on what factors recovery is possible,,,,
+189,315,1899,0,tells about complications in malaria,,,,
+189,316,1900,1,tells about long long it takes to recover,,,,
+189,316,1901,0,tells about prevention of malaria,,,,
+190,317,1902,0,talks about sypmtoms becoming prominent,,,,
+190,317,1903,0,talks about how cholera spreads,,,,
+190,317,1904,1,tells what factors make quick recovery from cholera,,,,
+190,317,1905,1,tells what factors make quick recovery,,,,
+190,320,1906,0,does not tell how long it takes to recover,,,,
+190,320,1907,1,tells about how to recover quickly from cholera,,,,
+190,323,1908,1,tells how long it takes to recover from cholera fully,,,,
+190,324,1909,1,tells about cholera treatment,,,,
+190,324,1910,0,talks about travellers diarrhea,,,,
+190,324,1911,0,talks about travellers diarrhea,,,,
+191,329,1912,0,does not tell about recovery,,,,
+191,329,1913,1,tells about recovery time depends on what factors,,,,
+191,329,1914,0,speaks about ebola faltality rate,,,,
+191,330,1915,0,does not tell about recovery,,,,
+191,331,1917,1,tells the there is no exact number of weeks to recover from ebola                                          ,,,,
+191,332,1918,1,tells about supportive care,,,,
+191,332,1919,0,does not tell about recovery,,,,
+191,333,1921,1,tell no cure for ebola,,,,
+191,5,1997,0,tells how infection is caused,,,,
+191,5,1998,1,tells that cure from ebola is very rare,,,,
+192,334,1922,0,does not tell how long it takes to recover from typhus,,,,
+192,334,1923,1,speaks about how long infection lasts,,,,
+192,334,1924,0,does not tell how long it takes to recover,,,,
+192,336,1925,0,tells about complication from typhus,,,,
+192,336,1926,1,tells about how long it takes to recover,,,,
+192,337,1927,1,tells about recovery time,,,,
+193,196,1832,0,speaks about vaccine against malaria,,,,
+193,196,1833,0,speaks about prevention of malaria,,,,
+193,388,1928,0,tells about doxycycline,,,,
+193,388,1929,0,tells about symptoms of malaria,,,,
+193,389,1930,1,tells the time to recovery,,,,
+193,390,1931,1,tells how malraia is treated,,,,
+193,390,1932,0,tells how malaria is tested,,,,
+193,391,1933,1,gives specific case to tell about recovery time,,,,
+193,392,1934,1,gives the timeline for children to adult,,,,
+194,393,1935,1,tells the time to recover if recovery is possible,,,,
+194,393,1936,0,tells about after effects on survivors,,,,
+194,393,1937,1,tells about days onwards the death happens if not recovered,,,,
+194,393,1938,1,tells duration of supportive treatment,,,,
+194,394,1940,0,does not tell about recovery time,,,,
+194,394,1941,0,does not tell about recovery time,,,,
+194,394,1942,1,tells about rare survivors in case of ebola,,,,
+194,395,1944,1,tells why its not possible to recover,,,,
+194,395,1945,0,does not tell about recovery time focuses on supportive care,,,,
+194,395,1946,0,tells ebola virus as bioterrorism,,,,
+195,396,1947,1,tells about full recovery,,,,
+195,397,1948,0,just tells what prognosis means,,,,
+195,398,1949,1,tells about full recovery,,,,
+195,399,1950,1,tells about treatment and recovery,,,,
+195,399,1951,1,tells about treatment and recovery,,,,
+195,399,1952,0,tells what prevention,,,,
+195,399,1953,0,tells about cholera vaccine,,,,
+195,399,1954,0,tells about cholera vaccine,,,,
+195,399,1955,0,tells how cholera break out happens,,,,
+195,400,1956,1,tells about treatment and recovery,,,,
+196,417,1957,0,tells about scrub typhus,,,,
+196,417,1958,0,tells about causing agent,,,,
+196,417,1959,1,tells about treatment and recovery time,,,,
+196,417,1960,1,tells about prognosis recovery time,,,,
+196,420,1961,1,tells about treatment time,,,,
+196,420,1962,0,does not speak about treatment time,,,,
+196,420,1963,1,tells about treatment time,,,,
+196,420,1964,0,does not speak about treatment time,,,,
+196,422,1965,0,does not speak about treatment time,,,,
+196,422,1966,1,tells about treatment time,,,,
+197,425,1967,1,tells about time for treatment,,,,
+197,426,1968,1,tells about time for treatment,,,,
+197,427,1969,1,tells about time for treatment,,,,
+197,428,1970,1,tells about time for treatment,,,,
+197,429,1971,1,tells time for symptoms to appear,,,,
+197,430,1972,0,does not tell about malaria treatment time,,,,
+197,430,1973,0,does not tell about malaria treatment time,,,,
+197,430,1974,0,does not tell about malaria treatment time,,,,
+197,430,1975,0,does not tell about malaria treatment time,,,,
+197,430,1976,0,does not tell about malaria treatment time,,,,
+198,433,1977,0,speaks about typhoid,,,,
+198,433,1978,0,speaks about typhoid,,,,
+198,434,1979,1,speaks about treatment time,,,,
+198,434,1980,1,speaks about treatment time,,,,
+198,437,1981,0,does not tell about treatment time,,,,
+198,437,1982,0,does not tell about treatment time,,,,
+198,437,1983,1,speaks about duration of symptoms,,,,
+198,437,1984,0,does not tell about treatment time,,,,
+198,438,1985,1,gives time for treatment using particular medicine,,,,
+198,438,1986,1,gives time for treatment using particular medicine,,,,
+199,439,1987,1,tells about cholera duration,,,,
+199,441,1988,0,does not tell about duration of treatment,,,,
+199,441,1989,0,does not tell about duration of treatment,,,,
+199,443,1990,1,tells about cholera duration,,,,
+199,443,1991,1,tells about cholera duration,,,,
+199,445,1992,0,does not tell about treatment duration,,,,
+199,445,1993,0,does not tell about treatment duration,,,,
+199,446,1994,0,does not tell about treatment duration,,,,
+199,451,1995,1,tells how long it takes to remove cholera,,,,
+199,451,1996,1,tells how long it takes to remove cholera,,,,
+201,166,2001,1,tells when was first ebola case discoverd in 2014 in US,,,,
+201,166,2002,1,tells when was first ebola case discoverd in 2014 in US,,,,
+201,166,2003,1,tells when was first ebola case discoverd in 2014 in US,,,,
+201,485,2004,1,tells when was firt ebola break out,,,,
+201,486,2005,1,tells when was firt ebola break out from WHO in 2014,,,,
+201,487,2006,0,does not tell about when ebola was first in 2014,,,,
+201,487,2007,0,does not tell about when ebola was first in 2014,,,,
+201,488,2008,0,does not tell about when ebola was first in 2014,,,,
+201,488,2009,0,does not tell about when ebola was first in 2014,,,,
+201,488,2010,0,does not tell about when ebola was first in 2014,,,,
+202,160,2011,1, tells when in 2014 ebola outbreak started,,,,
+202,160,2012,1, tells when in 2014 ebola outbreak started,,,,
+202,489,2013,1, tells when in 2014 ebola outbreak started,,,,
+202,489,2014,1, tells when in 2014 ebola outbreak started,,,,
+202,490,2015,1, tells when in 2014 ebola outbreak started,,,,
+202,491,2016,0, does not tell about when ebola was first in 2014,,,,
+202,491,2017,0, does not tell about when ebola was first in 2014,,,,
+202,492,2018,0,does not tell about when ebola was first in 2014,,,,
+202,492,2019,0,does not tell about when ebola was first in 2014,,,,
+202,493,2020,0, does not tell about when ebola was first in 2014,,,,
+203,494,2021,1,tells when ebola outbreak started in 2014,,,,
+203,494,2022,1,tells when ebola outbreak started in 2014,,,,
+203,495,2023,1,tells whem ebola outbreak started in westaftrica in 2014,,,,
+203,496,2024,1,tells whem ebola outbreak started in westaftrica in 2014,,,,
+203,497,2025,1,tells whem ebola outbreak started in westaftrica in 2014,,,,
+203,498,2026,0,does not tell about when ebola was first in 2014,,,,
+203,498,2027,0,does not tell about when ebola was first in 2014,,,,
+203,498,2028,0,does not tell about when ebola was first in 2014,,,,
+203,499,2029,0,does not tell about when ebola was first in 2014,,,,
+203,499,2030,0, tells when first death happened in 2014 due to ebola,,,,
+204,500,2031,1,tells when ebola outbreak started in 2014,,,,
+204,500,2032,1,tells when ebola outbreak started in 2014,,,,
+204,501,2033,1,tells when ebola outbreak started in 2014,,,,
+204,502,2034,1,tells when ebola outbreak started in 2014,,,,
+204,168,2035,1,tells when ebola outbreak started in 2014,,,,
+204,502,2036,0,does not tell when ebola outbreak started in 2014,,,,
+204,511,2037,0,it does not tell when ebola outbreak started in 2014,,,,
+204,511,2038,0,no information on ebola outbreak started in 2014,,,,
+204,513,2039,0,no information on ebola outbreak started in 2014,,,,
+204,513,2040,0,no information on ebola outbreak started in 2014,,,,
+205,519,2041,1, tells that ebola break out started in march 2014,,,,
+205,520,2042,1, tells that ebola break out started in march 2014,,,,
+205,353,2043,1, tells that ebola break out started in march 2014,,,,
+205,521,2044,1, tells that ebola break out started in early 2014,,,,
+205,522,2045,1, tells that ebola break out started in 2014,,,,
+205,522,2046,0, does not tell about ebola brekout in 2014,,,,
+205,523,2047,0, does not tell about ebola brekout in 2014,,,,
+205,523,2048,0,does not tell about ebola brekout in 2014,,,,
+205,524,2049,0,does not tell about ebola brekout in 2014,,,,
+205,524,2050,0,does not tell about ebola brekout in 2014,,,,
+206,525,2051,1,tells when ebola outbreak started in 2014,,,,
+206,525,2052,1,tells when ebola outbreak started in 2014,,,,
+206,526,2053,1,tells when ebola outbreak started in 2014,,,,
+206,527,2054,1,tells when ebola outbreak started in 2014,,,,
+206,166,2055,1,tells when ebola outbreak started in 2014,,,,
+206,279,2056,0,does not tell about ebola brekout in 2014,,,,
+206,528,2057,0,does not tell about ebola brekout in 2014,,,,
+206,528,2058,0,does not tell about ebola brekout in 2014,,,,
+206,529,2059,0,tell about ebola brekout in 2013,,,,
+206,529,2060,0,does not tell about ebola brekout in 2014,,,,
+207,168,2061,1,it tells when did ebola start in march 2014,,,,
+207,530,2062,1,it tells when did ebola start in march 2014,,,,
+207,385,2063,1,it tells when did ebola start in march 2014,,,,
+207,531,2064,1,it tells when did ebola start in march 2014,,,,
+207,531,2065,1,it tells when did ebola start in march 2014,,,,
+207,531,2066,0,does not tell about ebola brekout in 2014,,,,
+207,530,2067,0,does not tell about ebola brekout in 2014,,,,
+207,530,2068,0,does not tell about ebola brekout in 2014,,,,
+207,566,2069,0,does not tell about ebola brekout in 2014,,,,
+207,566,2070,0,does not tell about ebola brekout in 2014,,,,
+208,4,2071,1,tells when was firt ebola break out 2014,,,,
+208,571,2072,1,tells when was firt ebola break out in 2014,,,,
+208,571,2073,1,tells when was firt ebola break out in 2014,,,,
+208,572,2074,1,tells when was firt ebola break out in 2014,,,,
+208,574,2075,1,tells when was firt ebola break out in 2014,,,,
+208,572,2076,0,does not tell about ebola brekout in 2014,,,,
+208,578,2077,0,does not tell about ebola brekout in 2014,,,,
+208,579,2078,0,does not tell about ebola brekout in 2014,,,,
+208,579,2079,0,does not tell about ebola brekout in 2014,,,,
+208,579,2080,0,does not tell about ebola brekout in 2014,,,,
+233,581,2321,1,tells who were first US patients to succesfully treated for ebola,,,,
+233,581,2322,1,tells who were first US patients to succesfully treated for ebola,,,,
+233,582,2323,1,tells who were first US patients to succesfully treated for ebola,,,,
+233,582,2324,1,tells who were first US patients to succesfully treated for ebola,,,,
+233,583,2325,1,tells who were first US patients to succesfully treated for ebola,,,,
+233,583,2326,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+233,583,2327,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+233,584,2328,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+233,584,2329,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+233,584,2330,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+234,586,2331,1,tells who were first US patients to succesfully treated for ebola,,,,
+234,203,2332,1,tells who were first US patients to succesfully treated for ebola,,,,
+234,587,2333,1,tells who were first US patients to succesfully treated for ebola,,,,
+234,588,2334,1,tells who were first US patients to succesfully treated for ebola,,,,
+234,589,2335,1,tells who were first US patients to succesfully treated for ebola,,,,
+234,585,2336,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+234,587,2333,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+234,590,2338,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+234,591,2339,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+234,591,2340,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+235,201,2341,1,tells who were first US patients to succesfully treated for ebola,,,,
+235,592,2342,1,tells who were first US patients to succesfully treated for ebola,,,,
+235,593,2343,1,tells who were first US patients to succesfully treated for ebola,,,,
+235,594,2344,1,tells who were first US patients to succesfully treated for ebola,,,,
+235,595,2345,1,tells who were first US patients to succesfully treated for ebola,,,,
+235,596,2346,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+235,596,2347,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+235,597,2348,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+235,597,2349,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+235,597,2350,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+236,603,2351,1,tells who were first US patients to succesfully treated for ebola,,,,
+236,603,2352,1,tells who were first US patients to succesfully treated for ebola,,,,
+236,609,2353,1,tells who were first US patients to succesfully treated for ebola,,,,
+236,609,2354,1,tells who were first US patients to succesfully treated for ebola,,,,
+236,610,2355,1,tells who were first US patients to succesfully treated for ebola,,,,
+236,606,2356,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+236,606,2357,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+236,607,2358,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+236,607,2359,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+236,169,2360,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+237,621,2361,1,tells who were first US patients to succesfully treated for ebola,,,,
+237,626,2362,1,tells who were first US patients to succesfully treated for ebola,,,,
+237,626,2363,1,tells who were first US patients to succesfully treated for ebola,,,,
+237,629,2364,1,tells who were first US patients to succesfully treated for ebola,,,,
+237,204,2365,1,tells who were first US patients to succesfully treated for ebola,,,,
+237,630,2366,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+237,630,2367,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+237,639,2368,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+237,639,2369,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+237,639,2370,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+238,644,2371,1,tells who were first US patients to succesfully treated for ebola,,,,
+238,645,2372,1,tells who were first US patients to succesfully treated for ebola,,,,
+238,647,2373,1,tells who were first US patients to succesfully treated for ebola,,,,
+238,650,2374,1,tells who were first US patients to succesfully treated for ebola,,,,
+238,651,2375,1,tells who were first US patients to succesfully treated for ebola,,,,
+238,651,2376,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+238,655,2377,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+238,655,2378,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+238,282,2379,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+238,657,2380,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+239,658,2381,1,tells who were first US patients to succesfully treated for ebola,,,,
+239,660,2382,1,tells who were first US patients to succesfully treated for ebola,,,,
+239,662,2383,1,tells who were first US patients to succesfully treated for ebola,,,,
+239,663,2384,1,tells who were first US patients to succesfully treated for ebola,,,,
+239,664,2385,1,tells who were first US patients to succesfully treated for ebola,,,,
+239,345,2386,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+239,345,2387,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+239,345,2388,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+239,668,2389,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+239,668,2390,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+240,673,2391,1,tells who were first US patients to succesfully treated for ebola,,,,
+240,674,2392,1,tells who were first US patients to succesfully treated for ebola,,,,
+240,675,2393,1,tells who were first US patients to succesfully treated for ebola,,,,
+240,676,2394,1,tells who were first US patients to succesfully treated for ebola,,,,
+240,678,2395,1,tells who were first US patients to succesfully treated for ebola,,,,
+240,680,2396,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+240,680,2397,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+240,681,2398,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+240,682,2399,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+240,682,2400,0,does not tell who were first US patients to succesfully treated for ebola,,,,
+265,698,2641,1,tells which organs are affected first by malaria,,,,
+265,698,2642,1,tells which organs are affected first by malaria,,,,
+265,232,2643,1,tells which organs are affected first by malaria,,,,
+265,232,2644,1,tells which organs are affected first by malaria,,,,
+265,699,2645,1,tells which organs are affected first by malaria,,,,
+265,700,2646,0,does not tell which organs are affected first by malaria,,,,
+265,700,2647,0,does not tell which organs are affected first by malaria,,,,
+265,701,2648,0,does not tell which organs are affected first by malaria,,,,
+265,701,2649,0,does not tell which organs are affected first by malaria,,,,
+265,701,2650,0,does not tell which organs are affected first by malaria,,,,
+266,18,2651,1,tells which organs are affected first by typhus,,,,
+266,220,2652,1,tells which organs are affected first by typhus,,,,
+266,221,2653,1,tells which organs are affected first by typhus,,,,
+266,702,2654,1,tells which organs are affected first by typhus,,,,
+266,295,2655,1,tells which organs are affected first by typhus,,,,
+266,703,2656,0,does not tell which organs are affected first by typhus,,,,
+266,703,2657,0,does not tell which organs are affected first by typhus,,,,
+266,703,2658,0,does not tell which organs are affected first by typhus,,,,
+266,703,2659,0,does not tell which organs are affected first by typhus,,,,
+266,703,2660,0,does not tell which organs are affected first by typhus,,,,
+267,256,2661,1,tells which organs are affected first by cholera,,,,
+267,704,2662,1,tells which organs are affected first by cholera,,,,
+267,706,2663,1,tells which organs are affected first by cholera,,,,
+267,708,2664,1,tells which organs are affected first by cholera,,,,
+267,709,2665,1,tells which organs are affected first by cholera,,,,
+267,705,2666,0,does not tell which organs are affected first by cholera,,,,
+267,705,2667,0,does not tell which organs are affected first by cholera,,,,
+267,705,2668,0,does not tell which organs are affected first by cholera,,,,
+267,707,2669,0,does not tell which organs are affected first by cholera,,,,
+267,707,2670,0,does not tell which organs are affected first by cholera,,,,
+268,211,2671,1,tells which organs are affected first by ebola,,,,
+268,211,2672,1,tells which organs are affected first by ebola,,,,
+268,213,2673,1,tells which organs are affected first by ebola,,,,
+268,711,2674,1,tells which organs are affected first by ebola,,,,
+268,712,2675,1,tells which organs are affected first by ebola,,,,
+268,712,2676,0,does not tell which organs are affected first by ebola,,,,
+268,715,2677,0,does not tell which organs are affected first by ebola,,,,
+268,715,2678,0,does not tell which organs are affected first by ebola,,,,
+268,716,2679,0,does not tell which organs are affected first by ebola,,,,
+268,716,2680,0,does not tell which organs are affected first by ebola,,,,
+269,697,2681,1,tells which organs are affected first by malaria,,,,
+269,27,2682,1,tells which organs are affected first by malaria,,,,
+269,231,2683,1,tells which organs are affected first by malaria,,,,
+269,235,2684,1,tells which organs are affected first by malaria,,,,
+269,721,2685,1,tells which organs are affected first by malaria,,,,
+269,722,2686,0,does not tell which organs are affected first by malaria,,,,
+269,722,2687,0,does not tell which organs are affected first by malaria,,,,
+269,723,2688,0,does not tell which organs are affected first by malaria,,,,
+269,723,2689,0,does not tell which organs are affected first by malaria,,,,
+269,723,2690,0,does not tell which organs are affected first by malaria,,,,
+270,233,2691,1,tells which organs are affected first by typhus disease,,,,
+270,724,2692,1,tells which organs are affected first by typhus disease,,,,
+270,725,2693,1,tells which organs are affected first by typhus disease,,,,
+270,728,2694,1,tells which organs are affected first by typhus disease,,,,
+270,727,2695,1,tells which organs are affected first by typhus disease,,,,
+270,724,2696,0,does not tell which organs are affected first by typhus disease,,,,
+270,724,2697,0,does not tell which organs are affected first by typhus disease,,,,
+270,724,2698,0,does not tell which organs are affected first by typhus disease,,,,
+270,726,2699,0,does not tell which organs are affected first by typhus disease,,,,
+270,726,2700,0,does not tell which organs are affected first by typhus disease,,,,
+271,729,2701,1,tells which organs are affected first by v. cholerae,,,,
+271,730,2702,1,tells which organs are affected first by v. cholerae,,,,
+271,731,2703,1,tells which organs are affected first by v. cholerae,,,,
+271,732,2704,1,tells which organs are affected first by v. cholerae,,,,
+271,733,2705,1,tells which organs are affected first by v. cholerae,,,,
+271,730,2706,0,does not tell which organs are affected first by v. cholerae,,,,
+271,730,2707,0,does not tell which organs are affected first by v. cholerae,,,,
+271,734,2708,0,does not tell which organs are affected first by v. cholerae,,,,
+271,734,2709,0,does not tell which organs are affected first by v. cholerae,,,,
+271,734,2710,0,does not tell which organs are affected first by v. cholerae,,,,
+272,215,2711,1,tells which organs are affected first by ebola virus,,,,
+272,217,2712,1,tells which organs are affected first by ebola virus,,,,
+272,550,2713,1,tells which organs are affected first by ebola virus,,,,
+272,735,2714,1,tells which organs are affected first by ebola virus,,,,
+272,735,2715,1,tells which organs are affected first by ebola virus,,,,
+272,217,2716,0,does not tell which organs are affected first by ebola virus,,,,
+272,736,2717,0,does not tell which organs are affected first by ebola virus,,,,
+272,736,2718,0,does not tell which organs are affected first by ebola virus,,,,
+272,737,2719,0,does not tell which organs are affected first by ebola virus,,,,
+272,737,2720,0,does not tell which organs are affected first by ebola virus,,,,
+141,335,1410,1,Gives the quarantine time for ebola and explains how it was set. ,,,,
+141,340,1411,1,Gives the quarantine time for ebola and discusses its validity. ,,,,
+141,342,1412,1,Gives the quarantine time for ebola and explains how it was set. ,,,,
+141,344,1413,1,Argument on current quarantine period standards ,,,,
+141,346,1414,0,Ebola and the advantages of quarantine procedure ,,,,
+141,347,1415,0,Quarantine policy and first Ebola case in USA. Give Ebola virus incubation period and not the standard quarantine period  although they are the same ,,,,
+141,348,1416,0,The need of quarantine during Ebola epidemic ,,,,
+141,349,1417,0,State policies on Ebola quarantine ,,,,
+141,350,1418,0,Dr. Snyderman's story on mandatory ebola quarantine violation,,,,
+141,6,1459,1,Gives the quarantine time for ebola and explains how it was set. ,,,,
+142,150,1404,1,Describes malaria's incubation period  ,,,,
+142,195,1406,1,Malaria symptoms detection time interval after exposure ,,,,
+142,275,1409,0,malaria diagnosis ,,,,
+142,351,1419,1,Describes how long does malaria symptoms take to surface after infection ,,,,
+142,356,1420,1,Time period between infection and development of disease malaria ,,,,
+142,357,1421,1,incubation period of malaria ,,,,
+142,358,1422,0,incubation period of malaria and temperature of host relevance ,,,,
+142,359,1423,0,malaria epidermilogy ,,,,
+142,360,1424,0,malaria effects and symptoms ,,,,
+142,361,1425,0,malaria prevention ,,,,
+143,13,1401,0,cholera and symptoms and statistics ,,,,
+143,17,1405,1,cholera incubation period ,,,,
+143,363,1426,0,rantine needs and usefulness ,,,,
+143,365,1427,0,cholera incubation period- common incorrect data ,,,,
+143,365,1428,1,cholera incubation period ,,,,
+143,365,1429,1,detailed incubation discussion ,,,,
+143,369,1430,0,cholera in 1830s in Britain ,,,,
+143,370,1431,1,result of an experiment- cholera incubation period ,,,,
+143,50,1458,1,cholera incubation period ,,,,
+143,96,1460,0,cholera epidermilogy ,,,,
+144,373,1432,1,Typhoid incubation period ,,,,
+144,374,1433,1,Typhoid incubation period ,,,,
+144,375,1434,1,Typhoid incubation period ,,,,
+144,376,1435,1,Typhoid incubation period ,,,,
+144,377,1436,1,Typhoid incubation period ,,,,
+144,377,1437,0,precautions and vaccines ,,,,
+144,377,1438,0,diagnosis ,,,,
+144,378,1439,0,typhoid effects after 2 weeks ,,,,
+144,378,1440,0,typhoid strain and Typhoid Mary ,,,,
+144,379,1441,0,typhoid symptoms ,,,,
+145,380,1442,1,ebola infection time and symptoms ,,,,
+145,381,1443,1,ebola news on incubation time ,,,,
+145,382,1444,1,ebola news showing incubation period ,,,,
+145,383,1445,1,ebola incubation period ,,,,
+145,383,1446,0,ebola instructions ,,,,
+145,384,1447,0,incubation period definition ,,,,
+145,385,1448,0,WHO situation report ,,,,
+145,386,1449,0,ebola and future measures ,,,,
+145,387,1450,0,Common cold incubation period ,,,,
+145,5,1457,1,ebola incubation period along with symptoms ,,,,
+146,135,1402,0,malaria prevention while traveling abroad ,,,,
+146,143,1403,1,describes malaria's spread ,,,,
+146,231,1407,0,maiaria types and its dangers ,,,,
+146,232,1408,1,how malaria spreads and time required for infection ,,,,
+146,450,1451,1,incubation period of various malaria agents ,,,,
+146,452,1452,1,how malaria spreads and time required for infection ,,,,
+146,456,1453,1,time after which patient develops symptoms ,,,,
+146,459,1454,0,malaria in the world ,,,,
+146,460,1455,0,tips on preventing malaria ,,,,
+146,462,1456,0,malaria fighting global strategy ,,,,
+147,18,1466,1,Gives nuber of days ,,,,
+147,18,1467,0,gives time for rash ,,,,
+147,21,1468,1,Gives average weeks and explains how much time each symptom remain ,,,,
+147,21,1469,0,gives time when epidemic occurred but doesnot serve information need ,,,,
+147,261,1470,1,Time for fever for tyhpus to be careful about ,,,,
+147,336,1471,1,Typical infection last period ,,,,
+147,454,1472,1,Gives incubation period and the average time ,,,,
+147,454,1473,0,gives the number of deaths in an epidemic ,,,,
+147,455,1474,0,gives the amount ot time to take the serum to stop the disease ,,,,
+147,71,1500,0,just gives symptoms ,,,,
+148,465,1475,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+148,466,1476,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+148,467,1477,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+148,468,1478,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+148,469,1479,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+148,470,1480,0,No required information is found ,,,,
+148,470,1481,0,No required information is found ,,,,
+148,470,1482,0,No required information is found ,,,,
+148,470,1483,0,No required information is found ,,,,
+148,470,1484,0,No required information is found ,,,,
+149,471,1485,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+149,472,1486,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+149,473,1487,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+149,474,1488,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera ,,,,
+149,475,1489,1,provides the required quarantine information for Ebola  Malaria  Typhus or Cholera,,,,
+149,13,1461,0,No required information is found ,,,,
+149,13,1462,0,No required information is found ,,,,
+149,13,1463,0,No required information is found ,,,,
+149,13,1464,0,No required information is found ,,,,
+149,13,1465,0,No required information is found ,,,,
+150,476,1490,1,quarantine time plolicy stating quarantine time ,,,,
+150,476,1491,0,subject policy ,,,,
+150,477,1492,1,texas policy stating time ,,,,
+150,477,1493,0,history of ebola in USA ,,,,
+150,477,1494,0,isolation period in 14th century ,,,,
+150,478,1495,1,ebola guidelines stating isolation time ,,,,
+150,478,1496,1,minnesota's quarantine policy stating time ,,,,
+150,478,1497,0,history  policy and guidelines ,,,,
+150,479,1498,1,cuomo's home based quarantine time ,,,,
+150,479,1499,0,some completely irrelevant bullshit ,,,,
+151,685,1501,1,Explains about quarantine period,,,,
+151,685,1502,1,Explains about quarantine period,,,,
+151,685,1503,1,Explains about quarantine period,,,,
+151,686,1504,1,Explains about quarantine period,,,,
+151,687,1505,1,Explains about quarantine period,,,,
+151,688,1506,0,Does not Explains about quarantine period,,,,
+151,689,1507,0,Does not Explains about quarantine period,,,,
+151,689,1508,0,Does not Explains about quarantine period,,,,
+151,689,1509,0,Does not Explains about quarantine period,,,,
+151,689,1510,0,Does not Explains about quarantine period,,,,
+152,690,1511,1,Explains when to quarantine people,,,,
+152,691,1512,1,Describes when to quarantine person,,,,
+152,692,1513,1,Describes when to quarantine person,,,,
+152,692,1514,1,Describes when to quarantine person,,,,
+152,693,1515,1,Describes when to quarantine person,,,,
+152,694,1516,0,Does not Explain when to quarantine people,,,,
+152,694,1517,0,Does not Explain when to quarantine people,,,,
+152,694,1518,0,Does not Explain when to quarantine people,,,,
+152,694,1519,0,Does not Explain when to quarantine people,,,,
+152,694,1520,0,Does not Explain when to quarantine people,,,,
+153,695,1521,1,Explains why quarantine is not  required,,,,
+153,695,1522,1,Explains why quarantine is not  required,,,,
+153,697,1523,1,Explains why quarantine is not  required,,,,
+153,696,1524,1,Explains why quarantine is not  required,,,,
+153,697,1525,1,Explains why quarantine is not  required,,,,
+153,697,1526,0,Does not mention anything about quarantine,,,,
+153,697,1527,0,Does not mention anything about quarantine,,,,
+153,697,1528,0,Does not mention anything about quarantine,,,,
+153,697,1529,0,Does not mention anything about quarantine,,,,
+153,696,1530,0,Does not mention anything about quarantine,,,,
+154,710,1531,1,Describes why quarantine not required,,,,
+154,710,1532,1,Describes why quarantine not required,,,,
+154,713,1533,1,Describes why quarantine not required,,,,
+154,713,1534,1,Describes why quarantine not required,,,,
+154,717,1535,1,Describes why quarantine not required,,,,
+154,717,1536,0,Explains only symptoms,,,,
+154,718,1537,0,Does not mention about quarantine,,,,
+154,718,1538,0,Does not mention about quarantine,,,,
+154,718,1539,0,Does not mention about quarantine,,,,
+154,718,1540,0,Does not mention about quarantine,,,,
+155,719,1541,1,Mentions about quarantine period,,,,
+155,719,1542,1,Mentions about quarantine period,,,,
+155,719,1543,1,Mentions about quarantine period,,,,
+155,719,1544,1,Mentions about quarantine period,,,,
+155,719,1545,1,Mentions about quarantine period,,,,
+155,720,1546,0, Does not address about quarantine period,,,,
+155,720,1547,0, Does not address about quarantine period,,,,
+155,720,1548,0, Does not address about quarantine period,,,,
+155,720,1549,0, Does not address about quarantine period,,,,
+155,720,1550,0, Does not address about quarantine period,,,,
+156,738,1551,1,Addresses Quarantine period,,,,
+156,738,1552,1,Addresses Quarantine period,,,,
+156,738,1553,1,Addresses Quarantine period,,,,
+156,738,1554,1,Addresses Quarantine period,,,,
+156,738,1555,1,Addresses Quarantine period,,,,
+156,738,1556,0, does not Addresses Quarantine period,,,,
+156,739,1557,0, does not Addresses Quarantine period,,,,
+156,739,1558,0, does not Addresses Quarantine period,,,,
+156,739,1559,0, does not Addresses Quarantine period,,,,
+156,739,1560,0, does not Addresses Quarantine period,,,,
+157,740,1561,1,Mentions about quarantine period,,,,
+157,740,1562,1,Mentions about quarantine period,,,,
+157,741,1563,1,Mentions about quarantine period,,,,
+157,741,1564,1,Mentions about quarantine period,,,,
+157,741,1565,1,Mentions about quarantine period,,,,
+157,742,1566,0,does not address about quarantine period,,,,
+157,742,1567,0,does not address about quarantine period,,,,
+157,743,1568,0,does not address about quarantine period,,,,
+157,743,1569,0,does not address about quarantine period,,,,
+157,743,1570,0,does not address about quarantine period,,,,
+158,744,1571,1,Describes about quarantine for Ebola,,,,
+158,745,1572,1,Describes about quarantine for Ebola,,,,
+158,745,1573,1,Describes about quarantine for Ebola,,,,
+158,745,1574,1,Describes about quarantine for Ebola,,,,
+158,745,1575,1,Describes about quarantine for Ebola,,,,
+158,746,1576,0,Does not mention about  quarantine for Ebola,,,,
+158,747,1576,0,Does not mention about  quarantine for Ebola,,,,
+158,747,1578,0,Does not mention about  quarantine for Ebola,,,,
+158,748,1579,0,Does not mention about  quarantine for Ebola,,,,
+158,748,1580,0,Does not mention about  quarantine for Ebola,,,,
+159,6,1581,1,tells the quarantine period for ebola,,,,
+159,6,1582,1,tells the quarantine period for ebola,,,,
+159,6,1583,1,tells the quarantine period for ebola,,,,
+159,749,1584,1,tells the quarantine period for ebola,,,,
+159,750,1585,1,tells the quarantine period for ebola,,,,
+159,751,1586,0,does not tell about the quarantine period for ebola,,,,
+159,751,1587,0,does not tell about the quarantine period for ebola,,,,
+159,751,1588,0,does not tell about the quarantine period for ebola,,,,
+159,752,1589,0,does not tell about the quarantine period for ebola,,,,
+159,752,1590,0,does not tell about the quarantine period for ebola,,,,
+160,340,1591,1,tells the quarantine period for ebola,,,,
+160,340,1592,1,tells the quarantine period for ebola,,,,
+160,755,1593,1,tells the quarantine period for ebola,,,,
+160,756,1594,1,tells the quarantine period for ebola,,,,
+160,741,1595,1,tells the quarantine period for ebola,,,,
+160,753,1596,0,does not tell the quarantine period for ebola,,,,
+160,754,1597,0,does not tell the quarantine period for ebola,,,,
+160,757,1598,0,does not tell the quarantine period for ebola,,,,
+160,757,1599,0,does not tell the quarantine period for ebola,,,,
+160,757,1600,0,does not tell the quarantine period for ebola,,,,
+101,73,1164,1,Explains preventive care of Ebola ,,,,
+101,76,1165,1,Explains various preventive measures ,,,,
+101,76,1166,1,talks about ebola preventive measures ,,,,
+101,4,1153,1,Describes Ebola Prevention care ,,,,
+101,4,1154,1,Explains Preventive care for Health workers ,,,,
+101,78,1167,0,describes only current ebola crisis ,,,,
+101,78,1168,0, talks only about quarantine methods ,,,,
+101,78,1169,0, Describes quarantine in US ,,,,
+101,78,1170,0, does nor explain exact preventive care,,,,
+101,4,1155,0,Explains only Reducing the risk of possible sexual transmission ,,,,
+102,82,1171,1,Explains how to prevent mosquito bites ,,,,
+102,82,1172,1,Explains about preventive malaria medicines ,,,,
+102,84,1173,0,does not mention specific preventive measures ,,,,
+102,84,1174,0,does not specify exact preventive measures ,,,,
+102,85,1175,1,Describes malaria prevention and treatment ,,,,
+102,85,1176,1,talks about malaria prevention and treatment ,,,,
+102,86,1177,1,talks about malaria prevention measures ,,,,
+102,86,1178,0,does not talk about exact preventive measures ,,,,
+102,87,1179,0,gives only overview of malaria ,,,,
+102,87,1180,0,mentions measures taken by Indian govt to control malaria ,,,,
+103,88,1181,1,Talks about Typhus prevention ,,,,
+103,88,1182,1,Mentions various ways to prevent typhus ,,,,
+103,89,1183,1,talks about Typhus preventions ,,,,
+103,89,1184,0,Explains how typhus is spread ,,,,
+103,89,1185,0,Explains only symptoms ,,,,
+103,89,1186,0,Talks about treatment only ,,,,
+103,90,1187,1,Explains the preventive measures ,,,,
+103,91,1188,1,Describes typhus prevention ,,,,
+103,91,1189,0, Explains how typhus is spread ,,,,
+103,91,1190,0,Explains various ways of how typhus is spread ,,,,
+104,93,1191,1,Explains preventive measure of Cholera ,,,,
+104,93,1192,1,Describes preventive measures ,,,,
+104,93,1193,1,Mentions various preventive measures ,,,,
+104,96,1194,1,Explains how cholera can be prevented ,,,,
+104,96,1195,0,Talks only about symptoms ,,,,
+104,96,1196,0,explains only about cholera transmission ,,,,
+104,96,1197,0,talks about the history of cholera ,,,,
+104,97,1198,1,describes how cholera preventions is done ,,,,
+104,97,1199,0, Describes cholera fact sheet ,,,,
+104,97,1200,0,Describes treatment only ,,,,
+105,108,1003,1,Describes methods to prevent Ebola ,,,,
+105,108,1004,1,Mentions steps to prevent Ebola ,,,,
+105,108,1005,1,Describes Ebola Prevention ,,,,
+105,108,1006,1,explains how to prevent Ebola ,,,,
+105,109,1007,0,Talks about only overview of Ebola ,,,,
+105,109,1008,0,Talks only about how Ebola is spread ,,,,
+105,109,1009,1,Talks about preventive measures of Ebola ,,,,
+105,110,1010,0,Gives only facts about ebola ,,,,
+105,110,1011,0,Talks only about ebola outbreak and widespread ,,,,
+105,110,1012,0,Does not explain preventive measures ,,,,
+106,111,1013,1,Talks about malaria prevention ,,,,
+106,111,1014,0,Talks about malaria overview ,,,,
+106,111,1015,0,Describes only about antimalarial drugs ,,,,
+106,112,1016,1,Explains how to prevent malaria ,,,,
+106,112,1017,0, Explains preventions only during trip/journey ,,,,
+106,112,1018,1,Describes malaria prevention ,,,,
+106,113,1019,0,Talks about malaria in Kenya ,,,,
+106,113,1020,0,Explains how malaria is spread in Kenya ,,,,
+106,114,1021,1,Describes malaria prevention steps ,,,,
+106,114,1022,1,Explains how to prevent malaria ,,,,
+107,115,1023,1,Explains prevention of typhus ,,,,
+107,115,1024,1,Describes typhus prevention ,,,,
+107,116,1025,1,Mentions steps to prevent typhus ,,,,
+107,117,1026,1,Talks about how to prevent typhus ,,,,
+107,117,1027,0,Explains only abut symptoms ,,,,
+107,117,1028,0,Describes how typhus is infected ,,,,
+107,118,1029,0,Talks about only symptoms ,,,,
+107,118,1030,0,Does not explain how to prevent typhus ,,,,
+107,118,1031,1,Describes steps to prevent typhus ,,,,
+107,118,1032,0,Does not mention anything about preventive steps ,,,,
+108,123,1033,1,Describes the preventive measures of cholera ,,,,
+108,123,1034,1,describes preventive measures of Cholera ,,,,
+108,123,1035,0,Does not describe preventive measure of Cholera ,,,,
+108,126,1036,1,Adresses how to prevent cholera ,,,,
+108,126,1037,0,Describes spread of cholera in South Sudan ,,,,
+108,126,1038,0,Does not address any preventive measures ,,,,
+108,68,1161,0,Talks only about treatment ,,,,
+108,68,1158,0,No mentions about preventive steps ,,,,
+108,68,1159,1,Explains how to prevent cholera ,,,,
+108,68,1160,1,Talks about cholera prevention,,,,
+109,132,1041,1,Describes how to prevent ebola ,,,,
+109,132,1042,1,Explains prevention by not contacting carriers ,,,,
+109,132,1043,1,Addresses Different steps to prevent ebola ,,,,
+109,133,1044,1,Explains about vaccine development to prevent Ebola ,,,,
+109,134,1045,1,Talks about ebola prevention ,,,,
+109,134,1046,0,Does not give enough information on how to prevent ebola ,,,,
+109,134,1047,0,Given only overview of Ebola ,,,,
+109,134,1048,0,Does not give enough information about prevention ,,,,
+109,103,1001,0,Does not explain about prevention ,,,,
+109,103,1002,0,Does not address prevention steps ,,,,
+110,135,1049,1,Mentions steps to prevent malaria ,,,,
+110,135,1050,1,Addresses how to prevent malaria ,,,,
+110,135,1051,1,Explains how to be on safe side to prevent malaria ,,,,
+110,136,1052,1,Describes malaria prevention ,,,,
+110,136,1053,1,Explains malaria prevention by avoiding mosquito bites ,,,,
+110,136,1054,0,Does not address prevention steps ,,,,
+110,137,1055,0,Does not describe exactly how to prevent malaria ,,,,
+110,137,1056,0,Does not explain about malaria prevention ,,,,
+110,137,1057,0,No mentions about prevention ,,,,
+110,137,1058,0, No mentions about prevention ,,,,
+111,141,1059,1,Describes how to prevent typhus ,,,,
+111,141,1060,1,Explains steps to prevent typhus ,,,,
+111,141,1061,0,Does not mention how to prevent typhus ,,,,
+111,142,1062,1, Addresses steps to prevent typhus ,,,,
+111,142,1063,0,Describes only treatment of typhus ,,,,
+111,142,1064,0,Describes only about origin of typhus ,,,,
+111,144,1065,1,Mentions various ways to prevent typhus ,,,,
+111,144,1066,0,Describes only about symptoms of Typhus ,,,,
+111,146,1067,1,Explains typhus preventions ,,,,
+111,146,1068,1,Does not describe preventive measures ,,,,
+112,147,1069,1,Describes to prevent cholera ,,,,
+112,147,1070,1,Mentions various ways to prevent cholera ,,,,
+112,148,1071,1,Describes methods to prevent Cholera ,,,,
+112,148,1072,0,Explains how Cholera spreads ,,,,
+112,148,1073,0,Does not explain preventive measures ,,,,
+112,149,1074,0,Explains only about symptoms ,,,,
+112,149,1075,0, Does not explain how to prevent Cholera ,,,,
+112,149,1076,0,Explains only about spread of Cholera,,,,
+112,65,1156,1,Addresses steps involved in Cholera prevention ,,,,
+112,65,1157,1,Explains cholera prevention before it occurs  ,,,,
+113,151,1077,1,Explains preventive measures of Ebola ,,,,
+113,151,1078,1,Describes steps to prevent Ebola ,,,,
+113,151,1079,1,Explains various steps to prevent Ebola ,,,,
+113,152,1080,1,Describes Ebola prevention  ,,,,
+113,153,1081,1,Addresses necessary steps to prevent Ebola ,,,,
+113,153,1082,0,Does not explain prevention ,,,,
+113,153,1083,0,Does not address any preventive measures ,,,,
+113,153,1084,0, No mention about preventions,,,,
+113,7,1162,0,Explains only about incubation period ,,,,
+113,7,1163,0,Explains only how Ebola spreads  ,,,,
+114,154,1085,1,Explain preventive measures ,,,,
+114,154,1086,1,Describes preventive measures for travellers ,,,,
+114,154,1087,0,Explains only about symptoms ,,,,
+114,154,1088,0,Explain only about diagnosis ,,,,
+114,155,1089,0,Does not explain about prevention ,,,,
+114,155,1090,1,Explains preventive measures to avoid mosquito bite ,,,,
+114,155,1091,0,Explains only about immunity to Malaria ,,,,
+114,156,1092,1,Describes how to prevent Malaria ,,,,
+114,156,1093,1,Explains steps to prevent Malaria ,,,,
+114,156,1094,0,Describes only symptoms ,,,,
+115,18,1095,1,Explains preventive measures ,,,,
+115,18,1096,1,Describes preventive measures ,,,,
+115,18,1097,0,Describes only incubation period of typhus ,,,,
+115,242,1098,1,Explains preventive measures  ,,,,
+115,242,1099,1,Explains steps to prevent typhus ,,,,
+115,243,1100,0,Describes only about treatment ,,,,
+115,243,1101,0,Explains only symptoms ,,,,
+115,243,1102,0,Explains about the distribution of typhus across world ,,,,
+115,131,1039,1,Explains prevention of typhus ,,,,
+115,131,1040,0,Explains only about treatments ,,,,
+116,244,1103,1,Explains preventive measures ,,,,
+116,244,1104,1,Describes preventive steps ,,,,
+116,244,1105,1,Addresses  steps to prevent Cholera ,,,,
+116,246,1106,1,Mentions hoe to prevent Cholera ,,,,
+116,246,1107,1,Addresses preventive measures ,,,,
+116,247,1108,0,Explains only spread of cholera in Ghana ,,,,
+116,247,1109,0,Addresses only symptoms ,,,,
+116,247,1110,0,Describes how Cholera is spread ,,,,
+116,249,1111,0,Explains only history of Cholera ,,,,
+116,249,1112,0,Describes only history of Cholera ,,,,
+117,251,1113,0,Explains about ebola patient only ,,,,
+117,251,1114,0,Does not explain any preventive steps ,,,,
+117,251,1115,1,Explains prevention and contamination of the patient ,,,,
+117,252,1116,1,Addresses preventive steps for workers ,,,,
+117,252,1117,1,Explains how to prevent ebola from ebola patient ,,,,
+117,252,1118,1,Mentions various steps to prevent Ebola ,,,,
+117,252,1119,1,Addresses steps to prevent Ebola for cleaning crews ,,,,
+117,253,1120,0,Does not mention anything about prevention ,,,,
+117,253,1121,0,Addresses only spread of Ebola ,,,,
+117,253,1122,0,Does not explain prevention ,,,,
+118,258,1123,1,Mentions steps to prevent Malaria ,,,,
+118,258,1124,1,Explains how to prevent bites ,,,,
+118,258,1125,1,Describes how to prevent bites ,,,,
+118,258,1126,1,Addresses steps to prevent malaria ,,,,
+118,259,1127,0,Does not mention anything about prevention ,,,,
+118,259,1128,0,Does not explain preventive steps ,,,,
+118,259,1129,0,No explanation about prevention ,,,,
+118,262,1130,1,Explains malaria prevention ,,,,
+118,262,1131,0,Does not explain prevention ,,,,
+118,262,1132,0,No explation about malaria prevention ,,,,
+119,264,1133,1,Describes how to prevent Typhus ,,,,
+119,264,1134,0,Does not describe any prevention steps ,,,,
+119,264,1135,0,Explains only about treatment ,,,,
+119,264,1136,0,Explains only symptoms ,,,,
+119,266,1137,1,Addresses prevention of typhus ,,,,
+119,266,1138,0,Does not explain about prevention ,,,,
+119,266,1139,0,Explains only about origin of typhus ,,,,
+119,758,1140,1,Describes steps to prevent typhus ,,,,
+119,759,1141,1,Explains measures to prevent typhus in HongKong ,,,,
+119,759,1142,1,Explains preventive steps in HongKong ,,,,
+120,269,1143,1,Mentions effective steps to prevent Cholera ,,,,
+120,269,1144,1,Addressed steps in prevention ,,,,
+120,269,1145,1,Mentions factors which do not prevent Cholera ,,,,
+120,271,1146,1,Describes Cholera prevention ,,,,
+120,271,1147,1,Describes foods to try and avoid to prevent Cholera ,,,,
+120,273,1148,0,Gives only introduction to Cholera ,,,,
+120,273,1149,0,Does not mention any preventive steps ,,,,
+120,274,1150,0,Explains only causes of Cholera ,,,,
+120,274,1151,0,Explains only about Cholera origin ,,,,
+120,274,1152,0,Does not explain about prevention,,,,
+21,278,202,1,talks about the discovery of ebola ,,,,
+21,278,203,0,does not talk about first observation ,,,,
+21,278,204,1,talks how the first human got ebola ,,,,
+21,279,205,1,talks about first reported outbreaks of ebola ,,,,
+21,279,206,1,talks about various initial reported outbreaks of ebola ,,,,
+21,280,207,1,talks about first observations of Ebola-S ,,,,
+21,280,208,0,does not talk about first observation ,,,,
+22,281,209,1,talk about first ebola treatments and cause ,,,,
+22,281,210,1,talk about treatment ,,,,
+22,281,211,0,Talks about history not treatment ,,,,
+22,282,212,1,talks all about treatment ,,,,
+22,282,213,1,talks about drugs for treatment ,,,,
+22,283,214,0,does not talk about treatment ,,,,
+22,283,215,0,Talks about history not treatment ,,,,
+22,284,216,1,talks about treatment ,,,,
+22,285,217,0,talk only about symptoms ,,,,
+22,286,218,0,talk only about history ,,,,
+23,287,219,1,Addresses ebola latest treatment ,,,,
+23,287,220,1,Addresses ebola latest treatment ,,,,
+23,288,221,0,Does not Addresses ebola latest treatment ,,,,
+23,289,222,1,Addresses ebola latest treatment ,,,,
+23,290,223,0,Does not Addresses ebola latest treatment ,,,,
+23,291,224,0,Does not Addresses ebola latest treatment ,,,,
+23,291,225,0,Does not Addresses ebola latest treatment ,,,,
+23,291,226,1,Addresses ebola latest treatment ,,,,
+23,294,227,1,Addresses ebola latest treatment ,,,,
+23,294,400,0,Addresses ebola latest treatment ,,,,
+24,297,229,1,Talks about the first occurrence of Ebola ,,,,
+24,298,230,1,Mentions when first outbreak occured ,,,,
+24,298,231,0,Does not tell when Ebola outbreak occured ,,,,
+24,298,232,1,Mentions the years when outbreak occured ,,,,
+24,298,233,0,Mentions only about symptoms ,,,,
+21,3,234,0,talks only about agents of ebola ,,,,
+21,3,235,0,talk about symptoms of Ebola ,,,,
+21,3,236,0,talk only about different types of ebola viruses ,,,,
+24,304,237,1,Gives the year in which first Ebola outbreak occured ,,,,
+24,304,238,1,Mentions when the First Ebola case found ,,,,
+24,304,239,0,Does not mention when First Ebola was observed ,,,,
+24,304,240,0,Mentions only type of Ebola viruses ,,,,
+24,305,241,0,Gives information about ebola. ,,,,
+25,306,242,1,Talks about the initial treatment procedure ,,,,
+25,306,243,1,Talks about treatment in 1995 ,,,,
+25,307,244,1,Gives information about the initial treatment ,,,,
+25,307,245,1,Addresses treatment conducted in 1976 ,,,,
+25,308,246,1,Describes the initial treatment ,,,,
+25,309,247,0,Does not mention anything about initial treatments ,,,,
+25,309,248,0,No mentions about initial treatment ,,,,
+25,310,249,0, Does not talk about treatment ,,,,
+25,310,250,0,Talks only about treatment ,,,,
+25,310,251,0, talks only about ebola spreading ,,,,
+26,318,252,1,talk about First observation ,,,,
+26,318,253,1,talk about First observation ,,,,
+26,319,254,1,talk about First observation ,,,,
+26,319,255,1,talk about First observation ,,,,
+26,320,256,1,talk about First observation ,,,,
+26,321,257,0,does not talk about First observation ,,,,
+26,321,258,0, does not talk about First observation ,,,,
+26,322,259,0,talk about how does ebola travels ,,,,
+26,322,260,0,talk about vaccines ,,,,
+28,322,260,1,talk about latest treatment ,,,,
+26,322,261,0,talk about vaccines ,,,,
+28,325,262,0, does not talk about latest treatment ,,,,
+28,325,263,0, does not talk about latest treatment ,,,,
+28,326,264,1,talk about latest treatment ,,,,
+28,327,265,1,talk about latest treatment ,,,,
+28,328,266,1,talk about research ,,,,
+28,328,267,1,talk about latest treatment ,,,,
+28,328,268,0,does not talk about latest treatment ,,,,
+28,329,269,0,does not talk about latest treatment ,,,,
+28,329,270,0,does not talk about latest treatment ,,,,
+27,338,271,1,Talks about latest treatment ,,,,
+27,338,272,1,Describes latest development in treatment ,,,,
+27,339,273,1,Addresses latest vaccine development ,,,,
+27,339,274,1,Talks about latest vaccine development ,,,,
+27,339,275,1,Mentions latest vaccine development ,,,,
+27,342,277,0, Talks only about symptoms ,,,,
+27,345,278,0,Does not talk about treatment ,,,,
+27,345,279,0,No mention about treatment ,,,,
+27,345,280,0,Does not address treatment ,,,,
+27,345,280,0,Does not talk about treatment ,,,,
+29,352,281,1,Mentions first outbreak of Ebola ,,,,
+29,352,282,1,Mentions the first occurrence of Ebola ,,,,
+29,352,283,0,Does not mention any dates ,,,,
+36,352,284,1, talk about the initial cases of ebola ,,,,
+36,352,285,0, talk about the symptoms and treatment of ebola ,,,,
+29,353,286,1,Mentions when Ebola first occurred ,,,,
+29,353,287,1,Addresses when first Ebola outbreak occurred ,,,,
+29,353,288,0, Explains only about how Ebola spreads ,,,,
+29,354,289,1,Mentions date when Ebola first occurred ,,,,
+29,354,290,0,Does not address anything about first occurrence ,,,,
+29,355,291,0,No mention about first occurrence ,,,,
+29,355,292,0,Nothing about first occurrence ,,,,
+30,362,293,1,Explains latest treatments for Ebola ,,,,
+30,362,294,1,Talks about drugs being developed lately ,,,,
+30,362,295,1,Explains latest developments in drugs for Ebola ,,,,
+30,364,296,1,Addresses latest treatment methods ,,,,
+30,364,297,1,Explains latest treatments ,,,,
+30,366,298,0,Talks only about Ebola spread ,,,,
+30,366,299,0,Explains only about Ebola transmission ,,,,
+30,367,300,0,No mentions about treatments ,,,,
+30,367,301,0,Does not mention any treatments ,,,,
+30,367,302,0,does not address any treatment methods ,,,,
+31,368,303,1,Mentions the year in which first Ebola case occurred ,,,,
+31,368,304,0,Does not mention any First occurrence of Ebola ,,,,
+31,368,305,0,Gives only overview not history of Ebola ,,,,
+31,368,306,0,Explains only symptoms and incubation period ,,,,
+31,371,307,1,Mentions the first case of Ebola ,,,,
+31,371,308,1,Specifies the year in which Ebola occurred first ,,,,
+31,371,309,0,Nothing about history,,,,
+31,161,201,1,Mentions when Ebola occurred for the first time ,,,,
+31,371,310,0,Does not mention when Ebola occurred ,,,,
+31,372,311,1,Addresses first occurrence of Ebola ,,,,
+36,401,312,0, talk about the difference between outbreak and current one ,,,,
+36,401,313,0, talk about the difference between outbreak and current one ,,,,
+36,402,314,1, talk about when the word ebola came ,,,,
+36,402,315,1, talk about when the ebola first ,,,,
+36,403,316,1, talk about when the ebola first ,,,,
+36,403,317,0, does not talk about when the ebola first ,,,,
+36,404,318,0, talk about the book patient zero ,,,,
+36,404,319,1, talk about when the ebola first ,,,,
+37,405,320,0,does not talks about treatment tried lately,,,,
+37,405,321,1,talks about treatment tried lately,,,,
+37,406,322,1,talks about treatment tried lately,,,,
+37,406,323,1,talks about treatment tried lately,,,,
+37,407,324,0,does not talks about treatment tried lately,,,,
+37,407,325,0,does not talks about treatment tried lately,,,,
+37,408,326,0,talks about treatment focuses,,,,
+37,409,327,0,does not talks about treatment tried lately,,,,
+37,409,328,1,talks about treatment tried lately,,,,
+37,409,329,1,talks about treatment tried lately,,,,
+38,410,330,1, talk about first occurrence of Ebola ,,,,
+38,410,331,0, talk about EHF ,,,,
+38,411,332,0, does not talk about first occurrence of Ebola ,,,,
+38,411,333,0, does not talk about first occurrence of Ebola ,,,,
+38,412,334,1, talk about first occurrence of Ebola ,,,,
+38,412,335,0, talk about the viruses ,,,,
+38,413,336,1, talk about first occurrence of Ebola ,,,,
+38,413,337,1, talk about report of Ebola ,,,,
+38,414,338,1, talk about first occurrence of Ebola ,,,,
+38,414,339,0, talk about symptoms of Ebola ,,,,
+39,415,340,1, talk about the treatment ,,,,
+39,415,341,1, talk about the treatment ,,,,
+39,415,342,1, talk about the treatment ,,,,
+39,416,343,1, talk about the treatment ,,,,
+39,416,344,1, talk about the treatment ,,,,
+39,416,345,0, does not talk about the treatment ,,,,
+39,418,346,0, does not talk about the treatment ,,,,
+39,419,347,0, does not talk about the treatment ,,,,
+39,419,348,0, does not talk about the treatment ,,,,
+39,421,349,0, does not talk about the treatment ,,,,
+32,423,350,1,Addresses the treatment ,,,,
+32,423,351,1,Mentions one of the earlier treatment  ,,,,
+32,424,352,0,Describes only Ebola outbreak start ,,,,
+32,424,353,1,Mentions steps of general treatment ,,,,
+32,424,354,1,Mentions earlier treatment ,,,,
+32,430,355,0,Does not mention any treatment ,,,,
+32,430,356,0,Does not mention any treatment ,,,,
+32,430,357,0,Does not mention any treatment ,,,,
+32,430,358,0,Does not mention any treatment ,,,,
+32,430,359,1,mentions some treatment ,,,,
+33,432,360,1,Addresses treatment measures ,,,,
+33,432,361,0,Explains only about Ebola spread ,,,,
+33,432,362,0,Explains only about symptoms ,,,,
+33,435,363,1,Explains development of a drug ,,,,
+33,435,364,1,Develops phase 3 of development drug ,,,,
+33,436,365,1,Talks about experimental drugs ,,,,
+33,436,366,0,No mention about treatment ,,,,
+33,436,367,1,Explains treatment in West Africa ,,,,
+33,436,368,0,No mention about treatments ,,,,
+33,436,369,0,No mention about treatments ,,,,
+34,440,370,1,Describes first Ebola case ,,,,
+34,440,371,1,Mentions first Ebola case ,,,,
+34,442,372,1,Mentions first Ebola break ,,,,
+34,442,373,1,Gives information about first outbreak ,,,,
+34,442,374,0,No information about first occurrence ,,,,
+34,442,375,0,Does not tell when first ebola occurred ,,,,
+34,444,376,1,Discusses first case of Ebola ,,,,
+34,444,377,0,Discusses spread of Ebola in 2014 ,,,,
+34,447,378,0,No mention about first occurrence ,,,,
+34,447,379,0,No mention about first occurrence ,,,,
+35,448,380,1,Describes development of latest drugs ,,,,
+35,448,381,1,Describes latest drug development ,,,,
+35,448,382,1,Mentions latest method for treatment ,,,,
+35,449,383,1,Addresses latest development in research for treatment ,,,,
+35,449,383,1,Mentions latest developments in treatment ,,,,
+35,453,385,0,Does not mention anything about treatment ,,,,
+35,453,386,0,Does not mention anything about treatment ,,,,
+35,453,387,0,Does not mention anything about treatment ,,,,
+35,453,388,0,Does not mention anything about treatment ,,,,
+35,453,389,0,Does not mention anything about treatment ,,,,
+40,457,390,0,Does not mention anything about first occurrence ,,,,
+40,459,391,1,Mentions when Ebola occurred ,,,,
+40,459,392,0,Mentions Ebola occurrence in 2014 ,,,,
+40,461,393,1,Mentions about first occurrence of Ebola ,,,,
+40,461,394,1, Does not mention about first occurrence ,,,,
+40,463,395,1,Mentions first occurrence of Ebola ,,,,
+40,463,396,0,Does not mention first occurrence ,,,,
+40,464,397,1,Mentions about first occurrence of Ebola ,,,,
+40,464,398,0,Mentions about Ebola occurrence in 1979 ,,,,
+40,464,399,0,Mentions about Ebola occurrence in 1994,,,,
+217,237,2165,1,Explain initial symptoms of Ebola,,,,
+217,110,2164,1,Explain initial symptoms of Ebola,,,,
+217,534,2167,1,Explain initial symptoms of Ebola,,,,
+217,536,2161,1,Explain initial symptoms of Ebola,,,,
+217,536,2162,1,Explain initial symptoms of Ebola,,,,
+217,536,2163,0,Does not explain initial symptoms of Ebola,,,,
+217,536,2166,0,Does not explain initial symptoms of Ebola,,,,
+217,537,2168,0,Does not explain initial symptoms of Ebola,,,,
+217,537,2169,0,Does not explain initial symptoms of Ebola,,,,
+217,537,2170,0,Does not explain initial symptoms of Ebola,,,,
+218,538,2171,1,Explain initial symptoms of Malaria,,,,
+218,538,2172,1,Explain initial symptoms of Malaria,,,,
+218,538,2173,1,Explain initial symptoms of Malaria,,,,
+218,539,2174,1,Explain initial symptoms of Malaria,,,,
+218,539,2176,1,Explain initial symptoms of Malaria,,,,
+218,540,2175,0,Does not explain initial symptoms of Malaria,,,,
+218,540,2177,0,Does not explain initial symptoms of Malaria,,,,
+218,540,2178,0,Does not explain initial symptoms of Malaria,,,,
+218,540,2179,0,Does not explain initial symptoms of Malaria,,,,
+218,540,2180,0,Does not explain initial symptoms of Malaria,,,,
+219,541,2181,1,Explain initial symptoms of Typhus,,,,
+219,541,2182,1,Explain initial symptoms of Typhus,,,,
+219,541,2183,0,Explain initial symptoms of Typhus,,,,
+219,541,2186,1,Explain types of Typhus,,,,
+219,542,2184,1,Explain the term symptoms,,,,
+219,542,2185,1,Explain the symptoms,,,,
+219,543,2187,0,Explain the causes of Typhus,,,,
+219,543,2188,0,Explain Murine Typhus,,,,
+219,543,2189,0,Explain Endemic Typhus,,,,
+219,543,2190,0,Explain Endemic Typhus,,,,
+220,544,2191,1,Explain initial symptoms of Cholera,,,,
+220,544,2192,1,Explain initial symptoms of Cholera,,,,
+220,545,2193,1,Explain initial symptoms of Cholera,,,,
+220,546,2194,1,Explain initial symptoms of Cholera,,,,
+220,546,2195,1,Talks about other symptoms of Cholera,,,,
+220,546,2196,0,Talks about causes of Cholera,,,,
+220,546,2197,0,Explain about causes of Cholera,,,,
+220,547,2198,0,Explain when to seek medical attention,,,,
+220,548,2199,0,Explain causes of Cholera,,,,
+220,548,2200,0,talks about the occurrence of Cholera,,,,
+221,549,2200,1, Explain first symptoms of Ebola,,,,
+221,549,2202,1, Explain first symptoms of Ebola,,,,
+221,550,2203,1, Explain first symptoms of Ebola,,,,
+221,550,2204,1, Talks about early symptoms of Ebola,,,,
+221,550,2205,1, Talks about as Ebola virus progresses,,,,
+221,550,2206,0, Talks about the treatment of Ebola ,,,,
+221,551,2207,0, Does not explain first symptoms of Ebola,,,,
+221,552,2208,0, Does not explain first symptoms of Ebola,,,,
+221,552,2209,0, Talks about treatment of Ebola,,,,
+221,552,2210,0, Talks about guidelines of CDC,,,,
+222,553,2211,1, Explain about the first symptoms of Malaria,,,,
+222,554,2212,1, Explain about the first symptoms of Malaria,,,,
+222,554,2213,1, Explain about the characteristic of Malaria,,,,
+222,554,2214,1, Explain about features seen after the infection,,,,
+222,554,2215,1, Explain about different species of malaria,,,,
+222,555,2216,0, Does not explain Explain of malaria,,,,
+222,555,2217,0, Explain about causes of malaria,,,,
+222,555,2218,0, Explain about Mosquitoes alone spread malaria,,,,
+222,555,2219,0, Does not talk about first symptoms of Malaria,,,,
+222,555,2220,0, Does not talk about first symptoms of Malaria,,,,
+223,556,2221,1, Explain about the first symptoms of Typhus,,,,
+223,557,2222,1, Explain about the first symptoms of Typhus,,,,
+223,557,2223,1, Explain about the first symptoms and treatment of Typhus,,,,
+223,557,2224,1, Explain about the Typhus Diagnosis,,,,
+223,558,2225,1, Explain about the first symptoms of Typhus,,,,
+223,558,2226,1, Explain about the diagnosis of Typhus,,,,
+223,558,2227,0, Explain about specific test Typhus,,,,
+223,559,2228,0, Explain about treatment of Typhus,,,,
+223,559,2229,0, Explain about treatment of Typhus,,,,
+223,559,2230,0, Explain about prevention of Typhus,,,,
+223,560,2231,0, Explain about symptoms of Typhus,,,,
+223,560,2232,0, Explain about amoebas,,,,
+224,561,2233,1, Explain initial symptoms of Cholera,,,,
+224,562,2234,1, Explain initial symptoms of Cholera,,,,
+224,562,2235,1, Explain initial symptoms of Cholera,,,,
+224,563,2236,1, Explain initial symptoms of Cholera,,,,
+224,564,2237,0, Talks about the infectious agent of Cholera,,,,
+224,565,2238,0, Talks about the treatment of Cholera,,,,
+224,565,2239,0, Talks about the treatment of Cholera,,,,
+224,565,2240,0, Talks about the causes of Cholera,,,,
+249,567,2481,1, Talks about Ebola screening protocols,,,,
+249,567,2482,1, Talks about Hickox being monitored,,,,
+249,568,2483,1, Talks about recommended 21-day quarantine period for Ebola,,,,
+249,568,2484,1, Talks about probability of excedence for Ebola,,,,
+249,569,2485,1, Talks about within 21 days of Ebola screening,,,,
+249,570,2486,0, Talks about Ebola virus disease,,,,
+249,570,2487,0, Talks about Ebola outbreak,,,,
+249,570,2488,0, Talks about Ebola virus transmission,,,,
+249,570,2489,0, Talks about symptoms of Ebola ,,,,
+249,570,2490,0, Talks about risk of Ebola exposure,,,,
+250,573,2491,1, Talks about Hepatitis B Incubation Period,,,,
+250,573,2492,1, Talks about Hepatitis B Incubation Period,,,,
+250,573,2493,1, Talks about Hepatitis B Incubation Period,,,,
+250,575,2494,1, Talks about Hepatitis B Incubation Period,,,,
+250,576,2495,1, Talks about types of Hepatitis B virus,,,,
+250,577,2496,0, Talks about causes of Hepatitis B,,,,
+250,577,2497,0, Talks about symptoms of Hepatitis B,,,,
+250,577,2498,0, Talks about vaccines of HBV,,,,
+250,580,2499,0, Explain Hepatitis B at a glance,,,,
+250,580,2500,0, protection from Hepatitis B,,,,
+251,17,2505,1,Explain the Incubation Period,,,,
+251,598,2501,1,Explain the Incubation Period,,,,
+251,592,2502,1,Explains about incubation period,,,,
+251,598,2503,1,Mentions Incubation Period,,,,
+251,592,2504,1,Mentions incubation period,,,,
+251,604,2506,0,Does not address incubation period,,,,
+251,604,2507,0,Does not address incubation period,,,,
+251,604,2508,0,Does not address incubation period,,,,
+251,604,2509,0,Does not address incubatio1n period,,,,
+251,604,2510,0,Does not address incubation period,,,,
+252,616,2511,1,Describes the incubation period,,,,
+252,617,2512,1,Describes incubation period and symptoms,,,,
+252,617,2513,1,Describes the incubation period,,,,
+252,618,2514,1,Describes the incubation period,,,,
+252,619,2515,1,Describes the incubation period,,,,
+252,619,2516,0,Describes only prevention,,,,
+252,619,2517,0,Explains only about origin,,,,
+252,620,2518,0,Explains symptoms and spreading,,,,
+252,620,2519,0,Does not mention incubation period,,,,
+252,620,2520,0,Explains only treatment,,,,
+253,622,2521,1,Mentions Incubation period,,,,
+253,623,2522,1,Mentions Incubation period,,,,
+253,623,2523,1,Mentions about incubation period,,,,
+253,623,2524,1,Mentions Incubation period,,,,
+253,623,2525,1,Mentions Incubation period,,,,
+253,623,2526,0,Does not mention only about infections,,,,
+253,623,2527,0,Does not Mention Incubation period,,,,
+253,623,2528,0,Does not Mention Incubation period,,,,
+253,623,2529,0,Does not Mention Incubation period,,,,
+253,623,2530,0,Does not Mention Incubation period,,,,
+254,625,2531,1,Addresses when the incubation period is,,,,
+254,627,2532,1,Mentions when the incubation period is,,,,
+254,627,2533,1,Describes when the incubation period is,,,,
+254,627,2534,1,Addresses when the incubation period is,,,,
+254,628,2535,1,Addresses when the incubation period is,,,,
+254,628,2536,0,Does not address incubation period,,,,
+254,628,2536,0,Does not address incubation period,,,,
+254,631,2536,0,Does not address incubation period,,,,
+254,631,2536,0,Does not address incubation period,,,,
+254,631,2536,0,Does not address incubation period,,,,
+255,632,2541,1,Describes about incubation period,,,,
+255,632,2542,1,Describes about incubation period,,,,
+255,632,2543,1,Describes about incubation period,,,,
+255,632,2544,1,Describes about incubation period,,,,
+255,632,2545,1,Describes about incubation period,,,,
+255,637,2546,0,Explains only about transmission,,,,
+255,637,2547,0,Does not mention about incubation period,,,,
+255,637,2548,0,Does not mention about incubation period,,,,
+255,638,2549,0,Explains only side effects.,,,,
+255,638,2550,0,Explains only side effects.,,,,
+256,648,2551,1,Talks about incubation period,,,,
+256,641,2552,1,Mentions about incubation period,,,,
+256,642,2553,1,Mentions about incubation period,,,,
+256,648,2554,1,Mentions about incubation period,,,,
+256,648,2555,1,Talks about incubation period,,,,
+256,649,2556,0,does not Talk about incubation period,,,,
+256,649,2557,0,does not Talk about incubation period,,,,
+256,649,2558,0,does not Talk about incubation period,,,,
+256,653,2559,0,Explains only about symptoms,,,,
+256,653,2560,0,talks about only treatments ,,,,

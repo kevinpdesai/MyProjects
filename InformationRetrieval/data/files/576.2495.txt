@@ -1,0 +1,4 @@
+The average incubation period for the hepatitis viruses is different for each one. Listed below are the average incubation periods in days, along with the range, for each of the five major hepatitis viruses. The range represents the shortest known time and the longest known time for symptoms to develop after exposure to the virus.
+Hepatitis A: 28 days (range: 15-50 days)
+Hepatitis B: 90 days (range: 30-150 days)
+Hepatitis C: 50 days (range: 15-160 days)
