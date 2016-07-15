@@ -142,3 +142,51 @@ Doc ID = 1530	Score = 5.27324
 Doc ID = 1969	Score = 5.26096
 Doc ID = 1018	Score = 5.26096
 Doc ID = 2453	Score = 5.2605
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.45811
+Doc ID = 2611	Score = 5.43793
+Doc ID = 1452	Score = 5.33564
+Doc ID = 1524	Score = 5.3347
+Doc ID = 1479	Score = 5.30919
+Doc ID = 1404	Score = 5.3058
+Doc ID = 1530	Score = 5.27324
+Doc ID = 1969	Score = 5.26096
+Doc ID = 1018	Score = 5.26096
+Doc ID = 2453	Score = 5.2605
+Query : ebola incubation time
+Scoring : TF-IDF 
+Doc ID = 1581	Score = 6.47079
+Doc ID = 1411	Score = 6.32746
+Doc ID = 1412	Score = 6.25278
+Doc ID = 1333	Score = 6.25278
+Doc ID = 2484	Score = 6.20589
+Doc ID = 1445	Score = 6.1781
+Doc ID = 2604	Score = 6.15624
+Doc ID = 2164	Score = 6.12991
+Doc ID = 203	Score = 6.12573
+Doc ID = 1373	Score = 6.12189
+Query : ebola incubation time
+Scoring : TF-IDF 
+Doc ID = 1581	Score = 6.47079
+Doc ID = 1411	Score = 6.32746
+Doc ID = 1412	Score = 6.25278
+Doc ID = 1333	Score = 6.25278
+Doc ID = 2484	Score = 6.20589
+Doc ID = 1445	Score = 6.1781
+Doc ID = 2604	Score = 6.15624
+Doc ID = 2164	Score = 6.12991
+Doc ID = 203	Score = 6.12573
+Doc ID = 1373	Score = 6.12189
+Query : malaria quarantine time
+Scoring : TF-IDF 
+Doc ID = 1934	Score = 5.45811
+Doc ID = 2611	Score = 5.43793
+Doc ID = 1452	Score = 5.33564
+Doc ID = 1524	Score = 5.3347
+Doc ID = 1479	Score = 5.30919
+Doc ID = 1404	Score = 5.3058
+Doc ID = 1530	Score = 5.27324
+Doc ID = 1969	Score = 5.26096
+Doc ID = 1018	Score = 5.26096
+Doc ID = 2453	Score = 5.2605

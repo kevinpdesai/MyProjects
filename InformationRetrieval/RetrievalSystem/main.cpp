@@ -484,8 +484,8 @@ int main(int argc, char *argv[]) {
 	t->stopTimer();
 	cout << t->getTimeTaken() << " ms" << endl;
 
-#ifdef windows
-	_getch();
-#endif // windows
+// #ifdef windows
+// 	_getch();
+// #endif // windows
 	return 0;
 }
